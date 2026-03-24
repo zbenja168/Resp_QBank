@@ -3,6 +3,7 @@ export interface AnswerRecord {
   isCorrect: boolean;
   answeredAt: string;
   timeSpentMs: number;
+  topicId: string;
 }
 
 export interface Session {
@@ -30,3 +31,12 @@ export const DEFAULT_PROGRESS: ProgressData = {
   bookmarkedQuestions: [],
   lastTopicFilter: [],
 };
+
+/** Count answered questions per topicId */
+export function getAnsweredByTopic(progress: ProgressData): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const record of Object.values(progress.answers)) {
+    counts[record.topicId] = (counts[record.topicId] || 0) + 1;
+  }
+  return counts;
+}

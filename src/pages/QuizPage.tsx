@@ -43,6 +43,7 @@ export function QuizPage({
       isCorrect,
       answeredAt: new Date().toISOString(),
       timeSpentMs: timeSpent,
+      topicId: currentQuestion.topicId,
     };
 
     onRecordAnswer(currentQuestion.id, record);

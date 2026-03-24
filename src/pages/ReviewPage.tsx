@@ -38,6 +38,7 @@ export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookma
       isCorrect: choiceLabel === currentQuestion.correctAnswer,
       answeredAt: new Date().toISOString(),
       timeSpentMs: timer.elapsed(),
+      topicId: currentQuestion.topicId,
     };
     onRecordAnswer(currentQuestion.id, record);
   }, [currentQuestion, timer, onRecordAnswer]);

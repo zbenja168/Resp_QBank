@@ -1,6 +1,6 @@
 import { TopicsIndex, Category } from '../types/topic';
 import { CategoryAccordion } from '../components/TopicFilter/CategoryAccordion';
-import { ProgressData } from '../types/progress';
+import { ProgressData, getAnsweredByTopic } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
 
 interface Props {
@@ -25,6 +25,15 @@ export function HomePage({
 }: Props) {
   const stats = getOverallStats(progress);
   const completedCount = Object.keys(progress.answers).length;
+  const answeredByTopic = getAnsweredByTopic(progress);
+
+  // Compute remaining (unanswered) for selected topics
+  const remainingCount = topics.categories.reduce((sum, cat) =>
+    sum + cat.topics.reduce((s, t) => {
+      if (!selectedTopicIds.has(t.id)) return s;
+      const answered = answeredByTopic[t.id] || 0;
+      return s + Math.max(0, t.questionCount - answered);
+    }, 0), 0);
 
   return (
     <div className="min-h-screen bg-slate-900">
@@ -34,13 +43,13 @@ export function HomePage({
             <h1 className="text-xl font-bold text-teal-400">Resp QBank</h1>
             <p className="text-sm text-slate-400">Respiratory Medicine Question Bank</p>
           </div>
-          <a
-            href="https://zbenja168.github.io/Cardio_QBank/"
-            className="text-xs px-3 py-1.5 rounded-lg border border-slate-600 text-slate-400 hover:text-blue-400 hover:border-blue-600 transition-colors"
-          >
-            Cardio QBank &rarr;
-          </a>
           <div className="flex items-center gap-3">
+            <a
+              href="https://zbenja168.github.io/Cardio_QBank/"
+              className="text-xs px-3 py-1.5 rounded-lg border border-slate-600 text-slate-400 hover:text-blue-400 hover:border-blue-600 transition-colors"
+            >
+              Cardio QBank &rarr;
+            </a>
             {stats.total > 0 && (
               <button
                 onClick={onGoToDashboard}
@@ -109,6 +118,7 @@ export function HomePage({
               key={cat.id}
               category={cat}
               selectedTopicIds={selectedTopicIds}
+              answeredByTopic={answeredByTopic}
               onToggleTopic={onToggleTopic}
               onToggleCategory={onToggleCategory}
             />
@@ -119,12 +129,14 @@ export function HomePage({
         <div className="sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-4 pb-6">
           <button
             onClick={onStartQuiz}
-            disabled={selectedCount === 0}
+            disabled={remainingCount === 0}
             className="w-full py-4 rounded-xl bg-teal-600 text-white font-semibold text-lg hover:bg-teal-500 disabled:bg-slate-700 disabled:text-slate-500 disabled:cursor-not-allowed transition-colors shadow-lg"
           >
-            {selectedCount > 0
-              ? `Start Quiz (${selectedCount} questions)`
-              : 'Select topics to begin'}
+            {remainingCount > 0
+              ? `Start Quiz (${remainingCount} remaining)`
+              : selectedCount > 0
+                ? 'All selected questions completed!'
+                : 'Select topics to begin'}
           </button>
         </div>
       </main>
