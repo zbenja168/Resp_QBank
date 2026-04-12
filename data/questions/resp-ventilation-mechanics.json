@@ -1,0 +1,4153 @@
+{
+  "categoryId": "resp-ventilation-mechanics",
+  "categoryName": "Ventilation & Lung Mechanics",
+  "questions": [
+    {
+      "id": "r08-001",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "The primary respiratory control center is located in which part of the brainstem?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pons"
+        },
+        {
+          "label": "B",
+          "text": "Medulla"
+        },
+        {
+          "label": "C",
+          "text": "Midbrain"
+        },
+        {
+          "label": "D",
+          "text": "Cerebral cortex"
+        },
+        {
+          "label": "E",
+          "text": "Cerebellum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The medulla is the primary respiratory control center, containing the dorsal respiratory group (DRG) for quiet inspiration and the ventral respiratory group (VRG) for forced breathing. The pons modulates breathing patterns but is not the primary center.",
+        "whyCorrect": "The medulla contains the DRG, which sets the basic rhythm of quiet breathing by sending signals through the phrenic and intercostal nerves. The VRG becomes active during forced breathing. Together they form the primary respiratory control center.",
+        "whyWrongByChoice": {
+          "A": "The pons contains modulatory centers (pneumotaxic and apneustic) that fine-tune breathing patterns but is not the primary control center.",
+          "C": "The midbrain is involved in visual and auditory reflexes. It does not contain the primary respiratory control neurons.",
+          "D": "The cerebral cortex provides voluntary control of breathing (talking, singing) but does not control automatic respiration.",
+          "E": "The cerebellum coordinates motor movements but does not control the respiratory rhythm."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "medulla",
+        "respiratory-control",
+        "brainstem"
+      ]
+    },
+    {
+      "id": "r08-002",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "Central chemoreceptors in the ventral medulla respond primarily to which stimulus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low arterial PO₂"
+        },
+        {
+          "label": "B",
+          "text": "High arterial PO₂"
+        },
+        {
+          "label": "C",
+          "text": "Decreased pH in the cerebrospinal fluid"
+        },
+        {
+          "label": "D",
+          "text": "Low blood pH directly"
+        },
+        {
+          "label": "E",
+          "text": "Increased bicarbonate in the CSF"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Central chemoreceptors respond to decreased CSF pH, which results from CO₂ crossing the blood-brain barrier and being converted to H⁺ via carbonic anhydrase. Importantly, H⁺ ions from the blood cannot cross the BBB directly.",
+        "whyCorrect": "CO₂ freely crosses the blood-brain barrier, is converted to H₂CO₃ by carbonic anhydrase, and dissociates to H⁺ and HCO₃⁻. The resulting low CSF pH stimulates central chemoreceptors. This is why PaCO₂ is the primary driver of ventilation under normal conditions.",
+        "whyWrongByChoice": {
+          "A": "Low PaO₂ is detected by peripheral chemoreceptors (carotid and aortic bodies), not central chemoreceptors.",
+          "B": "High PaO₂ does not stimulate any chemoreceptors. If anything, very high PO₂ could suppress hypoxic drive.",
+          "D": "Blood H⁺ cannot cross the blood-brain barrier. Central chemoreceptors sense CSF pH changes from CO₂ diffusion, not direct blood pH.",
+          "E": "Increased bicarbonate in the CSF would raise CSF pH (more alkaline), which would decrease respiratory drive, not stimulate it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "central-chemoreceptors",
+        "CSF-pH",
+        "ventilation-control"
+      ]
+    },
+    {
+      "id": "r08-003",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "Peripheral chemoreceptors in the carotid and aortic bodies primarily respond to which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased CSF pH"
+        },
+        {
+          "label": "B",
+          "text": "Low arterial PO₂ (<75 mmHg)"
+        },
+        {
+          "label": "C",
+          "text": "High arterial PO₂"
+        },
+        {
+          "label": "D",
+          "text": "Decreased lung compliance"
+        },
+        {
+          "label": "E",
+          "text": "Elevated hemoglobin concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Peripheral chemoreceptors (carotid bodies via CN IX, aortic bodies via CN X) primarily detect low arterial PO₂ (especially <75 mmHg). They also respond to elevated PaCO₂ and low pH, but their primary stimulus is hypoxemia.",
+        "whyCorrect": "Peripheral chemoreceptors are the body's primary oxygen sensors. When PaO₂ falls below ~75 mmHg, they significantly increase afferent signaling to the medulla, stimulating ventilation. They also respond to high PaCO₂ and low pH.",
+        "whyWrongByChoice": {
+          "A": "CSF pH is detected by central chemoreceptors in the medulla, not peripheral chemoreceptors.",
+          "C": "High PaO₂ does not stimulate peripheral chemoreceptors. They respond to decreased, not increased, oxygen levels.",
+          "D": "Lung compliance is not detected by chemoreceptors. Stretch receptors in the lungs detect mechanical changes.",
+          "E": "Hemoglobin concentration is not directly sensed by chemoreceptors. They respond to dissolved gas partial pressures."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "peripheral-chemoreceptors",
+        "carotid-body",
+        "hypoxemia"
+      ]
+    },
+    {
+      "id": "r08-004",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "A patient with chronic COPD relies on a 'hypoxic drive' for respiratory stimulation. Administration of excessive supplemental oxygen in this patient could lead to:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Improved ventilation from increased PaO₂"
+        },
+        {
+          "label": "B",
+          "text": "Hypoventilation and CO₂ retention from suppression of hypoxic drive"
+        },
+        {
+          "label": "C",
+          "text": "Respiratory alkalosis from hyperventilation"
+        },
+        {
+          "label": "D",
+          "text": "Increased surfactant production"
+        },
+        {
+          "label": "E",
+          "text": "Improved mucociliary clearance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In chronic COPD with chronic CO₂ retention, central chemoreceptors become desensitized to elevated PaCO₂. The remaining respiratory drive depends on peripheral chemoreceptors sensing hypoxemia (hypoxic drive). Giving too much O₂ removes this stimulus, potentially causing hypoventilation and dangerous CO₂ retention.",
+        "whyCorrect": "Chronic hypercapnia desensitizes central chemoreceptors to CO₂. The patient's breathing depends on peripheral chemoreceptor detection of low PaO₂. Excessive O₂ raises PaO₂, suppressing this last remaining drive and causing respiratory depression with worsening hypercapnia.",
+        "whyWrongByChoice": {
+          "A": "In COPD patients with hypoxic drive, excessive O₂ paradoxically worsens ventilation by removing the hypoxic stimulus, rather than improving it.",
+          "C": "Excessive O₂ suppresses respiratory drive in these patients, causing hypoventilation and respiratory acidosis, not alkalosis.",
+          "D": "Supplemental oxygen does not affect surfactant production. Surfactant is produced by type 2 pneumocytes independent of inspired O₂.",
+          "E": "Supplemental oxygen does not directly affect mucociliary clearance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "COPD",
+        "hypoxic-drive",
+        "oxygen-therapy"
+      ]
+    },
+    {
+      "id": "r08-005",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "Biot breathing (ataxic breathing) is an irregular pattern with unpredictable apneic episodes. This pattern is most commonly associated with:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diabetic ketoacidosis"
+        },
+        {
+          "label": "B",
+          "text": "Heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Opioid intoxication or medullary injury"
+        },
+        {
+          "label": "D",
+          "text": "High altitude exposure"
+        },
+        {
+          "label": "E",
+          "text": "Exercise-induced hyperventilation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Biot breathing (ataxic breathing) features an irregular, unpredictable pattern with episodes of apnea. It is classically associated with opioid intoxication or damage to the medulla, reflecting disruption of the primary respiratory control center.",
+        "whyCorrect": "The medulla is the primary respiratory control center. Opioids depress medullary function, and structural lesions (trauma, stroke, herniation) can damage it directly. Both produce the irregular, ataxic breathing pattern of Biot respiration.",
+        "whyWrongByChoice": {
+          "A": "DKA is associated with Kussmaul respirations (deep, labored breathing without pauses), not Biot breathing.",
+          "B": "Heart failure is associated with Cheyne-Stokes respirations (crescendo-decrescendo pattern with central apnea), not Biot breathing.",
+          "D": "High altitude may cause Cheyne-Stokes breathing or periodic breathing during sleep, not Biot breathing.",
+          "E": "Exercise causes proportional increases in ventilation to match metabolic demand. It does not cause irregular breathing patterns."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "biot-breathing",
+        "medulla",
+        "opioid-intoxication"
+      ]
+    },
+    {
+      "id": "r08-006",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "Cheyne-Stokes respirations are characterized by alternating periods of increasing and decreasing breathing depth with central apnea. This pattern is associated with:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opioid overdose only"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac disease, neurologic disease, and high-altitude exposure"
+        },
+        {
+          "label": "C",
+          "text": "Asthma exacerbation"
+        },
+        {
+          "label": "D",
+          "text": "Pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "COPD exacerbation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cheyne-Stokes respiration features a crescendo-decrescendo pattern of breathing depth with periods of central apnea. It is seen in heart failure (delayed circulation time), neurologic disease (stroke, brain injury), sedative drugs, acid-base disorders, and high-altitude exposure.",
+        "whyCorrect": "The oscillating pattern results from delayed feedback between blood gas changes and the respiratory center. In heart failure, prolonged circulation time delays chemoreceptor feedback. In neurologic disease, direct brain injury disrupts respiratory control.",
+        "whyWrongByChoice": {
+          "A": "Opioid overdose produces Biot (ataxic) breathing, not Cheyne-Stokes respirations.",
+          "C": "Asthma exacerbation causes wheezing and prolonged expiration from bronchospasm, not Cheyne-Stokes pattern.",
+          "D": "Pneumothorax causes acute dyspnea from lung collapse, not a cyclical breathing pattern.",
+          "E": "COPD exacerbation causes dyspnea with air trapping but is not typically associated with Cheyne-Stokes respirations."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "cheyne-stokes",
+        "heart-failure",
+        "pathological-breathing"
+      ]
+    },
+    {
+      "id": "r08-007",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "At high altitude, the initial physiologic response to decreased atmospheric PO₂ is:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased respiratory rate"
+        },
+        {
+          "label": "B",
+          "text": "Hyperventilation driven by peripheral chemoreceptors"
+        },
+        {
+          "label": "C",
+          "text": "Increased CO₂ retention"
+        },
+        {
+          "label": "D",
+          "text": "Decreased erythropoietin production"
+        },
+        {
+          "label": "E",
+          "text": "Left shift of the oxyhemoglobin curve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "At high altitude, decreased atmospheric PO₂ causes hypoxemia. Peripheral chemoreceptors (carotid bodies) detect the low PaO₂ and stimulate hyperventilation. This increases PAO₂ while simultaneously lowering PaCO₂, causing respiratory alkalosis.",
+        "whyCorrect": "Peripheral chemoreceptors are the primary sensors for low PaO₂. The resulting hyperventilation is the immediate compensatory response at altitude, increasing alveolar oxygen while blowing off CO₂.",
+        "whyWrongByChoice": {
+          "A": "Hypoxemia stimulates increased, not decreased, respiratory rate through peripheral chemoreceptor activation.",
+          "C": "Hyperventilation at altitude causes CO₂ loss (respiratory alkalosis), not retention.",
+          "D": "Chronic hypoxemia at altitude increases EPO production and erythrocyte production over days to weeks.",
+          "E": "Chronic altitude exposure causes a right shift (increased 2,3-DPG), not a left shift. The right shift improves O₂ delivery to tissues."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "high-altitude",
+        "hyperventilation",
+        "peripheral-chemoreceptors"
+      ]
+    },
+    {
+      "id": "r08-008",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "The Hering-Breuer inflation reflex prevents overinflation of the lungs. This reflex is mediated by which type of receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral chemoreceptors in the carotid body"
+        },
+        {
+          "label": "B",
+          "text": "Central chemoreceptors in the medulla"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary stretch receptors sending signals via the vagus nerve"
+        },
+        {
+          "label": "D",
+          "text": "J-receptors in the alveolar walls"
+        },
+        {
+          "label": "E",
+          "text": "Irritant receptors in the airways"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Hering-Breuer reflex is mediated by slowly-adapting pulmonary stretch receptors in the airway smooth muscle that detect lung distension. When the lungs inflate beyond a threshold, these receptors send inhibitory signals via the vagus nerve to the medulla to terminate inspiration.",
+        "whyCorrect": "Pulmonary stretch receptors detect the degree of lung inflation. As the lungs expand, increasing stretch triggers afferent signals through the vagus nerve (CN X) that inhibit the inspiratory neurons in the medulla, preventing overinflation.",
+        "whyWrongByChoice": {
+          "A": "Peripheral chemoreceptors detect blood gas changes (low PO₂, high PCO₂, low pH). They do not mediate the inflation reflex.",
+          "B": "Central chemoreceptors detect CSF pH changes from CO₂. They are not involved in the mechanical stretch reflex.",
+          "D": "J-receptors (juxtacapillary receptors) respond to pulmonary congestion and edema, causing rapid shallow breathing. They are not the primary mediators of the Hering-Breuer reflex.",
+          "E": "Irritant receptors respond to noxious stimuli (smoke, dust, cold air) and trigger cough and bronchoconstriction, not the inflation reflex."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "hering-breuer",
+        "stretch-receptors",
+        "vagus-nerve"
+      ]
+    },
+    {
+      "id": "r08-009",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "The dorsal respiratory group (DRG) in the medulla receives afferent input from peripheral chemoreceptors via which cranial nerves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CN V and CN VII"
+        },
+        {
+          "label": "B",
+          "text": "CN IX and CN X"
+        },
+        {
+          "label": "C",
+          "text": "CN XI and CN XII"
+        },
+        {
+          "label": "D",
+          "text": "CN III and CN IV"
+        },
+        {
+          "label": "E",
+          "text": "CN I and CN II"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The DRG receives afferent signals from the glossopharyngeal nerve (CN IX, from the carotid body) and the vagus nerve (CN X, from the aortic body and lung mechanoreceptors). These provide input about blood gases and lung mechanics.",
+        "whyCorrect": "CN IX carries signals from the carotid body chemoreceptors, while CN X carries signals from the aortic body chemoreceptors and pulmonary mechanoreceptors. Both synapse in the solitary nucleus near the DRG.",
+        "whyWrongByChoice": {
+          "A": "CN V (trigeminal) provides facial sensation, and CN VII (facial) controls facial muscles. Neither carries chemoreceptor input to the DRG.",
+          "C": "CN XI (accessory) innervates the SCM and trapezius, and CN XII (hypoglossal) innervates the tongue. Neither provides respiratory chemoreceptor input.",
+          "D": "CN III and IV control eye movements. They have no role in respiratory control.",
+          "E": "CN I (olfactory) mediates smell, and CN II (optic) mediates vision. Neither carries respiratory afferent signals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "DRG",
+        "CN-IX",
+        "CN-X",
+        "respiratory-control"
+      ]
+    },
+    {
+      "id": "r08-010",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "During high-altitude acclimatization, the body increases production of 2,3-DPG and erythropoietin (EPO). What is the combined effect of these adaptations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased oxygen delivery to tissues"
+        },
+        {
+          "label": "B",
+          "text": "Left shift of the oxyhemoglobin curve with decreased red blood cell mass"
+        },
+        {
+          "label": "C",
+          "text": "Right shift of the oxyhemoglobin curve with increased oxygen-carrying capacity"
+        },
+        {
+          "label": "D",
+          "text": "Decreased hemoglobin concentration"
+        },
+        {
+          "label": "E",
+          "text": "Increased pulmonary vascular resistance only"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Increased 2,3-DPG shifts the oxyhemoglobin curve rightward (decreasing Hb O₂ affinity, promoting tissue unloading), while increased EPO stimulates red blood cell production, increasing hemoglobin and oxygen-carrying capacity. Together they improve tissue oxygen delivery at altitude.",
+        "whyCorrect": "The right shift from 2,3-DPG facilitates O₂ release at tissues. Increased RBC mass from EPO raises total oxygen content. These complementary adaptations partially compensate for the reduced arterial PO₂ at altitude.",
+        "whyWrongByChoice": {
+          "A": "These adaptations improve, not decrease, oxygen delivery. They are compensatory mechanisms for altitude hypoxemia.",
+          "B": "2,3-DPG causes a right shift, not left. EPO increases RBC mass, not decreases it.",
+          "D": "EPO stimulates erythropoiesis, increasing hemoglobin concentration (polycythemia), not decreasing it.",
+          "E": "While HPV does increase PVR at altitude, the question asks about 2,3-DPG and EPO specifically, which improve oxygen delivery through curve shifts and increased RBCs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "altitude-acclimatization",
+        "2,3-DPG",
+        "erythropoietin"
+      ]
+    },
+    {
+      "id": "r08-011",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "The pneumotaxic center in the pons functions as an 'off switch' for inspiration. Damage to this center would result in:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cessation of all breathing"
+        },
+        {
+          "label": "B",
+          "text": "Prolonged inspiratory efforts with increased tidal volume"
+        },
+        {
+          "label": "C",
+          "text": "Rapid shallow breathing"
+        },
+        {
+          "label": "D",
+          "text": "Purely expiratory breathing"
+        },
+        {
+          "label": "E",
+          "text": "Normal breathing pattern"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pneumotaxic center (PNC) inhibits inspiration by signaling the DRG to stop. Without this inhibitory input, inspiration is prolonged, leading to increased tidal volumes and a slower respiratory rate. The apneustic center, unopposed, prolongs inspiratory drive.",
+        "whyCorrect": "The PNC normally limits inspiration duration. Without it, the apneustic center's stimulatory influence on inspiration is unopposed, causing prolonged inspiratory efforts (apneusis) with increased tidal volumes and decreased respiratory rate.",
+        "whyWrongByChoice": {
+          "A": "The medulla is the primary control center, not the pons. Damage to the pons alone does not stop breathing entirely.",
+          "C": "Rapid shallow breathing would occur with increased PNC activity (shorter inspirations). Damage to the PNC produces the opposite — prolonged, deep inspirations.",
+          "D": "There is no mechanism for purely expiratory breathing. Inspiration must occur for ventilation.",
+          "E": "Damage to the PNC produces an abnormal breathing pattern (apneusis), not normal breathing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "pneumotaxic-center",
+        "apneusis",
+        "pons"
+      ]
+    },
+    {
+      "id": "r08-012",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "During exercise, ventilation increases proportionally to metabolic demand. The initial increase in ventilation at the onset of exercise occurs before significant blood gas changes. This response is called:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chemoreceptor feedback"
+        },
+        {
+          "label": "B",
+          "text": "Hering-Breuer reflex"
+        },
+        {
+          "label": "C",
+          "text": "Feedforward (anticipatory) response"
+        },
+        {
+          "label": "D",
+          "text": "Hypoxic vasoconstriction"
+        },
+        {
+          "label": "E",
+          "text": "Bohr effect"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At the onset of exercise, ventilation increases almost immediately through a feedforward (anticipatory) neural mechanism, before any measurable changes in blood gases. The brain anticipates increased O₂ demand and CO₂ production and increases ventilation proactively.",
+        "whyCorrect": "The feedforward response is a neural mechanism where cortical motor areas and proprioceptive input from exercising muscles signal the respiratory centers to increase ventilation immediately. This occurs before PaCO₂ rises or PaO₂ falls.",
+        "whyWrongByChoice": {
+          "A": "Chemoreceptor feedback responds to actual blood gas changes (rising CO₂, falling O₂). It contributes to ventilation during sustained exercise but does not explain the immediate onset response.",
+          "B": "The Hering-Breuer reflex prevents lung overinflation. It does not drive the initial ventilatory increase with exercise.",
+          "D": "Hypoxic vasoconstriction is a pulmonary vascular response, not a ventilatory control mechanism.",
+          "E": "The Bohr effect describes how CO₂ and H⁺ affect hemoglobin O₂ affinity. It facilitates O₂ delivery but does not control ventilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "exercise",
+        "feedforward",
+        "anticipatory-response"
+      ]
+    },
+    {
+      "id": "r08-013",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "Kussmaul respirations are characterized by deep, labored breathing without pauses. This pattern is most commonly associated with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opioid overdose"
+        },
+        {
+          "label": "B",
+          "text": "Diabetic ketoacidosis"
+        },
+        {
+          "label": "C",
+          "text": "Heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Pontine lesion"
+        },
+        {
+          "label": "E",
+          "text": "Obstructive sleep apnea"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Kussmaul respirations are deep, rapid, labored breathing that represents the respiratory system's maximal effort to compensate for severe metabolic acidosis. They are classically associated with diabetic ketoacidosis (DKA), where ketoacid accumulation drives the compensatory hyperventilation.",
+        "whyCorrect": "In DKA, metabolic acidosis (from ketoacid accumulation) stimulates central and peripheral chemoreceptors to maximize ventilation. The resulting deep, continuous breathing pattern (Kussmaul) attempts to blow off CO₂ and raise blood pH.",
+        "whyWrongByChoice": {
+          "A": "Opioid overdose produces Biot (ataxic) breathing from medullary depression, not the deep compensatory breathing of Kussmaul respirations.",
+          "C": "Heart failure is associated with Cheyne-Stokes respirations (crescendo-decrescendo with apnea), not Kussmaul pattern.",
+          "D": "Pontine lesions can cause apneustic breathing (prolonged inspiration), not Kussmaul respirations.",
+          "E": "Obstructive sleep apnea causes intermittent upper airway obstruction during sleep, not the deep continuous breathing of Kussmaul pattern."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "kussmaul",
+        "DKA",
+        "metabolic-acidosis"
+      ]
+    },
+    {
+      "id": "r08-014",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "CO₂ is described as the primary driver of ventilation under normal conditions. The ventilatory response to CO₂ is amplified by:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High PaO₂"
+        },
+        {
+          "label": "B",
+          "text": "Concurrent hypoxemia"
+        },
+        {
+          "label": "C",
+          "text": "Metabolic alkalosis"
+        },
+        {
+          "label": "D",
+          "text": "Decreased 2,3-DPG"
+        },
+        {
+          "label": "E",
+          "text": "Hypothermia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypoxemia amplifies the ventilatory response to CO₂. When both PaCO₂ is elevated and PaO₂ is low, the ventilatory response is synergistically greater than either stimulus alone, providing a safety mechanism.",
+        "whyCorrect": "The ventilatory response curves show that at any given PaCO₂, lower PaO₂ produces a greater increase in ventilation. This synergy ensures that combined hypercapnia and hypoxemia produce a robust ventilatory response.",
+        "whyWrongByChoice": {
+          "A": "High PaO₂ reduces the ventilatory sensitivity to CO₂. It does not amplify it.",
+          "C": "Metabolic alkalosis raises blood pH, which opposes the acidifying effect of CO₂ and may blunt the ventilatory response.",
+          "D": "2,3-DPG affects hemoglobin O₂ affinity. It does not directly alter the ventilatory response to CO₂.",
+          "E": "Hypothermia decreases metabolic rate and CO₂ production. It does not amplify the ventilatory response to CO₂."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "CO2-ventilatory-response",
+        "hypoxemia",
+        "synergy"
+      ]
+    },
+    {
+      "id": "r08-015",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "HACE (high-altitude cerebral edema) is caused by which mechanism at high altitude?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cerebral vasoconstriction from hypocapnia"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxia-induced cerebral vasodilation increasing capillary permeability and fluid leakage into brain tissue"
+        },
+        {
+          "label": "C",
+          "text": "Decreased erythropoietin production"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory acidosis from hypoventilation"
+        },
+        {
+          "label": "E",
+          "text": "Dehydration from increased breathing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "At high altitude, hypoxia causes cerebral vasodilation to increase blood flow and O₂ delivery to the brain. This vasodilation increases capillary permeability, allowing fluid to leak into brain tissue, causing cerebral edema with increased intracranial pressure and neurological symptoms.",
+        "whyCorrect": "Hypoxia triggers cerebral vasodilation as a compensatory mechanism. However, the increased blood flow and capillary pressure, combined with increased permeability, causes fluid transudation into brain tissue, producing HACE with symptoms like confusion, ataxia, and altered consciousness.",
+        "whyWrongByChoice": {
+          "A": "Hypocapnia from hyperventilation at altitude causes cerebral vasoconstriction, which would reduce (not cause) cerebral edema. The edema is from hypoxia-induced vasodilation.",
+          "C": "EPO production increases at altitude, stimulating red blood cell production. This is a beneficial compensatory response, not a cause of HACE.",
+          "D": "At altitude, respiratory alkalosis from hyperventilation occurs, not acidosis. The CNS effects are from hypoxia-induced vasodilation and edema.",
+          "E": "While dehydration can occur at altitude, it is not the mechanism of HACE. Cerebral edema results from hypoxia-induced vasodilation and increased capillary permeability."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "HACE",
+        "high-altitude",
+        "cerebral-edema"
+      ]
+    },
+    {
+      "id": "r08-029",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "The ventral respiratory group (VRG) in the medulla is primarily active during:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal quiet breathing"
+        },
+        {
+          "label": "B",
+          "text": "Sleep"
+        },
+        {
+          "label": "C",
+          "text": "Forced inspiration and expiration"
+        },
+        {
+          "label": "D",
+          "text": "Breath-holding"
+        },
+        {
+          "label": "E",
+          "text": "Meditation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The VRG is usually inactive during quiet breathing. It becomes active during exercise or respiratory distress when increased ventilatory effort is needed, driving both forced inspiration (accessory muscles) and active expiration (internal intercostals, abdominal muscles).",
+        "whyCorrect": "The VRG contains both inspiratory and expiratory neurons that are recruited when ventilatory demands exceed what the DRG alone can provide. During forced breathing, the VRG activates accessory muscles for both inspiration and expiration.",
+        "whyWrongByChoice": {
+          "A": "During quiet breathing, the DRG alone drives the basic respiratory rhythm. The VRG is not needed.",
+          "B": "During sleep, breathing is typically quiet and controlled by the DRG. The VRG is not active during normal sleep.",
+          "D": "Breath-holding is a voluntary cortical override of the automatic respiratory rhythm. It does not require VRG activity.",
+          "E": "Meditation typically involves quiet, controlled breathing that does not require VRG activation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "VRG",
+        "forced-breathing",
+        "medulla"
+      ]
+    },
+    {
+      "id": "r08-030",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "J-receptors (juxtacapillary receptors) in the alveolar walls respond to pulmonary congestion and edema. Stimulation of these receptors causes:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep, slow breathing"
+        },
+        {
+          "label": "B",
+          "text": "Rapid, shallow breathing and dyspnea"
+        },
+        {
+          "label": "C",
+          "text": "Apnea"
+        },
+        {
+          "label": "D",
+          "text": "Bronchodilation"
+        },
+        {
+          "label": "E",
+          "text": "Decreased heart rate only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "J-receptors are unmyelinated C-fiber endings located in the alveolar walls near the pulmonary capillaries. They are stimulated by pulmonary congestion, edema, and chemical mediators, causing rapid shallow breathing (tachypnea) and a sensation of dyspnea.",
+        "whyCorrect": "When pulmonary capillary pressure rises (as in CHF) or fluid enters the interstitium, J-receptors are activated. They send signals via the vagus nerve to the medulla, producing rapid, shallow breathing and the characteristic breathlessness of pulmonary edema.",
+        "whyWrongByChoice": {
+          "A": "J-receptor stimulation causes rapid shallow breathing, not deep slow breathing. Deep breathing is seen with metabolic acidosis (Kussmaul).",
+          "C": "J-receptor activation increases respiratory rate. It does not cause apnea.",
+          "D": "J-receptors affect breathing pattern. Bronchodilation is mediated by sympathetic β₂ stimulation, not by J-receptor activation.",
+          "E": "While J-receptor stimulation may have some cardiovascular effects, its primary respiratory effect is rapid shallow breathing and dyspnea."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "J-receptors",
+        "pulmonary-edema",
+        "tachypnea"
+      ]
+    },
+    {
+      "id": "r08-031",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "A mountaineer develops HAPE (high-altitude pulmonary edema) at 4,500 meters. The immediate treatment includes:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing altitude to acclimatize faster"
+        },
+        {
+          "label": "B",
+          "text": "Descent to lower altitude and supplemental oxygen"
+        },
+        {
+          "label": "C",
+          "text": "IV normal saline bolus"
+        },
+        {
+          "label": "D",
+          "text": "Inhaled bronchodilators only"
+        },
+        {
+          "label": "E",
+          "text": "Oral antibiotics"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HAPE is a life-threatening emergency caused by hypoxia-induced pulmonary vasoconstriction at altitude. The most effective immediate treatments are descent to lower altitude (reducing hypoxia) and supplemental oxygen. Nifedipine (a calcium channel blocker) may also be used to reduce pulmonary artery pressure.",
+        "whyCorrect": "Descent removes the hypoxic stimulus causing HPV and HAPE. Supplemental oxygen directly increases alveolar PO₂, reducing HPV and pulmonary vascular pressure. These are the cornerstones of HAPE treatment.",
+        "whyWrongByChoice": {
+          "A": "Ascending further would worsen hypoxia and HAPE. The opposite — descent — is required.",
+          "C": "IV fluids could worsen pulmonary edema by increasing capillary hydrostatic pressure. Fluid restriction is more appropriate.",
+          "D": "Bronchodilators treat bronchospasm. HAPE is a vascular problem (HPV), not an airway problem.",
+          "E": "HAPE is not an infection. Antibiotics are not indicated unless a secondary infection develops."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "HAPE",
+        "treatment",
+        "descent",
+        "supplemental-oxygen"
+      ]
+    },
+    {
+      "id": "r08-032",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "Apneustic breathing, characterized by prolonged inspiratory hold followed by short expirations, results from damage to which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Medulla"
+        },
+        {
+          "label": "B",
+          "text": "Caudal pons (apneustic center)"
+        },
+        {
+          "label": "C",
+          "text": "Cerebral cortex"
+        },
+        {
+          "label": "D",
+          "text": "Carotid body"
+        },
+        {
+          "label": "E",
+          "text": "Diaphragm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Apneustic breathing results from damage to the caudal pons, specifically the apneustic center. Without the inhibitory input from the pneumotaxic center above it, the apneustic center prolongs inspiratory signals, causing sustained inspiratory cramps followed by brief, inadequate expirations.",
+        "whyCorrect": "The apneustic center in the caudal pons normally promotes inspiration. When damaged (or when the opposing pneumotaxic center is damaged), its influence becomes excessive, producing the prolonged inspiratory hold characteristic of apneustic breathing.",
+        "whyWrongByChoice": {
+          "A": "Medullary damage produces Biot (ataxic) breathing or respiratory arrest, not the specific apneustic pattern.",
+          "C": "Cortical damage affects voluntary respiratory control (speech, singing) but does not cause apneustic breathing.",
+          "D": "Carotid body damage would impair peripheral chemoreception but does not produce the apneustic pattern.",
+          "E": "Diaphragm damage would cause respiratory insufficiency, not the specific pontine breathing pattern of apneusis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "apneustic-breathing",
+        "pons",
+        "apneustic-center"
+      ]
+    },
+    {
+      "id": "r08-033",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "During exercise, PaCO₂ and PaO₂ typically remain near normal despite dramatically increased CO₂ production and O₂ consumption. This is because:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exercise suppresses chemoreceptor sensitivity"
+        },
+        {
+          "label": "B",
+          "text": "Ventilation increases proportionally to match metabolic demand"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen stores in the lungs increase during exercise"
+        },
+        {
+          "label": "D",
+          "text": "Red blood cell production increases within minutes"
+        },
+        {
+          "label": "E",
+          "text": "Bronchospasm limits CO₂ excretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During exercise, ventilation increases proportionally to metabolic demand through feedforward neural mechanisms and chemoreceptor feedback. This proportional increase in ventilation matches the increased CO₂ production and O₂ consumption, keeping blood gases near normal.",
+        "whyCorrect": "The respiratory system precisely matches ventilation to metabolic demand during exercise. The feedforward response provides an immediate increase, and chemoreceptor feedback fine-tunes ventilation to maintain PaCO₂ near 40 mmHg and PaO₂ near normal.",
+        "whyWrongByChoice": {
+          "A": "Chemoreceptor sensitivity is maintained or even enhanced during exercise, not suppressed. They provide important feedback for fine-tuning ventilation.",
+          "C": "Oxygen stores in the lungs (FRC reservoir) are finite and do not increase during exercise. The increased demand is met by increased ventilation and cardiac output.",
+          "D": "Red blood cell production (erythropoiesis) takes days to weeks and is not an acute response to exercise.",
+          "E": "Bronchospasm would impair, not maintain, gas exchange. Exercise typically causes bronchodilation from sympathetic stimulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "exercise",
+        "ventilation",
+        "blood-gases"
+      ]
+    },
+    {
+      "id": "r08-041",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "Irritant receptors in the airways respond to noxious stimuli such as smoke and dust. Stimulation of these receptors causes:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep slow breathing"
+        },
+        {
+          "label": "B",
+          "text": "Cough reflex and reflex bronchoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "Apnea"
+        },
+        {
+          "label": "D",
+          "text": "Bronchodilation"
+        },
+        {
+          "label": "E",
+          "text": "Decreased mucus production"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Irritant receptors (rapidly adapting receptors) line the airways and respond to inhaled particles, smoke, cold air, and chemical irritants. Their stimulation triggers the cough reflex to expel the irritant and reflex bronchoconstriction to limit further penetration.",
+        "whyCorrect": "Irritant receptors send afferent signals via the vagus nerve to the medulla, triggering protective reflexes: cough (to expel the irritant) and bronchoconstriction (to limit irritant penetration into deeper airways). They may also stimulate mucus secretion.",
+        "whyWrongByChoice": {
+          "A": "Irritant receptors trigger rapid protective responses (cough, bronchoconstriction), not slow breathing.",
+          "C": "Irritant receptor stimulation increases respiratory activity (coughing), not apnea.",
+          "D": "Irritant receptors cause reflex bronchoconstriction to protect the airways, not bronchodilation.",
+          "E": "Irritant receptor activation typically increases mucus production as a protective mechanism, not decreases it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "irritant-receptors",
+        "cough-reflex",
+        "bronchoconstriction"
+      ]
+    },
+    {
+      "id": "r08-042",
+      "topicId": "control-ventilation-altitude-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "Voluntary control of breathing, such as during speech or singing, is mediated by the:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Medulla"
+        },
+        {
+          "label": "B",
+          "text": "Pons"
+        },
+        {
+          "label": "C",
+          "text": "Cerebral cortex"
+        },
+        {
+          "label": "D",
+          "text": "Carotid body"
+        },
+        {
+          "label": "E",
+          "text": "Cerebellum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "While automatic breathing is controlled by the brainstem (medulla and pons), voluntary modifications of breathing — for speaking, singing, swimming, defecation, and breath-holding — are mediated by the cerebral cortex, which can override the automatic rhythm.",
+        "whyCorrect": "The cerebral cortex provides descending voluntary control over the respiratory muscles, allowing conscious modification of breathing patterns. This override is essential for activities requiring coordinated breath control.",
+        "whyWrongByChoice": {
+          "A": "The medulla controls automatic (involuntary) breathing rhythm. It is not responsible for voluntary respiratory modifications.",
+          "B": "The pons modulates breathing patterns but does not mediate voluntary control.",
+          "D": "The carotid body is a peripheral chemoreceptor that senses blood oxygen. It does not mediate voluntary breathing control.",
+          "E": "The cerebellum coordinates motor movements but does not directly control voluntary breathing patterns."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "voluntary-breathing",
+        "cerebral-cortex"
+      ]
+    },
+    {
+      "id": "r08-016",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "According to Poiseuille's law, airway resistance is inversely proportional to the fourth power of the radius. If a patient's airway radius decreases by 50%, airway resistance increases by a factor of:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": "16"
+        },
+        {
+          "label": "E",
+          "text": "32"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Per Poiseuille's law, R ∝ 1/r⁴. If radius decreases by 50% (r → 0.5r): new resistance = 1/(0.5)⁴ = 1/0.0625 = 16× original resistance. Even small changes in airway caliber dramatically affect resistance.",
+        "whyCorrect": "Using Poiseuille's law: R ∝ 1/r⁴. When r is halved: R ∝ 1/(0.5r)⁴ = 1/(0.0625r⁴) = 16/r⁴. Resistance increases 16-fold, explaining why small airway narrowing in asthma or COPD causes such significant breathing difficulty.",
+        "whyWrongByChoice": {
+          "A": "A 2-fold increase would apply if resistance were inversely proportional to the first power of radius. Poiseuille's law specifies the fourth power.",
+          "B": "A 4-fold increase would apply if resistance were proportional to 1/r², not 1/r⁴.",
+          "C": "An 8-fold increase would apply if the relationship were 1/r³.",
+          "E": "A 32-fold increase would apply if the relationship were 1/r⁵. Poiseuille's law specifies exactly the fourth power."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "poiseuilles-law",
+        "airway-resistance",
+        "radius"
+      ]
+    },
+    {
+      "id": "r08-017",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "The greatest contribution to total airway resistance in the tracheobronchial tree comes from which generation of airways?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Terminal bronchioles"
+        },
+        {
+          "label": "B",
+          "text": "Alveolar ducts"
+        },
+        {
+          "label": "C",
+          "text": "Medium-sized bronchi"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory bronchioles"
+        },
+        {
+          "label": "E",
+          "text": "Alveoli"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Although medium-sized bronchi have larger individual radii than small airways, they are fewer in number. The small airways (bronchioles), while individually narrow, are so numerous that their combined cross-sectional area is large, making their total resistance low. Most total airway resistance is in the medium-sized bronchi.",
+        "whyCorrect": "Medium-sized bronchi (generations 3-7) contribute the most to total airway resistance because they have intermediate radii without the massive parallel arrangement of the terminal bronchioles. The small airways' resistance is low due to their enormous combined cross-sectional area.",
+        "whyWrongByChoice": {
+          "A": "Terminal bronchioles individually have high resistance, but their enormous number in parallel gives them a very large combined cross-sectional area and low total resistance.",
+          "B": "Alveolar ducts are in the gas exchange zone with very thin walls. They contribute minimal resistance.",
+          "D": "Respiratory bronchioles are small but numerous in parallel, contributing little to total resistance.",
+          "E": "Alveoli are the sites of gas exchange with no significant airflow resistance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "airway-resistance",
+        "medium-bronchi",
+        "cross-sectional-area"
+      ]
+    },
+    {
+      "id": "r08-018",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Parasympathetic stimulation of the airways causes:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchodilation via β₂ receptor activation"
+        },
+        {
+          "label": "B",
+          "text": "Bronchoconstriction via cholinergic (muscarinic) receptor activation"
+        },
+        {
+          "label": "C",
+          "text": "Increased surfactant production"
+        },
+        {
+          "label": "D",
+          "text": "Decreased mucus secretion"
+        },
+        {
+          "label": "E",
+          "text": "Increased airway cartilage stiffness"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Parasympathetic fibers (via the vagus nerve) release acetylcholine, which acts on muscarinic receptors on bronchial smooth muscle, causing contraction (bronchoconstriction) and increased mucus secretion — the opposite of sympathetic β₂ stimulation.",
+        "whyCorrect": "Parasympathetic cholinergic stimulation activates muscarinic receptors on airway smooth muscle, causing contraction that narrows the airway lumen and increases resistance. This is why anticholinergic drugs (ipratropium) are used as bronchodilators in COPD and asthma.",
+        "whyWrongByChoice": {
+          "A": "β₂ receptor activation is a sympathetic effect causing bronchodilation. Parasympathetic stimulation causes the opposite — bronchoconstriction.",
+          "C": "Surfactant production by type 2 pneumocytes is not regulated by parasympathetic innervation of the airways.",
+          "D": "Parasympathetic stimulation increases mucus secretion, not decreases it.",
+          "E": "Cartilage stiffness is a structural property not regulated by autonomic nervous system stimulation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "parasympathetic",
+        "bronchoconstriction",
+        "muscarinic"
+      ]
+    },
+    {
+      "id": "r08-019",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "In emphysema, destruction of elastic fibers weakens radial traction on airways. This leads to:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased airway resistance during expiration"
+        },
+        {
+          "label": "B",
+          "text": "Dynamic airway collapse during expiration and air trapping"
+        },
+        {
+          "label": "C",
+          "text": "Increased elastic recoil promoting efficient expiration"
+        },
+        {
+          "label": "D",
+          "text": "Decreased FRC"
+        },
+        {
+          "label": "E",
+          "text": "Improved FEV₁/FVC ratio"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loss of elastic fibers in emphysema weakens the radial traction that normally keeps small airways open during expiration. Without this tethering force, airways collapse during expiration (dynamic airway collapse), trapping air in the lungs and increasing FRC.",
+        "whyCorrect": "Radial traction from surrounding alveolar tissue normally holds small airways open. Emphysema destroys the elastic tissue providing this traction, allowing airways to collapse when intrathoracic pressure rises during expiration. This is the mechanism of air trapping and hyperinflation.",
+        "whyWrongByChoice": {
+          "A": "Airway resistance increases during expiration in emphysema because of dynamic collapse. It does not decrease.",
+          "C": "Elastic recoil is decreased (not increased) in emphysema due to destruction of elastin fibers. This is a hallmark of the disease.",
+          "D": "FRC is increased in emphysema due to air trapping and loss of elastic recoil, not decreased.",
+          "E": "The FEV₁/FVC ratio is decreased in emphysema (obstructive pattern). It does not improve."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "emphysema",
+        "radial-traction",
+        "dynamic-airway-collapse",
+        "air-trapping"
+      ]
+    },
+    {
+      "id": "r08-020",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Functional residual capacity (FRC) is the lung volume at which the inward recoil of the lungs equals the outward expansion of the chest wall. At FRC, which of the following is true?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maximum muscular effort is required to maintain this volume"
+        },
+        {
+          "label": "B",
+          "text": "Alveolar pressure equals atmospheric pressure with no muscular effort"
+        },
+        {
+          "label": "C",
+          "text": "The lungs are maximally inflated"
+        },
+        {
+          "label": "D",
+          "text": "Airway resistance is at its maximum"
+        },
+        {
+          "label": "E",
+          "text": "Pleural pressure is positive"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FRC is the equilibrium point where the opposing elastic forces of the lungs and chest wall balance. At FRC, with the glottis open, alveolar pressure equals atmospheric pressure, no respiratory muscle effort is needed, and the respiratory system is at its most mechanically efficient.",
+        "whyCorrect": "At FRC, the inward pull of the lungs and outward spring of the chest wall are exactly balanced. With no net force, alveolar pressure equals atmospheric, and no muscular effort is required. This volume also provides optimal compliance and minimal PVR.",
+        "whyWrongByChoice": {
+          "A": "No muscular effort is needed at FRC — it is the passive resting volume where elastic forces balance.",
+          "C": "The lungs are partially inflated at FRC, not maximally. Total lung capacity is the maximum inflation point.",
+          "D": "Airway resistance is near its minimum at FRC, not maximum. Resistance is highest at residual volume and total lung capacity (U-shaped curve).",
+          "E": "Pleural pressure remains negative at FRC (approximately -5 cm H₂O). It does not become positive."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "FRC",
+        "lung-mechanics",
+        "equilibrium"
+      ]
+    },
+    {
+      "id": "r08-021",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Turbulent airflow in the airways is associated with which of the following compared to laminar flow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lower resistance and less work of breathing"
+        },
+        {
+          "label": "B",
+          "text": "Higher resistance and increased work of breathing"
+        },
+        {
+          "label": "C",
+          "text": "Occurs only in the alveoli"
+        },
+        {
+          "label": "D",
+          "text": "Produces no audible sounds"
+        },
+        {
+          "label": "E",
+          "text": "Is the predominant flow pattern during quiet breathing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Turbulent flow generates chaotic vortices and eddies that substantially increase airway resistance compared to smooth laminar flow. Higher pressure gradients are needed to maintain the same flow rate, increasing the work of breathing. Turbulent flow also produces audible sounds (wheezes, stridor).",
+        "whyCorrect": "Turbulence increases the energy required to move air through the airways. It occurs in larger airways, during forced breathing, or when airways are narrowed. The chaotic flow requires higher driving pressures, increasing respiratory muscle work and producing sounds like wheezing.",
+        "whyWrongByChoice": {
+          "A": "Turbulent flow has higher resistance than laminar flow, not lower. It increases the work of breathing.",
+          "C": "Turbulent flow occurs in larger airways (trachea, main bronchi), not in the alveoli where flow is minimal.",
+          "D": "Turbulent flow produces audible sounds: wheezes (narrowed small airways), rhonchi (mucus-filled bronchi), and stridor (upper airway obstruction).",
+          "E": "Laminar flow predominates during quiet breathing and in smaller airways. Turbulent flow occurs during forced breathing or in diseased airways."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "turbulent-flow",
+        "laminar-flow",
+        "airway-resistance"
+      ]
+    },
+    {
+      "id": "r08-022",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Lung compliance describes the ease with which the lungs expand. In emphysema, lung compliance is:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased due to fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Increased due to loss of elastic recoil"
+        },
+        {
+          "label": "C",
+          "text": "Normal"
+        },
+        {
+          "label": "D",
+          "text": "Decreased due to increased surfactant"
+        },
+        {
+          "label": "E",
+          "text": "Variable depending on respiratory rate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Emphysema destroys alveolar walls and their elastic fibers, reducing elastic recoil. Less recoil means less resistance to inflation — the lungs are easier to inflate (increased compliance). However, this 'floppy' lung also has reduced expiratory driving force, causing air trapping.",
+        "whyCorrect": "Loss of elastin in emphysema makes the lungs more distensible (increased compliance). The pressure-volume curve shifts upward and leftward. While easier to inflate, the loss of recoil means the lungs cannot effectively empty, causing hyperinflation and air trapping.",
+        "whyWrongByChoice": {
+          "A": "Decreased compliance from fibrosis characterizes restrictive lung diseases like pulmonary fibrosis, not emphysema.",
+          "C": "Compliance is significantly altered in emphysema. It is increased, not normal.",
+          "D": "Surfactant production is not increased in emphysema. The increased compliance results from elastic tissue destruction.",
+          "E": "While dynamic compliance can vary with respiratory rate in airway disease, the fundamental change in emphysema is consistently increased static compliance from elastin loss."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "emphysema",
+        "compliance",
+        "elastic-recoil"
+      ]
+    },
+    {
+      "id": "r08-023",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "In pulmonary fibrosis, FRC is typically:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased due to air trapping"
+        },
+        {
+          "label": "B",
+          "text": "Decreased because the stiff lungs have reduced compliance"
+        },
+        {
+          "label": "C",
+          "text": "Normal"
+        },
+        {
+          "label": "D",
+          "text": "Increased due to increased chest wall compliance"
+        },
+        {
+          "label": "E",
+          "text": "Eliminated entirely"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In pulmonary fibrosis, the lungs are stiff (decreased compliance) and the compliance curve shifts downward and rightward. The new equilibrium between lung recoil and chest wall recoil occurs at a lower lung volume, decreasing FRC.",
+        "whyCorrect": "FRC is where lung and chest wall elastic forces balance. In fibrosis, increased lung stiffness (inward recoil) means the balance point shifts to a lower volume. The FRC decreases, contributing to the restrictive pattern seen on pulmonary function testing.",
+        "whyWrongByChoice": {
+          "A": "Increased FRC from air trapping is characteristic of obstructive diseases (emphysema, COPD), not restrictive diseases like fibrosis.",
+          "C": "FRC is significantly reduced in fibrosis due to decreased lung compliance. It is not normal.",
+          "D": "Chest wall compliance may decrease with aging or other conditions, but this is not the primary cause of reduced FRC in pulmonary fibrosis. The lung compliance change is dominant.",
+          "E": "FRC cannot be eliminated. Even in severe fibrosis, some lung volume remains at the equilibrium point."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "pulmonary-fibrosis",
+        "FRC",
+        "restrictive",
+        "compliance"
+      ]
+    },
+    {
+      "id": "r08-024",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Radial traction from surrounding lung tissue helps keep airways open. During inspiration, as lung volume increases, airway resistance:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increases"
+        },
+        {
+          "label": "B",
+          "text": "Decreases"
+        },
+        {
+          "label": "C",
+          "text": "Remains constant"
+        },
+        {
+          "label": "D",
+          "text": "First increases then decreases"
+        },
+        {
+          "label": "E",
+          "text": "Is determined solely by smooth muscle tone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During inspiration, expanding alveoli and surrounding connective tissue pull outward on airway walls (radial traction), increasing airway diameter and reducing resistance. This is why airway resistance decreases with deeper inspiration and increases during expiration.",
+        "whyCorrect": "As lung volume increases during inspiration, the expanding parenchyma exerts radial traction on the airways, physically widening them. Per Poiseuille's law (R ∝ 1/r⁴), even small increases in radius from this traction significantly reduce resistance.",
+        "whyWrongByChoice": {
+          "A": "Airway resistance decreases during inspiration due to radial traction widening the airways. It increases during expiration as volume decreases.",
+          "C": "Airway resistance changes dynamically with lung volume. It is not constant throughout the respiratory cycle.",
+          "D": "There is no biphasic response during inspiration. Resistance decreases continuously as lung volume increases.",
+          "E": "While smooth muscle tone affects resistance, radial traction from surrounding tissue is the dominant mechanism by which lung volume influences airway caliber."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "radial-traction",
+        "airway-resistance",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "r08-025",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Dynamic airway collapse occurs during forced expiration when:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar pressure exceeds atmospheric pressure"
+        },
+        {
+          "label": "B",
+          "text": "Intrathoracic pressure exceeds airway pressure, compressing the airways"
+        },
+        {
+          "label": "C",
+          "text": "Surfactant is depleted"
+        },
+        {
+          "label": "D",
+          "text": "The diaphragm contracts too forcefully"
+        },
+        {
+          "label": "E",
+          "text": "Cartilage in the bronchi collapses"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During forced expiration, intrathoracic (pleural) pressure rises sharply. At a certain point along the airway (equal pressure point), this elevated extraluminal pressure exceeds the pressure within the airway lumen. Downstream of this point, the airways are compressed and may collapse, especially small airways lacking cartilage.",
+        "whyCorrect": "Forced expiration generates high positive intrathoracic pressure. As air flows from alveoli toward the mouth, intraluminal pressure drops due to resistance. At the equal pressure point, pleural pressure equals airway pressure. Beyond this point, pleural pressure exceeds airway pressure, compressing and collapsing the unsupported airways.",
+        "whyWrongByChoice": {
+          "A": "Alveolar pressure exceeding atmospheric is what drives air out during expiration — this is normal. Dynamic collapse occurs downstream where pleural pressure exceeds local airway pressure.",
+          "C": "Surfactant deficiency causes alveolar collapse (atelectasis), not dynamic airway collapse during forced expiration.",
+          "D": "Diaphragm contraction occurs during inspiration, not expiration. Forced expiration uses abdominal and internal intercostal muscles.",
+          "E": "Bronchial cartilage is resistant to collapse. Dynamic collapse affects small airways without cartilage support (bronchioles)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "dynamic-airway-collapse",
+        "equal-pressure-point",
+        "forced-expiration"
+      ]
+    },
+    {
+      "id": "r08-026",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Wheezes heard on auscultation are caused by:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laminar flow through normal airways"
+        },
+        {
+          "label": "B",
+          "text": "Turbulent airflow through narrowed small airways"
+        },
+        {
+          "label": "C",
+          "text": "Air in the pleural space"
+        },
+        {
+          "label": "D",
+          "text": "Fluid in the alveoli"
+        },
+        {
+          "label": "E",
+          "text": "Normal vocal cord vibration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Wheezes are high-pitched, musical sounds produced by turbulent airflow through narrowed small airways. They are characteristic of obstructive diseases like asthma and COPD, where airway walls flutter during expiration due to narrowing from bronchospasm, mucus, or inflammation.",
+        "whyCorrect": "Narrowed airways force air through a constricted passage, converting laminar flow to turbulent flow and causing the airway walls to vibrate. This produces the characteristic high-pitched wheeze, most prominent during expiration when airways are narrowest.",
+        "whyWrongByChoice": {
+          "A": "Laminar flow through normal airways is smooth and silent. Wheezes require turbulent flow through narrowed airways.",
+          "C": "Air in the pleural space (pneumothorax) causes absent breath sounds, not wheezes.",
+          "D": "Fluid in the alveoli produces crackles (rales), not wheezes. Crackles are the sound of fluid-filled alveoli opening during inspiration.",
+          "E": "Vocal cord vibration produces voice sounds (phonation), not wheezes. Wheezes originate in the lower airways."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "wheezes",
+        "turbulent-flow",
+        "narrowed-airways"
+      ]
+    },
+    {
+      "id": "r08-027",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "FRC serves several important physiologic roles. Which of the following is NOT a function of FRC?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acts as an oxygen reservoir between breaths"
+        },
+        {
+          "label": "B",
+          "text": "Prevents alveolar collapse"
+        },
+        {
+          "label": "C",
+          "text": "Maintains PVR near its minimum"
+        },
+        {
+          "label": "D",
+          "text": "Maximizes the work of breathing"
+        },
+        {
+          "label": "E",
+          "text": "Optimizes ventilation-perfusion matching"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "FRC minimizes (not maximizes) the work of breathing. At FRC, respiratory compliance is most favorable. The other options are all genuine physiologic roles of FRC: oxygen reservoir, prevention of atelectasis, optimal PVR, and good V/Q matching.",
+        "whyCorrect": "FRC is the volume at which the respiratory system is most mechanically efficient. Lung compliance is greatest at FRC, meaning the least amount of work is required for tidal breathing. FRC minimizes, not maximizes, the work of breathing.",
+        "whyWrongByChoice": {
+          "A": "FRC does act as an oxygen reservoir — it contains enough O₂ to sustain gas exchange for multiple breaths between inspirations.",
+          "B": "FRC keeps alveoli partially inflated, preventing collapse and reducing shunt.",
+          "C": "PVR is at its minimum near FRC, optimizing pulmonary blood flow.",
+          "E": "At FRC, ventilation-perfusion matching is favorable, supporting efficient gas exchange."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "FRC",
+        "work-of-breathing",
+        "lung-function"
+      ]
+    },
+    {
+      "id": "r08-028",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "In emphysema, the FRC is typically increased. This is because:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The chest wall becomes more compliant"
+        },
+        {
+          "label": "B",
+          "text": "Increased elastic recoil pulls the lungs open"
+        },
+        {
+          "label": "C",
+          "text": "Loss of lung elastic recoil shifts the equilibrium to a higher volume"
+        },
+        {
+          "label": "D",
+          "text": "Surfactant production is increased"
+        },
+        {
+          "label": "E",
+          "text": "Bronchial cartilage becomes thicker"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In emphysema, destruction of elastin reduces lung elastic recoil. The lung compliance curve shifts upward and leftward. The new equilibrium between (weaker) lung inward recoil and (unchanged) chest wall outward recoil occurs at a higher volume, increasing FRC and causing hyperinflation.",
+        "whyCorrect": "FRC is where lung and chest wall forces balance. When lung elastic recoil decreases (emphysema), the lungs resist collapse less, and the chest wall's outward spring is relatively unopposed. The equilibrium shifts to a larger volume — increased FRC with air trapping.",
+        "whyWrongByChoice": {
+          "A": "Chest wall compliance does not typically change significantly in emphysema. The primary change is in lung compliance from elastin loss.",
+          "B": "Elastic recoil is decreased in emphysema, not increased. This is the fundamental problem.",
+          "D": "Surfactant production is not increased in emphysema. The FRC increase is from loss of elastic tissue.",
+          "E": "Bronchial cartilage does not become thicker in emphysema. The disease affects the alveolar walls and elastic tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "emphysema",
+        "FRC",
+        "elastic-recoil",
+        "hyperinflation"
+      ]
+    },
+    {
+      "id": "r08-034",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "The relationship between airflow, pressure difference, and resistance is described by the equation: Flow = ΔP / R. This means that for a given pressure gradient, airflow:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increases as resistance increases"
+        },
+        {
+          "label": "B",
+          "text": "Decreases as resistance increases"
+        },
+        {
+          "label": "C",
+          "text": "Is independent of resistance"
+        },
+        {
+          "label": "D",
+          "text": "Is always turbulent"
+        },
+        {
+          "label": "E",
+          "text": "Equals zero when resistance is present"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Per the equation Flow = ΔP/R, airflow is inversely proportional to resistance for any given pressure difference. As resistance increases, flow decreases. This explains why diseases that increase airway resistance (asthma, COPD) reduce airflow and cause dyspnea.",
+        "whyCorrect": "The equation shows that flow and resistance are inversely related. With a constant driving pressure, higher resistance means less air moves per unit time. This is the fundamental basis of obstructive airway disease.",
+        "whyWrongByChoice": {
+          "A": "Flow decreases as resistance increases, not the other way around. They are inversely proportional.",
+          "C": "Flow is directly dependent on resistance per the equation. Higher resistance means lower flow for the same pressure gradient.",
+          "D": "The flow equation applies to both laminar and turbulent flow patterns. Not all flow is turbulent.",
+          "E": "Airflow continues as long as a pressure gradient exists, even with high resistance. It is reduced but not zero."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "airflow-equation",
+        "resistance",
+        "pressure-gradient"
+      ]
+    },
+    {
+      "id": "r08-035",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "A patient treated with albuterol (a β₂-agonist) experiences bronchodilation. This occurs because β₂ receptor stimulation causes:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contraction of bronchial smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "Relaxation of bronchial smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Increased mucus secretion"
+        },
+        {
+          "label": "D",
+          "text": "Cartilage remodeling"
+        },
+        {
+          "label": "E",
+          "text": "Parasympathetic activation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "β₂-adrenergic receptor stimulation on bronchial smooth muscle causes relaxation, increasing airway diameter and reducing resistance. This is the mechanism of albuterol and other β₂-agonists used in asthma and COPD.",
+        "whyCorrect": "β₂ receptors on bronchial smooth muscle activate adenylyl cyclase, increasing cAMP and causing muscle relaxation. This widens the airway lumen, reduces resistance per Poiseuille's law, and improves airflow.",
+        "whyWrongByChoice": {
+          "A": "Smooth muscle contraction narrows airways and increases resistance. This is caused by parasympathetic stimulation, not β₂ agonists.",
+          "C": "β₂ agonists do not increase mucus secretion. Parasympathetic stimulation and inflammatory mediators increase mucus production.",
+          "D": "β₂ agonists act on smooth muscle tone, not cartilage structure. Cartilage remodeling is not an acute drug effect.",
+          "E": "β₂ agonists are sympathomimetic agents. They oppose parasympathetic effects, not activate them."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "albuterol",
+        "beta2-agonist",
+        "bronchodilation"
+      ]
+    },
+    {
+      "id": "r08-036",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "The Reynolds number predicts whether airflow will be laminar or turbulent. Flow becomes turbulent when the Reynolds number exceeds:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "100"
+        },
+        {
+          "label": "B",
+          "text": "500"
+        },
+        {
+          "label": "C",
+          "text": "1000"
+        },
+        {
+          "label": "D",
+          "text": "2000"
+        },
+        {
+          "label": "E",
+          "text": "10000"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Reynolds number is a dimensionless quantity that predicts the transition from laminar to turbulent flow. When the Reynolds number exceeds approximately 2000, flow transitions from laminar to turbulent, increasing resistance and the work of breathing.",
+        "whyCorrect": "A Reynolds number >2000 indicates turbulent flow. This occurs in larger airways with high flow velocities, during forced breathing, or when airway diameter is altered by disease or foreign bodies.",
+        "whyWrongByChoice": {
+          "A": "100 is well below the turbulence threshold. Flow at this Reynolds number would be laminar.",
+          "B": "500 is still in the laminar flow range.",
+          "C": "1000 approaches transitional flow but is below the ~2000 threshold for full turbulence.",
+          "E": "10000 is well above the threshold. Turbulence begins at approximately 2000."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "reynolds-number",
+        "turbulent-flow",
+        "laminar-flow"
+      ]
+    },
+    {
+      "id": "r08-037",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Rhonchi heard on auscultation are low-pitched, snoring-like sounds. They are caused by:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluid in the alveoli"
+        },
+        {
+          "label": "B",
+          "text": "Air in the pleural space"
+        },
+        {
+          "label": "C",
+          "text": "Airflow through mucus-filled bronchi"
+        },
+        {
+          "label": "D",
+          "text": "Vocal cord inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Normal tracheal breath sounds"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rhonchi are low-pitched, continuous sounds produced by turbulent airflow through large airways (bronchi) partially obstructed by mucus or secretions. They often clear with coughing, distinguishing them from wheezes.",
+        "whyCorrect": "Mucus accumulation in the larger bronchi creates partial obstruction that generates turbulent flow and vibration of airway walls and secretions, producing the characteristic low-pitched, snoring-like quality of rhonchi.",
+        "whyWrongByChoice": {
+          "A": "Fluid in the alveoli produces crackles (rales) — discontinuous popping sounds heard during inspiration as fluid-filled alveoli open.",
+          "B": "Air in the pleural space (pneumothorax) causes absent or decreased breath sounds, not rhonchi.",
+          "D": "Vocal cord inflammation can cause stridor (high-pitched inspiratory sound) or hoarseness, not rhonchi.",
+          "E": "Normal tracheal breath sounds are loud and tubular. Rhonchi are pathological sounds from mucus in the bronchi."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "rhonchi",
+        "mucus",
+        "auscultation"
+      ]
+    },
+    {
+      "id": "r08-038",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Surfactant reduces surface tension at the air-liquid interface in the alveoli. According to the Law of LaPlace (P = 2T/r), which alveoli are most prone to collapse without surfactant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large alveoli with high surface tension"
+        },
+        {
+          "label": "B",
+          "text": "Small alveoli because they have greater collapsing pressure relative to their radius"
+        },
+        {
+          "label": "C",
+          "text": "All alveoli equally regardless of size"
+        },
+        {
+          "label": "D",
+          "text": "Only alveoli at the lung apex"
+        },
+        {
+          "label": "E",
+          "text": "Only alveoli with surfactant present"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Per LaPlace's law (P = 2T/r), for a given surface tension (T), smaller alveoli (smaller r) have higher collapsing pressure (P). Without surfactant to reduce T proportionally, small alveoli would empty into larger ones.",
+        "whyCorrect": "LaPlace's law shows that pressure is inversely proportional to radius. Smaller alveoli generate higher collapsing pressures, making them more prone to collapse. Surfactant compensates by being more concentrated (greater T reduction) in smaller alveoli.",
+        "whyWrongByChoice": {
+          "A": "Large alveoli have lower collapsing pressure (larger r in the denominator) and are less prone to collapse per LaPlace's law.",
+          "C": "LaPlace's law specifically predicts size-dependent collapse risk. Smaller alveoli are more vulnerable.",
+          "D": "Collapse susceptibility depends on alveolar size and surface tension, not anatomical location (apex vs base).",
+          "E": "Alveoli with surfactant are protected from collapse. It is the alveoli lacking adequate surfactant that are most vulnerable."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "laplaces-law",
+        "surfactant",
+        "alveolar-collapse"
+      ]
+    },
+    {
+      "id": "r08-039",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Chest wall compliance is highest in which population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elderly adults"
+        },
+        {
+          "label": "B",
+          "text": "Obese adults"
+        },
+        {
+          "label": "C",
+          "text": "Infants"
+        },
+        {
+          "label": "D",
+          "text": "Patients with kyphoscoliosis"
+        },
+        {
+          "label": "E",
+          "text": "Patients with ankylosing spondylitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Infants have highly compliant chest walls because their ribs are more cartilaginous and flexible. This high compliance means the chest wall offers little resistance to the lungs' inward recoil, making infants more prone to alveolar collapse and respiratory fatigue.",
+        "whyCorrect": "The infant chest wall is very pliable due to less ossification and more cartilage. While this makes the chest easy to expand, it also provides less structural support, predisposing to retractions during respiratory distress and alveolar collapse.",
+        "whyWrongByChoice": {
+          "A": "Elderly adults have decreased chest wall compliance due to stiffening of ribs and intercostal muscles from calcification and degenerative changes.",
+          "B": "Obesity decreases chest wall compliance because excess adipose tissue restricts thoracic expansion.",
+          "D": "Kyphoscoliosis decreases chest wall compliance by altering thoracic geometry and restricting expansion.",
+          "E": "Ankylosing spondylitis causes fusion of the spine and costovertebral joints, severely decreasing chest wall compliance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "chest-wall-compliance",
+        "infants",
+        "flexibility"
+      ]
+    },
+    {
+      "id": "r08-040",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Anticholinergic drugs like ipratropium bromide reduce airway resistance by:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulating β₂ receptors on smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "Blocking muscarinic receptors, preventing parasympathetic-mediated bronchoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "Increasing surfactant production"
+        },
+        {
+          "label": "D",
+          "text": "Reducing inflammation in the airways"
+        },
+        {
+          "label": "E",
+          "text": "Strengthening radial traction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ipratropium is an anticholinergic (antimuscarinic) that blocks acetylcholine at muscarinic receptors on bronchial smooth muscle. This prevents parasympathetic-mediated bronchoconstriction, allowing the airways to dilate and reducing resistance.",
+        "whyCorrect": "Parasympathetic vagal fibers release acetylcholine that activates muscarinic receptors, causing bronchoconstriction. Ipratropium competitively blocks these receptors, preventing constriction and reducing airway resistance. It is particularly effective in COPD.",
+        "whyWrongByChoice": {
+          "A": "β₂ receptor stimulation is the mechanism of albuterol, not ipratropium. Ipratropium works by blocking muscarinic receptors.",
+          "C": "Ipratropium does not affect surfactant production. It acts on airway smooth muscle tone.",
+          "D": "Ipratropium is a bronchodilator, not an anti-inflammatory. Corticosteroids reduce airway inflammation.",
+          "E": "Radial traction depends on lung elastic tissue. Ipratropium does not affect the structural properties of the lung parenchyma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "ipratropium",
+        "anticholinergic",
+        "bronchodilation"
+      ]
+    },
+    {
+      "id": "r08-043",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "Stridor is a high-pitched inspiratory sound indicating:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Small airway obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Upper airway obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "Alveolar fluid"
+        },
+        {
+          "label": "E",
+          "text": "Normal tracheal sounds"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Stridor is a high-pitched, harsh sound heard predominantly during inspiration, caused by turbulent airflow through a narrowed upper airway (larynx or trachea). It indicates significant upper airway obstruction from conditions like croup, epiglottitis, foreign body, or tumor.",
+        "whyCorrect": "Upper airway narrowing (at the level of the larynx or extrathoracic trachea) creates high-velocity turbulent flow during inspiration, producing the characteristic stridor. It is a medical emergency when it indicates severe obstruction.",
+        "whyWrongByChoice": {
+          "A": "Small airway obstruction produces wheezes (high-pitched expiratory sounds), not stridor. Stridor is specifically from upper airway narrowing.",
+          "C": "Pleural effusion causes decreased breath sounds and dullness to percussion, not stridor.",
+          "D": "Alveolar fluid produces crackles (rales), not stridor.",
+          "E": "Normal tracheal breath sounds are tubular and heard over the trachea. Stridor is a pathological sound indicating obstruction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "stridor",
+        "upper-airway-obstruction"
+      ]
+    },
+    {
+      "id": "r08-044",
+      "topicId": "airway-resistance",
+      "topicName": "Airway Resistance",
+      "stem": "The pressure-volume relationship of the respiratory system shows that compliance is most favorable at FRC. Starting inspiration from a volume above FRC would result in:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased work of breathing"
+        },
+        {
+          "label": "B",
+          "text": "Increased work of breathing due to less favorable compliance"
+        },
+        {
+          "label": "C",
+          "text": "No change in respiratory effort"
+        },
+        {
+          "label": "D",
+          "text": "Improved gas exchange"
+        },
+        {
+          "label": "E",
+          "text": "Decreased airway resistance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FRC is the volume of optimal compliance. At volumes above FRC (as in emphysema with hyperinflation), the lungs are already partially distended, and the pressure-volume curve is on a less favorable (flatter) portion. More pressure is needed for the same volume change, increasing the work of breathing.",
+        "whyCorrect": "Breathing from an elevated FRC (hyperinflation) means the respiratory muscles must work on a less compliant portion of the pressure-volume curve. The inspiratory muscles are also mechanically disadvantaged due to flattened diaphragms, further increasing the work of breathing.",
+        "whyWrongByChoice": {
+          "A": "Work of breathing increases, not decreases, when starting from above FRC. Compliance worsens at higher volumes.",
+          "C": "Respiratory effort is significantly affected by the starting volume. Above FRC, compliance decreases and work increases.",
+          "D": "Gas exchange may actually worsen at higher FRC due to V/Q mismatch from air trapping, not improve.",
+          "E": "Airway resistance follows a U-shaped curve with lung volume. Above FRC, expanded alveoli may compress capillaries, but airway resistance changes depend on the specific volume and disease state."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "FRC",
+        "compliance",
+        "hyperinflation",
+        "work-of-breathing"
+      ]
+    },
+    {
+      "id": "r09-001",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "A 68-year-old man with a 45-pack-year smoking history has spirometry showing FEV₁ 45% predicted, FVC 78% predicted, and FEV₁/FVC ratio of 0.55. These findings are most consistent with:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Restrictive lung disease"
+        },
+        {
+          "label": "B",
+          "text": "Obstructive lung disease"
+        },
+        {
+          "label": "C",
+          "text": "Normal pulmonary function"
+        },
+        {
+          "label": "D",
+          "text": "Mixed obstructive and restrictive disease"
+        },
+        {
+          "label": "E",
+          "text": "Upper airway obstruction only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FEV₁/FVC ratio <0.7 (here 0.55) with disproportionately reduced FEV₁ (45%) compared to FVC (78%) defines an obstructive pattern. The smoking history and findings are consistent with COPD.",
+        "whyCorrect": "Obstructive lung disease is defined by FEV₁/FVC <0.7, reflecting difficulty expelling air. FEV₁ is reduced more than FVC because airway obstruction limits expiratory flow rate while lung volume may be preserved or even increased from air trapping.",
+        "whyWrongByChoice": {
+          "A": "Restrictive disease shows FEV₁/FVC ≥0.7 with both FEV₁ and FVC reduced proportionally, plus TLC <80% predicted. This patient's ratio is 0.55, indicating obstruction.",
+          "C": "FEV₁ at 45% predicted and FEV₁/FVC of 0.55 are significantly abnormal, not normal.",
+          "D": "Mixed disease requires evidence of both obstruction (low FEV₁/FVC) and restriction (low TLC). This patient shows isolated obstruction.",
+          "E": "Upper airway obstruction produces a characteristic flattened flow-volume loop, not the scooped-out pattern of intrathoracic obstruction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "obstructive",
+        "FEV1/FVC",
+        "COPD"
+      ]
+    },
+    {
+      "id": "r09-002",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "The residual volume (RV) is the air that remains in the lungs after maximal expiration. RV cannot be measured by spirometry because:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is too small to detect"
+        },
+        {
+          "label": "B",
+          "text": "It is the air that cannot be exhaled, even during forced expiration"
+        },
+        {
+          "label": "C",
+          "text": "It requires blood gas analysis to measure"
+        },
+        {
+          "label": "D",
+          "text": "Spirometry only measures inspiratory volumes"
+        },
+        {
+          "label": "E",
+          "text": "RV is identical to FRC"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Spirometry measures the volume of air that can be exhaled. Since RV is the air that remains in the lungs after maximal expiration (it cannot be breathed out), it is not captured by spirometry. Measuring RV requires gas dilution or body plethysmography.",
+        "whyCorrect": "By definition, RV is the air that cannot be expelled regardless of expiratory effort. Since spirometry only records exhaled air, it cannot measure a volume that never leaves the lungs. Full PFTs using helium dilution or body plethysmography are needed.",
+        "whyWrongByChoice": {
+          "A": "RV is approximately 1-1.2 L in adults — not too small to detect, but simply not exhaled during spirometry.",
+          "C": "Blood gas analysis measures dissolved gas partial pressures, not lung volumes.",
+          "D": "Spirometry measures both inspiratory and expiratory volumes and flows. The limitation is specifically that RV cannot be exhaled.",
+          "E": "FRC = ERV + RV. They are related but not identical. FRC is larger than RV."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "residual-volume",
+        "spirometry"
+      ]
+    },
+    {
+      "id": "r09-003",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "A patient with pulmonary fibrosis undergoes spirometry. Which of the following patterns would be expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FEV₁/FVC <0.7, increased TLC"
+        },
+        {
+          "label": "B",
+          "text": "FEV₁/FVC ≥0.7, decreased FVC and TLC"
+        },
+        {
+          "label": "C",
+          "text": "Normal FEV₁/FVC with increased RV"
+        },
+        {
+          "label": "D",
+          "text": "Decreased FEV₁ with normal FVC"
+        },
+        {
+          "label": "E",
+          "text": "Increased FVC with normal FEV₁"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pulmonary fibrosis is a restrictive lung disease. Both FEV₁ and FVC are reduced proportionally, so FEV₁/FVC remains ≥0.7 (normal or increased). TLC is decreased (<80% predicted) because the stiff lungs cannot fully expand.",
+        "whyCorrect": "In restrictive disease, the lungs cannot fully expand due to stiffness. Both FEV₁ and FVC decrease proportionally, maintaining a normal or elevated FEV₁/FVC ratio. TLC <80% confirms the restriction.",
+        "whyWrongByChoice": {
+          "A": "FEV₁/FVC <0.7 with increased TLC describes obstructive lung disease (e.g., emphysema), not restrictive.",
+          "C": "Increased RV with normal ratio could suggest air trapping, which is an obstructive feature, not restrictive.",
+          "D": "FEV₁ decreased with normal FVC would lower the FEV₁/FVC ratio, suggesting obstruction. In restriction, both decrease proportionally.",
+          "E": "Increased FVC is not seen in restrictive disease. FVC is reduced because the stiff lungs limit expansion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "restrictive",
+        "pulmonary-fibrosis"
+      ]
+    },
+    {
+      "id": "r09-004",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "Vital capacity (VC) is the sum of which lung volumes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TV + RV"
+        },
+        {
+          "label": "B",
+          "text": "TV + IRV + ERV"
+        },
+        {
+          "label": "C",
+          "text": "TV + IRV + ERV + RV"
+        },
+        {
+          "label": "D",
+          "text": "ERV + RV"
+        },
+        {
+          "label": "E",
+          "text": "IRV + RV"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vital capacity is all the air that can be exhaled after maximal inspiration. It equals tidal volume + inspiratory reserve volume + expiratory reserve volume (TV + IRV + ERV). It does not include residual volume.",
+        "whyCorrect": "VC represents the maximum volume of air that can be moved in a single breath: the normal tidal breath (TV), plus the extra air that can be inhaled (IRV), plus the extra air that can be exhaled (ERV).",
+        "whyWrongByChoice": {
+          "A": "TV + RV is not a standard lung capacity. RV is the air that remains after maximal expiration and is not part of vital capacity.",
+          "C": "TV + IRV + ERV + RV equals total lung capacity (TLC), not vital capacity. TLC = VC + RV.",
+          "D": "ERV + RV equals functional residual capacity (FRC), not vital capacity.",
+          "E": "IRV + RV is not a recognized lung capacity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "vital-capacity",
+        "lung-volumes"
+      ]
+    },
+    {
+      "id": "r09-005",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "In obstructive lung disease, the flow-volume loop shows a characteristic 'scooped out' (concave) expiratory curve. This pattern results from:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased lung elastic recoil"
+        },
+        {
+          "label": "B",
+          "text": "Dynamic airway collapse during expiration reducing flow at lower lung volumes"
+        },
+        {
+          "label": "C",
+          "text": "Increased inspiratory muscle strength"
+        },
+        {
+          "label": "D",
+          "text": "Decreased airway resistance"
+        },
+        {
+          "label": "E",
+          "text": "Reduced residual volume"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In obstructive disease, loss of elastic recoil and/or airway inflammation causes small airways to collapse during expiration (dynamic airway collapse). As lung volume decreases during expiration, flow drops off sharply, creating the concave 'scooped out' appearance on the flow-volume loop.",
+        "whyCorrect": "The scooped-out expiratory curve reflects progressive airway narrowing and collapse during forced expiration. At higher volumes, some flow is maintained, but as volume decreases and radial traction diminishes, airways collapse and flow falls rapidly — characteristic of obstruction.",
+        "whyWrongByChoice": {
+          "A": "Increased elastic recoil would improve expiratory flow, not reduce it. Obstructive disease typically has decreased elastic recoil.",
+          "C": "Inspiratory muscle strength does not affect the expiratory limb of the flow-volume loop.",
+          "D": "Decreased airway resistance would improve expiratory flow. Obstructive disease has increased resistance.",
+          "E": "RV is increased in obstructive disease due to air trapping, not reduced."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "flow-volume-loop",
+        "obstructive"
+      ]
+    },
+    {
+      "id": "r09-006",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "A patient with suspected asthma has normal baseline spirometry. Which test can unmask intermittent airway obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chest X-ray"
+        },
+        {
+          "label": "B",
+          "text": "Methacholine challenge (bronchoprovocation testing)"
+        },
+        {
+          "label": "C",
+          "text": "Complete blood count"
+        },
+        {
+          "label": "D",
+          "text": "Arterial blood gas"
+        },
+        {
+          "label": "E",
+          "text": "CT angiography"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When baseline spirometry is normal but asthma is suspected, bronchoprovocation testing with methacholine (a muscarinic agonist) or histamine is used. A positive test shows ≥20% drop in FEV₁ after inhaling the provoking agent, indicating airway hyperreactivity supportive of asthma.",
+        "whyCorrect": "Methacholine binds M3 muscarinic receptors on bronchial smooth muscle, causing bronchoconstriction. In asthma, the airways are hyperreactive and constrict at lower doses. A ≥20% FEV₁ drop confirms hyperreactivity. Albuterol is then given to reverse the effects.",
+        "whyWrongByChoice": {
+          "A": "Chest X-ray may be normal in asthma. It cannot assess airway hyperreactivity.",
+          "C": "CBC may show eosinophilia in allergic asthma but cannot diagnose intermittent obstruction.",
+          "D": "ABG assesses gas exchange but not airway hyperreactivity.",
+          "E": "CT angiography diagnoses pulmonary embolism, not asthma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "methacholine-challenge",
+        "asthma",
+        "bronchoprovocation"
+      ]
+    },
+    {
+      "id": "r09-007",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "A patient with obstructive lung disease receives albuterol during spirometry. If FEV₁ improves by ≥12% and 200 mL from baseline, this demonstrates:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Restrictive physiology"
+        },
+        {
+          "label": "B",
+          "text": "Reversibility, supportive of asthma"
+        },
+        {
+          "label": "C",
+          "text": "Fixed upper airway obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Normal lung function"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary fibrosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bronchodilator reversibility (FEV₁ improvement ≥12% AND ≥200 mL) after albuterol during spirometry is highly suggestive of asthma, though some COPD patients also show reversibility. It indicates the airway obstruction has a reversible component responsive to smooth muscle relaxation.",
+        "whyCorrect": "Reversibility testing differentiates potentially reversible obstruction (asthma) from fixed obstruction (severe COPD). A positive response (≥12% and ≥200 mL FEV₁ improvement) supports the diagnosis of asthma.",
+        "whyWrongByChoice": {
+          "A": "Reversibility testing is performed in the context of obstructive disease, not restrictive.",
+          "C": "Fixed upper airway obstruction would not respond to bronchodilators.",
+          "D": "The baseline showed obstruction. Reversibility confirms a reversible obstructive component, not normality.",
+          "E": "Pulmonary fibrosis is restrictive and does not respond to bronchodilators."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "reversibility",
+        "asthma",
+        "bronchodilator"
+      ]
+    },
+    {
+      "id": "r09-008",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "Total lung capacity (TLC) is the sum of:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TV + IRV"
+        },
+        {
+          "label": "B",
+          "text": "VC + RV"
+        },
+        {
+          "label": "C",
+          "text": "ERV + RV"
+        },
+        {
+          "label": "D",
+          "text": "TV + ERV"
+        },
+        {
+          "label": "E",
+          "text": "IRV + ERV"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "TLC is the maximum amount of air the lungs can hold. It equals vital capacity (the maximum air that can be exhaled) plus residual volume (the air remaining after maximal exhalation): TLC = VC + RV.",
+        "whyCorrect": "TLC = all four lung volumes (TV + IRV + ERV + RV), which simplifies to VC + RV since VC = TV + IRV + ERV. Normal TLC is approximately 6 liters in adults.",
+        "whyWrongByChoice": {
+          "A": "TV + IRV = inspiratory capacity (IC), not TLC.",
+          "C": "ERV + RV = functional residual capacity (FRC), not TLC.",
+          "D": "TV + ERV is not a standard capacity measurement.",
+          "E": "IRV + ERV does not include TV or RV and is not a recognized capacity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "TLC",
+        "lung-capacities"
+      ]
+    },
+    {
+      "id": "r09-009",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "In obstructive lung disease, RV and TLC are typically:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both decreased"
+        },
+        {
+          "label": "B",
+          "text": "Both increased"
+        },
+        {
+          "label": "C",
+          "text": "RV increased, TLC decreased"
+        },
+        {
+          "label": "D",
+          "text": "RV decreased, TLC increased"
+        },
+        {
+          "label": "E",
+          "text": "Both normal"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In obstructive disease, air trapping prevents complete exhalation, increasing residual volume (RV). The trapped air also increases total lung capacity (TLC), leading to hyperinflated lungs visible on chest X-ray as flattened diaphragms.",
+        "whyCorrect": "Air cannot easily leave the lungs in obstruction. The RV rises because more air is trapped. TLC increases because the lungs become chronically hyperinflated. This is the opposite of restrictive disease where both decrease.",
+        "whyWrongByChoice": {
+          "A": "Both decreased is the pattern in restrictive lung disease, not obstructive.",
+          "C": "RV and TLC both increase together in obstruction. TLC does not decrease.",
+          "D": "RV increases (not decreases) from air trapping. This combination is not physiologically consistent with obstruction.",
+          "E": "Both volumes are abnormal in obstructive disease."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "obstructive",
+        "RV",
+        "TLC",
+        "air-trapping"
+      ]
+    },
+    {
+      "id": "r09-010",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "Functional residual capacity (FRC) is the sum of which two volumes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TV + IRV"
+        },
+        {
+          "label": "B",
+          "text": "IRV + ERV"
+        },
+        {
+          "label": "C",
+          "text": "ERV + RV"
+        },
+        {
+          "label": "D",
+          "text": "TV + RV"
+        },
+        {
+          "label": "E",
+          "text": "TV + ERV"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "FRC is the air remaining in the lungs at the end of a normal expiration. It equals the expiratory reserve volume (additional air that could still be exhaled) plus the residual volume (air that can never be exhaled): FRC = ERV + RV.",
+        "whyCorrect": "At the end of a normal tidal expiration, the lungs contain ERV (air that could be forcefully exhaled) and RV (air that cannot be exhaled). Their sum is the functional residual capacity.",
+        "whyWrongByChoice": {
+          "A": "TV + IRV = inspiratory capacity (IC).",
+          "B": "IRV + ERV is not a standard lung capacity.",
+          "D": "TV + RV is not a recognized capacity measurement.",
+          "E": "TV + ERV is not a standard lung capacity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "FRC",
+        "lung-volumes"
+      ]
+    },
+    {
+      "id": "r09-011",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "A healthy 30-year-old has an FEV₁ of 85% predicted and FVC of 90% predicted. The FEV₁/FVC ratio is 0.75. This result indicates:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obstructive lung disease"
+        },
+        {
+          "label": "B",
+          "text": "Restrictive lung disease"
+        },
+        {
+          "label": "C",
+          "text": "Normal pulmonary function"
+        },
+        {
+          "label": "D",
+          "text": "Mixed obstructive-restrictive disease"
+        },
+        {
+          "label": "E",
+          "text": "Severe COPD"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "FEV₁ >80% predicted, FVC >80% predicted, and FEV₁/FVC ≥0.7 all fall within normal limits. This healthy individual has normal pulmonary function.",
+        "whyCorrect": "Normal spirometry requires FEV₁ and FVC both >80% of predicted values and an FEV₁/FVC ratio ≥0.7. All three criteria are met here (85%, 90%, and 0.75 respectively), indicating normal lung function.",
+        "whyWrongByChoice": {
+          "A": "Obstructive disease requires FEV₁/FVC <0.7. This patient's ratio is 0.75.",
+          "B": "Restrictive disease would show FVC <80% predicted. This patient's FVC is 90%.",
+          "D": "Mixed disease requires both obstructive and restrictive features. Neither is present here.",
+          "E": "Severe COPD would show markedly reduced FEV₁ (<50% predicted) with FEV₁/FVC <0.7."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "normal-spirometry"
+      ]
+    },
+    {
+      "id": "r09-012",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "Which of the following techniques can measure residual volume when spirometry cannot?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peak flow meter"
+        },
+        {
+          "label": "B",
+          "text": "Pulse oximetry"
+        },
+        {
+          "label": "C",
+          "text": "Body plethysmography or gas dilution"
+        },
+        {
+          "label": "D",
+          "text": "Chest X-ray"
+        },
+        {
+          "label": "E",
+          "text": "Arterial blood gas"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Since RV cannot be exhaled, spirometry cannot measure it. Body plethysmography (measuring pressure changes in a sealed box) or gas dilution techniques (helium dilution or nitrogen washout) are used to measure RV, and thereby TLC and FRC.",
+        "whyCorrect": "Body plethysmography uses Boyle's law to calculate lung volumes from pressure-volume changes in a sealed chamber. Gas dilution uses an inert gas (helium or nitrogen) to calculate the volume of gas that mixes with the known concentration, revealing the trapped volume.",
+        "whyWrongByChoice": {
+          "A": "Peak flow meters measure peak expiratory flow rate. They cannot measure RV.",
+          "B": "Pulse oximetry measures oxygen saturation. It does not measure lung volumes.",
+          "D": "Chest X-ray can show hyperinflation qualitatively but cannot precisely measure RV.",
+          "E": "ABG measures blood gas partial pressures. It does not measure lung volumes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "residual-volume",
+        "plethysmography",
+        "gas-dilution"
+      ]
+    },
+    {
+      "id": "r09-013",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "Tidal volume (TV) represents the volume of air:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "That remains after maximal expiration"
+        },
+        {
+          "label": "B",
+          "text": "Inhaled and exhaled during normal quiet breathing"
+        },
+        {
+          "label": "C",
+          "text": "That can be additionally inhaled after normal inspiration"
+        },
+        {
+          "label": "D",
+          "text": "That can be additionally exhaled after normal expiration"
+        },
+        {
+          "label": "E",
+          "text": "That the lungs can hold at maximum capacity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tidal volume is approximately 500 mL and represents the normal volume of air moved in and out of the lungs during quiet, resting breathing — the ordinary breathing of daily life.",
+        "whyCorrect": "TV is the volume of a single normal breath at rest, approximately 500 mL. It represents the air moved during the routine breathing cycle without any extra effort.",
+        "whyWrongByChoice": {
+          "A": "The air remaining after maximal expiration is residual volume (RV).",
+          "C": "The additional air that can be inhaled beyond normal inspiration is the inspiratory reserve volume (IRV).",
+          "D": "The additional air that can be exhaled beyond normal expiration is the expiratory reserve volume (ERV).",
+          "E": "The maximum air the lungs can hold is total lung capacity (TLC)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "tidal-volume"
+      ]
+    },
+    {
+      "id": "r09-014",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "A patient with sarcoidosis has PFT results showing FEV₁ 65% predicted, FVC 62% predicted, FEV₁/FVC 0.82, and TLC 68% predicted. This pattern is consistent with:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obstructive lung disease"
+        },
+        {
+          "label": "B",
+          "text": "Normal findings"
+        },
+        {
+          "label": "C",
+          "text": "Restrictive lung disease"
+        },
+        {
+          "label": "D",
+          "text": "Asthma"
+        },
+        {
+          "label": "E",
+          "text": "Upper airway obstruction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "FEV₁/FVC ≥0.7 (0.82) with both FEV₁ and FVC reduced (<80%), and TLC <80% (68%) confirms restrictive lung disease. Sarcoidosis causes pulmonary fibrosis and granulomatous inflammation that restricts lung expansion.",
+        "whyCorrect": "The hallmarks of restriction are: FEV₁/FVC normal or increased (0.82), reduced FVC (<80%), and critically, TLC <80% predicted. Both volumes decrease proportionally while the ratio is preserved, and the reduced TLC confirms that lung expansion is limited.",
+        "whyWrongByChoice": {
+          "A": "Obstructive disease requires FEV₁/FVC <0.7 with disproportionately reduced FEV₁. This patient's ratio is 0.82.",
+          "B": "FEV₁ 65%, FVC 62%, and TLC 68% are all abnormally low. These are not normal findings.",
+          "D": "Asthma is an obstructive disease with reduced FEV₁/FVC. This patient has a restrictive pattern.",
+          "E": "Upper airway obstruction has a characteristic flattened flow-volume loop, not the proportional volume reduction seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "restrictive",
+        "sarcoidosis"
+      ]
+    },
+    {
+      "id": "r09-015",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "During spirometry, the peak expiratory flow rate (PEFR) is measured. In obstructive disease, PEFR is typically:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased"
+        },
+        {
+          "label": "B",
+          "text": "Decreased"
+        },
+        {
+          "label": "C",
+          "text": "Normal"
+        },
+        {
+          "label": "D",
+          "text": "Not measurable"
+        },
+        {
+          "label": "E",
+          "text": "Only reduced during inspiration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PEFR is the maximum flow rate achieved during forced expiration. In obstructive disease, airway narrowing limits the maximum achievable expiratory flow, reducing PEFR. This is visible as a lower peak on the expiratory limb of the flow-volume loop.",
+        "whyCorrect": "Airway obstruction directly limits how fast air can be expelled. The narrowed airways create higher resistance, reducing the peak flow rate during forced expiration. PEFR monitoring is commonly used in asthma management.",
+        "whyWrongByChoice": {
+          "A": "PEFR is decreased in obstruction because narrowed airways limit maximum flow. It is not increased.",
+          "C": "PEFR is abnormally reduced in obstructive disease, not normal.",
+          "D": "PEFR can be measured; it is simply reduced compared to predicted values.",
+          "E": "PEFR is an expiratory measurement. It is reduced during expiration, not inspiration."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "PEFR",
+        "obstructive"
+      ]
+    },
+    {
+      "id": "r09-016",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "The DLCO test uses carbon monoxide to measure diffusing capacity. This test is decreased in emphysema primarily because:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Airway resistance is increased"
+        },
+        {
+          "label": "B",
+          "text": "Destruction of alveolar capillary beds reduces the volume of blood available for gas uptake"
+        },
+        {
+          "label": "C",
+          "text": "CO₂ production is increased"
+        },
+        {
+          "label": "D",
+          "text": "Surfactant is overproduced"
+        },
+        {
+          "label": "E",
+          "text": "Bronchial smooth muscle is hypertrophied"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DLCO measures gas transfer across the alveolar-capillary membrane into RBCs. In emphysema, destruction of alveolar walls and their capillaries reduces the pulmonary capillary blood volume available to bind CO, decreasing DLCO.",
+        "whyCorrect": "Emphysema destroys alveolar septa and their associated capillary networks, reducing the total volume of RBCs in pulmonary capillaries. Since DLCO depends on both membrane diffusion and capillary blood volume, this destruction significantly lowers the measurement.",
+        "whyWrongByChoice": {
+          "A": "Airway resistance affects airflow mechanics but is not what DLCO measures. DLCO assesses gas transfer efficiency.",
+          "C": "CO₂ production is a metabolic parameter unrelated to DLCO measurement.",
+          "D": "Surfactant overproduction does not occur in emphysema and would not reduce DLCO.",
+          "E": "Smooth muscle hypertrophy is more characteristic of asthma and chronic bronchitis, not the alveolar wall destruction that reduces DLCO in emphysema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "DLCO",
+        "emphysema"
+      ]
+    },
+    {
+      "id": "r09-017",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "An FEV₁/FVC ratio is the most useful spirometric value for distinguishing obstructive from restrictive disease. In restrictive disease, this ratio is:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "<0.7"
+        },
+        {
+          "label": "B",
+          "text": "≥0.7 (normal or increased)"
+        },
+        {
+          "label": "C",
+          "text": "Always exactly 0.5"
+        },
+        {
+          "label": "D",
+          "text": "Not measurable"
+        },
+        {
+          "label": "E",
+          "text": "Greater than 1.0"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In restrictive disease, both FEV₁ and FVC decrease proportionally because the lungs are small but airways are normal. Since both numerator and denominator decrease equally, FEV₁/FVC remains ≥0.7 (often increased because the small lung volume generates relatively high recoil pressures).",
+        "whyCorrect": "Restrictive diseases reduce lung volumes without obstructing airways. FEV₁ and FVC decrease together, maintaining or even increasing their ratio. This distinguishes restriction (ratio ≥0.7) from obstruction (ratio <0.7).",
+        "whyWrongByChoice": {
+          "A": "FEV₁/FVC <0.7 defines obstructive disease, not restrictive.",
+          "C": "The ratio varies but is ≥0.7. It is not fixed at 0.5.",
+          "D": "The ratio is easily calculated from spirometry data.",
+          "E": "While the ratio can be >0.7, it does not exceed 1.0 under normal measurement conditions."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "FEV1/FVC",
+        "restrictive"
+      ]
+    },
+    {
+      "id": "r09-018",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "The residual volume exists because:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The diaphragm cannot fully relax"
+        },
+        {
+          "label": "B",
+          "text": "Surfactant prevents complete alveolar emptying"
+        },
+        {
+          "label": "C",
+          "text": "The chest wall cannot collapse beyond a certain point, leaving air trapped"
+        },
+        {
+          "label": "D",
+          "text": "The trachea closes during maximal expiration"
+        },
+        {
+          "label": "E",
+          "text": "Bronchial cartilage prevents airway compression"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Even during maximal forced expiration, the chest wall reaches a point where it cannot collapse further (its structural minimum volume). This physical limitation leaves approximately 1-1.2 L of air in the lungs that can never be exhaled. This residual volume prevents atelectasis.",
+        "whyCorrect": "The chest wall has an inherent structural limit to how far it can collapse. At residual volume, the outward elastic recoil of the chest wall equals or exceeds the forces driving expiration, preventing further air from being expelled.",
+        "whyWrongByChoice": {
+          "A": "The diaphragm does relax during expiration. RV exists because of chest wall structural limitations, not diaphragm function.",
+          "B": "Surfactant prevents alveolar collapse from surface tension but is not the reason RV exists.",
+          "D": "The trachea does not close during expiration. It is supported by cartilage rings.",
+          "E": "While cartilage supports larger airways, RV is determined by chest wall mechanics, not cartilage support."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "residual-volume",
+        "chest-wall"
+      ]
+    },
+    {
+      "id": "r09-019",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "A patient with asthma has normal baseline spirometry. Methacholine challenge shows a 25% drop in FEV₁. This result is:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Negative — no airway hyperreactivity"
+        },
+        {
+          "label": "B",
+          "text": "Positive — demonstrates airway hyperreactivity supportive of asthma"
+        },
+        {
+          "label": "C",
+          "text": "Inconclusive"
+        },
+        {
+          "label": "D",
+          "text": "Indicates restrictive disease"
+        },
+        {
+          "label": "E",
+          "text": "Normal response to methacholine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A ≥20% drop in FEV₁ after methacholine inhalation is a positive bronchoprovocation test, indicating airway hyperreactivity. This finding supports (but does not definitively confirm) a diagnosis of asthma.",
+        "whyCorrect": "A 25% FEV₁ drop exceeds the 20% threshold for a positive test, confirming airway hyperreactivity. This is supportive of asthma, though not diagnostic alone because some COPD patients also show hyperreactivity.",
+        "whyWrongByChoice": {
+          "A": "A ≥20% FEV₁ drop is a positive result. Negative would be <20% drop.",
+          "C": "The result clearly exceeds the 20% threshold and is definitively positive.",
+          "D": "Bronchoprovocation testing evaluates obstructive (not restrictive) physiology.",
+          "E": "Healthy individuals without airway hyperreactivity do not show a ≥20% FEV₁ drop with methacholine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "methacholine",
+        "positive-result",
+        "asthma"
+      ]
+    },
+    {
+      "id": "r09-020",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "The normal total lung capacity (TLC) in a healthy adult is approximately:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 liter"
+        },
+        {
+          "label": "B",
+          "text": "3 liters"
+        },
+        {
+          "label": "C",
+          "text": "6 liters"
+        },
+        {
+          "label": "D",
+          "text": "10 liters"
+        },
+        {
+          "label": "E",
+          "text": "15 liters"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Normal TLC in a healthy adult is approximately 6 liters. It varies with age, sex, and height. TLC is the maximum volume of air the lungs can hold after maximal inspiration.",
+        "whyCorrect": "TLC ≈ 6 liters in adults (2-4 liters in children). It is the sum of all four lung volumes: TV (~500 mL) + IRV (~3000 mL) + ERV (~1200 mL) + RV (~1200 mL).",
+        "whyWrongByChoice": {
+          "A": "1 liter is approximately the residual volume alone, not TLC.",
+          "B": "3 liters would be roughly the vital capacity in a smaller individual, not TLC.",
+          "D": "10 liters exceeds normal TLC significantly.",
+          "E": "15 liters is far beyond normal lung capacity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "TLC",
+        "normal-values"
+      ]
+    },
+    {
+      "id": "r09-021",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "Spirometry is indicated for which of the following clinical scenarios?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute myocardial infarction"
+        },
+        {
+          "label": "B",
+          "text": "Persistent cough and dyspnea to evaluate chronic respiratory disease"
+        },
+        {
+          "label": "C",
+          "text": "Acute appendicitis"
+        },
+        {
+          "label": "D",
+          "text": "Urinary tract infection"
+        },
+        {
+          "label": "E",
+          "text": "Migraine headache"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Spirometry is indicated for evaluating patients with persistent respiratory symptoms (cough, dyspnea, wheezing), diagnosing and monitoring chronic respiratory diseases (asthma, COPD), and assessing preoperative pulmonary risk.",
+        "whyCorrect": "Spirometry provides objective measurement of lung function in patients with respiratory symptoms. It helps diagnose obstructive vs restrictive disease, assess severity, monitor treatment response, and track disease progression.",
+        "whyWrongByChoice": {
+          "A": "Acute MI requires cardiac evaluation. Spirometry is not indicated for cardiac emergencies.",
+          "C": "Appendicitis is a surgical abdomen condition. Spirometry has no role.",
+          "D": "UTI is treated with antibiotics. It does not require pulmonary function assessment.",
+          "E": "Migraine is a neurological condition unrelated to pulmonary function."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "indications",
+        "spirometry"
+      ]
+    },
+    {
+      "id": "r09-022",
+      "topicId": "pulmonary-function-tests",
+      "topicName": "Pulmonary Function Tests",
+      "stem": "In COPD, the chest X-ray often shows hyperinflated lungs with flattened diaphragms. These findings correlate with which PFT abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased RV and TLC"
+        },
+        {
+          "label": "B",
+          "text": "Increased RV and TLC from air trapping"
+        },
+        {
+          "label": "C",
+          "text": "Normal lung volumes"
+        },
+        {
+          "label": "D",
+          "text": "Isolated increase in FEV₁"
+        },
+        {
+          "label": "E",
+          "text": "Decreased FRC with increased ERV"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hyperinflated lungs and flattened diaphragms on CXR reflect chronically elevated lung volumes from air trapping. PFTs confirm increased RV (trapped air) and TLC (total hyperinflation) — hallmarks of obstructive disease.",
+        "whyCorrect": "Air trapping in COPD prevents complete exhalation, increasing RV. The chronically increased RV raises TLC and FRC, causing the hyperinflation visible on imaging as flattened diaphragms, increased AP diameter, and widened intercostal spaces.",
+        "whyWrongByChoice": {
+          "A": "Decreased RV and TLC are seen in restrictive disease, not obstructive. Hyperinflation indicates increased volumes.",
+          "C": "The imaging findings clearly indicate abnormal, elevated lung volumes.",
+          "D": "FEV₁ is decreased in COPD, not increased.",
+          "E": "FRC is increased in COPD (not decreased) due to air trapping and loss of elastic recoil."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "PFT",
+        "COPD",
+        "hyperinflation",
+        "chest-X-ray"
+      ]
+    },
+    {
+      "id": "r09-023",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "The normal whole-lung V̇/Q̇ ratio is approximately:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.2"
+        },
+        {
+          "label": "B",
+          "text": "0.5"
+        },
+        {
+          "label": "C",
+          "text": "0.8"
+        },
+        {
+          "label": "D",
+          "text": "1.5"
+        },
+        {
+          "label": "E",
+          "text": "3.0"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The normal V̇/Q̇ ratio is approximately 0.8, reflecting alveolar ventilation of ~4 L/min and cardiac output (perfusion) of ~5 L/min. This indicates well-matched ventilation and perfusion for efficient gas exchange.",
+        "whyCorrect": "V̇/Q̇ = alveolar ventilation / pulmonary perfusion = 4 L/min / 5 L/min = 0.8. This near-unity ratio indicates good matching between air delivery and blood flow, optimizing oxygen uptake and CO₂ removal.",
+        "whyWrongByChoice": {
+          "A": "0.2 would indicate severe V/Q mismatch with perfusion greatly exceeding ventilation (shunt-like).",
+          "B": "0.5 would indicate suboptimal ventilation relative to perfusion. The normal ratio is closer to 0.8.",
+          "D": "1.5 would indicate ventilation exceeding perfusion (dead space-like). Normal is 0.8.",
+          "E": "3.0 is the approximate V/Q ratio at the lung apex, not the whole-lung average."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "normal-value"
+      ]
+    },
+    {
+      "id": "r09-024",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "In the upright lung, both ventilation and perfusion increase from apex to base. However, perfusion increases more dramatically than ventilation. As a result, the V̇/Q̇ ratio at the apex is:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low (<1.0)"
+        },
+        {
+          "label": "B",
+          "text": "Equal to the base"
+        },
+        {
+          "label": "C",
+          "text": "High (>3.0)"
+        },
+        {
+          "label": "D",
+          "text": "Zero"
+        },
+        {
+          "label": "E",
+          "text": "Exactly 0.8 everywhere"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At the apex, perfusion is minimal (gravity reduces blood flow) while ventilation is relatively preserved. This creates a high V̇/Q̇ ratio (>3.0). Conversely, the base has abundant perfusion relative to ventilation, producing a low V̇/Q̇ ratio (<1.0).",
+        "whyCorrect": "The apex receives little blood flow because the low-pressure right heart struggles to pump blood against gravity to the top of the lung. Ventilation, though also reduced at the apex, is less affected. The result is high V̇/Q̇ (well-ventilated, poorly perfused).",
+        "whyWrongByChoice": {
+          "A": "Low V̇/Q̇ characterizes the base, not the apex. The base has high perfusion relative to ventilation.",
+          "B": "The V̇/Q̇ ratio varies significantly from apex to base. It is not uniform throughout the lung.",
+          "D": "V̇/Q̇ = 0 would mean no ventilation (dead space = 0, but there IS ventilation at the apex). Zero V̇/Q̇ describes a pure shunt.",
+          "E": "V̇/Q̇ = 0.8 is the whole-lung average. Regional ratios vary from >3 (apex) to <1 (base)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "apex",
+        "gravity"
+      ]
+    },
+    {
+      "id": "r09-025",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "A V̇/Q̇ ratio approaching infinity represents which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shunt — perfusion without ventilation"
+        },
+        {
+          "label": "B",
+          "text": "Dead space — ventilation without perfusion"
+        },
+        {
+          "label": "C",
+          "text": "Normal gas exchange"
+        },
+        {
+          "label": "D",
+          "text": "Mixed obstructive and restrictive disease"
+        },
+        {
+          "label": "E",
+          "text": "Diffusion limitation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "V̇/Q̇ approaching infinity means ventilation is present but perfusion approaches zero. This is dead space — alveoli receive air but no blood flows past them, so no gas exchange occurs. This occurs in pulmonary embolism where blood flow is blocked.",
+        "whyCorrect": "When perfusion (the denominator) approaches zero while ventilation continues, V̇/Q̇ → ∞. The ventilated but unperfused alveoli function as dead space, wasting ventilation without contributing to gas exchange.",
+        "whyWrongByChoice": {
+          "A": "Shunt is the opposite: V̇/Q̇ = 0 (perfusion without ventilation). Blood passes through without being oxygenated.",
+          "C": "Normal gas exchange requires a V̇/Q̇ near 0.8, not infinity.",
+          "D": "Mixed disease refers to PFT patterns, not V/Q extremes.",
+          "E": "Diffusion limitation describes impaired gas transfer across the membrane, not a V/Q mismatch."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "dead-space",
+        "infinity"
+      ]
+    },
+    {
+      "id": "r09-026",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "A V̇/Q̇ ratio of zero represents which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dead space"
+        },
+        {
+          "label": "B",
+          "text": "Shunt — perfused but not ventilated"
+        },
+        {
+          "label": "C",
+          "text": "Normal V/Q matching"
+        },
+        {
+          "label": "D",
+          "text": "Hyperventilation"
+        },
+        {
+          "label": "E",
+          "text": "Emphysema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "V̇/Q̇ = 0 means perfusion is present (denominator >0) but ventilation is zero (numerator = 0). This is a shunt: blood flows through the lung without being ventilated or oxygenated, returning to the systemic circulation deoxygenated.",
+        "whyCorrect": "When ventilation is zero but perfusion continues, V̇/Q̇ = 0/Q̇ = 0. This is a true shunt. Blood bypasses ventilated alveoli and returns to the left heart deoxygenated. This cannot be corrected by supplemental oxygen because the blood never contacts alveolar gas.",
+        "whyWrongByChoice": {
+          "A": "Dead space is V̇/Q̇ → ∞ (ventilation without perfusion), the opposite of a shunt.",
+          "C": "Normal V/Q ≈ 0.8. A ratio of 0 is severely abnormal.",
+          "D": "Hyperventilation would increase V̇/Q̇ above normal, not reduce it to zero.",
+          "E": "Emphysema causes V/Q mismatch but not a true V̇/Q̇ of zero throughout."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "shunt",
+        "zero"
+      ]
+    },
+    {
+      "id": "r09-027",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "A patient with a large pulmonary embolism has a significant portion of the lung that is ventilated but not perfused. Which type of V/Q abnormality does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shunt (V̇/Q̇ = 0)"
+        },
+        {
+          "label": "B",
+          "text": "Dead space (V̇/Q̇ → ∞)"
+        },
+        {
+          "label": "C",
+          "text": "Normal V/Q matching"
+        },
+        {
+          "label": "D",
+          "text": "Diffusion limitation"
+        },
+        {
+          "label": "E",
+          "text": "Low V/Q mismatch"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pulmonary embolism blocks blood flow to ventilated alveoli, creating dead space (V̇/Q̇ → ∞). These alveoli receive air but no blood, so gas exchange cannot occur. This is wasted ventilation.",
+        "whyCorrect": "The clot prevents perfusion downstream while ventilation continues. The affected alveoli function as alveolar dead space: air enters and exits but no CO₂ is removed or O₂ is added to the blood because there is no blood flowing past.",
+        "whyWrongByChoice": {
+          "A": "Shunt (V̇/Q̇ = 0) is blood passing without being ventilated, the opposite of PE. PE blocks perfusion, not ventilation.",
+          "C": "PE causes significant V/Q mismatch. The affected regions have V̇/Q̇ → ∞.",
+          "D": "Diffusion limitation involves impaired gas transfer across the membrane, not absence of blood flow.",
+          "E": "Low V/Q (perfusion exceeding ventilation) characterizes regions like atelectasis or mucus plugging, not PE."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "pulmonary-embolism",
+        "dead-space"
+      ]
+    },
+    {
+      "id": "r09-028",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "A patient with pneumonia has consolidated alveoli that are perfused but not ventilated. Supplemental oxygen has limited benefit because:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The alveolar membrane is destroyed"
+        },
+        {
+          "label": "B",
+          "text": "Shunted blood bypasses ventilated alveoli and cannot be oxygenated regardless of FiO₂"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin is already fully saturated"
+        },
+        {
+          "label": "D",
+          "text": "The patient is hyperventilating"
+        },
+        {
+          "label": "E",
+          "text": "Dead space prevents oxygen from reaching the alveoli"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Consolidated (fluid-filled) alveoli cannot be ventilated, but blood continues to flow past them (intrapulmonary shunt, V̇/Q̇ = 0). Since the shunted blood never contacts alveolar oxygen, increasing FiO₂ cannot oxygenate it. This is why shunt is refractory to supplemental oxygen.",
+        "whyCorrect": "In a true shunt, blood passes through unventilated alveoli. No matter how much oxygen is delivered to other alveoli, the shunted blood returns deoxygenated. This is the hallmark of shunt: refractory hypoxemia that does not correct with supplemental O₂.",
+        "whyWrongByChoice": {
+          "A": "The membrane is not destroyed; it is covered by inflammatory exudate preventing ventilation. The membrane itself may be intact.",
+          "C": "In the setting of shunt, the mixed arterial blood has lower saturation than normal because deoxygenated shunted blood dilutes the oxygenated blood from healthy alveoli.",
+          "D": "Hyperventilation may occur as a compensatory response but does not explain why supplemental O₂ has limited benefit for the shunted blood.",
+          "E": "Dead space (ventilated but unperfused) is the opposite problem. The issue here is shunt (perfused but not ventilated)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "shunt",
+        "refractory-hypoxemia",
+        "pneumonia"
+      ]
+    },
+    {
+      "id": "r09-029",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "Hypoxic pulmonary vasoconstriction (HPV) serves to optimize V/Q matching by:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilating vessels in hypoxic regions to increase blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Constricting vessels in hypoxic regions to divert blood to better-ventilated areas"
+        },
+        {
+          "label": "C",
+          "text": "Increasing surfactant production in hypoxic alveoli"
+        },
+        {
+          "label": "D",
+          "text": "Stimulating hyperventilation"
+        },
+        {
+          "label": "E",
+          "text": "Blocking the cough reflex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HPV constricts pulmonary arterioles in poorly ventilated (hypoxic) lung regions. This redirects blood flow to well-ventilated areas where gas exchange is effective, minimizing the impact of V/Q mismatch on systemic oxygenation.",
+        "whyCorrect": "When alveolar PO₂ is low in a region, the surrounding arterioles constrict. This reduces blood flow to that poorly ventilated area and redirects it to better-ventilated regions, improving overall V/Q matching and systemic oxygenation.",
+        "whyWrongByChoice": {
+          "A": "Pulmonary vessels constrict (not dilate) in response to hypoxia. This is opposite to the systemic circulation, which dilates in hypoxia.",
+          "C": "HPV is a vascular response, not a surfactant response. It does not affect surfactant production.",
+          "D": "HPV is a local vascular response, not a centrally mediated ventilatory response.",
+          "E": "HPV has no connection to the cough reflex."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "HPV",
+        "V/Q-matching"
+      ]
+    },
+    {
+      "id": "r09-030",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "The high V̇/Q̇ ratio at the lung apex creates an oxygen-rich environment. This explains why which pathogen preferentially reactivates in the upper lobes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "E",
+          "text": "Klebsiella pneumoniae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "M. tuberculosis is an obligate aerobe that thrives in oxygen-rich environments. The lung apex has the highest V̇/Q̇ ratio (>3.0) with high alveolar PO₂ due to relatively preserved ventilation but minimal perfusion, creating ideal conditions for TB reactivation.",
+        "whyCorrect": "The high V̇/Q̇ ratio at the apex means more oxygen is delivered relative to blood flow, creating high alveolar PO₂. As an obligate aerobe, M. tuberculosis exploits this oxygen-rich environment, which is why TB characteristically reactivates in the upper lobes.",
+        "whyWrongByChoice": {
+          "A": "S. pneumoniae is a common cause of community-acquired pneumonia. It does not preferentially reactivate at the apex based on V/Q ratios.",
+          "C": "H. influenzae causes lower respiratory infections but does not have a specific predilection for the oxygen-rich apex.",
+          "D": "Pseudomonas typically affects immunocompromised patients and does not preferentially localize to the apex based on V/Q.",
+          "E": "Klebsiella pneumonia classically affects the upper lobes but from aspiration in alcoholics, not from V/Q-related oxygen enrichment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "tuberculosis",
+        "apex"
+      ]
+    },
+    {
+      "id": "r09-031",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "V̇/Q̇ mismatch that responds to supplemental oxygen is most consistent with:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "True right-to-left shunt"
+        },
+        {
+          "label": "B",
+          "text": "Low V̇/Q̇ regions with partial ventilation reduction"
+        },
+        {
+          "label": "C",
+          "text": "Dead space only"
+        },
+        {
+          "label": "D",
+          "text": "Normal V/Q matching"
+        },
+        {
+          "label": "E",
+          "text": "Fixed cardiac shunt"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Low V̇/Q̇ regions (poorly ventilated but perfused) respond to supplemental oxygen because increasing FiO₂ raises the PAO₂ in these partially ventilated alveoli, improving oxygenation. True shunt (V̇/Q̇ = 0) does not respond because the alveoli receive no ventilation at all.",
+        "whyCorrect": "In low V̇/Q̇ regions, ventilation is reduced but not absent. Supplemental O₂ increases alveolar PO₂ in these regions enough to improve blood oxygenation. This distinguishes V/Q mismatch from true shunt, which is refractory to supplemental O₂.",
+        "whyWrongByChoice": {
+          "A": "True right-to-left shunt is refractory to supplemental O₂ because shunted blood never contacts alveolar gas.",
+          "C": "Dead space is ventilated but not perfused. Supplemental O₂ does not help dead space because there is no blood to oxygenate.",
+          "D": "Normal V/Q matching does not cause hypoxemia requiring supplemental O₂.",
+          "E": "Fixed cardiac shunts (e.g., uncorrected right-to-left intracardiac shunt) are refractory to supplemental O₂."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-mismatch",
+        "supplemental-oxygen",
+        "response"
+      ]
+    },
+    {
+      "id": "r09-032",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "In the upright lung, both ventilation and perfusion are greatest at which region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apex"
+        },
+        {
+          "label": "B",
+          "text": "Middle"
+        },
+        {
+          "label": "C",
+          "text": "Base"
+        },
+        {
+          "label": "D",
+          "text": "Equally distributed"
+        },
+        {
+          "label": "E",
+          "text": "Hilum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gravity causes both ventilation and perfusion to increase from apex to base in the upright lung. The base receives the most blood flow (from hydrostatic pressure) and the most ventilation (from higher compliance of compressed basal alveoli), though perfusion increases more steeply.",
+        "whyCorrect": "At the base, hydrostatic pressure increases pulmonary blood flow, and the compressed basal alveoli have higher compliance, allowing greater expansion during inspiration. Both ventilation and perfusion are highest at the base, with perfusion increasing more dramatically.",
+        "whyWrongByChoice": {
+          "A": "The apex has the least ventilation and perfusion in the upright position due to gravity effects.",
+          "B": "The middle has intermediate values. The highest values are at the base.",
+          "D": "Gravity creates a non-uniform distribution. The base receives more of both.",
+          "E": "The hilum is where structures enter the lung. It is not a physiologic zone for V/Q distribution."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-distribution",
+        "base",
+        "gravity"
+      ]
+    },
+    {
+      "id": "r09-033",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "A patient with atelectasis has collapsed alveoli that are perfused but not ventilated. This creates a:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dead space effect"
+        },
+        {
+          "label": "B",
+          "text": "Intrapulmonary shunt"
+        },
+        {
+          "label": "C",
+          "text": "Normal V/Q match"
+        },
+        {
+          "label": "D",
+          "text": "High V/Q ratio"
+        },
+        {
+          "label": "E",
+          "text": "Increased DLCO"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atelectasis collapses alveoli, preventing ventilation while blood continues to flow past them. This creates an intrapulmonary shunt (V̇/Q̇ = 0): blood passes through the pulmonary capillaries without being oxygenated, mixing deoxygenated blood into the arterial supply.",
+        "whyCorrect": "Collapsed alveoli cannot be ventilated, so V̇ = 0. Blood flowing past these collapsed units returns deoxygenated, creating a right-to-left intrapulmonary shunt that contributes to hypoxemia.",
+        "whyWrongByChoice": {
+          "A": "Dead space is ventilated but not perfused — the opposite of atelectasis. In atelectasis, perfusion continues without ventilation.",
+          "C": "V/Q matching is disrupted because ventilation is zero while perfusion continues.",
+          "D": "High V/Q means good ventilation relative to perfusion (as at the apex). Atelectasis eliminates ventilation, producing V̇/Q̇ = 0.",
+          "E": "DLCO would not increase in atelectasis. Loss of functional alveolar surface area would tend to decrease it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "atelectasis",
+        "shunt"
+      ]
+    },
+    {
+      "id": "r09-034",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "The A-a gradient is elevated in V̇/Q̇ mismatch because:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PAO₂ is elevated above normal"
+        },
+        {
+          "label": "B",
+          "text": "PaO₂ is reduced due to mixing of blood from regions with different V/Q ratios"
+        },
+        {
+          "label": "C",
+          "text": "Bicarbonate is increased"
+        },
+        {
+          "label": "D",
+          "text": "PaCO₂ is always normal in V/Q mismatch"
+        },
+        {
+          "label": "E",
+          "text": "Surfactant deficiency impairs diffusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In V/Q mismatch, some lung regions have low V/Q (contributing poorly oxygenated blood) while others have high V/Q. The mixing of blood from these differently oxygenated regions results in a PaO₂ that is lower than the calculated PAO₂, widening the A-a gradient.",
+        "whyCorrect": "Blood from low V/Q regions has low PO₂ and mixes with blood from normal/high V/Q regions. Due to the sigmoid shape of the oxyhemoglobin curve, the poorly oxygenated blood disproportionately lowers the mixed arterial PaO₂, creating a wider A-a gradient.",
+        "whyWrongByChoice": {
+          "A": "PAO₂ is calculated using the alveolar gas equation and may be normal. The A-a gradient widens because PaO₂ falls, not because PAO₂ rises.",
+          "C": "Bicarbonate changes relate to metabolic processes, not directly to the A-a gradient widening from V/Q mismatch.",
+          "D": "PaCO₂ may be normal or abnormal in V/Q mismatch, depending on the degree of compensatory hyperventilation.",
+          "E": "Surfactant deficiency causes atelectasis, not V/Q mismatch per se. The A-a gradient elevation in V/Q mismatch is from blood mixing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-mismatch",
+        "A-a-gradient",
+        "blood-mixing"
+      ]
+    },
+    {
+      "id": "r09-035",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "At the lung base (West Zone 3), the V̇/Q̇ ratio is low (<1.0). The blood leaving this region has:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The highest PaO₂ and lowest PaCO₂ of any lung region"
+        },
+        {
+          "label": "B",
+          "text": "The lowest PaO₂ and highest PaCO₂ of any lung region"
+        },
+        {
+          "label": "C",
+          "text": "Normal PaO₂ and PaCO₂"
+        },
+        {
+          "label": "D",
+          "text": "The same blood gases as the apex"
+        },
+        {
+          "label": "E",
+          "text": "No oxygen at all"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The base has a low V̇/Q̇ ratio because perfusion greatly exceeds ventilation. The relative under-ventilation means less O₂ is delivered and less CO₂ is removed per unit of blood, resulting in the lowest PaO₂ and highest PaCO₂ of any lung region.",
+        "whyCorrect": "With abundant blood flow but relatively less ventilation, the base does not fully oxygenate all the blood passing through. O₂ is relatively depleted and CO₂ accumulates, giving the lowest PaO₂ and highest PaCO₂ compared to other zones.",
+        "whyWrongByChoice": {
+          "A": "The highest PaO₂ and lowest PaCO₂ characterize the apex, which has a high V̇/Q̇ ratio (well-ventilated, poorly perfused).",
+          "C": "The base has V̇/Q̇ <1.0, meaning blood gases deviate from normal — lower PaO₂ and higher PaCO₂ than the ideal V̇/Q̇ = 0.8 match.",
+          "D": "The apex and base have very different V̇/Q̇ ratios and therefore different blood gas values.",
+          "E": "The base still receives ventilation and oxygenates blood, just less efficiently than regions with higher V̇/Q̇ ratios."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "base",
+        "zone-3",
+        "blood-gases"
+      ]
+    },
+    {
+      "id": "r09-036",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "Which of the following causes of hypoxemia does NOT respond to supplemental oxygen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "V̇/Q̇ mismatch"
+        },
+        {
+          "label": "B",
+          "text": "Hypoventilation"
+        },
+        {
+          "label": "C",
+          "text": "High altitude"
+        },
+        {
+          "label": "D",
+          "text": "True right-to-left shunt"
+        },
+        {
+          "label": "E",
+          "text": "Diffusion impairment"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "True shunt is the only cause of hypoxemia that does not respond to supplemental oxygen. Shunted blood bypasses ventilated alveoli entirely, so no amount of supplemental O₂ can reach it. All other causes respond at least partially to increased FiO₂.",
+        "whyCorrect": "In a right-to-left shunt, blood passes from the right heart to the left without contacting alveolar gas. Since the blood never reaches ventilated alveoli, supplemental O₂ in those alveoli cannot oxygenate the shunted fraction. The only treatment is correcting the shunt.",
+        "whyWrongByChoice": {
+          "A": "V/Q mismatch responds to supplemental O₂ because the low V/Q regions still have some ventilation that can be augmented by higher FiO₂.",
+          "B": "Hypoventilation responds to supplemental O₂ because it increases PAO₂ per the alveolar gas equation, improving the diffusion gradient.",
+          "C": "High altitude hypoxemia responds dramatically to supplemental O₂, which directly increases PiO₂.",
+          "E": "Diffusion impairment responds to supplemental O₂ because increased PAO₂ steepens the diffusion gradient across the thickened membrane."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "shunt",
+        "refractory-hypoxemia",
+        "supplemental-oxygen"
+      ]
+    },
+    {
+      "id": "r09-037",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "A patient with COPD has both areas of V̇/Q̇ mismatch and increased dead space. The dead space component contributes primarily to:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypoxemia only"
+        },
+        {
+          "label": "B",
+          "text": "Hypercapnia from wasted ventilation"
+        },
+        {
+          "label": "C",
+          "text": "Metabolic acidosis"
+        },
+        {
+          "label": "D",
+          "text": "Increased DLCO"
+        },
+        {
+          "label": "E",
+          "text": "Left-to-right cardiac shunt"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Increased dead space means a larger fraction of each breath is wasted (ventilates regions without blood flow). This reduces the effective alveolar ventilation for CO₂ removal, leading to CO₂ retention (hypercapnia). The body may compensate by increasing respiratory rate.",
+        "whyCorrect": "Dead space ventilation is wasted — it does not contribute to gas exchange. When dead space increases, less of each breath effectively removes CO₂ from the blood. If the patient cannot increase minute ventilation sufficiently to compensate, PaCO₂ rises (hypercapnia).",
+        "whyWrongByChoice": {
+          "A": "While hypoxemia can result from V/Q mismatch, dead space specifically contributes to inefficient CO₂ removal (hypercapnia). Hypoxemia in COPD is more from the V/Q mismatch component.",
+          "C": "Metabolic acidosis arises from lactate or other non-volatile acid accumulation, not from dead space ventilation.",
+          "D": "Increased dead space does not increase DLCO. If anything, the underlying disease causing dead space may reduce DLCO.",
+          "E": "Dead space is a pulmonary V/Q abnormality, not a cardiac shunt."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "dead-space",
+        "hypercapnia",
+        "COPD"
+      ]
+    },
+    {
+      "id": "r09-038",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "An obese patient in the supine position undergoes general anesthesia. The dependent (posterior) lung regions develop atelectasis. The resulting V/Q abnormality is best described as:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dead space"
+        },
+        {
+          "label": "B",
+          "text": "Intrapulmonary shunt from perfused but unventilated atelectatic regions"
+        },
+        {
+          "label": "C",
+          "text": "Normal V/Q matching"
+        },
+        {
+          "label": "D",
+          "text": "High V/Q from hyperventilation"
+        },
+        {
+          "label": "E",
+          "text": "Diffusion limitation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atelectasis in dependent lung regions eliminates ventilation to those areas while perfusion continues (gravity directs blood flow to dependent regions). This creates intrapulmonary shunt (V̇/Q̇ = 0) and contributes to intraoperative and postoperative hypoxemia.",
+        "whyCorrect": "In the supine anesthetized patient, the weight of abdominal contents and reduced FRC promote atelectasis in posterior dependent regions. These regions receive the most blood flow (gravity) but no ventilation, creating shunt and hypoxemia.",
+        "whyWrongByChoice": {
+          "A": "Dead space is ventilated without perfusion. Atelectasis is the opposite — perfused without ventilation.",
+          "C": "V/Q matching is disrupted by the atelectasis creating shunt in dependent regions.",
+          "D": "General anesthesia reduces ventilation; it does not cause hyperventilation.",
+          "E": "Diffusion limitation describes impaired gas transfer across the membrane, not the mechanical collapse of atelectasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "atelectasis",
+        "shunt",
+        "anesthesia",
+        "supine"
+      ]
+    },
+    {
+      "id": "r09-039",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "Gravity causes perfusion to increase more steeply than ventilation from apex to base. The reason perfusion is more gravity-dependent is:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood is heavier than air"
+        },
+        {
+          "label": "B",
+          "text": "The pulmonary circulation is a low-pressure system where hydrostatic effects are proportionally larger"
+        },
+        {
+          "label": "C",
+          "text": "Ventilation is actively regulated while perfusion is passive"
+        },
+        {
+          "label": "D",
+          "text": "The base has more alveoli than the apex"
+        },
+        {
+          "label": "E",
+          "text": "Surfactant is concentrated at the base"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pulmonary circulation operates at low pressures (~15 mmHg mean PA pressure). Because baseline pressures are low, the hydrostatic pressure gradient from gravity (which can be ~10 cm H₂O from apex to base) represents a proportionally larger effect on perfusion distribution than on ventilation.",
+        "whyCorrect": "With mean PA pressure of only ~15 mmHg, the ~10 cmH₂O hydrostatic gradient from apex to base has a dramatic effect on blood flow distribution. For ventilation, the gradient affects pleural pressure less dramatically because the driving pressures for airflow are generated by larger muscle forces.",
+        "whyWrongByChoice": {
+          "A": "While blood is denser than air, the key factor is the low operating pressure of the pulmonary circulation making it more susceptible to hydrostatic effects.",
+          "C": "Both ventilation and perfusion are regulated. Perfusion's greater gravity sensitivity is due to the low-pressure system, not passive vs active regulation.",
+          "D": "The base does not have significantly more alveoli than the apex. The distribution difference is from pressure effects, not anatomy.",
+          "E": "Surfactant is distributed relatively uniformly. It does not explain the perfusion gradient."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-distribution",
+        "gravity",
+        "low-pressure"
+      ]
+    },
+    {
+      "id": "r09-040",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "A patient with a right lower lobe pneumonia develops intrapulmonary shunting. The A-a gradient in this patient would be:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal"
+        },
+        {
+          "label": "B",
+          "text": "Elevated"
+        },
+        {
+          "label": "C",
+          "text": "Decreased"
+        },
+        {
+          "label": "D",
+          "text": "Zero"
+        },
+        {
+          "label": "E",
+          "text": "Negative"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intrapulmonary shunting from pneumonia is an intrapulmonary cause of hypoxemia. Deoxygenated blood from the shunt mixes with oxygenated blood from healthy regions, lowering PaO₂ below PAO₂ and elevating the A-a gradient.",
+        "whyCorrect": "Shunted blood is not oxygenated, so when it mixes with oxygenated blood from healthy alveoli, the resulting PaO₂ is lower than PAO₂. The A-a gradient (PAO₂ - PaO₂) widens, indicating intrapulmonary gas exchange impairment.",
+        "whyWrongByChoice": {
+          "A": "A normal A-a gradient indicates extrapulmonary causes of hypoxemia (hypoventilation, low FiO₂). Shunt is intrapulmonary and elevates the gradient.",
+          "C": "The A-a gradient cannot decrease below the physiologic baseline from an intrapulmonary shunt.",
+          "D": "An A-a gradient of zero would mean perfect gas exchange with no physiologic shunt, which is impossible.",
+          "E": "A negative A-a gradient is physiologically impossible."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "shunt",
+        "A-a-gradient",
+        "pneumonia"
+      ]
+    },
+    {
+      "id": "r09-041",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "A 50-year-old man with sudden dyspnea and pleuritic chest pain has SpO₂ 87%, clear lungs, and a normal chest X-ray. CT angiography confirms pulmonary embolism. His hypoxemia responds to supplemental oxygen. This is because PE primarily causes:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "True right-to-left shunt"
+        },
+        {
+          "label": "B",
+          "text": "V̇/Q̇ mismatch and dead space, not pure shunt"
+        },
+        {
+          "label": "C",
+          "text": "Diffusion limitation from membrane thickening"
+        },
+        {
+          "label": "D",
+          "text": "Hypoventilation"
+        },
+        {
+          "label": "E",
+          "text": "Decreased hemoglobin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PE creates dead space (ventilated, unperfused) and redirects blood flow to other lung regions, creating V/Q mismatch. Since some ventilation is still present in these redistributed areas, supplemental O₂ improves oxygenation. PE does not typically create a true shunt.",
+        "whyCorrect": "PE blocks perfusion to certain regions (dead space) and redistributs blood to other areas, creating V/Q mismatch. The hypoxemia from V/Q mismatch responds to supplemental O₂ because the mismatch regions still have some ventilation that can be augmented with higher FiO₂.",
+        "whyWrongByChoice": {
+          "A": "True shunt would not respond to supplemental O₂. The improvement with O₂ indicates V/Q mismatch rather than shunt.",
+          "C": "PE does not cause membrane thickening. The hypoxemia is from V/Q mismatch and dead space.",
+          "D": "PE typically causes tachypnea (hyperventilation), not hypoventilation. PaCO₂ is often low or normal.",
+          "E": "PE does not affect hemoglobin concentration. The hypoxemia is from V/Q mismatch."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "pulmonary-embolism",
+        "V/Q-mismatch",
+        "oxygen-responsive"
+      ]
+    },
+    {
+      "id": "r09-042",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "Which West zone has the ideal V̇/Q̇ ratio closest to 0.8?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zone 1 (apex)"
+        },
+        {
+          "label": "B",
+          "text": "Zone 2 (middle)"
+        },
+        {
+          "label": "C",
+          "text": "Zone 3 (base)"
+        },
+        {
+          "label": "D",
+          "text": "All zones equally"
+        },
+        {
+          "label": "E",
+          "text": "No zone approaches 0.8"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Zone 2 (middle lung) has a V̇/Q̇ ratio closest to the ideal 0.8. The apex (Zone 1) has a high ratio (>3.0) and the base (Zone 3) has a low ratio (<1.0). The middle zone balances ventilation and perfusion most closely.",
+        "whyCorrect": "In the middle lung, the gravitational effects on both ventilation and perfusion are moderate, producing the best V/Q matching. The ideal ratio of approximately 0.8 is achieved in this transition zone between the over-ventilated apex and over-perfused base.",
+        "whyWrongByChoice": {
+          "A": "Zone 1 (apex) has a high V̇/Q̇ ratio (>3.0) due to minimal perfusion with preserved ventilation.",
+          "C": "Zone 3 (base) has a low V̇/Q̇ ratio (<1.0) due to perfusion greatly exceeding ventilation.",
+          "D": "V̇/Q̇ varies significantly across zones. It is not equal throughout.",
+          "E": "Zone 2 does approach the ideal V̇/Q̇ of 0.8."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "zone-2",
+        "ideal-ratio"
+      ]
+    },
+    {
+      "id": "r09-043",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "Alveolar ventilation (V̇A) at rest is approximately 4 L/min, and cardiac output (Q̇) is approximately 5 L/min. The whole-lung V̇/Q̇ ratio is therefore:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.4"
+        },
+        {
+          "label": "B",
+          "text": "0.8"
+        },
+        {
+          "label": "C",
+          "text": "1.0"
+        },
+        {
+          "label": "D",
+          "text": "1.25"
+        },
+        {
+          "label": "E",
+          "text": "5.0"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "V̇/Q̇ = V̇A / Q̇ = 4 L/min / 5 L/min = 0.8. This simple calculation gives the whole-lung average V/Q ratio under resting conditions.",
+        "whyCorrect": "The V̇/Q̇ ratio is the quotient of alveolar ventilation and cardiac output: 4/5 = 0.8. This represents well-matched ventilation and perfusion at the whole-lung level.",
+        "whyWrongByChoice": {
+          "A": "0.4 = 2/5, which would represent halved alveolar ventilation.",
+          "C": "1.0 would require equal ventilation and perfusion (e.g., 5/5). Normal alveolar ventilation is ~4 L/min, not 5.",
+          "D": "1.25 = 5/4, which would represent perfusion divided by ventilation (inverted ratio).",
+          "E": "5.0 is just the cardiac output value, not the ratio."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "V/Q-ratio",
+        "calculation"
+      ]
+    },
+    {
+      "id": "r09-044",
+      "topicId": "ventilation-perfusion",
+      "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+      "stem": "A patient with lobar pneumonia receives supplemental oxygen but PaO₂ remains critically low at 55 mmHg despite FiO₂ of 100%. The next appropriate intervention is:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Further increase FiO₂"
+        },
+        {
+          "label": "B",
+          "text": "PEEP or mechanical ventilation to recruit collapsed alveoli and reduce shunt"
+        },
+        {
+          "label": "C",
+          "text": "Bronchodilators"
+        },
+        {
+          "label": "D",
+          "text": "Diuretics"
+        },
+        {
+          "label": "E",
+          "text": "Inhaled nitric oxide only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Refractory hypoxemia despite 100% FiO₂ indicates significant shunt. PEEP (positive end-expiratory pressure) recruits collapsed or consolidated alveoli, converting shunt units to participating gas exchange units and reducing the shunt fraction. Mechanical ventilation may be needed for severe cases.",
+        "whyCorrect": "When hypoxemia does not respond to supplemental O₂, the problem is shunt (blood bypassing ventilated alveoli). PEEP keeps alveoli open at end-expiration, recruiting previously atelectatic or consolidated regions and reducing intrapulmonary shunt. This is the appropriate escalation.",
+        "whyWrongByChoice": {
+          "A": "FiO₂ is already at 100%. Further increase is not possible, and the shunt is already refractory to supplemental O₂.",
+          "C": "Bronchodilators treat airway obstruction. The problem here is alveolar consolidation creating shunt, not bronchospasm.",
+          "D": "Diuretics treat fluid overload/pulmonary edema. While they may help if edema coexists, they do not directly address the shunt from pneumonia consolidation.",
+          "E": "Inhaled nitric oxide vasodilates perfused ventilated regions but does not recruit collapsed alveoli. PEEP is the primary intervention for shunt reduction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "physiology",
+        "shunt",
+        "PEEP",
+        "refractory-hypoxemia",
+        "mechanical-ventilation"
+      ]
+    }
+  ]
+}

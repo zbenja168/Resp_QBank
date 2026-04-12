@@ -1,0 +1,3117 @@
+{
+  "categoryId": "resp-viral",
+  "categoryName": "Viral Infections",
+  "questions": [
+    {
+      "id": "r34-001",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Influenza virus is unique among RNA viruses because it replicates in a specific cellular compartment. Which of the following locations is the site of influenza virus replication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "Nucleus"
+        },
+        {
+          "label": "C",
+          "text": "Endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondria"
+        },
+        {
+          "label": "E",
+          "text": "Golgi apparatus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Almost all RNA viruses replicate in the cytoplasm, but orthomyxoviruses (influenza) and retroviruses are exceptions that replicate in the nucleus.",
+        "whyCorrect": "Influenza viruses (Orthomyxoviridae) are one of the rare RNA viruses that replicate in the nucleus. Almost all other RNA viruses replicate in the cytoplasm. Retroviruses are the other major exception. This nuclear replication is an important distinguishing feature of influenza biology.",
+        "whyWrongByChoice": {
+          "A": "The cytoplasm is where most RNA viruses replicate, but influenza is a notable exception that replicates in the nucleus.",
+          "C": "The ER is involved in protein processing and lipid synthesis but is not the primary replication site for influenza.",
+          "D": "Mitochondria are not the site of viral replication for any human pathogenic virus.",
+          "E": "The Golgi apparatus processes and packages proteins but is not the site of influenza genome replication."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "nucleus",
+        "replication",
+        "orthomyxovirus"
+      ]
+    },
+    {
+      "id": "r34-002",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "A 2-year-old child presents with barking cough, inspiratory stridor that worsens at night, and rhinorrhea. AP neck X-ray shows subglottic tracheal narrowing ('steeple sign'). Which of the following is the most likely causative agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Respiratory syncytial virus"
+        },
+        {
+          "label": "B",
+          "text": "Influenza A virus"
+        },
+        {
+          "label": "C",
+          "text": "Parainfluenza virus"
+        },
+        {
+          "label": "D",
+          "text": "Human metapneumovirus"
+        },
+        {
+          "label": "E",
+          "text": "Haemophilus influenzae type b"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PIV causes 60-75% of croup (laryngotracheobronchitis). Croup presents with barking cough, wheezing, and stridor worsening at night, with the 'steeple sign' on AP neck X-ray representing subglottic tracheal narrowing.",
+        "whyCorrect": "Parainfluenza virus (PIV) causes 60-75% of croup (laryngotracheobronchitis). Croup manifests as mild URT symptoms progressing to barking cough, wheezing, and stridor that worsens at night. The 'steeple sign' on AP neck X-ray shows subglottic tracheal narrowing from laryngeal inflammation. Treatment includes corticosteroids and nebulized epinephrine.",
+        "whyWrongByChoice": {
+          "A": "RSV primarily causes bronchiolitis and pneumonia in infants <1 year. While it can cause croup, PIV is the predominant cause (60-75%).",
+          "B": "Influenza can cause croup but is a much less common cause than PIV. Influenza presents with abrupt onset of high fever and myalgias.",
+          "D": "MPV clinically overlaps with RSV and causes bronchiolitis/pneumonia. It is not the primary cause of croup.",
+          "E": "H. influenzae type b causes epiglottitis (thumbprint sign), not croup (steeple sign). These are distinct clinical entities."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PIV",
+        "croup",
+        "steeple-sign",
+        "barking-cough",
+        "laryngotracheobronchitis"
+      ]
+    },
+    {
+      "id": "r34-003",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Oseltamivir is the first-line antiviral for influenza. Which of the following best describes its mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks hemagglutinin binding to sialic acid"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits neuraminidase, preventing viral release"
+        },
+        {
+          "label": "C",
+          "text": "Blocks the M2 proton channel"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits viral RNA-dependent RNA polymerase"
+        },
+        {
+          "label": "E",
+          "text": "Prevents viral uncoating in the endosome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oseltamivir is a neuraminidase inhibitor that blocks the viral neuraminidase enzyme, preventing release of newly formed viral particles from infected host cells. This reduces viral spread to neighboring cells.",
+        "whyCorrect": "Oseltamivir inhibits the viral neuraminidase (NA) enzyme, which is responsible for cleaving sialic acid residues and releasing newly formed viral particles from infected host cells. By blocking viral release, oseltamivir reduces spread to neighboring cells and slows infection progression. Early treatment reduces symptom duration and complication risk.",
+        "whyWrongByChoice": {
+          "A": "Blocking hemagglutinin binding would prevent viral entry, not release. Oseltamivir targets neuraminidase (viral release), not hemagglutinin (viral entry).",
+          "C": "Blocking the M2 proton channel is the mechanism of amantadine/rimantadine, older anti-influenza drugs now largely unused due to widespread resistance. M2 maintains pH for viral uncoating.",
+          "D": "Inhibiting RNA-dependent RNA polymerase is the mechanism of baloxavir marboxil, a newer anti-influenza drug, not oseltamivir.",
+          "E": "Preventing viral uncoating relates to M2 channel function (amantadine mechanism), not neuraminidase inhibition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "oseltamivir",
+        "neuraminidase-inhibitor",
+        "influenza",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r34-004",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "A 6-month-old infant presents with cough, wheezing, tachypnea, and poor feeding during winter. PCR confirms a viral lower respiratory infection. Which of the following is the most common cause of bronchiolitis and pneumonia in children under 1 year of age?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza A"
+        },
+        {
+          "label": "B",
+          "text": "Parainfluenza virus"
+        },
+        {
+          "label": "C",
+          "text": "Respiratory syncytial virus"
+        },
+        {
+          "label": "D",
+          "text": "Human metapneumovirus"
+        },
+        {
+          "label": "E",
+          "text": "Rhinovirus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "RSV is the most common cause of viral pneumonia in young children (<5) and the most common cause of bronchiolitis and pneumonia in children under 1 year. Classic presentation includes cough, wheezing, tachypnea, and poor feeding.",
+        "whyCorrect": "RSV is the most common cause of both pneumonia and bronchiolitis in children under 1 year of age, and the most common cause of viral pneumonia in young children (<5). RSV classically presents in infants with cough, wheezing, tachypnea, and poor feeding. Approximately 2-3% of infants with RSV require hospitalization. RSV season peaks in winter.",
+        "whyWrongByChoice": {
+          "A": "Influenza causes viral pneumonia predominantly in adults (especially elderly). While infants are at risk, RSV is the most common viral cause of bronchiolitis/pneumonia in those <1 year.",
+          "B": "PIV primarily causes croup (laryngotracheobronchitis), not bronchiolitis. While it can cause LRT infections, RSV is the leading cause of bronchiolitis in infants.",
+          "D": "MPV clinically overlaps with RSV but causes fewer infections and hospitalizations overall. RSV is more common in this age group.",
+          "E": "Rhinovirus causes the common cold and can trigger wheezing, but RSV is the most common cause of bronchiolitis and pneumonia in infants."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RSV",
+        "bronchiolitis",
+        "infant",
+        "pneumonia",
+        "winter"
+      ]
+    },
+    {
+      "id": "r34-005",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Antigenic shift in influenza virus occurs through reassortment of genomic segments. Which of the following features of the influenza genome enables this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circular double-stranded DNA genome"
+        },
+        {
+          "label": "B",
+          "text": "Segmented negative-sense ssRNA genome"
+        },
+        {
+          "label": "C",
+          "text": "Non-segmented positive-sense ssRNA genome"
+        },
+        {
+          "label": "D",
+          "text": "Segmented double-stranded RNA genome"
+        },
+        {
+          "label": "E",
+          "text": "Linear double-stranded DNA with repeat elements"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Influenza viruses have a segmented negative-sense ssRNA genome (8 segments for types A and B). Segmentation allows reassortment when two different strains co-infect the same cell, potentially leading to antigenic shift in influenza A.",
+        "whyCorrect": "Influenza viruses are segmented (-)ssRNA viruses with 8 genomic segments. This segmentation allows reassortment (Figure 1 in the brick)\u00e2\u20ac\u201dwhen two different influenza strains co-infect the same cell, their segments can be repackaged into new combinations, potentially creating novel variants. In influenza A, reassortment between human and avian/swine strains drives antigenic shift.",
+        "whyWrongByChoice": {
+          "A": "Influenza does not have a circular dsDNA genome. It has linear, segmented, negative-sense ssRNA.",
+          "C": "Non-segmented genomes (like paramyxoviruses and pneumoviruses) cannot undergo reassortment. Segmentation is required.",
+          "D": "Reoviruses have segmented dsRNA genomes, not influenza. Influenza is ssRNA.",
+          "E": "Influenza is an RNA virus, not a DNA virus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "segmented-genome",
+        "reassortment",
+        "antigenic-shift"
+      ]
+    },
+    {
+      "id": "r34-006",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Only influenza A undergoes antigenic shift despite all influenza viruses being capable of reassortment. Which of the following best explains this discrepancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza B lacks a segmented genome"
+        },
+        {
+          "label": "B",
+          "text": "Influenza A has a broader host range with more diverse strains"
+        },
+        {
+          "label": "C",
+          "text": "Influenza B cannot infect respiratory epithelial cells"
+        },
+        {
+          "label": "D",
+          "text": "Influenza A has more genomic segments than influenza B"
+        },
+        {
+          "label": "E",
+          "text": "Influenza B lacks neuraminidase on its surface"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Influenza B circulates only in humans, so genetic differences between B strains are relatively small. Influenza A has a broad host range (humans, birds, pigs), allowing reassortment between highly diverse strains, producing truly novel antigenic combinations (antigenic shift).",
+        "whyCorrect": "Influenza B circulates only in humans, so genetic differences between B strains are relatively small. While reassortment can technically happen between two human B strains, the resulting changes are not dramatic enough to constitute antigenic shift. Influenza A has a broad host range including humans, birds, and pigs, so co-infection with highly diverse strains (e.g., avian + human) can produce completely novel HA/NA combinations.",
+        "whyWrongByChoice": {
+          "A": "Both influenza A and B have segmented genomes (8 segments each). B is capable of reassortment; it just doesn't produce shift because of limited strain diversity.",
+          "C": "Influenza B does infect respiratory epithelial cells and causes clinical influenza in humans.",
+          "D": "Both influenza A and B have 8 genomic segments. The number of segments is the same.",
+          "E": "Influenza B does have neuraminidase on its surface. The difference is in host range diversity, not surface protein presence."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "antigenic-shift",
+        "influenza-A",
+        "host-range",
+        "reassortment"
+      ]
+    },
+    {
+      "id": "r34-007",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "The influenza vaccine must be reformulated annually. Which viral surface protein is the primary target of the antibodies generated by the vaccine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neuraminidase (NA)"
+        },
+        {
+          "label": "B",
+          "text": "Matrix protein 2 (M2)"
+        },
+        {
+          "label": "C",
+          "text": "Hemagglutinin (HA)"
+        },
+        {
+          "label": "D",
+          "text": "Nucleoprotein (NP)"
+        },
+        {
+          "label": "E",
+          "text": "Fusion (F) protein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "All influenza vaccines generate antibody responses primarily against hemagglutinin (HA). Because mutations in HA are common (antigenic drift), the vaccine must be reformulated annually to target circulating strains.",
+        "whyCorrect": "Influenza vaccines generate antibody responses primarily against hemagglutinin (HA), the surface glycoprotein responsible for viral entry by binding sialic acid residues on host cells. Because HA undergoes frequent mutations (antigenic drift), the vaccine must be updated annually to match currently circulating strains. Most formulations cover 2 influenza A and 2 influenza B types.",
+        "whyWrongByChoice": {
+          "A": "While neuraminidase is a surface protein and drug target, HA is the primary antigenic target of influenza vaccines.",
+          "B": "M2 is an integral membrane protein (proton channel) that is the target of amantadine, not the primary vaccine antigen.",
+          "D": "Nucleoprotein is an internal viral protein used for typing influenza A vs. B but is not the primary surface antigen targeted by vaccines.",
+          "E": "Fusion (F) protein is the target of RSV vaccines, not influenza vaccines."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "influenza-vaccine",
+        "hemagglutinin",
+        "annual-update",
+        "antigenic-drift"
+      ]
+    },
+    {
+      "id": "r34-008",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "A pregnant woman at 34 weeks gestation asks about protecting her newborn from RSV. RSV vaccines generate antibodies against which viral protein?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemagglutinin"
+        },
+        {
+          "label": "B",
+          "text": "Neuraminidase"
+        },
+        {
+          "label": "C",
+          "text": "Spike protein"
+        },
+        {
+          "label": "D",
+          "text": "Fusion (F) protein"
+        },
+        {
+          "label": "E",
+          "text": "Capsid protein"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "RSV vaccines target the F (fusion) protein, which causes host cells to fuse and form syncytia. Maternal vaccination during pregnancy produces IgG that crosses the placenta to protect the neonate.",
+        "whyCorrect": "RSV vaccines (both recombinant and mRNA formulations) generate antibodies against the F (fusion) protein, the glycoprotein responsible for causing host cells to fuse together and form syncytia (giving RSV its name). Vaccination of pregnant individuals between 32-36 weeks gestation induces IgG production that crosses the placenta and provides ~80% protection against severe RSV in the first 3 months of life.",
+        "whyWrongByChoice": {
+          "A": "Hemagglutinin is the target of influenza vaccines, not RSV vaccines.",
+          "B": "Neuraminidase is the target of oseltamivir (influenza treatment), not RSV vaccines.",
+          "C": "Spike protein is the target of COVID-19/SARS-CoV-2 vaccines, not RSV vaccines.",
+          "E": "RSV is an enveloped virus; its vaccine targets the surface F protein, not a capsid protein."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "RSV-vaccine",
+        "F-protein",
+        "maternal",
+        "pregnancy",
+        "passive-immunity"
+      ]
+    },
+    {
+      "id": "r34-009",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Nirsevimab is recommended for neonates whose mothers did not receive the RSV vaccine. Which of the following best describes this agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Live attenuated RSV vaccine"
+        },
+        {
+          "label": "B",
+          "text": "Neuraminidase inhibitor"
+        },
+        {
+          "label": "C",
+          "text": "RSV-specific monoclonal antibody"
+        },
+        {
+          "label": "D",
+          "text": "Broad-spectrum antiviral nucleoside analog"
+        },
+        {
+          "label": "E",
+          "text": "Inactivated RSV vaccine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nirsevimab is an RSV-specific monoclonal antibody that provides passive immunization for neonates. It is recommended for infants born during or entering their first RSV season when maternal vaccination was not given.",
+        "whyCorrect": "Nirsevimab is an RSV-specific monoclonal antibody that provides passive immunization for neonates. It is recommended for infants aged less than 8 months born during or entering their first RSV season, when the mother did not receive the RSV vaccine during pregnancy. If the mother was vaccinated, the infant does not need nirsevimab (maternal IgG provides sufficient protection).",
+        "whyWrongByChoice": {
+          "A": "Nirsevimab is a monoclonal antibody (passive immunization), not a live vaccine (active immunization).",
+          "B": "Neuraminidase inhibitors (oseltamivir) are used for influenza treatment, not RSV prophylaxis.",
+          "D": "Ribavirin is a broad-spectrum nucleoside analog sometimes used for severe RSV, but nirsevimab is a monoclonal antibody, not an antiviral.",
+          "E": "Nirsevimab is not an inactivated vaccine. It is a preformed monoclonal antibody providing immediate passive protection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nirsevimab",
+        "monoclonal-antibody",
+        "RSV",
+        "passive-immunization",
+        "neonate"
+      ]
+    },
+    {
+      "id": "r34-010",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "RT-PCR is the gold standard diagnostic test for respiratory viruses. However, a faster but less accurate test can detect influenza antigens in under 15 minutes. What is this rapid test called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cold agglutinin test"
+        },
+        {
+          "label": "B",
+          "text": "Rapid influenza diagnostic test (RIDT)"
+        },
+        {
+          "label": "C",
+          "text": "Urine antigen test"
+        },
+        {
+          "label": "D",
+          "text": "IFN-\u00ce\u00b3 release assay"
+        },
+        {
+          "label": "E",
+          "text": "Galactomannan antigen test"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rapid influenza diagnostic tests (RIDTs) can detect influenza antigens in less than 15 minutes but are both less sensitive and less specific than PCR.",
+        "whyCorrect": "RIDTs are point-of-care tests that detect influenza antigens in less than 15 minutes. They are useful for rapid clinical decision-making but have lower sensitivity and specificity than RT-PCR. False negatives are possible, so a negative RIDT does not rule out influenza in a clinically suspicious case.",
+        "whyWrongByChoice": {
+          "A": "Cold agglutinin tests were historically associated with Mycoplasma pneumoniae, not influenza.",
+          "C": "Urine antigen tests are used for Legionella and S. pneumoniae, not influenza.",
+          "D": "IFN-\u00ce\u00b3 release assays (IGRA) are used for TB screening, not influenza diagnosis.",
+          "E": "Galactomannan antigen tests detect Aspergillus and Histoplasma, not influenza."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RIDT",
+        "influenza",
+        "rapid-test",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "r34-011",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Hemagglutinin (HA) on the influenza virus binds to which of the following host cell surface molecules to initiate viral entry?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ACE2 receptors"
+        },
+        {
+          "label": "B",
+          "text": "CD4 receptors"
+        },
+        {
+          "label": "C",
+          "text": "Sialic acid residues"
+        },
+        {
+          "label": "D",
+          "text": "Complement receptors"
+        },
+        {
+          "label": "E",
+          "text": "Toll-like receptor 4"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hemagglutinin (HA) binds sialic acid residues on epithelial cells lining the respiratory tract, initiating viral entry into host cells.",
+        "whyCorrect": "HA binds sialic acid residues found on the surface of epithelial cells lining the respiratory tract, allowing the virus to attach and enter host cells. This is the first step in the influenza virus life cycle. NA later cleaves these same sialic acid residues to release new viral particles.",
+        "whyWrongByChoice": {
+          "A": "ACE2 receptors are used by SARS-CoV-2 (coronavirus) for cell entry, not influenza.",
+          "B": "CD4 receptors are used by HIV for entry into T helper cells, not influenza.",
+          "D": "Complement receptors are involved in innate immune recognition, not influenza virus entry.",
+          "E": "TLR4 is a pattern recognition receptor for LPS and some viral proteins, but it is not the receptor for influenza viral entry."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hemagglutinin",
+        "sialic-acid",
+        "viral-entry",
+        "influenza"
+      ]
+    },
+    {
+      "id": "r34-012",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "A patient with severe RSV infection who is immunocompromised may receive ribavirin. Which of the following best describes ribavirin's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits neuraminidase enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Blocks M2 proton channel"
+        },
+        {
+          "label": "C",
+          "text": "Nucleoside analog that inhibits viral RNA synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Monoclonal antibody against F protein"
+        },
+        {
+          "label": "E",
+          "text": "Protease inhibitor blocking viral assembly"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ribavirin is a broad-spectrum nucleoside analog that inhibits viral replication by mimicking purine nucleotides. It becomes incorporated into viral RNA, halting elongation and reducing viral replication.",
+        "whyCorrect": "Ribavirin is a broad-spectrum nucleoside analog that inhibits viral replication by interfering with nucleic acid synthesis. It mimics purine nucleotides and becomes incorporated into viral RNA, ultimately halting elongation and reducing viral replication. It may be used in select severe RSV cases, particularly in immunocompromised patients.",
+        "whyWrongByChoice": {
+          "A": "Neuraminidase inhibition is the mechanism of oseltamivir for influenza, not ribavirin for RSV.",
+          "B": "M2 proton channel blockade is the mechanism of amantadine for influenza, not ribavirin.",
+          "D": "Monoclonal antibodies against F protein include nirsevimab and palivizumab. Ribavirin is a small molecule antiviral, not an antibody.",
+          "E": "Protease inhibitors are used for HIV and HCV treatment, not RSV."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ribavirin",
+        "nucleoside-analog",
+        "RSV",
+        "antiviral"
+      ]
+    },
+    {
+      "id": "r34-013",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "A child with croup is treated with corticosteroids and nebulized epinephrine. Which of the following is the primary goal of these treatments?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eradicate the viral infection"
+        },
+        {
+          "label": "B",
+          "text": "Reduce airway inflammation and edema"
+        },
+        {
+          "label": "C",
+          "text": "Prevent secondary bacterial infection"
+        },
+        {
+          "label": "D",
+          "text": "Stimulate antiviral immune response"
+        },
+        {
+          "label": "E",
+          "text": "Block viral neuraminidase activity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Croup treatment with corticosteroids and nebulized epinephrine aims to reduce airway inflammation and edema. No specific antiviral therapy exists for PIV; management is supportive.",
+        "whyCorrect": "PIV infections causing croup are managed with supportive care, as no specific antiviral therapy exists. Corticosteroids reduce airway inflammation, and nebulized epinephrine decreases airway edema and improves airflow. The goal is to relieve the subglottic swelling causing stridor and respiratory distress, not to treat the virus directly.",
+        "whyWrongByChoice": {
+          "A": "These treatments do not eradicate the virus. No specific antiviral therapy is routinely recommended for PIV.",
+          "C": "Corticosteroids and epinephrine are used for airway management, not antibiotic prophylaxis against secondary bacterial infection.",
+          "D": "Corticosteroids actually suppress rather than stimulate the immune response. The goal is to reduce inflammation, not enhance antiviral immunity.",
+          "E": "Neuraminidase inhibitors (oseltamivir) are used for influenza. PIV does not have neuraminidase, and these treatments work through anti-inflammatory mechanisms."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "croup",
+        "corticosteroids",
+        "epinephrine",
+        "supportive-care"
+      ]
+    },
+    {
+      "id": "r34-014",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "A 34-year-old school teacher presents with abrupt onset of high fever, severe myalgias, headache, and dry cough. She has multiple sick contacts at work. Symptoms began less than 24 hours ago. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Empiric antibiotics for bacterial pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "PCR/RIDT testing and consider oseltamivir"
+        },
+        {
+          "label": "C",
+          "text": "Chest X-ray and sputum culture"
+        },
+        {
+          "label": "D",
+          "text": "Observation only with follow-up in 1 week"
+        },
+        {
+          "label": "E",
+          "text": "Bronchoscopy with BAL"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This presentation (abrupt onset, high fever, severe myalgias, dry cough, sick contacts, <48 hours) is classic for influenza. The next step is diagnostic testing (PCR or RIDT) and consideration of oseltamivir, which is most effective when started within 48 hours.",
+        "whyCorrect": "The abrupt onset of high fever, severe myalgias, headache, and dry cough with multiple sick contacts is classic for influenza. Since symptoms began <24 hours ago, the patient is within the optimal treatment window. PCR or RIDT should be performed to confirm, and oseltamivir should be considered given her systemic illness and exposure to vulnerable populations (school-age children).",
+        "whyWrongByChoice": {
+          "A": "The presentation is more consistent with viral (influenza) than bacterial pneumonia. Empiric antibiotics without considering influenza testing would miss the appropriate antiviral treatment window.",
+          "C": "While chest X-ray may be warranted in severe cases, the immediate priority is influenza testing and antiviral consideration given the <48 hour window.",
+          "D": "Observation alone would waste the critical treatment window for oseltamivir (<48 hours from symptom onset). Active management is appropriate.",
+          "E": "Bronchoscopy is invasive and unnecessary for this clinical presentation. Nasopharyngeal PCR or RIDT is sufficient for diagnosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "oseltamivir",
+        "RIDT",
+        "early-treatment"
+      ]
+    },
+    {
+      "id": "r34-015",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "The M2 protein of influenza virus serves as a proton channel. Which of the following is its primary function in the viral life cycle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleaving sialic acid for viral release"
+        },
+        {
+          "label": "B",
+          "text": "Binding host cell receptors for entry"
+        },
+        {
+          "label": "C",
+          "text": "Maintaining pH for viral uncoating"
+        },
+        {
+          "label": "D",
+          "text": "Encoding the viral RNA polymerase"
+        },
+        {
+          "label": "E",
+          "text": "Forming the viral capsid structure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "M2 is an integral membrane protein that acts as a proton channel, maintaining the correct pH needed for the virus to fuse with the host cell envelope and uncoat once inside host cells.",
+        "whyCorrect": "M2 is a proton channel that maintains the correct pH needed for the virus to fuse with the host cell envelope and properly uncoat once inside host cells. It connects the viral envelope to the capsid and is essential for the early stages of viral replication after cell entry.",
+        "whyWrongByChoice": {
+          "A": "Cleaving sialic acid for viral release is the function of neuraminidase (NA), not M2.",
+          "B": "Binding host cell receptors for entry is the function of hemagglutinin (HA), not M2.",
+          "D": "M2 is a structural protein, not a polymerase gene. The viral RNA polymerase is encoded by other genomic segments.",
+          "E": "M2 connects the envelope to the capsid but does not form the capsid structure itself."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "M2-protein",
+        "proton-channel",
+        "uncoating",
+        "influenza"
+      ]
+    },
+    {
+      "id": "r34-016",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Influenza virus is more likely than bacterial pathogens to show which of the following radiographic patterns on chest CT?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense lobar consolidation with air bronchograms"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral multifocal ground-glass opacities"
+        },
+        {
+          "label": "C",
+          "text": "Cavitary lesion with air-fluid level"
+        },
+        {
+          "label": "D",
+          "text": "Unilateral hilar lymphadenopathy"
+        },
+        {
+          "label": "E",
+          "text": "Right middle lobe atelectasis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Influenza pneumonia most commonly shows bilateral multifocal ground-glass opacities on CT (up to 85% of patients), consistent with interstitial pneumonia. Lobar consolidation or cavitation suggests secondary bacterial pneumonia.",
+        "whyCorrect": "Like most viruses, influenza presents with interstitial pneumonia. The predominant CT finding is unilateral or bilateral multifocal ground-glass opacities (seen in up to 85% of patients). Lobar consolidation, focal consolidation, and cavitation suggest secondary bacterial pneumonia rather than primary influenza viral pneumonia.",
+        "whyWrongByChoice": {
+          "A": "Dense lobar consolidation with air bronchograms is the classic pattern of bacterial lobar pneumonia (S. pneumoniae), not viral influenza pneumonia.",
+          "C": "A cavitary lesion with air-fluid level suggests lung abscess, typically from aspiration or S. aureus/anaerobic infection, not primary influenza.",
+          "D": "Unilateral hilar lymphadenopathy is more associated with TB (Ghon complex), sarcoidosis, or lymphoma, not influenza.",
+          "E": "Right middle lobe atelectasis is not a characteristic finding of influenza pneumonia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "ground-glass",
+        "CT",
+        "interstitial-pneumonia"
+      ]
+    },
+    {
+      "id": "r34-017",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "MPV infections clinically overlap most closely with which of the following viruses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza A"
+        },
+        {
+          "label": "B",
+          "text": "Parainfluenza virus"
+        },
+        {
+          "label": "C",
+          "text": "Respiratory syncytial virus"
+        },
+        {
+          "label": "D",
+          "text": "Rhinovirus"
+        },
+        {
+          "label": "E",
+          "text": "SARS-CoV-2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Human metapneumovirus (MPV) infections clinically overlap with RSV. Both can cause bronchiolitis and pneumonia, present with cough, congestion, and wheezing, and primarily affect young children, elderly, and immunocompromised.",
+        "whyCorrect": "MPV infections clinically overlap with RSV. Both can cause URT and LRT infections including bronchiolitis and pneumonia. Patients present with cough, congestion, and wheezing. Like RSV, severe MPV infections are most likely in young children, the elderly, and the immunocompromised. MPV causes fewer infections and hospitalizations than RSV but is still a significant cause of pediatric respiratory illness.",
+        "whyWrongByChoice": {
+          "A": "Influenza presents distinctly with abrupt onset of high fever, severe myalgias, and headache. MPV has more overlap with RSV than influenza.",
+          "B": "PIV primarily causes croup (barking cough, stridor, steeple sign). MPV's clinical overlap is with RSV (bronchiolitis, pneumonia), not croup.",
+          "D": "Rhinovirus causes the common cold, which is milder than MPV's potential for bronchiolitis and pneumonia.",
+          "E": "SARS-CoV-2 has a distinct clinical profile including anosmia and specific CT findings (will be covered in the Coronaviridae brick)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MPV",
+        "RSV",
+        "clinical-overlap",
+        "bronchiolitis"
+      ]
+    },
+    {
+      "id": "r34-018",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "An infant born in October has not received the RSV vaccine through maternal vaccination. Nirsevimab is administered. Which of the following best describes the type of immunity provided?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active natural immunity"
+        },
+        {
+          "label": "B",
+          "text": "Active artificial immunity"
+        },
+        {
+          "label": "C",
+          "text": "Passive natural immunity"
+        },
+        {
+          "label": "D",
+          "text": "Passive artificial immunity"
+        },
+        {
+          "label": "E",
+          "text": "Cell-mediated immunity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nirsevimab is a preformed monoclonal antibody administered to the infant\u00e2\u20ac\u201dthis is passive artificial immunity. Active immunity involves the host generating their own antibody response; passive immunity provides preformed antibodies.",
+        "whyCorrect": "Nirsevimab is a preformed RSV-specific monoclonal antibody administered to the infant. This constitutes passive artificial immunity: passive because the antibodies are provided rather than generated by the infant's immune system, and artificial because they come from a manufactured source (not natural maternal transfer). In contrast, transplacental IgG from a vaccinated mother would be passive natural immunity.",
+        "whyWrongByChoice": {
+          "A": "Active natural immunity occurs after natural infection, where the host generates their own immune response. The infant is not generating antibodies.",
+          "B": "Active artificial immunity occurs after vaccination, where the host generates their own antibody response. Nirsevimab provides preformed antibodies.",
+          "C": "Passive natural immunity is the transfer of maternal antibodies across the placenta (IgG). Nirsevimab is a manufactured monoclonal antibody, making it artificial.",
+          "E": "Cell-mediated immunity involves T cells. Nirsevimab provides humoral (antibody-based) passive protection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nirsevimab",
+        "passive-artificial-immunity",
+        "monoclonal-antibody",
+        "immunology"
+      ]
+    },
+    {
+      "id": "r34-019",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Vaccination of pregnant individuals with the RSV vaccine provides transplacental IgG to the neonate. Clinical trials showed approximately what level of protection against severe RSV illness in the first 3 months after birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "20%"
+        },
+        {
+          "label": "B",
+          "text": "40%"
+        },
+        {
+          "label": "C",
+          "text": "60%"
+        },
+        {
+          "label": "D",
+          "text": "80%"
+        },
+        {
+          "label": "E",
+          "text": "95%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Clinical trials show the maternal RSV vaccine provides approximately 80% protection against severe RSV illness in the first 3 months and ~70% in the first 6 months after birth.",
+        "whyCorrect": "Vaccination of pregnant individuals between 32-36 weeks gestation induces IgG that crosses the placenta and protects the neonate. Clinical trials show approximately 80% protection against severe RSV illness in the first 3 months and ~70% protection in the first 6 months after birth.",
+        "whyWrongByChoice": {
+          "A": "20% is the efficacy of the BCG vaccine for preventing TB infection. RSV maternal vaccination is much more effective at ~80%.",
+          "B": "40% significantly underestimates the protection provided. The RSV vaccine provides ~80% protection in the first 3 months.",
+          "C": "60% underestimates the efficacy. Trials showed ~80% protection in the first 3 months.",
+          "E": "95% overestimates the protection. While highly effective, the maternal RSV vaccine provides approximately 80% (not 95%) protection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "RSV-vaccine",
+        "maternal",
+        "80-percent",
+        "efficacy"
+      ]
+    },
+    {
+      "id": "r34-020",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "A patient recovering from influenza develops a new productive cough, high fever, and lobar consolidation on chest X-ray one week later. Blood cultures grow gram-positive cocci in clusters. Which of the following complications has most likely occurred?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary viral pneumonia progression"
+        },
+        {
+          "label": "B",
+          "text": "Secondary bacterial pneumonia with S. aureus"
+        },
+        {
+          "label": "C",
+          "text": "Influenza reinfection with a new strain"
+        },
+        {
+          "label": "D",
+          "text": "Drug-resistant influenza emergence"
+        },
+        {
+          "label": "E",
+          "text": "Mycoplasma pneumoniae superinfection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Secondary bacterial pneumonia following influenza is a well-known complication. S. aureus (gram-positive cocci in clusters), S. pneumoniae, and H. influenzae are the most common causes. Lobar consolidation and productive cough suggest bacterial (not viral) pneumonia.",
+        "whyCorrect": "Secondary bacterial pneumonia is a common and serious complication of influenza. The most common causes include S. pneumoniae, H. influenzae, and S. aureus. The new onset of productive cough, high fever, and lobar consolidation one week after influenza, with gram-positive cocci in clusters on blood culture, confirms S. aureus secondary bacterial pneumonia.",
+        "whyWrongByChoice": {
+          "A": "Primary viral pneumonia shows bilateral ground-glass opacities, not lobar consolidation. The new lobar pattern and bacterial blood cultures indicate secondary bacterial pneumonia.",
+          "C": "Reinfection with a new influenza strain would present with influenza symptoms (myalgias, dry cough, ground-glass opacities), not lobar consolidation with bacterial blood cultures.",
+          "D": "Drug-resistant influenza would present with persistent viral symptoms, not a new bacterial infection pattern.",
+          "E": "Mycoplasma causes atypical pneumonia with interstitial opacities and dry cough, not lobar consolidation with gram-positive cocci in blood cultures."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "secondary-bacterial-pneumonia",
+        "S-aureus",
+        "post-influenza",
+        "complication"
+      ]
+    },
+    {
+      "id": "r34-021",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Which of the following influenza virus surface proteins is responsible for releasing newly formed viral particles from infected host cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemagglutinin (HA)"
+        },
+        {
+          "label": "B",
+          "text": "Neuraminidase (NA)"
+        },
+        {
+          "label": "C",
+          "text": "Matrix protein 2 (M2)"
+        },
+        {
+          "label": "D",
+          "text": "Nucleoprotein (NP)"
+        },
+        {
+          "label": "E",
+          "text": "Fusion (F) protein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neuraminidase (NA) cleaves sialic acid residues on the host cell surface, allowing newly assembled viral particles to be released from infected cells. This is the target of neuraminidase inhibitors like oseltamivir.",
+        "whyCorrect": "Neuraminidase (NA) cleaves sialic acid residues on the host cell surface, releasing newly assembled viral particles. Without NA function, new virions remain bound to the cell surface and cannot spread. This is why neuraminidase inhibitors (oseltamivir, zanamivir) reduce viral spread and symptom duration.",
+        "whyWrongByChoice": {
+          "A": "HA is responsible for viral attachment and entry by binding sialic acid residues, not viral release.",
+          "C": "M2 is a proton channel involved in maintaining pH for viral uncoating, not viral release.",
+          "D": "Nucleoprotein is an internal protein associated with the viral RNA. It does not mediate viral release from cells.",
+          "E": "Fusion (F) protein is found on RSV and paramyxoviruses, not influenza. Influenza uses HA and NA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neuraminidase",
+        "viral-release",
+        "sialic-acid",
+        "influenza"
+      ]
+    },
+    {
+      "id": "r34-022",
+      "topicId": "common-resp-viruses-1",
+      "topicName": "Common Respiratory Tract Viruses (Part 1)",
+      "stem": "Globally, approximately how many people does influenza infect annually, and which age group has the highest hospitalization rate in the US?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "100 million; children under 5"
+        },
+        {
+          "label": "B",
+          "text": "1 billion; adults \u00e2\u2030\u00a575 years"
+        },
+        {
+          "label": "C",
+          "text": "500 million; pregnant women"
+        },
+        {
+          "label": "D",
+          "text": "50 million; immunocompromised adults"
+        },
+        {
+          "label": "E",
+          "text": "2 billion; adolescents 12-18 years"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Influenza infects as many as 1 billion people globally each year. In the US, highest hospitalization rates are in adults \u00e2\u2030\u00a575 years, with a typical season causing 30-50 million symptomatic illnesses and 20,000-50,000 deaths.",
+        "whyCorrect": "Every year, influenza infects as many as 1 billion people globally, with 3-5 million cases of severe illness and 290,000-650,000 respiratory deaths. In the US, a typical season results in 30-50 million symptomatic illnesses, ~500,000 hospitalizations, and 20,000-50,000 deaths. The highest hospitalization rates are in adults \u00e2\u2030\u00a575 years of age.",
+        "whyWrongByChoice": {
+          "A": "The global burden is approximately 1 billion, not 100 million. While children under 5 have high infection rates, the highest hospitalization rates in the US are in adults \u00e2\u2030\u00a575.",
+          "C": "500 million underestimates global infections. Pregnant women are a high-risk group but do not have the highest hospitalization rate overall.",
+          "D": "50 million underestimates global infections significantly. While immunocompromised adults are at risk, the highest hospitalization rate is in adults \u00e2\u2030\u00a575.",
+          "E": "2 billion overestimates. Adolescents 12-18 are not the highest-risk group for hospitalization."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "epidemiology",
+        "1-billion",
+        "elderly",
+        "hospitalization"
+      ]
+    },
+    {
+      "id": "r35-001",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "A 9-year-old boy presents with fever, pharyngitis without exudates, and bilateral conjunctivitis after attending summer camp with swimming classes. Several other campers have similar symptoms. Which of the following is the most likely causative agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rhinovirus"
+        },
+        {
+          "label": "B",
+          "text": "Influenza A virus"
+        },
+        {
+          "label": "C",
+          "text": "Adenovirus"
+        },
+        {
+          "label": "D",
+          "text": "RSV"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pharyngoconjunctival fever (fever, pharyngitis, conjunctivitis) is a classic adenovirus presentation. Outbreaks are often associated with summer camps and swimming pools because adenovirus is acid-stable and transmitted via contaminated water.",
+        "whyCorrect": "The classic triad of fever, pharyngitis, and conjunctivitis (pharyngoconjunctival fever) is caused by adenovirus. Outbreaks are associated with summer camps and swimming pools because adenovirus is acid-stable and can persist in water. The non-exudative pharyngitis helps distinguish viral from bacterial pharyngitis. Adenovirus is highly contagious.",
+        "whyWrongByChoice": {
+          "A": "Rhinovirus causes the common cold with nasal congestion and rhinorrhea. It does not typically cause the triad of pharyngoconjunctival fever.",
+          "B": "Influenza presents with abrupt onset of high fever, severe myalgias, and dry cough. Conjunctivitis is not a characteristic feature of influenza.",
+          "D": "RSV causes bronchiolitis in infants. It does not typically cause pharyngoconjunctival fever in school-age children.",
+          "E": "Group A Strep causes pharyngitis with exudates (not without), and does not typically cause conjunctivitis. This patient has non-exudative pharyngitis with conjunctivitis\u00e2\u20ac\u201dclassic viral pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "pharyngoconjunctival-fever",
+        "swimming-pool",
+        "summer-camp"
+      ]
+    },
+    {
+      "id": "r35-002",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Rhinovirus is the primary cause of the common cold. Which of the following explains why rhinovirus infections are predominantly limited to the upper respiratory tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rhinovirus cannot survive in aerosol form"
+        },
+        {
+          "label": "B",
+          "text": "Rhinovirus replicates optimally at 33\u00c2\u00b0C"
+        },
+        {
+          "label": "C",
+          "text": "Upper airway cells lack ICAM-1 receptors"
+        },
+        {
+          "label": "D",
+          "text": "Rhinovirus is rapidly killed by mucus"
+        },
+        {
+          "label": "E",
+          "text": "Lower airways have antiviral surfactant"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rhinoviruses replicate optimally at 33\u00c2\u00b0C, well below core body temperature (37\u00c2\u00b0C) but perfect for the cooler nasal mucosa. This temperature preference restricts replication to the upper respiratory tract.",
+        "whyCorrect": "Rhinoviruses rarely cause infections outside the upper respiratory tract because they replicate optimally at 33\u00c2\u00b0C, which is well below core body temperatures (37\u00c2\u00b0C) but is the approximate temperature of the nasal mucosa. This temperature preference restricts viral replication to the upper airways.",
+        "whyWrongByChoice": {
+          "A": "Rhinovirus is easily aerosolized and transmitted person-to-person. It is also stable in the environment, surviving on surfaces for days to weeks.",
+          "C": "Upper airway epithelial cells DO express ICAM-1 receptors, which is one of the main receptors rhinoviruses use for cell entry. This is not a limiting factor.",
+          "D": "While mucus provides some defense, it does not rapidly kill rhinovirus. The temperature preference is the primary reason for upper respiratory tract restriction.",
+          "E": "Pulmonary surfactant is primarily involved in reducing alveolar surface tension, not antiviral activity. The temperature preference is the key limiting factor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rhinovirus",
+        "33-degrees",
+        "upper-respiratory",
+        "temperature"
+      ]
+    },
+    {
+      "id": "r35-003",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Despite being the most common cause of the common cold, rhinoviruses do not induce lasting protective immunity. Which of the following best explains why repeated rhinovirus infections occur throughout life?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rhinovirus suppresses memory B cell formation"
+        },
+        {
+          "label": "B",
+          "text": "Over 160 serotypes prevent cross-protective immunity"
+        },
+        {
+          "label": "C",
+          "text": "Rhinovirus integrates into host cell genomes"
+        },
+        {
+          "label": "D",
+          "text": "Rhinovirus undergoes antigenic shift like influenza"
+        },
+        {
+          "label": "E",
+          "text": "Host antibodies cannot reach the nasal mucosa"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rhinovirus has over 160 identified serotypes. Infection with one serotype generates antibodies against that serotype but does not protect against the many others, allowing consecutive infections year after year.",
+        "whyCorrect": "Although healthy adults can generate substantial antibody responses during and after rhinovirus infection, the sheer number of serotypes (>160) prevents long-term protection. Infection from one serotype does not provide cross-protection against other serotypes, so individuals can be infected repeatedly for years.",
+        "whyWrongByChoice": {
+          "A": "Rhinovirus does not suppress memory B cell formation. Healthy adults do generate antibody responses\u00e2\u20ac\u201dthe issue is serotype diversity.",
+          "C": "Rhinovirus is an RNA virus that does not integrate into host genomes. Integration is characteristic of retroviruses.",
+          "D": "Rhinovirus has a non-segmented genome and does not undergo reassortment or antigenic shift. The diversity comes from having many pre-existing serotypes.",
+          "E": "Secretory IgA is produced at mucosal surfaces including the nasal mucosa. The problem is serotype-specific immunity, not inability to reach the mucosa."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rhinovirus",
+        "serotypes",
+        "reinfection",
+        "immunity"
+      ]
+    },
+    {
+      "id": "r35-004",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Adenoviruses are classified as which of the following based on their genome and envelope characteristics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enveloped, negative-sense ssRNA"
+        },
+        {
+          "label": "B",
+          "text": "Non-enveloped, positive-sense ssRNA"
+        },
+        {
+          "label": "C",
+          "text": "Enveloped, segmented ssRNA"
+        },
+        {
+          "label": "D",
+          "text": "Non-enveloped, double-stranded DNA"
+        },
+        {
+          "label": "E",
+          "text": "Enveloped, double-stranded DNA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Adenoviruses are non-enveloped (naked) viruses with double-stranded, linear DNA (dsDNA) genomes and icosahedral capsids. Their non-enveloped nature makes them stable in the environment.",
+        "whyCorrect": "Adenoviruses are members of Adenoviridae with double-stranded, linear DNA (dsDNA) and non-enveloped, icosahedral capsids. Being non-enveloped makes them acid-stable (can survive in GI tract and water) and environmentally persistent (can survive on surfaces for weeks), facilitating fomite and waterborne transmission.",
+        "whyWrongByChoice": {
+          "A": "Enveloped, negative-sense ssRNA describes influenza (orthomyxoviridae) and paramyxoviruses, not adenoviruses.",
+          "B": "Non-enveloped, positive-sense ssRNA describes rhinovirus (Picornaviridae), not adenovirus.",
+          "C": "Enveloped, segmented ssRNA describes influenza virus specifically, not adenovirus.",
+          "E": "Adenoviruses are non-enveloped, not enveloped. Enveloped dsDNA viruses include herpesviruses and poxviruses."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "dsDNA",
+        "non-enveloped",
+        "taxonomy"
+      ]
+    },
+    {
+      "id": "r35-005",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "A 23-year-old college student develops severe bilateral eye pain, tearing, photophobia, and foreign body sensation. Several dormmates have similar symptoms. The infection involves both the cornea and conjunctiva. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial conjunctivitis"
+        },
+        {
+          "label": "B",
+          "text": "Allergic conjunctivitis"
+        },
+        {
+          "label": "C",
+          "text": "Epidemic keratoconjunctivitis"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex keratitis"
+        },
+        {
+          "label": "E",
+          "text": "Chlamydial trachoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Epidemic keratoconjunctivitis (EKC) is a severe adenovirus eye infection involving both the cornea (keratitis) and conjunctiva (conjunctivitis). It is highly contagious, spreading rapidly in close-contact settings like dorms.",
+        "whyCorrect": "Epidemic keratoconjunctivitis is a severe adenovirus infection of both the cornea and conjunctiva. Symptoms include red inflamed conjunctiva, pain, tearing, photophobia, and foreign body sensation. It is highly contagious\u00e2\u20ac\u201dadenovirus can remain viable on surfaces for weeks, leading to rapid spread in close-contact environments like dormitories. Permanent corneal scarring is possible.",
+        "whyWrongByChoice": {
+          "A": "Bacterial conjunctivitis typically presents with purulent discharge, not the epidemic spread with keratitis seen here. The dormitory outbreak pattern suggests viral etiology.",
+          "B": "Allergic conjunctivitis causes bilateral itching and tearing but is not contagious and does not involve the cornea (keratitis).",
+          "D": "HSV keratitis is typically unilateral with dendritic ulcers on fluorescein staining. The bilateral, epidemic presentation in dormmates points to adenovirus.",
+          "E": "Trachoma (Chlamydia trachomatis) is a chronic, slowly progressive eye infection common in developing countries, not the acute epidemic pattern described here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "keratoconjunctivitis",
+        "adenovirus",
+        "epidemic",
+        "corneal-scarring"
+      ]
+    },
+    {
+      "id": "r35-006",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Rhinovirus uses ICAM-1 as a cellular receptor for entry. Rhinovirus belongs to which of the following viral families?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Orthomyxoviridae"
+        },
+        {
+          "label": "B",
+          "text": "Paramyxoviridae"
+        },
+        {
+          "label": "C",
+          "text": "Adenoviridae"
+        },
+        {
+          "label": "D",
+          "text": "Picornaviridae"
+        },
+        {
+          "label": "E",
+          "text": "Coronaviridae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rhinovirus belongs to Picornaviridae. Members are non-enveloped, icosahedral, positive-sense ssRNA viruses. The family also includes enteroviruses, polioviruses, hepatitis A virus, and coxsackieviruses.",
+        "whyCorrect": "Rhinovirus belongs to the family Picornaviridae (Pico-RNA-viridae = small RNA viruses). Members are non-enveloped with icosahedral capsids and positive-sense ssRNA [(+)ssRNA] genomes. Other notable family members include enteroviruses, coxsackieviruses, echoviruses, polioviruses, and hepatitis A virus. Rhinovirus uses ICAM-1 or LDL receptor family members for cell entry.",
+        "whyWrongByChoice": {
+          "A": "Orthomyxoviridae includes influenza viruses\u00e2\u20ac\u201denveloped, segmented, negative-sense ssRNA viruses.",
+          "B": "Paramyxoviridae includes parainfluenza virus\u00e2\u20ac\u201denveloped, non-segmented, negative-sense ssRNA viruses.",
+          "C": "Adenoviridae includes adenoviruses\u00e2\u20ac\u201dnon-enveloped, dsDNA viruses.",
+          "E": "Coronaviridae includes SARS-CoV-2\u00e2\u20ac\u201denveloped, positive-sense ssRNA viruses (covered in the next brick)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rhinovirus",
+        "picornaviridae",
+        "ICAM-1",
+        "taxonomy"
+      ]
+    },
+    {
+      "id": "r35-007",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Adenovirus can persist in the environment for weeks on surfaces. Which of the following structural features enables this environmental stability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipid envelope protects against desiccation"
+        },
+        {
+          "label": "B",
+          "text": "Non-enveloped capsid resists environmental degradation"
+        },
+        {
+          "label": "C",
+          "text": "Segmented genome allows rapid adaptation"
+        },
+        {
+          "label": "D",
+          "text": "Protruding fibers anchor to surfaces"
+        },
+        {
+          "label": "E",
+          "text": "Double-stranded RNA genome is inherently stable"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Adenoviruses are non-enveloped (naked) viruses with icosahedral capsids. Non-enveloped viruses are generally more stable in the environment than enveloped viruses because they lack a fragile lipid membrane that can be disrupted.",
+        "whyCorrect": "Non-enveloped (naked) viruses like adenovirus are inherently more stable in the environment than enveloped viruses. Without a fragile lipid envelope that can be disrupted by detergents, desiccation, and pH changes, the protein capsid of adenovirus resists environmental degradation. This allows it to persist on surfaces for weeks and survive in water and the GI tract (acid-stable).",
+        "whyWrongByChoice": {
+          "A": "Adenoviruses are NON-enveloped; they do not have a lipid envelope. Enveloped viruses are actually LESS environmentally stable because the envelope is fragile.",
+          "C": "Adenovirus has a non-segmented dsDNA genome, not segmented. Segmentation is a feature of influenza (reassortment).",
+          "D": "While fibers are important for cell entry, they do not specifically anchor the virus to surfaces for environmental persistence. The capsid stability is the key factor.",
+          "E": "Adenovirus has a dsDNA genome, not dsRNA. While dsDNA is relatively stable, the non-enveloped capsid is the primary reason for environmental persistence."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "non-enveloped",
+        "environmental-stability",
+        "fomite"
+      ]
+    },
+    {
+      "id": "r35-008",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Rhinovirus infection is a significant trigger for which of the following respiratory conditions, responsible for at least 50% of exacerbations in adults?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "B",
+          "text": "Pneumothorax"
+        },
+        {
+          "label": "C",
+          "text": "Asthma"
+        },
+        {
+          "label": "D",
+          "text": "Lung cancer"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary fibrosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At least 50% of asthma exacerbations in adults and 80% of wheezing illnesses in children are specifically associated with rhinovirus infection. Patients with asthma, COPD, or CF can see rapid exacerbations from rhinovirus.",
+        "whyCorrect": "While rhinoviruses are typically a nuisance causing only the common cold, people with asthma, COPD, cystic fibrosis, or chronic bronchitis can see rapid exacerbation of their illness. At least 50% of asthma exacerbations in adults and 80% of wheezing illnesses in children are specifically associated with rhinovirus infection.",
+        "whyWrongByChoice": {
+          "A": "Pulmonary embolism is a vascular event (thrombotic occlusion of pulmonary arteries), not triggered by rhinovirus infection.",
+          "B": "Pneumothorax (air in the pleural space) is not triggered by rhinovirus. It occurs from trauma, blebs, or spontaneously.",
+          "D": "Lung cancer is not triggered by rhinovirus infection. Risk factors include smoking, radon, and asbestos exposure.",
+          "E": "Pulmonary fibrosis is a chronic scarring condition not triggered acutely by rhinovirus infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rhinovirus",
+        "asthma-exacerbation",
+        "wheezing",
+        "COPD"
+      ]
+    },
+    {
+      "id": "r35-009",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Adenovirus can cause gastroenteritis, hemorrhagic cystitis, and respiratory infections depending on the serotype. Which of the following viral structures determines the tissue tropism of different adenovirus serotypes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capsid proteins"
+        },
+        {
+          "label": "B",
+          "text": "Protruding fibers"
+        },
+        {
+          "label": "C",
+          "text": "Genome segments"
+        },
+        {
+          "label": "D",
+          "text": "Lipid envelope glycoproteins"
+        },
+        {
+          "label": "E",
+          "text": "Internal matrix proteins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Adenoviruses have fibers protruding from their penton vertices. Structural variation in these fibers determines the cell tropism of different serotypes, explaining why different serotypes cause diseases in different organ systems.",
+        "whyCorrect": "Adenoviruses have fibers protruding from each of their penton vertices, responsible for cell entry. The structure of these fibers varies by serotype and determines cell tropism\u00e2\u20ac\u201dwhich cells the virus can infect and therefore which organ system is primarily affected. This explains the diverse clinical manifestations of different adenovirus serotypes (respiratory, ocular, GI, urinary).",
+        "whyWrongByChoice": {
+          "A": "While capsid proteins contribute to viral structure, it is specifically the protruding fibers (not general capsid proteins) that determine serotype-specific tissue tropism.",
+          "C": "Adenovirus has a non-segmented genome. It does not have genomic segments that determine tropism.",
+          "D": "Adenovirus is non-enveloped and does not have lipid envelope glycoproteins. The fibers on the naked capsid determine tropism.",
+          "E": "Internal matrix proteins are not the structures that mediate cell entry and tropism. The external fibers are responsible for this function."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "fibers",
+        "tissue-tropism",
+        "serotype"
+      ]
+    },
+    {
+      "id": "r35-010",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "A positive adenovirus result from a respiratory sample should be interpreted with caution. Which of the following is the most important reason for this cautious interpretation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenovirus is too rare to cause respiratory disease"
+        },
+        {
+          "label": "B",
+          "text": "PCR cannot detect adenovirus DNA reliably"
+        },
+        {
+          "label": "C",
+          "text": "Adenovirus can asymptomatically colonize the adenoids"
+        },
+        {
+          "label": "D",
+          "text": "Adenovirus always indicates immunodeficiency"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory samples frequently have bacterial contamination"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Adenovirus can asymptomatically infect and persist in the adenoids with viral shedding for weeks to months. A positive result during acute illness may represent incidental shedding rather than the cause of the current infection.",
+        "whyCorrect": "Adenovirus can infect the adenoids asymptomatically, with viral shedding occurring for weeks to months after initial infection. A similar effect occurs in the GI tract. Because of this, even if adenovirus is isolated from the respiratory tract during an acute illness, the disease could still be caused by another pathogen. Bacterial causes should be eliminated before attributing disease to adenovirus.",
+        "whyWrongByChoice": {
+          "A": "Adenovirus is not rare\u00e2\u20ac\u201dit accounts for roughly 5% of acute respiratory disease in children and 10-20% of pediatric pneumonia.",
+          "B": "PCR can reliably detect adenovirus DNA. The issue is not detection reliability but clinical interpretation of positive results.",
+          "D": "Adenovirus infections occur in immunocompetent individuals. They are not exclusively associated with immunodeficiency.",
+          "E": "While bacterial contamination of respiratory samples can occur, the specific concern with adenovirus is its ability to asymptomatically persist, leading to detection that may not indicate causation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "asymptomatic-shedding",
+        "adenoids",
+        "interpretation"
+      ]
+    },
+    {
+      "id": "r35-011",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Adenovirus can be transmitted via multiple routes. Which of the following routes is possible for adenovirus but NOT for rhinovirus or parainfluenza virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Respiratory droplets"
+        },
+        {
+          "label": "B",
+          "text": "Direct contact"
+        },
+        {
+          "label": "C",
+          "text": "Fecal-oral and waterborne"
+        },
+        {
+          "label": "D",
+          "text": "Aerosol inhalation"
+        },
+        {
+          "label": "E",
+          "text": "Fomite transmission"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Adenoviruses are acid-stable and can persist in the GI tract and water. Unlike rhinovirus and PIV, adenovirus can be transmitted fecal-orally and through contaminated water (swimming pools).",
+        "whyCorrect": "Adenoviruses are acid-stable, allowing them to survive in the GI tract and water. They can be transmitted by respiratory droplets, fecal-oral route, fomites, and contaminated water (e.g., swimming pools). PIV and rhinovirus are transmitted by respiratory droplets and contact but not fecal-orally or through water.",
+        "whyWrongByChoice": {
+          "A": "Respiratory droplet transmission is shared by all these viruses, not unique to adenovirus.",
+          "B": "Direct contact transmission is common to many respiratory viruses, not unique to adenovirus.",
+          "D": "Aerosol inhalation is a route for many respiratory viruses, not specific to adenovirus.",
+          "E": "Fomite transmission can occur with adenovirus, rhinovirus (stable on surfaces), and potentially other viruses. It is not unique to adenovirus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "fecal-oral",
+        "waterborne",
+        "transmission-routes"
+      ]
+    },
+    {
+      "id": "r35-012",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Military recruits historically had high rates of adenovirus pneumonia, leading to the development of a vaccine. Which of the following types of illness does adenovirus most commonly cause in military training facilities?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemorrhagic cystitis"
+        },
+        {
+          "label": "B",
+          "text": "Gastroenteritis"
+        },
+        {
+          "label": "C",
+          "text": "Keratoconjunctivitis"
+        },
+        {
+          "label": "D",
+          "text": "Atypical/interstitial pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Common cold only"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Adenovirus can cause atypical and/or interstitial pneumonia that is historically associated with military training facilities. Military recruits receive a vaccine covering the serotypes most likely to cause pneumonia.",
+        "whyCorrect": "Adenovirus can cause atypical and/or interstitial pneumonia or severe acute lower respiratory tract disease, historically associated with military training facilities. Close quarters and physical stress facilitate transmission and severe disease. Military recruits receive a vaccine that covers the serotypes most likely to cause pneumonia in these settings.",
+        "whyWrongByChoice": {
+          "A": "Hemorrhagic cystitis from adenovirus occurs rarely, primarily in young boys. It is not the primary military-associated manifestation.",
+          "B": "While adenovirus can cause gastroenteritis, this is not the primary concern in military settings that led to vaccine development.",
+          "C": "Keratoconjunctivitis is a severe eye infection but is not the primary military-associated disease that prompted vaccine development.",
+          "E": "While adenovirus commonly causes cold-like symptoms, the military concern is severe pneumonia, not mild upper respiratory illness."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "military",
+        "pneumonia",
+        "vaccine"
+      ]
+    },
+    {
+      "id": "r35-013",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "A child with a known history of asthma develops rhinorrhea, nasal congestion, and sore throat. Over the next 2 days, his wheezing significantly worsens despite being previously well-controlled on inhaled corticosteroids. Which of the following viruses is most likely responsible for this exacerbation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenovirus"
+        },
+        {
+          "label": "B",
+          "text": "Rhinovirus"
+        },
+        {
+          "label": "C",
+          "text": "RSV"
+        },
+        {
+          "label": "D",
+          "text": "Influenza B"
+        },
+        {
+          "label": "E",
+          "text": "Parainfluenza virus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rhinovirus is specifically associated with at least 50% of asthma exacerbations in adults and 80% of wheezing illnesses in children. The common cold symptoms progressing to asthma exacerbation is a classic rhinovirus-triggered presentation.",
+        "whyCorrect": "Rhinovirus infection is associated with 80% of wheezing illnesses in children and at least 50% of asthma exacerbations in adults. The presentation of common cold symptoms (rhinorrhea, congestion, sore throat) followed by worsening asthma despite controller therapy is a classic rhinovirus-triggered asthma exacerbation.",
+        "whyWrongByChoice": {
+          "A": "Adenovirus can cause respiratory infections but is not the leading virus associated with asthma exacerbations. Rhinovirus is the primary trigger.",
+          "C": "RSV can trigger wheezing, especially in infants, but rhinovirus is the predominant trigger of asthma exacerbations in both children and adults.",
+          "D": "Influenza can worsen asthma, but rhinovirus is more commonly associated with asthma exacerbations due to its much higher frequency.",
+          "E": "PIV primarily causes croup. While it can exacerbate asthma, rhinovirus is the leading viral trigger."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rhinovirus",
+        "asthma-exacerbation",
+        "wheezing",
+        "children"
+      ]
+    },
+    {
+      "id": "r35-014",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Common cold symptoms caused by rhinovirus have an incubation period of approximately 2-4 days. Which of the following best describes the typical illness duration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1-2 days"
+        },
+        {
+          "label": "B",
+          "text": "About 1 week"
+        },
+        {
+          "label": "C",
+          "text": "3-4 weeks"
+        },
+        {
+          "label": "D",
+          "text": "2-3 months"
+        },
+        {
+          "label": "E",
+          "text": "6 months or longer"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rhinovirus illness typically lasts about one week, though a nonproductive cough may persist for several weeks afterward. The incubation period is approximately 2-4 days, and roughly half of infections in older adults/children are asymptomatic.",
+        "whyCorrect": "A typical rhinovirus illness lasts about one week, with an incubation period of approximately 2-4 days. A nonproductive cough may persist for several weeks afterward. Roughly half of rhinovirus infections in older adults and older children are asymptomatic, and illness is generally mild\u00e2\u20ac\u201dallowing infected people to unknowingly spread the virus.",
+        "whyWrongByChoice": {
+          "A": "1-2 days is too short. Rhinovirus illness typically lasts about a week, though symptoms may be mild.",
+          "C": "3-4 weeks is too long for the acute illness phase. While a residual cough can persist for weeks, the main cold symptoms last about a week.",
+          "D": "2-3 months far exceeds the typical duration of a rhinovirus cold.",
+          "E": "6 months would suggest a chronic condition, not an acute rhinovirus infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rhinovirus",
+        "common-cold",
+        "duration",
+        "incubation"
+      ]
+    },
+    {
+      "id": "r35-015",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Adenoviruses are used as vectors in biotechnology. Which of the following applications utilizes adenovirus as a delivery vehicle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antifungal drug development"
+        },
+        {
+          "label": "B",
+          "text": "Gene therapy and viral vector vaccines"
+        },
+        {
+          "label": "C",
+          "text": "Antibiotic resistance testing"
+        },
+        {
+          "label": "D",
+          "text": "Probiotic delivery systems"
+        },
+        {
+          "label": "E",
+          "text": "Organ transplant preservation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Adenoviruses are used as vectors for gene therapy and immunizations. Current viral vector vaccines against Ebola and COVID-19 use adenovirus platforms, with more in clinical trials.",
+        "whyCorrect": "Adenoviruses are widely used as vectors for gene therapy and immunizations due to their ability to efficiently deliver genetic material to host cells. Current approved viral vector vaccines against Ebola and COVID-19 use adenovirus platforms, and additional adenovirus-based vaccines are in clinical trials.",
+        "whyWrongByChoice": {
+          "A": "Antifungal drug development does not use adenovirus vectors. Adenovirus applications are in gene delivery and vaccine platforms.",
+          "C": "Antibiotic resistance testing does not involve adenovirus vectors. Resistance testing uses culture-based or molecular methods.",
+          "D": "Probiotic delivery does not use adenovirus vectors.",
+          "E": "Organ transplant preservation does not involve adenovirus vectors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "gene-therapy",
+        "viral-vector",
+        "vaccine-platform"
+      ]
+    },
+    {
+      "id": "r35-016",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Rhinovirus peak infection seasons differ from those of influenza and RSV. During which months do rhinovirus infections predominantly occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "January through March (winter)"
+        },
+        {
+          "label": "B",
+          "text": "Spring through fall"
+        },
+        {
+          "label": "C",
+          "text": "June through August only"
+        },
+        {
+          "label": "D",
+          "text": "Year-round with no seasonal pattern"
+        },
+        {
+          "label": "E",
+          "text": "December through February exclusively"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rhinovirus infections occur mostly in the spring through the fall, while influenza and RSV predominantly occur in fall through winter. This seasonal difference helps in epidemiologic assessment.",
+        "whyCorrect": "Rhinovirus infections occur mostly from spring through fall, in contrast to influenza and RSV which peak in winter. Coronavirus infections (common cold coronaviruses) predominantly occur in fall and winter. Understanding these seasonal patterns helps in the differential diagnosis of respiratory illnesses.",
+        "whyWrongByChoice": {
+          "A": "Winter (January-March) is the peak season for influenza and RSV, not rhinovirus. Rhinovirus peaks in spring and fall.",
+          "C": "June-August includes part of rhinovirus season but rhinovirus also peaks in spring and fall, not just summer.",
+          "D": "Rhinovirus does have seasonal patterns, predominantly spring through fall, though some infections occur year-round.",
+          "E": "December-February is the peak influenza/RSV season, not rhinovirus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rhinovirus",
+        "seasonality",
+        "spring-fall",
+        "epidemiology"
+      ]
+    },
+    {
+      "id": "r35-017",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "An adenovirus-infected child develops non-bloody diarrhea, vomiting, and low-grade fever lasting 8 days. Which of the following best describes this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pharyngoconjunctival fever"
+        },
+        {
+          "label": "B",
+          "text": "Epidemic keratoconjunctivitis"
+        },
+        {
+          "label": "C",
+          "text": "Hemorrhagic cystitis"
+        },
+        {
+          "label": "D",
+          "text": "Adenoviral gastroenteritis"
+        },
+        {
+          "label": "E",
+          "text": "Atypical pneumonia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Adenovirus can cause a self-limiting gastroenteritis with non-bloody diarrhea, vomiting, abdominal pain, fever, and nausea. Symptoms typically resolve in 7-10 days with supportive therapy.",
+        "whyCorrect": "Adenovirus can cause self-limiting gastroenteritis, a common manifestation especially in children. Symptoms include non-bloody diarrhea, vomiting, abdominal pain, fever, and nausea, typically resolving in 7-10 days. Dehydration is the main concern, managed with supportive therapy. Many GI adenovirus infections are asymptomatic.",
+        "whyWrongByChoice": {
+          "A": "Pharyngoconjunctival fever presents with the triad of fever, pharyngitis, and conjunctivitis\u00e2\u20ac\u201dnot primarily GI symptoms.",
+          "B": "Keratoconjunctivitis is a severe eye infection, not a GI presentation.",
+          "C": "Hemorrhagic cystitis presents with painful urination, hematuria, and lower abdominal pain\u00e2\u20ac\u201durinary symptoms, not GI.",
+          "E": "Atypical pneumonia presents with respiratory symptoms (cough, dyspnea), not primarily GI symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "gastroenteritis",
+        "self-limiting",
+        "diarrhea"
+      ]
+    },
+    {
+      "id": "r35-018",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Rhinovirus uses two main types of cell surface receptors for entry. One is ICAM-1. Which of the following is the other receptor family used by rhinovirus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ACE2 receptor"
+        },
+        {
+          "label": "B",
+          "text": "LDL receptor family members"
+        },
+        {
+          "label": "C",
+          "text": "CD4 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Sialic acid residues"
+        },
+        {
+          "label": "E",
+          "text": "Toll-like receptor 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rhinoviruses enter cells using either ICAM-1 or low-density lipoprotein (LDL) receptor family members. These two receptor types account for the majority of rhinovirus cell entry.",
+        "whyCorrect": "The receptors used by most rhinoviruses to enter cells are either ICAM-1 (intercellular adhesion molecule-1) or members of the low-density lipoprotein (LDL) receptor family. These two receptor types serve as the primary entry points for the diverse rhinovirus serotypes.",
+        "whyWrongByChoice": {
+          "A": "ACE2 is the receptor for SARS-CoV-2, not rhinovirus.",
+          "C": "CD4 is the primary receptor for HIV, not rhinovirus.",
+          "D": "Sialic acid residues are the receptors for influenza virus (bound by hemagglutinin), not rhinovirus.",
+          "E": "TLR2 is a pattern recognition receptor of the innate immune system, not a viral entry receptor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rhinovirus",
+        "LDL-receptor",
+        "ICAM-1",
+        "cell-entry"
+      ]
+    },
+    {
+      "id": "r35-019",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "A child at a summer camp develops painful urination, blood in the urine, and lower abdominal pain alongside mild cold symptoms. Which of the following adenovirus-related conditions does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastroenteritis"
+        },
+        {
+          "label": "B",
+          "text": "Hemorrhagic cystitis"
+        },
+        {
+          "label": "C",
+          "text": "Keratoconjunctivitis"
+        },
+        {
+          "label": "D",
+          "text": "Pharyngoconjunctival fever"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial pneumonia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Adenovirus can rarely cause hemorrhagic cystitis, especially in young boys. Symptoms include painful urination (dysuria), hematuria, lower abdominal pain, and increased urinary urgency/frequency. It is usually self-limiting.",
+        "whyCorrect": "Some adenovirus serotypes can cause hemorrhagic cystitis, especially in young boys. This presents with painful urination (dysuria), hematuria (blood in urine), lower abdominal pain, and increased urgency and frequency of urination. It can co-present with other adenovirus manifestations (cold symptoms) and is usually self-limiting.",
+        "whyWrongByChoice": {
+          "A": "Gastroenteritis presents with diarrhea, vomiting, and abdominal pain. The urinary symptoms (dysuria, hematuria) indicate hemorrhagic cystitis.",
+          "C": "Keratoconjunctivitis presents with eye symptoms (pain, tearing, photophobia), not urinary symptoms.",
+          "D": "Pharyngoconjunctival fever presents with fever, pharyngitis, and conjunctivitis, not urinary symptoms.",
+          "E": "Interstitial pneumonia presents with cough and dyspnea, not dysuria and hematuria."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "hemorrhagic-cystitis",
+        "hematuria",
+        "dysuria"
+      ]
+    },
+    {
+      "id": "r35-020",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "The CDC estimates that adults with high exposure (e.g., health professionals, parents of young children) experience approximately how many rhinovirus infections per year?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0-1"
+        },
+        {
+          "label": "B",
+          "text": "1-2"
+        },
+        {
+          "label": "C",
+          "text": "3-4"
+        },
+        {
+          "label": "D",
+          "text": "6-8"
+        },
+        {
+          "label": "E",
+          "text": "10-12"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Adults with high exposure (parents of young children, health professionals) experience an estimated 3-4 rhinovirus infections per year. Adults with low exposure average 1-2 infections per year.",
+        "whyCorrect": "The CDC estimates that adults with low exposure are infected with rhinovirus once or twice a year. Adults with high exposure, such as those with young children or health professionals, have an estimated 3-4 rhinovirus infections per year. The sheer number of serotypes (>160) prevents lasting protective immunity.",
+        "whyWrongByChoice": {
+          "A": "0-1 infections per year is lower than the estimate even for low-exposure adults (1-2/year).",
+          "B": "1-2 infections per year is the estimate for low-exposure adults. High-exposure adults average 3-4.",
+          "D": "6-8 infections per year overestimates rhinovirus infection frequency even in high-exposure individuals.",
+          "E": "10-12 infections per year greatly overestimates rhinovirus frequency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rhinovirus",
+        "frequency",
+        "high-exposure",
+        "epidemiology"
+      ]
+    },
+    {
+      "id": "r35-021",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Which of the following complications can occur as a result of the common cold due to congestion and aspiration of nasal secretions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "B",
+          "text": "Otitis media and sinusitis"
+        },
+        {
+          "label": "C",
+          "text": "Meningitis"
+        },
+        {
+          "label": "D",
+          "text": "Myocarditis"
+        },
+        {
+          "label": "E",
+          "text": "Hepatitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The congestion and nasal secretions from the common cold can lead to secondary complications including acute otitis media, sinusitis, bronchiolitis, and pneumonia caused by normal flora, especially in young children and the elderly.",
+        "whyCorrect": "Because of the substantial congestion and aspiration of nasal secretions that occurs during the common cold, secondary bacterial infections can develop. Acute otitis media, sinusitis, bronchiolitis, and pneumonia caused by normal flora are potential complications, especially in young children and the elderly.",
+        "whyWrongByChoice": {
+          "A": "Pulmonary embolism is a vascular event (venous thromboembolism), not a complication of the common cold.",
+          "C": "Meningitis is not a typical complication of rhinovirus colds. It is caused by bacteria like N. meningitidis or S. pneumoniae.",
+          "D": "Myocarditis is a rare complication of some viral infections (influenza, coxsackievirus) but is not a typical complication of the rhinovirus common cold.",
+          "E": "Hepatitis is not a complication of rhinovirus infection. Rhinovirus tropism is limited to the upper respiratory tract."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "common-cold",
+        "otitis-media",
+        "sinusitis",
+        "complications"
+      ]
+    },
+    {
+      "id": "r35-022",
+      "topicId": "common-resp-viruses-2",
+      "topicName": "Common Respiratory Tract Viruses (Part 2)",
+      "stem": "Which of the following key structural differences distinguishes adenovirus from rhinovirus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenovirus is enveloped; rhinovirus is non-enveloped"
+        },
+        {
+          "label": "B",
+          "text": "Adenovirus has dsDNA; rhinovirus has (+)ssRNA"
+        },
+        {
+          "label": "C",
+          "text": "Adenovirus has a helical capsid; rhinovirus is icosahedral"
+        },
+        {
+          "label": "D",
+          "text": "Adenovirus has a segmented genome; rhinovirus does not"
+        },
+        {
+          "label": "E",
+          "text": "Adenovirus uses sialic acid receptors; rhinovirus uses ICAM-1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The key structural difference is their genome: adenovirus has a double-stranded DNA (dsDNA) genome, while rhinovirus has a positive-sense single-stranded RNA [(+)ssRNA] genome. Both are non-enveloped and icosahedral.",
+        "whyCorrect": "The fundamental structural difference between adenovirus and rhinovirus is their genome type. Adenovirus has double-stranded, linear DNA (dsDNA), while rhinovirus has positive-sense single-stranded RNA [(+)ssRNA]. Both viruses share non-enveloped, icosahedral capsids.",
+        "whyWrongByChoice": {
+          "A": "Both adenovirus and rhinovirus are non-enveloped. Neither has a lipid envelope.",
+          "C": "Both have icosahedral capsids. Adenovirus does not have a helical capsid.",
+          "D": "Neither has a segmented genome. Influenza is the segmented virus discussed in these bricks.",
+          "E": "Adenovirus uses fibers for cell entry (receptor varies by serotype), not sialic acid. Sialic acid is the influenza virus receptor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenovirus",
+        "rhinovirus",
+        "dsDNA",
+        "ssRNA",
+        "comparison"
+      ]
+    },
+    {
+      "id": "r36-001",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "SARS-CoV-2 enters host cells by binding the ACE2 receptor via its spike protein. In the distal respiratory tract, which of the following cell types expresses ACE2 and is primarily infected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I pneumocytes"
+        },
+        {
+          "label": "B",
+          "text": "Type II pneumocytes"
+        },
+        {
+          "label": "C",
+          "text": "Alveolar macrophages"
+        },
+        {
+          "label": "D",
+          "text": "Goblet cells"
+        },
+        {
+          "label": "E",
+          "text": "Clara cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SARS-CoV-2 binds the ACE2 receptor on type II pneumocytes in the distal respiratory tract. It also infects ciliated epithelial cells of the upper airway and capillary endothelial cells.",
+        "whyCorrect": "When SARS-CoV-2 reaches the distal respiratory tract, it infects type II pneumocytes via the ACE2 receptor. The virus binds ACE2 through its spike glycoprotein. It also infects and destroys ciliated epithelial cells of the nasopharynx/upper airway and capillary endothelial cells, leading to reduced blood perfusion of the alveoli.",
+        "whyWrongByChoice": {
+          "A": "Type I pneumocytes are the thin gas-exchange cells of the alveoli. Type II pneumocytes are the primary ACE2-expressing cells infected by SARS-CoV-2.",
+          "C": "Alveolar macrophages participate in the immune response to COVID-19 but are not the primary cells infected via ACE2 receptor binding.",
+          "D": "Goblet cells produce mucus in the airway epithelium. They are not the primary target of SARS-CoV-2 in the distal respiratory tract.",
+          "E": "Clara (Club) cells are non-ciliated bronchiolar epithelial cells. Type II pneumocytes are the primary distal airway target."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SARS-CoV-2",
+        "ACE2",
+        "type-II-pneumocytes",
+        "viral-entry"
+      ]
+    },
+    {
+      "id": "r36-002",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "Coronaviruses are classified based on their structural features. Which of the following correctly describes the genome and capsid of SARS-CoV-2?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Negative-sense ssRNA with icosahedral capsid"
+        },
+        {
+          "label": "B",
+          "text": "Positive-sense ssRNA with helical capsid"
+        },
+        {
+          "label": "C",
+          "text": "Double-stranded RNA with helical capsid"
+        },
+        {
+          "label": "D",
+          "text": "Double-stranded DNA with icosahedral capsid"
+        },
+        {
+          "label": "E",
+          "text": "Positive-sense ssRNA with icosahedral capsid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Coronaviruses are enveloped, positive-sense single-stranded RNA [(+)ssRNA] viruses with helical nucleocapsids. The spike glycoproteins on the envelope give them a crown-like appearance ('corona').",
+        "whyCorrect": "SARS-CoV-2 and other coronaviruses store their genetic information as positive-sense single-stranded RNA [(+)ssRNA] and have a helical nucleocapsid. They are enveloped, with spike glycoproteins protruding from the envelope giving the characteristic crown-like ('corona') appearance.",
+        "whyWrongByChoice": {
+          "A": "Coronaviruses have positive-sense (not negative-sense) ssRNA and helical (not icosahedral) capsids. Negative-sense ssRNA with helical capsids describes paramyxoviruses.",
+          "C": "Coronaviruses have single-stranded (not double-stranded) RNA. Reoviruses have dsRNA genomes.",
+          "D": "Coronaviruses are RNA viruses, not DNA viruses. dsDNA with icosahedral capsid describes adenoviruses.",
+          "E": "The capsid is helical, not icosahedral. Picornaviruses (rhinovirus) have (+)ssRNA with icosahedral capsids."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coronavirus",
+        "positive-ssRNA",
+        "helical",
+        "taxonomy"
+      ]
+    },
+    {
+      "id": "r36-003",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "A 67-year-old man with diabetes and hypertension presents with 5 days of fever, dry cough, and SpO\u00e2\u201a\u201a of 88% on room air. Chest imaging shows bilateral peripheral ground-glass opacities. NAAT is positive for SARS-CoV-2. He requires supplemental oxygen. Which of the following anti-inflammatory medications improves survival in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nirmatrelvir-ritonavir"
+        },
+        {
+          "label": "B",
+          "text": "Remdesivir"
+        },
+        {
+          "label": "C",
+          "text": "Dexamethasone"
+        },
+        {
+          "label": "D",
+          "text": "Tocilizumab alone"
+        },
+        {
+          "label": "E",
+          "text": "Oseltamivir"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dexamethasone improves survival in COVID-19 patients requiring supplemental oxygen by suppressing cytokine production and immune-mediated lung injury. It is NOT recommended for mild disease without oxygen requirement.",
+        "whyCorrect": "Dexamethasone reduces inflammation by suppressing cytokine production and immune activation. It improves survival in patients requiring oxygen support. The timing is critical: in later disease, inflammation (not viral replication) drives tissue damage, so corticosteroids are beneficial. However, dexamethasone is NOT recommended for mild disease without oxygen need, as early immune suppression may impair viral clearance.",
+        "whyWrongByChoice": {
+          "A": "Nirmatrelvir-ritonavir is an oral antiviral for early outpatient treatment (within 5 days of symptoms) in high-risk patients. It targets viral replication, not inflammation. This hospitalized patient needs anti-inflammatory therapy.",
+          "B": "Remdesivir is an antiviral (RNA polymerase inhibitor) used for hospitalized patients but does not specifically improve survival the way dexamethasone does in oxygen-requiring patients.",
+          "D": "Tocilizumab (IL-6 receptor antagonist) is used for severe/rapidly worsening disease in combination with corticosteroids, not alone as first-line.",
+          "E": "Oseltamivir is a neuraminidase inhibitor for influenza, not COVID-19."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dexamethasone",
+        "COVID-19",
+        "oxygen-requirement",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "r36-004",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "Nirmatrelvir-ritonavir is first-line outpatient therapy for COVID-19 in high-risk patients. Which of the following is the mechanism of nirmatrelvir?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits RNA-dependent RNA polymerase"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits SARS-CoV-2 3CL protease"
+        },
+        {
+          "label": "C",
+          "text": "Blocks ACE2 receptor binding"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits neuraminidase enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Blocks IL-6 receptor signaling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nirmatrelvir inhibits the SARS-CoV-2 3CL protease, preventing cleavage of viral polyproteins required for replication. Ritonavir is a pharmacokinetic enhancer that inhibits CYP3A4 metabolism of nirmatrelvir.",
+        "whyCorrect": "Nirmatrelvir inhibits the SARS-CoV-2 3CL protease (also called main protease, Mpro), preventing cleavage of viral polyproteins required for viral replication. Ritonavir is included as a pharmacokinetic enhancer that inhibits CYP3A4 metabolism, increasing nirmatrelvir concentrations. The regimen significantly reduces hospitalization and mortality when started within 5 days of symptoms.",
+        "whyWrongByChoice": {
+          "A": "RNA-dependent RNA polymerase inhibition is the mechanism of remdesivir, not nirmatrelvir.",
+          "C": "No currently approved COVID-19 therapeutic directly blocks ACE2 receptor binding. Vaccines generate antibodies against the spike protein that can prevent this interaction.",
+          "D": "Neuraminidase inhibition is the mechanism of oseltamivir for influenza, not for COVID-19.",
+          "E": "IL-6 receptor blockade is the mechanism of tocilizumab, used for severe COVID-19 with systemic inflammation, not nirmatrelvir."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nirmatrelvir",
+        "3CL-protease",
+        "antiviral",
+        "COVID-treatment"
+      ]
+    },
+    {
+      "id": "r36-005",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "SARS-CoV had approximately 9.6% mortality and MERS-CoV had 34.4% mortality. Despite lower mortality, SARS-CoV-2 caused far more deaths globally. Which of the following best explains this paradox?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SARS-CoV-2 is more virulent per infection"
+        },
+        {
+          "label": "B",
+          "text": "SARS-CoV-2 has much higher transmissibility"
+        },
+        {
+          "label": "C",
+          "text": "SARS-CoV-2 targets younger populations"
+        },
+        {
+          "label": "D",
+          "text": "SARS-CoV-2 is resistant to all treatments"
+        },
+        {
+          "label": "E",
+          "text": "SARS-CoV-2 has a longer incubation period"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "While SARS-CoV-2 has a lower per-case mortality than SARS-CoV or MERS-CoV, its much higher transmissibility via respiratory droplets led to over 775 million cases and 7 million deaths globally\u00e2\u20ac\u201dfar exceeding the limited outbreaks of SARS and MERS.",
+        "whyCorrect": "SARS-CoV-2's much higher transmissibility compared to SARS-CoV and MERS-CoV is the key factor. While SARS-CoV and MERS-CoV spread was limited to healthcare workers and close contacts, SARS-CoV-2 aggressively spreads via respiratory droplets. Despite lower per-case mortality, the massive number of infections (>775 million cases) resulted in over 7 million deaths.",
+        "whyWrongByChoice": {
+          "A": "SARS-CoV-2 actually has lower per-case mortality than SARS-CoV or MERS-CoV. The total death toll is higher due to vastly more infections.",
+          "C": "SARS-CoV-2 actually causes more severe disease in older populations. It does not specifically target younger populations.",
+          "D": "SARS-CoV-2 is treatable with antivirals (nirmatrelvir-ritonavir, remdesivir) and preventable with vaccines. It is not resistant to all treatments.",
+          "E": "While incubation period can affect spread, the primary factor is transmissibility. SARS-CoV-2's ease of respiratory droplet transmission is the key difference."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SARS-CoV-2",
+        "transmissibility",
+        "mortality",
+        "MERS",
+        "SARS"
+      ]
+    },
+    {
+      "id": "r36-006",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "COVID-19 can cause thrombotic complications including DVT and pulmonary embolism. Which of the following mechanisms contributes to the hypercoagulable state in COVID-19?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased fibrinogen levels"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophil extracellular traps (NETs) activation"
+        },
+        {
+          "label": "C",
+          "text": "Thrombocytopenia-induced bleeding"
+        },
+        {
+          "label": "D",
+          "text": "Reduced D-dimer levels"
+        },
+        {
+          "label": "E",
+          "text": "Decreased von Willebrand factor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neutrophil extracellular traps (NETs) are normally part of immune defense but in COVID-19 promote a procoagulant state. Combined with endothelial injury and elevated fibrinogen, this leads to thrombotic complications including DVT, PE, and strokes.",
+        "whyCorrect": "In COVID-19, neutrophil extracellular traps (NETs)\u00e2\u20ac\u201dwebs of extracellular DNA and proteins normally released to trap microbes\u00e2\u20ac\u201dbecome a double-edged sword. They promote a pro-inflammatory and procoagulant state, activating the coagulation cascade and consuming clotting factors. Combined with endothelial injury and elevated fibrinogen causing increased viscosity, this leads to DVT, PE, and strokes.",
+        "whyWrongByChoice": {
+          "A": "Fibrinogen is typically elevated (not decreased) in COVID-19, contributing to increased blood viscosity and thrombosis.",
+          "C": "Thrombocytopenia can occur in COVID-19, but the hypercoagulable state is driven by NETs, endothelial injury, and elevated fibrinogen, not by platelet-related bleeding.",
+          "D": "D-dimer is typically elevated (not reduced) in COVID-19, reflecting ongoing coagulation and fibrinolysis.",
+          "E": "Von Willebrand factor is often elevated in COVID-19 due to endothelial injury, contributing to thrombosis, not decreased."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "COVID-19",
+        "NETs",
+        "thrombosis",
+        "hypercoagulable",
+        "DVT"
+      ]
+    },
+    {
+      "id": "r36-007",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "The diagnostic test of choice for confirming acute COVID-19 infection is which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum IgG antibody test"
+        },
+        {
+          "label": "B",
+          "text": "Chest X-ray"
+        },
+        {
+          "label": "C",
+          "text": "Rapid antigen test"
+        },
+        {
+          "label": "D",
+          "text": "Nucleic acid amplification test (NAAT/RT-PCR)"
+        },
+        {
+          "label": "E",
+          "text": "D-dimer level"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NAAT (RT-PCR) from a nasopharyngeal swab is the diagnostic test of choice for COVID-19. It can detect even small amounts of viral RNA through amplification. Antigen tests are faster but less sensitive.",
+        "whyCorrect": "NAAT by RT-PCR from a nasopharyngeal swab is the most sensitive and specific diagnostic test for acute COVID-19. Using PCR, even small amounts of viral RNA can be amplified to detectable levels. It is the test most used in clinical settings and may be required for travel, employment, or immigration purposes.",
+        "whyWrongByChoice": {
+          "A": "Serum IgG antibody tests detect prior infection (antibodies take weeks to develop) and are not useful for diagnosing acute infection.",
+          "B": "Chest X-ray can show bilateral ground-glass opacities but findings are not specific to COVID-19 and can be normal in early disease.",
+          "C": "Rapid antigen tests are specific but poorly sensitive\u00e2\u20ac\u201dlow viral loads may not trigger positive results. NAAT is preferred for definitive diagnosis.",
+          "E": "D-dimer is a nonspecific marker of coagulation/fibrinolysis. It may be elevated in COVID-19 but is not diagnostic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NAAT",
+        "RT-PCR",
+        "COVID-diagnosis",
+        "nasopharyngeal"
+      ]
+    },
+    {
+      "id": "r36-008",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "SARS-CoV-2 inhibits the production of which of the following host immune mediators, thereby slowing the initial innate immune response and increasing viral replication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-6"
+        },
+        {
+          "label": "B",
+          "text": "TNF-\u00ce\u00b1"
+        },
+        {
+          "label": "C",
+          "text": "Interferon-\u00ce\u00b2"
+        },
+        {
+          "label": "D",
+          "text": "IL-1"
+        },
+        {
+          "label": "E",
+          "text": "Complement C3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SARS-CoV-2 translates proteins that inhibit interferon-\u00ce\u00b2 production by immune cells, which is a key component of the innate antiviral response. This allows continued viral replication and increases transmission risk.",
+        "whyCorrect": "SARS-CoV-2 translates many proteins that protect it from the initial innate immune response. Specifically, the virus inhibits the production of interferon-\u00ce\u00b2 by immune cells. Because IFN-\u00ce\u00b2 is a key component of the innate antiviral response, its suppression allows continued viral replication and increases transmission risk.",
+        "whyWrongByChoice": {
+          "A": "IL-6 is actually upregulated in COVID-19 (contributing to the cytokine storm). SARS-CoV-2 suppresses IFN-\u00ce\u00b2, not IL-6.",
+          "B": "TNF-\u00ce\u00b1 is produced during the inflammatory response to COVID-19. The virus specifically suppresses interferon-\u00ce\u00b2, not TNF-\u00ce\u00b1.",
+          "D": "IL-1 is part of the inflammatory response and is not specifically suppressed by SARS-CoV-2. IFN-\u00ce\u00b2 is the targeted mediator.",
+          "E": "Complement C3 is not specifically inhibited by SARS-CoV-2. The virus targets interferon-\u00ce\u00b2 production."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "interferon-beta",
+        "immune-evasion",
+        "SARS-CoV-2",
+        "innate-immunity"
+      ]
+    },
+    {
+      "id": "r36-009",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "COVID-19 vaccines available in the United States primarily target which viral protein to generate protective immunity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nucleocapsid protein"
+        },
+        {
+          "label": "B",
+          "text": "RNA-dependent RNA polymerase"
+        },
+        {
+          "label": "C",
+          "text": "Spike protein"
+        },
+        {
+          "label": "D",
+          "text": "Envelope protein"
+        },
+        {
+          "label": "E",
+          "text": "3CL protease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "COVID-19 vaccines (both mRNA and protein subunit) target the spike protein. The spike protein mediates host cell entry by binding ACE2, so antibodies against it prevent infection.",
+        "whyCorrect": "COVID-19 vaccines target the spike glycoprotein, which SARS-CoV-2 uses to bind the ACE2 receptor and enter host cells. mRNA vaccines deliver viral mRNA encoding the spike protein, prompting host cells to produce it and generate an immune response. Protein subunit vaccines contain recombinant spike protein with adjuvant. Antibodies against spike protein prevent viral entry.",
+        "whyWrongByChoice": {
+          "A": "Nucleocapsid protein is an internal viral component. Antibodies against nucleocapsid are markers of prior infection, not the vaccine target.",
+          "B": "RNA-dependent RNA polymerase is an internal enzyme targeted by remdesivir, not by vaccines.",
+          "D": "The envelope protein is a minor structural component, not the primary vaccine target.",
+          "E": "3CL protease is the target of nirmatrelvir (antiviral), not vaccines."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "COVID-vaccine",
+        "spike-protein",
+        "mRNA",
+        "immunization"
+      ]
+    },
+    {
+      "id": "r36-010",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "Remdesivir is an intravenous antiviral used for hospitalized COVID-19 patients. Which of the following best describes its mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibits 3CL viral protease"
+        },
+        {
+          "label": "B",
+          "text": "Blocks ACE2 receptor binding"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits RNA-dependent RNA polymerase"
+        },
+        {
+          "label": "D",
+          "text": "Suppresses IL-6 receptor signaling"
+        },
+        {
+          "label": "E",
+          "text": "Blocks neuraminidase enzyme"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Remdesivir is a nucleotide analog that inhibits RNA-dependent RNA polymerase (RdRp), causing premature termination of viral RNA synthesis. It is used for hospitalized patients requiring supplemental oxygen.",
+        "whyCorrect": "Remdesivir is an intravenous nucleotide analog that inhibits RNA-dependent RNA polymerase (RdRp), leading to premature termination of viral RNA synthesis. It is used for hospitalized patients requiring supplemental oxygen or as an alternative outpatient therapy when oral antivirals cannot be used.",
+        "whyWrongByChoice": {
+          "A": "3CL protease inhibition is the mechanism of nirmatrelvir, not remdesivir.",
+          "B": "No approved antiviral directly blocks ACE2 receptor binding. Vaccines generate antibodies against spike protein for this purpose.",
+          "D": "IL-6 receptor blockade is the mechanism of tocilizumab, an immunomodulator, not remdesivir.",
+          "E": "Neuraminidase inhibition is the mechanism of oseltamivir for influenza."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "remdesivir",
+        "RdRp",
+        "RNA-polymerase",
+        "nucleotide-analog"
+      ]
+    },
+    {
+      "id": "r36-011",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "The incubation period for COVID-19 ranges from 2-14 days. Acute disease effects typically last up to how long after infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 days"
+        },
+        {
+          "label": "B",
+          "text": "1 week"
+        },
+        {
+          "label": "C",
+          "text": "4 weeks"
+        },
+        {
+          "label": "D",
+          "text": "3 months"
+        },
+        {
+          "label": "E",
+          "text": "6 months"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acute COVID-19 effects last up to 4 weeks after infection. Chronic symptoms (long COVID) may continue for more than 3 months after symptom onset and affect 5-6% of patients.",
+        "whyCorrect": "The incubation period for COVID-19 is 2-14 days with a mean of 5 days. Acute COVID-19 effects last up to 4 weeks after infection. Beyond this, chronic symptoms persisting more than 3 months constitute 'long COVID,' affecting approximately 5-6% of patients. Females are more affected (10% vs. 5% in males).",
+        "whyWrongByChoice": {
+          "A": "2 days is far too short. Acute disease effects last up to 4 weeks.",
+          "B": "1 week underestimates the duration. While some mild cases resolve quickly, the acute phase can last up to 4 weeks.",
+          "D": "3 months marks the transition to 'long COVID,' not the duration of acute disease. Acute effects last up to 4 weeks.",
+          "E": "6 months would be well into the chronic (long COVID) phase, not acute disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "COVID-19",
+        "incubation",
+        "acute-disease",
+        "4-weeks"
+      ]
+    },
+    {
+      "id": "r36-012",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "Corticosteroids should NOT be used in mild COVID-19 without oxygen requirement. Which of the following best explains this recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corticosteroids are ineffective against all viruses"
+        },
+        {
+          "label": "B",
+          "text": "Early immune suppression may impair viral clearance"
+        },
+        {
+          "label": "C",
+          "text": "Corticosteroids cause immediate renal failure"
+        },
+        {
+          "label": "D",
+          "text": "Mild COVID-19 has no inflammatory component"
+        },
+        {
+          "label": "E",
+          "text": "Corticosteroids increase ACE2 receptor expression"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During early COVID-19, viral replication is the primary driver. The immune system is essential for controlling viral spread. Corticosteroids during this phase suppress the immune response, potentially delaying viral clearance and allowing continued replication.",
+        "whyCorrect": "The timing of corticosteroid therapy is critical. Early in COVID-19, viral replication drives symptoms and the immune system plays an essential role in controlling viral spread. Corticosteroids during this phase suppress the immune response, potentially delaying viral clearance and allowing continued replication. In contrast, later disease with oxygen requirement is driven by excessive inflammation, where corticosteroids are beneficial.",
+        "whyWrongByChoice": {
+          "A": "Corticosteroids are effective as anti-inflammatory agents in severe COVID-19 requiring oxygen. They are not universally ineffective against viral diseases.",
+          "C": "Corticosteroids do not cause immediate renal failure. This is not the reason they are avoided in mild COVID-19.",
+          "D": "Even mild COVID-19 has an inflammatory component, but during early disease, the immune response is necessary for viral control, so suppressing it is harmful.",
+          "E": "Corticosteroid effect on ACE2 expression is not the primary reason for avoiding them in mild disease. The concern is immune suppression impairing viral clearance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "corticosteroids",
+        "timing",
+        "mild-COVID",
+        "immune-suppression"
+      ]
+    },
+    {
+      "id": "r36-013",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "Long COVID affects approximately 5-6% of patients, with chronic symptoms persisting more than 3 months. Which of the following is the most common symptom of long COVID?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemoptysis"
+        },
+        {
+          "label": "B",
+          "text": "Fatigue"
+        },
+        {
+          "label": "C",
+          "text": "Seizures"
+        },
+        {
+          "label": "D",
+          "text": "Hepatomegaly"
+        },
+        {
+          "label": "E",
+          "text": "Skin desquamation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The most common symptoms of long COVID are fatigue, fever, dyspnea, and cough. Other symptoms include nausea, chest pain (pericarditis), rashes, and leg swelling (DVT).",
+        "whyCorrect": "The most common symptoms of long COVID are fatigue, fever, dyspnea, and cough. These can persist for months after the acute infection resolves. Other symptoms may include nausea, vomiting, chest pain (from pericarditis), rashes, and leg swelling (from deep venous thrombi), likely due to prolonged immune response.",
+        "whyWrongByChoice": {
+          "A": "Hemoptysis is not a typical symptom of long COVID. It is more associated with TB, lung cancer, or PE.",
+          "C": "Seizures are not among the most common long COVID symptoms. Neurologic effects can include altered mental state and sensory disorders, but seizures are rare.",
+          "D": "While hepatic involvement can occur, fatigue is far more common as a long COVID symptom.",
+          "E": "Skin desquamation is not a typical long COVID symptom. Rashes can occur but desquamation is not characteristic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "long-COVID",
+        "fatigue",
+        "chronic-symptoms",
+        "3-months"
+      ]
+    },
+    {
+      "id": "r36-014",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "RNA viruses like SARS-CoV-2 have higher mutation rates compared to DNA viruses. Which of the following best explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RNA genomes are larger than DNA genomes"
+        },
+        {
+          "label": "B",
+          "text": "RNA polymerases have reduced proofreading capacity"
+        },
+        {
+          "label": "C",
+          "text": "RNA viruses replicate in the nucleus"
+        },
+        {
+          "label": "D",
+          "text": "DNA viruses have higher replication rates"
+        },
+        {
+          "label": "E",
+          "text": "RNA viruses integrate into host chromosomes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "RNA viruses have higher mutation rates because their RNA-dependent RNA polymerases have reduced proofreading capacity compared to DNA polymerases. This drives variant emergence like the SARS-CoV-2 variants (Alpha, Delta, Omicron).",
+        "whyCorrect": "RNA viruses have higher mutation rates because their RNA-dependent RNA polymerases lack the proofreading (3'-to-5' exonuclease) activity that DNA polymerases possess. This reduced fidelity leads to more errors during replication, generating mutations that can alter transmissibility, immune escape, and treatment response\u00e2\u20ac\u201ddriving variant emergence.",
+        "whyWrongByChoice": {
+          "A": "RNA genome size does not explain mutation rates. In fact, some RNA genomes are relatively large (coronaviruses have the largest RNA genomes). Mutation rate is determined by polymerase fidelity.",
+          "C": "Most RNA viruses replicate in the cytoplasm (influenza being an exception). Nuclear vs. cytoplasmic replication does not explain mutation rates.",
+          "D": "DNA viruses do not necessarily have higher replication rates. The key difference is polymerase proofreading capacity.",
+          "E": "Most RNA viruses do not integrate into host chromosomes. This is a feature of retroviruses. Standard RNA viruses mutate due to polymerase error rates."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "RNA-mutation",
+        "polymerase",
+        "proofreading",
+        "variants"
+      ]
+    },
+    {
+      "id": "r36-015",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "Tocilizumab may be added to dexamethasone for patients with severe or rapidly worsening COVID-19. Which of the following is the target of tocilizumab?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TNF-\u00ce\u00b1 receptor"
+        },
+        {
+          "label": "B",
+          "text": "IL-1 receptor"
+        },
+        {
+          "label": "C",
+          "text": "IL-6 receptor"
+        },
+        {
+          "label": "D",
+          "text": "IFN-\u00ce\u00b3 receptor"
+        },
+        {
+          "label": "E",
+          "text": "IL-4 receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tocilizumab is an IL-6 receptor antagonist that reduces inflammatory signaling associated with cytokine-mediated lung injury. It is used in combination with corticosteroids for severe COVID-19 with systemic inflammation.",
+        "whyCorrect": "Tocilizumab is an interleukin-6 (IL-6) receptor antagonist. IL-6 is a key pro-inflammatory cytokine elevated in severe COVID-19 (driven by macrophage activation). By blocking IL-6 signaling, tocilizumab reduces the inflammatory cascade associated with cytokine-mediated lung injury. It is used in combination with corticosteroids in patients with systemic inflammation.",
+        "whyWrongByChoice": {
+          "A": "TNF-\u00ce\u00b1 receptor blockade is the mechanism of infliximab and etanercept (used for autoimmune diseases), not tocilizumab.",
+          "B": "IL-1 receptor blockade is the mechanism of anakinra, not tocilizumab.",
+          "D": "IFN-\u00ce\u00b3 receptor is not the target of tocilizumab. IFN-\u00ce\u00b3 is important for antimycobacterial immunity.",
+          "E": "IL-4 receptor blockade is the mechanism of dupilumab (used for atopic dermatitis), not tocilizumab."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tocilizumab",
+        "IL-6",
+        "receptor-antagonist",
+        "severe-COVID"
+      ]
+    },
+    {
+      "id": "r36-016",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "COVID-19 antigen tests can provide results in 15 minutes but have a significant limitation. Which of the following best describes this limitation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They require blood samples, not nasal swabs"
+        },
+        {
+          "label": "B",
+          "text": "They are poorly specific with many false positives"
+        },
+        {
+          "label": "C",
+          "text": "They are poorly sensitive and may miss low viral loads"
+        },
+        {
+          "label": "D",
+          "text": "They can only detect the original Wuhan strain"
+        },
+        {
+          "label": "E",
+          "text": "They require laboratory processing over 24 hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antigen tests are specific but poorly sensitive\u00e2\u20ac\u201dthe lack of viral material amplification means low viral loads may not trigger a positive result. Their primary value is identifying high-viral-load patients likely to be contagious.",
+        "whyCorrect": "COVID-19 antigen tests detect viral surface antigens directly without amplification. While specific, they are poorly sensitive because low viral loads may not produce enough antigen to trigger a positive result. A negative antigen test does not rule out infection. Their primary value is identifying patients with high viral loads who are most likely to be contagious.",
+        "whyWrongByChoice": {
+          "A": "Antigen tests use nasal swab samples, not blood. Antibody tests (not antigen tests) use blood/serum.",
+          "B": "Antigen tests are actually quite specific (low false positive rate). Their limitation is poor sensitivity (possible false negatives).",
+          "D": "Modern antigen tests can detect multiple SARS-CoV-2 variants, not just the original strain.",
+          "E": "Antigen tests provide point-of-care results in approximately 15 minutes. They do not require extended laboratory processing\u00e2\u20ac\u201dthat's the advantage over PCR."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "antigen-test",
+        "sensitivity",
+        "viral-load",
+        "COVID-diagnosis"
+      ]
+    },
+    {
+      "id": "r36-017",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "Ritonavir is included in the nirmatrelvir-ritonavir combination not for its antiviral activity against SARS-CoV-2, but for which of the following pharmacokinetic roles?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increases renal clearance of nirmatrelvir"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits CYP3A4, boosting nirmatrelvir levels"
+        },
+        {
+          "label": "C",
+          "text": "Enhances nirmatrelvir absorption in the GI tract"
+        },
+        {
+          "label": "D",
+          "text": "Converts nirmatrelvir to its active metabolite"
+        },
+        {
+          "label": "E",
+          "text": "Prevents nirmatrelvir from crossing the blood-brain barrier"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ritonavir inhibits CYP3A4 metabolism, acting as a pharmacokinetic enhancer ('booster') that increases nirmatrelvir plasma concentrations. Drug-drug interactions must be evaluated due to CYP inhibition.",
+        "whyCorrect": "Ritonavir is included as a pharmacokinetic enhancer that inhibits CYP3A4 metabolism, increasing nirmatrelvir plasma concentrations. This 'boosting' effect allows nirmatrelvir to maintain therapeutic levels. However, ritonavir-mediated CYP inhibition creates significant drug-drug interaction potential that must be carefully evaluated before prescribing.",
+        "whyWrongByChoice": {
+          "A": "Ritonavir does not increase renal clearance. It inhibits hepatic CYP3A4 metabolism, decreasing nirmatrelvir's metabolism and increasing its levels.",
+          "C": "Ritonavir's pharmacokinetic boosting effect is through CYP3A4 inhibition (reducing metabolism), not enhancing GI absorption.",
+          "D": "Nirmatrelvir is active in its parent form and does not require metabolic activation. Ritonavir prevents its metabolism, not activates it.",
+          "E": "Ritonavir does not affect nirmatrelvir's CNS penetration. Its role is inhibiting hepatic metabolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ritonavir",
+        "CYP3A4",
+        "pharmacokinetic-booster",
+        "nirmatrelvir"
+      ]
+    },
+    {
+      "id": "r36-018",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "The Omicron variant of SARS-CoV-2 was notable for being more transmissible than the Delta variant. Which viral structure had the most mutations in this variant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nucleocapsid protein"
+        },
+        {
+          "label": "B",
+          "text": "Envelope protein"
+        },
+        {
+          "label": "C",
+          "text": "Spike protein"
+        },
+        {
+          "label": "D",
+          "text": "RNA polymerase"
+        },
+        {
+          "label": "E",
+          "text": "Matrix protein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Omicron variant had a high number of mutations in its spike protein, which increased its ability to bind ACE2 and evade prior immunity. Spike protein mutations are the primary driver of SARS-CoV-2 variant emergence.",
+        "whyCorrect": "The Omicron variant had a high number of mutations in its spike protein that increased its infective capability and transmissibility compared to Delta. Mutations in the spike glycoprotein are extremely common across SARS-CoV-2 variants and are a cause of repeated infections, as they allow immune escape from prior vaccination or infection.",
+        "whyWrongByChoice": {
+          "A": "Nucleocapsid mutations occur but are not the primary driver of increased transmissibility. Spike protein changes are most clinically significant.",
+          "B": "Envelope protein mutations are less clinically significant than spike protein changes in determining transmissibility and immune escape.",
+          "D": "RNA polymerase mutations can affect replication but spike protein mutations are the primary determinant of variant transmissibility and immune escape.",
+          "E": "Matrix protein mutations are less relevant to the transmissibility differences between variants."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Omicron",
+        "spike-protein",
+        "mutations",
+        "transmissibility"
+      ]
+    },
+    {
+      "id": "r36-019",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "In the upper respiratory system, SARS-CoV-2 initially infects and destroys ciliated epithelial cells. Which of the following is the primary consequence of this destruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased surfactant production"
+        },
+        {
+          "label": "B",
+          "text": "Impaired mucociliary clearance"
+        },
+        {
+          "label": "C",
+          "text": "Loss of ACE2 receptor expression"
+        },
+        {
+          "label": "D",
+          "text": "Increased alveolar compliance"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced antibody production"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SARS-CoV-2 infects and destroys ciliated epithelial cells of the nasopharynx and upper airway, resulting in inflammation and impaired mucociliary clearance, which compromises the airway's ability to clear pathogens and debris.",
+        "whyCorrect": "In the upper respiratory system, SARS-CoV-2 infects and destroys ciliated epithelial cells, resulting in inflammation and impaired mucociliary clearance. The mucociliary escalator is a critical defense mechanism that clears pathogens, debris, and mucus from the airways. Its impairment increases susceptibility to secondary infections and prolongs inflammation.",
+        "whyWrongByChoice": {
+          "A": "Surfactant is produced by type II pneumocytes in the alveoli, not by ciliated epithelial cells of the upper airway.",
+          "C": "While infected cells are destroyed, ACE2 is expressed on many cell types. The primary consequence of upper airway infection is impaired mucociliary clearance.",
+          "D": "Alveolar compliance is determined by surfactant and elastin, not upper airway ciliated cells.",
+          "E": "Destruction of ciliated cells impairs clearance, it does not directly enhance antibody production."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ciliated-cells",
+        "mucociliary-clearance",
+        "upper-airway",
+        "SARS-CoV-2"
+      ]
+    },
+    {
+      "id": "r36-020",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "ARDS is a serious complication of severe COVID-19. Which of the following pathophysiologic mechanisms leads to respiratory failure in ARDS?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchospasm narrowing the airways"
+        },
+        {
+          "label": "B",
+          "text": "Capillary leak flooding alveoli with fluid"
+        },
+        {
+          "label": "C",
+          "text": "Pleural effusion compressing the lung"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism blocking blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Diaphragmatic paralysis from phrenic nerve damage"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In ARDS from COVID-19, damaged capillaries leak fluid into the alveoli (diffuse alveolar damage), reducing airflow and gas exchange. This often requires intubation and mechanical ventilation.",
+        "whyCorrect": "ARDS occurs when capillaries leak fluid into the alveoli (diffuse alveolar damage), reducing airflow and gas exchange. In COVID-19, widespread inflammation, microvascular injury, and surfactant dysfunction contribute to alveolar collapse (atelectasis) and fluid accumulation. This severe impairment of gas exchange often requires intubation and mechanical ventilation.",
+        "whyWrongByChoice": {
+          "A": "Bronchospasm can occur in some respiratory infections but is not the primary mechanism of ARDS. ARDS is characterized by alveolar flooding from capillary leak.",
+          "C": "While pleural effusions can occur, ARDS is specifically defined by non-cardiogenic pulmonary edema from capillary leak into the alveoli.",
+          "D": "Pulmonary embolism is a separate thrombotic complication of COVID-19. ARDS is caused by alveolar damage and fluid accumulation.",
+          "E": "Diaphragmatic paralysis is not a mechanism of COVID-19-related ARDS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "capillary-leak",
+        "alveolar-damage",
+        "respiratory-failure"
+      ]
+    },
+    {
+      "id": "r36-021",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "Approximately what percentage of the world population has received initial COVID-19 vaccination, and what is the rate in low-income countries?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "95% globally; 80% in low-income countries"
+        },
+        {
+          "label": "B",
+          "text": "70% globally; 32% in low-income countries"
+        },
+        {
+          "label": "C",
+          "text": "50% globally; 50% in low-income countries"
+        },
+        {
+          "label": "D",
+          "text": "30% globally; 10% in low-income countries"
+        },
+        {
+          "label": "E",
+          "text": "90% globally; 70% in low-income countries"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "About 70% of the world population has been initially vaccinated against COVID-19, but this drops to 32% in low-income countries and remains under 25% in most African countries. Booster rates are even more variable.",
+        "whyCorrect": "Approximately 70% of the world population has received initial COVID-19 vaccination, but significant disparities exist. In low-income countries, the rate drops to about 32%, and it remains under 25% in most African countries. Booster rates are much more variable and less than 5% in many low-income countries.",
+        "whyWrongByChoice": {
+          "A": "95%/80% overestimates global and low-income country vaccination rates significantly.",
+          "C": "50%/50% underestimates the global rate (70%) and overestimates the low-income country rate (32%).",
+          "D": "30%/10% underestimates both rates. The global rate is approximately 70%.",
+          "E": "90%/70% overestimates both rates."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "COVID-vaccine",
+        "global-coverage",
+        "disparities",
+        "public-health"
+      ]
+    },
+    {
+      "id": "r36-022",
+      "topicId": "coronaviridae",
+      "topicName": "Coronaviridae",
+      "stem": "A patient with moderate COVID-19 has bilateral ground-glass opacities on chest CT. This imaging finding is most consistent with which of the following patterns of lung involvement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lobar consolidation"
+        },
+        {
+          "label": "B",
+          "text": "Cavitary disease"
+        },
+        {
+          "label": "C",
+          "text": "Interstitial/diffuse alveolar involvement"
+        },
+        {
+          "label": "D",
+          "text": "Unilateral pleural effusion"
+        },
+        {
+          "label": "E",
+          "text": "Hilar lymphadenopathy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "COVID-19 pneumonia characteristically shows bilateral, peripheral ground-glass opacities on CT, representing interstitial and diffuse alveolar involvement. This is consistent with viral pneumonia patterns.",
+        "whyCorrect": "COVID-19 pneumonia characteristically shows bilateral, peripheral ground-glass opacities on chest imaging, representing interstitial and diffuse alveolar involvement. In advanced disease, diffuse inflammation with interstitial lymphocytic infiltrates and diffuse alveolar damage occurs. Surfactant dysfunction may contribute to alveolar collapse.",
+        "whyWrongByChoice": {
+          "A": "Lobar consolidation is more characteristic of bacterial pneumonia (S. pneumoniae). COVID-19 typically shows diffuse bilateral ground-glass opacities.",
+          "B": "Cavitary disease is associated with TB, Nocardia, or lung abscess, not typical COVID-19 pneumonia.",
+          "D": "Unilateral pleural effusion is not a characteristic finding of COVID-19 pneumonia. The bilateral ground-glass pattern is more typical.",
+          "E": "Hilar lymphadenopathy is more associated with TB (Ghon complex), sarcoidosis, or lymphoma, not typical COVID-19."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "COVID-19",
+        "ground-glass",
+        "CT",
+        "bilateral",
+        "pneumonia"
+      ]
+    }
+  ]
+}

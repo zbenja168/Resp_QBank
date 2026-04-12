@@ -1,0 +1,2074 @@
+{
+  "categoryId": "resp-benign-congenital",
+  "categoryName": "Benign Tumors & Congenital Disorders",
+  "questions": [
+    {
+      "id": "r37-001",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "A 59-year-old man with chronic arthritis taking daily aspirin presents with bilateral nasal congestion, loss of smell, and wheezing. Nasal examination reveals bilateral nasal polyps. Which of the following triads best characterizes his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fever, rash, joint pain"
+        },
+        {
+          "label": "B",
+          "text": "Nasal polyps, asthma, aspirin sensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Epistaxis, proptosis, anosmia"
+        },
+        {
+          "label": "D",
+          "text": "Congestion, diplopia, facial swelling"
+        },
+        {
+          "label": "E",
+          "text": "Rhinorrhea, headache, neck stiffness"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Samter's triad consists of nasal polyps, asthmatic symptoms (wheezing), and aspirin sensitivity. Aspirin use activates the immune system, leading to these symptoms. It occurs in ~10% of asthmatics and ~30% with both asthma and nasal polyps.",
+        "whyCorrect": "This patient has Samter's triad: nasal polyps, asthmatic symptoms (wheezing), and aspirin sensitivity. In these patients, aspirin (or less often other NSAIDs) activates the immune system leading to chronic nasal polyps along with asthmatic symptoms and skin rash. The mechanism is not fully understood but occurs in approximately 10% of asthma patients and 30% who have both asthma and nasal polyps.",
+        "whyWrongByChoice": {
+          "A": "Fever, rash, and joint pain describe a serum sickness-like reaction or reactive arthritis, not Samter's triad.",
+          "C": "Epistaxis, proptosis, and anosmia are more associated with juvenile nasopharyngeal angiofibroma or invasive sinonasal tumors, not Samter's triad.",
+          "D": "Congestion, diplopia, and facial swelling suggest an invasive process like sinonasal papilloma or tumor with orbital extension, not the typical nasal polyp triad.",
+          "E": "Rhinorrhea, headache, and neck stiffness suggest meningeal irritation, not Samter's triad."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Samters-triad",
+        "nasal-polyps",
+        "aspirin-sensitivity",
+        "asthma"
+      ]
+    },
+    {
+      "id": "r37-002",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "A 16-year-old fair-skinned male presents with recurrent severe nosebleeds and unilateral nasal obstruction. Nasal endoscopy reveals a smooth, violet-colored lobulated mass on the lateral nasal wall. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasal polyp"
+        },
+        {
+          "label": "B",
+          "text": "Juvenile nasopharyngeal angiofibroma"
+        },
+        {
+          "label": "C",
+          "text": "Sinonasal papilloma"
+        },
+        {
+          "label": "D",
+          "text": "Nasopharyngeal carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "JNA presents almost exclusively in males aged 14-25, especially fair-skinned and red-haired. It originates in the pterygopalatine fossa and presents as a smooth, violet-colored mass with recurrent severe epistaxis.",
+        "whyCorrect": "Juvenile nasopharyngeal angiofibroma (JNA) is a benign but locally invasive tumor that presents almost exclusively in males between 14-25 years old, particularly fair-skinned and red-haired. It originates in the pterygopalatine fossa and appears as a smooth, violet-colored lobulated mass. The hallmark symptom is recurrent severe nosebleeds. A young man with recurrent epistaxis and a unilateral intranasal mass should raise suspicion for JNA.",
+        "whyWrongByChoice": {
+          "A": "Nasal polyps are bilateral, edematous, and not violet-colored. They present with congestion and loss of smell rather than severe recurrent epistaxis.",
+          "C": "Sinonasal papilloma presents in older males (30-60) as a unilateral polypoid mass causing obstruction. Nosebleeds are NOT common, unlike JNA where epistaxis is the hallmark.",
+          "D": "Nasopharyngeal carcinoma typically presents in older adults with cervical lymphadenopathy, cranial nerve palsies, and middle ear effusion, not the classic JNA presentation.",
+          "E": "Squamous cell carcinoma would present in an older patient, often with a destructive mass and risk factors like smoking or HPV, not a violet mass in an adolescent male."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "JNA",
+        "epistaxis",
+        "adolescent-male",
+        "pterygopalatine-fossa"
+      ]
+    },
+    {
+      "id": "r37-003",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "A 45-year-old man presents with unilateral nasal obstruction and occasional diplopia. Nasal endoscopy shows a unilateral polypoid mass on the lateral nasal wall that is more opaque and vascular than a typical nasal polyp. Biopsy reveals inverted growth of epithelium below the mucosal surface. Which of the following is most associated with this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin use"
+        },
+        {
+          "label": "B",
+          "text": "HPV types 6 and 11"
+        },
+        {
+          "label": "C",
+          "text": "Androgen receptor activation"
+        },
+        {
+          "label": "D",
+          "text": "Tobacco smoking"
+        },
+        {
+          "label": "E",
+          "text": "Chronic allergic rhinitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sinonasal papilloma (Schneiderian papilloma) is associated with HPV types 6 and 11 and Epstein-Barr virus. The inverted (endophytic) type is most common and has a ~10% risk of malignant transformation.",
+        "whyCorrect": "Sinonasal papilloma is associated with infection by HPV types 6 and 11 and Epstein-Barr virus. The inverted type is the most common subtype, growing downward from the mucosal surface. It is more opaque, more vascular, and unilateral compared to nasal polyps. The ~10% risk of malignant transformation to invasive carcinoma makes it clinically important.",
+        "whyWrongByChoice": {
+          "A": "Aspirin use is associated with nasal polyps (Samter's triad), not sinonasal papilloma.",
+          "C": "Androgen receptor dependence is thought to explain the male predominance of juvenile nasopharyngeal angiofibroma, not sinonasal papilloma.",
+          "D": "Tobacco smoking is a risk factor for many head and neck cancers but is not the specific association for sinonasal papilloma. HPV is the key associated pathogen.",
+          "E": "Chronic allergic rhinitis can cause nasal polyps but is not specifically associated with sinonasal papilloma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sinonasal-papilloma",
+        "HPV",
+        "inverted-type",
+        "malignant-transformation"
+      ]
+    },
+    {
+      "id": "r37-004",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "The first-line treatment for nasal polyps is which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endoscopic surgical excision"
+        },
+        {
+          "label": "B",
+          "text": "Radiation therapy"
+        },
+        {
+          "label": "C",
+          "text": "Intranasal corticosteroid spray"
+        },
+        {
+          "label": "D",
+          "text": "Systemic chemotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Aspirin desensitization therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Initial treatment of nasal polyps is with intranasal corticosteroid sprays, which reduce inflammation and shrink polyps. Decongestant sprays can reduce congestion. Surgery is reserved for severe cases.",
+        "whyCorrect": "The initial treatment for nasal polyps is intranasal corticosteroid spray, which reduces the inflammation driving polyp formation and can shrink existing polyps. Decongestant sprays can reduce associated congestion and nasal discharge. For patients with aspirin sensitivity, avoiding aspirin is important. Endoscopic sinus surgery is reserved for severe cases with significant congestion, pain, or nasal deformities.",
+        "whyWrongByChoice": {
+          "A": "Endoscopic sinus surgery is reserved for more severe cases that do not respond to medical therapy. It is not the first-line treatment.",
+          "B": "Radiation therapy is used for unresectable JNA tumors, not for nasal polyps.",
+          "D": "Chemotherapy is not used for benign nasal polyps.",
+          "E": "While aspirin avoidance is important in Samter's triad, aspirin desensitization is not the first-line treatment for nasal polyps. Intranasal corticosteroids are first-line."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nasal-polyps",
+        "intranasal-corticosteroids",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r37-005",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "A clinician suspects JNA in a 17-year-old male with a nasal mass. Which of the following diagnostic procedures should be AVOIDED in the office due to the high vascularity of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT scan of sinuses"
+        },
+        {
+          "label": "B",
+          "text": "MRI of the head"
+        },
+        {
+          "label": "C",
+          "text": "Nasal endoscopy"
+        },
+        {
+          "label": "D",
+          "text": "In-office biopsy"
+        },
+        {
+          "label": "E",
+          "text": "Physical examination"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "JNA is highly vascularized, so biopsy should be performed surgically in a controlled operating room setting rather than in the office. In-office biopsy risks uncontrollable hemorrhage.",
+        "whyCorrect": "JNA is a highly vascularized tumor with abundant capillaries (angiofibroma = blood vessels + fibrous tissue). Performing a biopsy in the office risks severe, potentially uncontrollable hemorrhage. Instead, biopsy should be done surgically in a controlled setting with the ability to manage significant bleeding. CT scan, MRI, and nasal endoscopy are all appropriate diagnostic tools.",
+        "whyWrongByChoice": {
+          "A": "CT scans are appropriate and useful for confirming the mass and evaluating extension into surrounding structures.",
+          "B": "MRI is appropriate for evaluating the extent of JNA, particularly for soft tissue delineation.",
+          "C": "Nasal endoscopy is used to visualize the tumor and is an important diagnostic tool.",
+          "E": "Physical examination is always appropriate and would not cause dangerous bleeding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "JNA",
+        "biopsy",
+        "hemorrhage",
+        "vascular-tumor"
+      ]
+    },
+    {
+      "id": "r37-006",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "The inverted type of sinonasal papilloma is particularly concerning because of which of the following complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Risk of massive hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Approximately 10% risk of malignant transformation"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral nasal obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Aspirin-induced bronchospasm"
+        },
+        {
+          "label": "E",
+          "text": "Androgen receptor-dependent growth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The inverted type of sinonasal papilloma has approximately 10% risk of progression to invasive carcinoma, making periodic post-resection surveillance essential.",
+        "whyCorrect": "The inverted (endophytic) type of sinonasal papilloma is the most common type and is particularly worrisome because it has approximately 10% risk of progression to invasive carcinoma. For this reason, surgical excision is the treatment of choice, and periodic post-resection surveillance is essential to detect recurrence or malignant transformation.",
+        "whyWrongByChoice": {
+          "A": "Massive hemorrhage is more associated with JNA (highly vascularized), not sinonasal papilloma.",
+          "C": "Nasal polyps are more commonly bilateral. Sinonasal papilloma is typically unilateral.",
+          "D": "Aspirin-induced bronchospasm is a feature of Samter's triad with nasal polyps, not sinonasal papilloma.",
+          "E": "Androgen receptor-dependent growth is a proposed mechanism for JNA, not sinonasal papilloma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "inverted-papilloma",
+        "malignant-transformation",
+        "10-percent",
+        "surveillance"
+      ]
+    },
+    {
+      "id": "r37-007",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "Histologically, nasal polyps are characterized by which of the following features?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense fibrous stroma with abundant capillaries"
+        },
+        {
+          "label": "B",
+          "text": "Inverted epithelial growth below the mucosal surface"
+        },
+        {
+          "label": "C",
+          "text": "Edematous stroma with mixed inflammatory infiltrate"
+        },
+        {
+          "label": "D",
+          "text": "Atypical squamous cells with keratin pearls"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatous inflammation with giant cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nasal polyps show an edematous stroma covered by respiratory epithelium with a mixed inflammatory infiltrate composed of lymphocytes, plasma cells, eosinophils, neutrophils, and mast cells.",
+        "whyCorrect": "Nasal polyps are characterized histologically by an edematous stroma covered by respiratory epithelium. The stroma contains a mixed inflammatory infiltrate composed of lymphocytes, plasma cells, eosinophils, neutrophils, and mast cells. This inflammatory composition reflects the chronic inflammation driving polyp formation.",
+        "whyWrongByChoice": {
+          "A": "Dense fibrous stroma with abundant capillaries describes the histology of juvenile nasopharyngeal angiofibroma (angiofibroma = blood vessels + fibrous tissue).",
+          "B": "Inverted epithelial growth below the mucosal surface describes the inverted type of sinonasal papilloma.",
+          "D": "Atypical squamous cells with keratin pearls describe squamous cell carcinoma, a malignant process, not benign nasal polyps.",
+          "E": "Granulomatous inflammation with giant cells is seen in tuberculosis, sarcoidosis, or granulomatosis with polyangiitis, not typical nasal polyps."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nasal-polyps",
+        "histology",
+        "edematous-stroma",
+        "inflammatory-infiltrate"
+      ]
+    },
+    {
+      "id": "r37-008",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "JNA is thought to be androgen receptor-dependent. This explains which of the following epidemiologic features?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Female predominance"
+        },
+        {
+          "label": "B",
+          "text": "Almost exclusive occurrence in males 14-25 years"
+        },
+        {
+          "label": "C",
+          "text": "Peak incidence in postmenopausal women"
+        },
+        {
+          "label": "D",
+          "text": "Equal sex distribution across all ages"
+        },
+        {
+          "label": "E",
+          "text": "Increased incidence with oral contraceptive use"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "JNA is thought to be androgen receptor-dependent, explaining its almost exclusive occurrence in males between 14-25 years (during the period of highest androgen levels). It is uncommonly found in females.",
+        "whyCorrect": "JNA is thought to be androgen receptor-dependent, which explains its almost exclusive occurrence in males between 14 and 25 years old\u00e2\u20ac\u201dthe period of peak androgen levels during puberty and young adulthood. This hormonal dependence also explains why the tumor rarely occurs in females or in males outside this age range.",
+        "whyWrongByChoice": {
+          "A": "JNA shows male predominance, not female predominance, consistent with androgen dependence.",
+          "C": "JNA occurs in adolescent/young adult males, not postmenopausal women. Androgen dependence explains the male, youthful age predilection.",
+          "D": "JNA does not have equal sex distribution. It is overwhelmingly male, consistent with androgen receptor dependence.",
+          "E": "Oral contraceptive use is not associated with JNA. The androgen (not estrogen) dependence explains the male predominance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "JNA",
+        "androgen-receptor",
+        "male-predominance",
+        "epidemiology"
+      ]
+    },
+    {
+      "id": "r37-009",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "A patient with nasal polyps due to aspirin sensitivity is advised to stop aspirin. Which of the following analgesics should be recommended as a substitute?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ibuprofen"
+        },
+        {
+          "label": "B",
+          "text": "Naproxen"
+        },
+        {
+          "label": "C",
+          "text": "Acetaminophen"
+        },
+        {
+          "label": "D",
+          "text": "Ketorolac"
+        },
+        {
+          "label": "E",
+          "text": "Indomethacin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Patients with aspirin-sensitive nasal polyps should avoid aspirin and NSAIDs. Acetaminophen is a safe alternative analgesic because it does not significantly inhibit cyclooxygenase in the way that triggers the aspirin sensitivity reaction.",
+        "whyCorrect": "Patients with aspirin-sensitive nasal polyps (Samter's triad) should avoid aspirin and, less often, other NSAIDs that can trigger the same immune activation. Acetaminophen is a safe substitute as it does not significantly affect the cyclooxygenase pathway that triggers the aspirin sensitivity reaction. Switching from aspirin to acetaminophen can improve symptoms.",
+        "whyWrongByChoice": {
+          "A": "Ibuprofen is an NSAID that, while less commonly implicated than aspirin, can still trigger the same sensitivity reaction in susceptible patients.",
+          "B": "Naproxen is an NSAID with the same risk of triggering aspirin-sensitive reactions.",
+          "D": "Ketorolac is a potent NSAID that should be avoided in aspirin-sensitive patients.",
+          "E": "Indomethacin is a potent NSAID contraindicated in patients with aspirin sensitivity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aspirin-sensitivity",
+        "acetaminophen",
+        "nasal-polyps",
+        "substitute"
+      ]
+    },
+    {
+      "id": "r37-010",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "How does sinonasal papilloma differ from nasal polyps on nasal endoscopy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Papilloma is bilateral; polyps are unilateral"
+        },
+        {
+          "label": "B",
+          "text": "Papilloma is more opaque, more vascular, and unilateral"
+        },
+        {
+          "label": "C",
+          "text": "Polyps are more opaque and more vascular"
+        },
+        {
+          "label": "D",
+          "text": "There is no visible difference between them"
+        },
+        {
+          "label": "E",
+          "text": "Papilloma is always found in the septum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sinonasal papilloma is more opaque, more vascular, and unilateral, distinguishing it from nasal polyps which are more translucent, less vascular, and often bilateral. Biopsy should be done in uncertain cases.",
+        "whyCorrect": "Sinonasal papilloma is often initially misdiagnosed as the more common nasal polyp. However, sinonasal papilloma has unique features: it is more opaque, more vascular, and characteristically unilateral rather than bilateral. Biopsy should be performed in any uncertain cases to confirm the diagnosis and exclude malignancy.",
+        "whyWrongByChoice": {
+          "A": "The laterality is reversed. Sinonasal papilloma is unilateral; nasal polyps are more commonly bilateral.",
+          "C": "Nasal polyps are less opaque and less vascular than sinonasal papilloma, not more.",
+          "D": "There are visible differences. Sinonasal papilloma is more opaque, vascular, and unilateral compared to polyps.",
+          "E": "Sinonasal papilloma is usually found on the lateral nasal wall, not the septum."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sinonasal-papilloma",
+        "nasal-polyps",
+        "differential",
+        "unilateral"
+      ]
+    },
+    {
+      "id": "r37-011",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "JNA originates from which anatomic location?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasal septum"
+        },
+        {
+          "label": "B",
+          "text": "Maxillary sinus"
+        },
+        {
+          "label": "C",
+          "text": "Pterygopalatine fossa"
+        },
+        {
+          "label": "D",
+          "text": "Frontal sinus"
+        },
+        {
+          "label": "E",
+          "text": "Cribriform plate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "JNA originates in the pterygopalatine fossa, a depression in the skull. From there, it can extend into the nasal cavity, sinuses, orbit, and intracranially.",
+        "whyCorrect": "JNA originates in the pterygopalatine fossa, a depression in the skull located behind the maxillary sinus. The tumor is often found on the lateral wall of the nasal cavity near the sphenopalatine foramen. From the pterygopalatine fossa, JNA can extend into surrounding structures including the sinuses, eyes, and brain.",
+        "whyWrongByChoice": {
+          "A": "JNA does not originate from the nasal septum. It originates in the pterygopalatine fossa.",
+          "B": "JNA does not originate from the maxillary sinus, though it may extend into the sinuses as it grows.",
+          "D": "JNA does not originate from the frontal sinus.",
+          "E": "The cribriform plate is a bony structure through which olfactory nerves pass. JNA does not originate from this location."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "JNA",
+        "pterygopalatine-fossa",
+        "anatomy",
+        "origin"
+      ]
+    },
+    {
+      "id": "r37-012",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "What percentage of the population develops nasal polyps during their lifetime?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 1%"
+        },
+        {
+          "label": "B",
+          "text": "5-10%"
+        },
+        {
+          "label": "C",
+          "text": "Almost 40%"
+        },
+        {
+          "label": "D",
+          "text": "60-70%"
+        },
+        {
+          "label": "E",
+          "text": "Over 90%"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nasal polyps are the most common benign tumors of the nasal cavity, with almost 40% of the population developing them sometime during their lives.",
+        "whyCorrect": "Nasal polyps are extremely common\u00e2\u20ac\u201dalmost 40% of the population develops them sometime during their lives. They are by far the most common benign tumor of the nasal cavity. Their cause is usually related to chronic inflammation, and many cases respond well to intranasal corticosteroid therapy.",
+        "whyWrongByChoice": {
+          "A": "Less than 1% greatly underestimates nasal polyp prevalence. Almost 40% of people develop them.",
+          "B": "5-10% significantly underestimates the prevalence.",
+          "D": "60-70% overestimates. The prevalence is approximately 40%.",
+          "E": "Over 90% greatly overestimates nasal polyp prevalence."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nasal-polyps",
+        "prevalence",
+        "40-percent",
+        "epidemiology"
+      ]
+    },
+    {
+      "id": "r37-013",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "The treatment of choice for sinonasal papilloma is which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intranasal corticosteroid spray"
+        },
+        {
+          "label": "B",
+          "text": "Antiviral medication for HPV"
+        },
+        {
+          "label": "C",
+          "text": "Surgical excision"
+        },
+        {
+          "label": "D",
+          "text": "Watchful waiting only"
+        },
+        {
+          "label": "E",
+          "text": "Radiation therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because of their locally aggressive nature and ~10% risk of malignant transformation, sinonasal papillomas are treated with surgical excision. Endoscopic excision is most common, with open surgery for inaccessible tumors. Periodic surveillance is essential.",
+        "whyCorrect": "Due to their locally aggressive nature and approximately 10% risk of malignant transformation, sinonasal papillomas are treated by surgical excision. Endoscopic excision is the most common approach, but open surgery may be needed if the tumor cannot be accessed endoscopically. Periodic post-resection surveillance is essential because of recurrence and malignant transformation risk.",
+        "whyWrongByChoice": {
+          "A": "Intranasal corticosteroids are first-line for nasal polyps, not sinonasal papilloma. Papillomas require surgical excision due to malignancy risk.",
+          "B": "There is no specific antiviral treatment for HPV-associated sinonasal papilloma. Surgical excision is the treatment.",
+          "D": "Watchful waiting is not appropriate given the 10% risk of malignant transformation. Surgical excision is indicated.",
+          "E": "Radiation therapy is used for unresectable JNA tumors, not as primary treatment for sinonasal papilloma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sinonasal-papilloma",
+        "surgical-excision",
+        "treatment",
+        "malignancy-risk"
+      ]
+    },
+    {
+      "id": "r37-014",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "JNA recurs after surgical treatment in approximately what percentage of patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 1%"
+        },
+        {
+          "label": "B",
+          "text": "5%"
+        },
+        {
+          "label": "C",
+          "text": "20%"
+        },
+        {
+          "label": "D",
+          "text": "50%"
+        },
+        {
+          "label": "E",
+          "text": "75%"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "JNA recurs in approximately 20% of patients after treatment. This high recurrence rate necessitates long-term follow-up surveillance.",
+        "whyCorrect": "JNA recurs in approximately 20% of patients after surgical treatment. This significant recurrence rate is an important consideration in management and necessitates long-term follow-up. For unresectable or recurrent tumors, radiation therapy may be considered.",
+        "whyWrongByChoice": {
+          "A": "Less than 1% underestimates the recurrence rate. JNA recurs in about 20% of patients.",
+          "B": "5% underestimates the recurrence rate.",
+          "D": "50% overestimates the recurrence rate.",
+          "E": "75% significantly overestimates the recurrence rate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "JNA",
+        "recurrence",
+        "20-percent",
+        "follow-up"
+      ]
+    },
+    {
+      "id": "r37-015",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "Complications of JNA can include extension into surrounding structures. Which of the following is a potential serious complication of untreated JNA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malignant transformation to carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Extension into the brain causing neurological deficits"
+        },
+        {
+          "label": "C",
+          "text": "Spontaneous resolution without treatment"
+        },
+        {
+          "label": "D",
+          "text": "Metastasis to distant organs"
+        },
+        {
+          "label": "E",
+          "text": "Development of Samter's triad"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "JNA can extend into surrounding structures including sinuses, orbit (causing blindness), and brain (causing neurological deficits). Despite being benign, it is locally invasive and can cause serious complications.",
+        "whyCorrect": "JNA is benign but locally invasive. Complications include extension of the mass into the sinuses, the eyes (potentially causing permanent blindness), and the brain (causing neurological deficits). These serious complications underscore the importance of early diagnosis and treatment despite the tumor's benign histology.",
+        "whyWrongByChoice": {
+          "A": "JNA is benign and does not undergo malignant transformation to carcinoma. Malignant transformation (~10%) is associated with sinonasal papilloma, not JNA.",
+          "C": "JNA does not spontaneously resolve. It requires surgical treatment and even recurs in ~20% of patients.",
+          "D": "JNA is a benign tumor that does not metastasize. It grows by local invasion only.",
+          "E": "Samter's triad is associated with nasal polyps and aspirin sensitivity, not JNA."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "JNA",
+        "complications",
+        "brain-extension",
+        "blindness"
+      ]
+    },
+    {
+      "id": "r37-016",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "Sinonasal papilloma histologically shows a variable combination of cell types. Which of the following cell types are characteristically present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Squamous, transitional, and columnar epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Only squamous epithelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Fibroblasts and abundant capillaries"
+        },
+        {
+          "label": "D",
+          "text": "Eosinophils and mast cells in edematous stroma"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatous inflammation with giant cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sinonasal papilloma shows a variable combination of squamous, transitional, and columnar epithelial cells along with mucin-producing mucocytes. This distinguishes it from nasal polyps histologically.",
+        "whyCorrect": "Sinonasal papilloma is characterized histologically by a variable combination of squamous, transitional, and columnar epithelial cells, along with mucin-producing mucocytes. This unique histologic pattern helps distinguish it from nasal polyps (edematous stroma with inflammatory infiltrate) and JNA (fibrous stroma with capillaries).",
+        "whyWrongByChoice": {
+          "B": "Sinonasal papilloma contains a mixture of cell types (squamous, transitional, columnar), not purely squamous cells.",
+          "C": "Fibroblasts and abundant capillaries describe JNA histology, not sinonasal papilloma.",
+          "D": "Eosinophils and mast cells in edematous stroma describe nasal polyp histology, not sinonasal papilloma.",
+          "E": "Granulomatous inflammation with giant cells is seen in TB, sarcoidosis, or granulomatosis with polyangiitis, not sinonasal papilloma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sinonasal-papilloma",
+        "histology",
+        "epithelial-cells",
+        "pathology"
+      ]
+    },
+    {
+      "id": "r37-017",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "A 50-year-old man has a biopsy-confirmed sinonasal papilloma that was completely excised. Which of the following follow-up plans is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No follow-up needed after complete excision"
+        },
+        {
+          "label": "B",
+          "text": "Periodic surveillance for recurrence and malignant transformation"
+        },
+        {
+          "label": "C",
+          "text": "Immediate radiation therapy post-excision"
+        },
+        {
+          "label": "D",
+          "text": "Systemic chemotherapy for 6 months"
+        },
+        {
+          "label": "E",
+          "text": "Repeat biopsy every 6 months for 5 years"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sinonasal papilloma can recur or undergo malignant transformation (~10%). Periodic post-resection surveillance is essential for early detection of these complications.",
+        "whyCorrect": "After surgical excision of sinonasal papilloma, periodic post-resection surveillance is essential because the tumor can recur and has approximately 10% risk of malignant transformation. Regular nasal endoscopy and imaging are used to monitor for recurrence or development of carcinoma.",
+        "whyWrongByChoice": {
+          "A": "No follow-up would be inappropriate given the recurrence risk and 10% malignant transformation rate. Surveillance is mandatory.",
+          "C": "Radiation therapy is not routinely used post-excision for sinonasal papilloma. It may be considered for JNA recurrence.",
+          "D": "Chemotherapy is not standard treatment for benign sinonasal papilloma, even after excision.",
+          "E": "While surveillance is needed, invasive repeat biopsies every 6 months are not standard. Endoscopic surveillance with biopsy only if suspicious findings are seen is more appropriate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sinonasal-papilloma",
+        "surveillance",
+        "recurrence",
+        "follow-up"
+      ]
+    },
+    {
+      "id": "r37-018",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "The histology of JNA shows fibroblastic cells with near cuboidal nuclei, fibrous stroma, and abundant capillaries. Which of the following best explains why the tumor name contains both 'angio' and 'fibroma'?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It metastasizes through blood vessels and lymphatics"
+        },
+        {
+          "label": "B",
+          "text": "It contains both vascular (angio) and fibrous components"
+        },
+        {
+          "label": "C",
+          "text": "It arises from vascular malformations of the septum"
+        },
+        {
+          "label": "D",
+          "text": "It is a fibrous tumor that obstructs blood vessels"
+        },
+        {
+          "label": "E",
+          "text": "It represents a mixed malignant neoplasm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The name angiofibroma reflects the tumor's dual composition: abundant blood vessels (angio-) and fibrous tissue (-fibroma). This highly vascular nature is why in-office biopsy is dangerous.",
+        "whyCorrect": "The name angiofibroma directly reflects the tumor's histologic composition: abundant blood vessels and capillaries ('angio') within a fibrous stroma ('fibroma'). The fibroblastic cells and fibrous tissue provide the structural framework, while the abundant capillaries make the tumor highly vascular\u00e2\u20ac\u201dexplaining the violet color, severe epistaxis, and danger of in-office biopsy.",
+        "whyWrongByChoice": {
+          "A": "JNA is a benign tumor that does not metastasize. It grows by local invasion, not hematogenous or lymphatic spread.",
+          "C": "JNA originates in the pterygopalatine fossa, not from vascular malformations of the septum.",
+          "D": "JNA does not obstruct blood vessels. The 'angio' component refers to the abundant vasculature within the tumor itself.",
+          "E": "JNA is benign, not malignant. Despite its locally invasive behavior, it is a benign neoplasm."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "JNA",
+        "angiofibroma",
+        "histology",
+        "vascular",
+        "fibrous"
+      ]
+    },
+    {
+      "id": "r37-019",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "Which EGFR-related mutation has been detected in sinonasal papillomas, although its clinical significance is not yet fully understood?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BRAF V600E mutation"
+        },
+        {
+          "label": "B",
+          "text": "EGFR gene mutations"
+        },
+        {
+          "label": "C",
+          "text": "KRAS G12D mutation"
+        },
+        {
+          "label": "D",
+          "text": "TP53 deletion"
+        },
+        {
+          "label": "E",
+          "text": "ALK rearrangement"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "EGFR gene mutations have been detected in sinonasal papillomas alongside HPV association, but the clinical significance of these mutations is not yet fully known.",
+        "whyCorrect": "Epidermal growth factor receptor (EGFR) gene mutations have been detected in sinonasal papillomas, but their clinical significance is not yet fully understood. Along with HPV types 6 and 11 and EBV association, EGFR mutations may contribute to the tumor's growth and potentially its risk of malignant transformation.",
+        "whyWrongByChoice": {
+          "A": "BRAF V600E is associated with melanoma and papillary thyroid cancer, not sinonasal papilloma.",
+          "C": "KRAS mutations are associated with lung adenocarcinoma, pancreatic cancer, and colorectal cancer, not sinonasal papilloma.",
+          "D": "TP53 deletion is associated with many malignancies but is not the specific mutation identified in sinonasal papilloma. EGFR mutations are the ones detected.",
+          "E": "ALK rearrangement is associated with certain lung adenocarcinomas and lymphomas, not sinonasal papilloma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "EGFR",
+        "sinonasal-papilloma",
+        "mutation",
+        "molecular"
+      ]
+    },
+    {
+      "id": "r37-020",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "CTNNB1 gene mutations encoding beta-catenin are present in many cases of which of the following nasal tumors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasal polyps"
+        },
+        {
+          "label": "B",
+          "text": "Sinonasal papilloma"
+        },
+        {
+          "label": "C",
+          "text": "Juvenile nasopharyngeal angiofibroma"
+        },
+        {
+          "label": "D",
+          "text": "Nasopharyngeal carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma of the nose"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mutations in CTNNB1, which encodes the signal transduction molecule beta-catenin, are present in many cases of JNA. Beta-catenin is involved in the Wnt signaling pathway that regulates cell growth.",
+        "whyCorrect": "Mutations in CTNNB1, which encodes the signal transduction molecule beta-catenin, are present in many cases of JNA. Beta-catenin is part of the Wnt signaling pathway involved in cell growth and differentiation. These mutations, combined with the tumor's androgen receptor dependence, contribute to JNA pathogenesis.",
+        "whyWrongByChoice": {
+          "A": "Nasal polyps are caused by chronic inflammation, not CTNNB1 mutations.",
+          "B": "Sinonasal papilloma is associated with HPV types 6/11 and EGFR mutations, not CTNNB1.",
+          "D": "Nasopharyngeal carcinoma is associated with EBV infection, not CTNNB1 mutations.",
+          "E": "Squamous cell carcinoma has various molecular drivers but CTNNB1 mutations are specifically associated with JNA among nasal tumors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CTNNB1",
+        "beta-catenin",
+        "JNA",
+        "molecular-genetics"
+      ]
+    },
+    {
+      "id": "r37-021",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "Nasal polyps can rarely lead to which of the following complications in severe, untreated cases?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malignant transformation to carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Nasal deformity and destruction of nasal bones"
+        },
+        {
+          "label": "C",
+          "text": "Metastasis to cervical lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Extension through cribriform plate to brain"
+        },
+        {
+          "label": "E",
+          "text": "Massive hemorrhage requiring transfusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In unusual cases, recurrent severe sinusitis from nasal polyps can lead to nasal deformity and destruction of the nasal bones. This is a rare but serious complication of untreated severe polyps.",
+        "whyCorrect": "In unusual cases, recurrent severe sinusitis caused by nasal polyps can lead to nasal deformity and destruction of the nasal bones. This rare complication underscores the importance of treating significant nasal polyps, initially with corticosteroids and surgically if needed.",
+        "whyWrongByChoice": {
+          "A": "Nasal polyps are benign and do not undergo malignant transformation. This risk (10%) is associated with sinonasal papilloma, not polyps.",
+          "C": "Nasal polyps are benign and do not metastasize.",
+          "D": "Extension through the cribriform plate is more concerning with sinonasal malignancies, not typical nasal polyps.",
+          "E": "Massive hemorrhage is associated with JNA (highly vascularized), not nasal polyps."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nasal-polyps",
+        "nasal-deformity",
+        "bone-destruction",
+        "complication"
+      ]
+    },
+    {
+      "id": "r37-022",
+      "topicId": "benign-nasal-tumors",
+      "topicName": "Benign Tumors of the Nasal Cavity",
+      "stem": "Sinonasal papilloma is most commonly found in which age group and sex?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Males aged 14-25"
+        },
+        {
+          "label": "B",
+          "text": "Females aged 20-40"
+        },
+        {
+          "label": "C",
+          "text": "Males aged 30-60"
+        },
+        {
+          "label": "D",
+          "text": "Children under age 10"
+        },
+        {
+          "label": "E",
+          "text": "Postmenopausal females"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sinonasal papilloma is most often seen in males aged 30-60 years. This distinguishes it from JNA (males 14-25) and nasal polyps (both sexes, any age).",
+        "whyCorrect": "Sinonasal papilloma is most often seen in males aged 30-60 years. Like JNA, it shows male predominance, but it affects an older age group. This age and sex distribution, combined with unilateral presentation and HPV association, helps distinguish it from nasal polyps (any age, often bilateral) and JNA (males 14-25 with epistaxis).",
+        "whyWrongByChoice": {
+          "A": "Males aged 14-25 is the demographic for JNA, not sinonasal papilloma.",
+          "B": "There is no specific female predominance in sinonasal papilloma. It is more common in males.",
+          "D": "Sinonasal papilloma is rare in children. It typically presents in middle-aged adults.",
+          "E": "There is no specific association with postmenopausal females."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sinonasal-papilloma",
+        "demographics",
+        "male",
+        "30-60-years"
+      ]
+    },
+    {
+      "id": "r38-001",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "A newborn presents with respiratory distress, a scaphoid abdomen, barrel-shaped chest, and bowel sounds heard in the left chest. Breath sounds are absent on the left. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tracheoesophageal fistula"
+        },
+        {
+          "label": "B",
+          "text": "Choanal atresia"
+        },
+        {
+          "label": "C",
+          "text": "Congenital diaphragmatic hernia"
+        },
+        {
+          "label": "D",
+          "text": "Bronchogenic cyst"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary sequestration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CDH presents with respiratory distress, scaphoid abdomen (intestines have moved to thorax), barrel-shaped chest, decreased breath sounds on the affected side, and bowel sounds in the chest. It occurs in ~1/2500 births.",
+        "whyCorrect": "Congenital diaphragmatic hernia (CDH) classically presents with respiratory distress after birth, scaphoid (sunken) abdomen, barrel-shaped chest, decreased breath sounds on the affected side, and bowel sounds heard in the chest. The scaphoid abdomen occurs because intestines have herniated into the thorax. CDH is more common on the left side because the left pleuroperitoneal membrane closes later.",
+        "whyWrongByChoice": {
+          "A": "TEF presents with coughing, choking, drooling, and cyanosis during feeding. It does not cause a scaphoid abdomen or bowel sounds in the chest.",
+          "B": "Choanal atresia presents with cyanosis during feeding that improves with crying (obligate nose breathers). It does not cause bowel sounds in the chest.",
+          "D": "Bronchogenic cysts are usually asymptomatic at birth and detected incidentally on imaging. They do not cause a scaphoid abdomen.",
+          "E": "Pulmonary sequestration is not described in this brick and does not present with the classic CDH findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CDH",
+        "scaphoid-abdomen",
+        "bowel-sounds",
+        "neonatal"
+      ]
+    },
+    {
+      "id": "r38-002",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "A newborn with bilateral choanal atresia becomes cyanotic during feeding but improves when crying. Which of the following best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crying increases cardiac output"
+        },
+        {
+          "label": "B",
+          "text": "Neonates are obligate nose breathers; crying opens the mouth"
+        },
+        {
+          "label": "C",
+          "text": "Crying stimulates surfactant production"
+        },
+        {
+          "label": "D",
+          "text": "Feeding increases oxygen consumption"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral obstruction only affects one nostril"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Newborns are obligate nose breathers, especially during feeding. Bilateral choanal atresia blocks nasal airflow. Crying forces the mouth open, allowing air entry through the oral cavity and improving oxygenation.",
+        "whyCorrect": "Newborns are obligate nose breathers, especially during feeding when the mouth is occupied. Bilateral choanal atresia completely blocks nasal airflow. During feeding, the infant cannot breathe through the nose or mouth, causing cyanosis. Crying forces the mouth open, allowing air to enter through the oral cavity, improving oxygenation.",
+        "whyWrongByChoice": {
+          "A": "While crying does transiently increase cardiac output, the key mechanism is that crying opens the mouth for oral breathing in an obligate nose breather.",
+          "C": "Crying does not significantly stimulate surfactant production. The improvement is due to oral air entry.",
+          "D": "While feeding increases metabolic demand, the cyanosis is due to airway obstruction, not increased oxygen consumption alone.",
+          "E": "Bilateral choanal atresia affects both nostrils. Unilateral atresia would present differently (persistent nasal obstruction later in life)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "choanal-atresia",
+        "obligate-nose-breather",
+        "cyanosis",
+        "crying"
+      ]
+    },
+    {
+      "id": "r38-003",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "The tracheoesophageal septum normally separates the developing trachea from the esophagus. Failure of this septum to form properly results in which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Choanal atresia"
+        },
+        {
+          "label": "B",
+          "text": "Cleft palate"
+        },
+        {
+          "label": "C",
+          "text": "Tracheoesophageal fistula"
+        },
+        {
+          "label": "D",
+          "text": "Congenital diaphragmatic hernia"
+        },
+        {
+          "label": "E",
+          "text": "Bronchogenic cyst"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The tracheoesophageal septum separates the lung bud (trachea) from the foregut (esophagus). If separation is incomplete, the trachea and esophagus remain connected, resulting in a tracheoesophageal fistula (TEF).",
+        "whyCorrect": "During development, tracheoesophageal ridges fuse to create the tracheoesophageal septum, separating the ventral trachea from the dorsal esophagus. If this septum does not fully separate these structures, an abnormal connection (fistula) persists between the trachea and esophagus. TEF is often associated with esophageal atresia (84% of cases have esophageal atresia with distal TEF).",
+        "whyWrongByChoice": {
+          "A": "Choanal atresia results from failure of the nasal cavity to canalize, not from tracheoesophageal septum failure.",
+          "B": "Cleft palate results from failure of the palatine shelves to fuse in the midline during weeks 7-10, not from tracheoesophageal septum issues.",
+          "D": "CDH results from failure of the pleuroperitoneal membrane to close, not tracheoesophageal septum failure.",
+          "E": "Bronchogenic cysts result from abnormal outpouchings during lung bud branching, not tracheoesophageal septum failure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TEF",
+        "tracheoesophageal-septum",
+        "embryology",
+        "foregut"
+      ]
+    },
+    {
+      "id": "r38-004",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "Cleft lip results from failure of fusion between which of the following embryologic structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Palatine shelves in the midline"
+        },
+        {
+          "label": "B",
+          "text": "Maxillary prominence and medial nasal prominence"
+        },
+        {
+          "label": "C",
+          "text": "Pleuroperitoneal membranes"
+        },
+        {
+          "label": "D",
+          "text": "Tracheoesophageal ridges"
+        },
+        {
+          "label": "E",
+          "text": "First and second pharyngeal arches"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cleft lip occurs when the maxillary prominence (from the first pharyngeal arch) fails to fuse with the medial nasal prominence. This results in a gap in the upper lip, often at or near the philtrum.",
+        "whyCorrect": "Cleft lip occurs when the maxillary prominence (maxillary process), derived from the first pharyngeal arch, fails to fuse with the medial nasal prominence (process). This results in a gap in the upper lip, often located at or near the philtrum. It may be unilateral or bilateral and may occur with or without cleft palate.",
+        "whyWrongByChoice": {
+          "A": "Failure of palatine shelves to fuse in the midline causes cleft palate, not cleft lip.",
+          "C": "Failure of pleuroperitoneal membranes to close causes congenital diaphragmatic hernia.",
+          "D": "Failure of tracheoesophageal ridges to fuse causes tracheoesophageal fistula.",
+          "E": "While the first pharyngeal arch is involved (maxillary prominence), the specific fusion failure in cleft lip is between the maxillary and medial nasal prominences, not between first and second arches."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cleft-lip",
+        "maxillary-prominence",
+        "medial-nasal",
+        "embryology"
+      ]
+    },
+    {
+      "id": "r38-005",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "In suspected CDH, bag-mask ventilation should be avoided. Which of the following is the most appropriate immediate airway management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasal continuous positive airway pressure"
+        },
+        {
+          "label": "B",
+          "text": "Endotracheal intubation and mechanical ventilation"
+        },
+        {
+          "label": "C",
+          "text": "High-flow nasal cannula oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Bag-mask ventilation with high FiO2"
+        },
+        {
+          "label": "E",
+          "text": "Observation with pulse oximetry monitoring"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In suspected CDH, bag-mask ventilation is contraindicated because it forces air into the intestines in the chest, worsening lung compression. Immediate endotracheal intubation and mechanical ventilation is required.",
+        "whyCorrect": "In suspected CDH, bag-mask ventilation must be avoided because it forces air into the intestines that have herniated into the chest, causing further expansion of abdominal contents and worsening lung compression. Instead, the infant should be immediately intubated and ventilated via endotracheal tube. This is a critical management principle for CDH.",
+        "whyWrongByChoice": {
+          "A": "NCPAP delivers pressure through the nose and could push air into the stomach/intestines, similar to bag-mask ventilation. Intubation is the appropriate intervention.",
+          "C": "High-flow nasal cannula is insufficient for the respiratory distress of CDH. Intubation is required.",
+          "D": "Bag-mask ventilation is specifically contraindicated in CDH because it worsens the condition by inflating bowel in the chest.",
+          "E": "Observation alone is inappropriate for a neonate in respiratory distress from CDH. Immediate intubation is required."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CDH",
+        "bag-mask-contraindicated",
+        "intubation",
+        "management"
+      ]
+    },
+    {
+      "id": "r38-006",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "The Pierre Robin sequence involves micrognathia, glossoptosis, and cleft palate. Which of the following is the embryologic basis for this sequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of nasal cavity canalization"
+        },
+        {
+          "label": "B",
+          "text": "Small mandible preventing palatine shelf fusion"
+        },
+        {
+          "label": "C",
+          "text": "Incomplete tracheoesophageal septation"
+        },
+        {
+          "label": "D",
+          "text": "Failure of pleuroperitoneal membrane closure"
+        },
+        {
+          "label": "E",
+          "text": "Abnormal lung bud branching"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In Pierre Robin sequence, the mandible (from the first pharyngeal arch) fails to grow forward normally. The tongue remains posteriorly positioned (glossoptosis), blocking the palatine shelves from meeting and fusing, causing cleft palate.",
+        "whyCorrect": "The Pierre Robin sequence is a chain of events: the mandible fails to grow forward normally (micrognathia, from first pharyngeal arch), causing the tongue to remain high and posterior (glossoptosis). The posteriorly positioned tongue physically blocks the palatine shelves from meeting and fusing in the midline, resulting in cleft palate. It also causes airway obstruction as the tongue falls posteriorly.",
+        "whyWrongByChoice": {
+          "A": "Failure of nasal cavity canalization causes choanal atresia, not Pierre Robin sequence.",
+          "C": "Incomplete tracheoesophageal septation causes TEF, not Pierre Robin sequence.",
+          "D": "Failure of pleuroperitoneal membrane closure causes CDH, not Pierre Robin sequence.",
+          "E": "Abnormal lung bud branching can cause bronchogenic cysts or pulmonary hypoplasia, not Pierre Robin sequence."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Pierre-Robin",
+        "micrognathia",
+        "glossoptosis",
+        "cleft-palate"
+      ]
+    },
+    {
+      "id": "r38-007",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "A newborn with TEF and esophageal atresia presents with coughing, choking, and cyanosis during feeding. Prenatal ultrasound had shown polyhydramnios. Which of the following explains the polyhydramnios?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excessive fetal urine production"
+        },
+        {
+          "label": "B",
+          "text": "Fetus cannot swallow amniotic fluid normally"
+        },
+        {
+          "label": "C",
+          "text": "Placental overproduction of fluid"
+        },
+        {
+          "label": "D",
+          "text": "Maternal diabetes causing osmotic fluid shift"
+        },
+        {
+          "label": "E",
+          "text": "Fetal renal agenesis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "With esophageal atresia, the upper esophagus ends in a blind pouch and the fetus cannot swallow amniotic fluid normally. Since normal fetal swallowing is a major mechanism for removing amniotic fluid, this leads to polyhydramnios.",
+        "whyCorrect": "Polyhydramnios (excess amniotic fluid) is commonly seen on prenatal ultrasound in TEF with esophageal atresia because the fetus cannot swallow amniotic fluid normally. With esophageal atresia, the upper esophagus ends in a blind pouch\u00e2\u20ac\u201dswallowed fluid cannot reach the stomach for absorption. Since fetal swallowing is a major mechanism for removing amniotic fluid, its impairment leads to fluid accumulation.",
+        "whyWrongByChoice": {
+          "A": "Excessive fetal urine production could cause polyhydramnios but is not specifically associated with TEF/EA. The mechanism here is impaired swallowing.",
+          "C": "Placental overproduction is not the mechanism. The issue is impaired removal of amniotic fluid by fetal swallowing.",
+          "D": "While maternal diabetes can cause polyhydramnios through osmotic mechanisms, the specific association with TEF/EA is the inability to swallow amniotic fluid.",
+          "E": "Fetal renal agenesis causes oligohydramnios (too little amniotic fluid), not polyhydramnios. The kidneys produce amniotic fluid, so their absence decreases fluid volume."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TEF",
+        "polyhydramnios",
+        "esophageal-atresia",
+        "fetal-swallowing"
+      ]
+    },
+    {
+      "id": "r38-008",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "The most common form of CDH is the Bochdalek hernia. This results from failure of which of the following embryologic structures to close?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tracheoesophageal septum"
+        },
+        {
+          "label": "B",
+          "text": "Palatine shelves"
+        },
+        {
+          "label": "C",
+          "text": "Pleuroperitoneal membranes"
+        },
+        {
+          "label": "D",
+          "text": "Septum transversum"
+        },
+        {
+          "label": "E",
+          "text": "Pleuropericardial membranes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bochdalek hernia, the most common form of CDH, results from failure of the pleuroperitoneal membrane (fold) to close, creating a posterolateral defect in the diaphragm.",
+        "whyCorrect": "The diaphragm forms from several embryologic components including the pleuroperitoneal membranes. Failure of one of these membranes to close results in a posterolateral defect called a Bochdalek hernia\u00e2\u20ac\u201dthe most common form of CDH. It is more common on the left side because the left pleuroperitoneal membrane closes later, and the liver on the right helps block herniation.",
+        "whyWrongByChoice": {
+          "A": "The tracheoesophageal septum separates trachea from esophagus. Its failure causes TEF, not CDH.",
+          "B": "Palatine shelves failure causes cleft palate, not CDH.",
+          "D": "The septum transversum forms the central tendon of the diaphragm. A defect here would cause a central hernia, which is less common than the posterolateral Bochdalek hernia.",
+          "E": "Pleuropericardial membrane failure would create a window between the pleural and pericardial cavities, not the posterolateral diaphragmatic defect of Bochdalek hernia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Bochdalek-hernia",
+        "pleuroperitoneal-membrane",
+        "CDH",
+        "posterolateral"
+      ]
+    },
+    {
+      "id": "r38-009",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "Pulmonary hypoplasia is a component of Potter sequence. Which of the following is the most common underlying cause of Potter sequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital heart disease"
+        },
+        {
+          "label": "B",
+          "text": "Renal agenesis causing oligohydramnios"
+        },
+        {
+          "label": "C",
+          "text": "Maternal diabetes"
+        },
+        {
+          "label": "D",
+          "text": "Tracheoesophageal fistula"
+        },
+        {
+          "label": "E",
+          "text": "Diaphragmatic paralysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Potter sequence results from oligohydramnios. The most common underlying cause is renal agenesis\u00e2\u20ac\u201dabsence of kidneys means no fetal urine production, leading to oligohydramnios and consequently pulmonary hypoplasia from insufficient lung expansion.",
+        "whyCorrect": "Potter sequence is a combination of fetal abnormalities caused by oligohydramnios (insufficient amniotic fluid). The most common underlying cause is a renal disorder such as renal agenesis. Without functional kidneys, the fetus cannot produce urine (a major component of amniotic fluid), causing severe oligohydramnios. Low amniotic fluid levels prevent adequate lung expansion during fetal breathing movements, leading to pulmonary hypoplasia.",
+        "whyWrongByChoice": {
+          "A": "Congenital heart disease can affect fetal circulation but is not the primary cause of Potter sequence. Renal agenesis with oligohydramnios is the classic cause.",
+          "C": "Maternal diabetes can cause polyhydramnios (excess fluid), not oligohydramnios. Potter sequence requires oligohydramnios.",
+          "D": "TEF is associated with polyhydramnios (from inability to swallow), not oligohydramnios.",
+          "E": "Diaphragmatic dysfunction can cause pulmonary hypoplasia through reduced breathing movements, but Potter sequence specifically results from renal-related oligohydramnios."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Potter-sequence",
+        "renal-agenesis",
+        "oligohydramnios",
+        "pulmonary-hypoplasia"
+      ]
+    },
+    {
+      "id": "r38-010",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "Choanal atresia is diagnosed at bedside by which of the following clinical tests?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chest X-ray showing air in the esophagus"
+        },
+        {
+          "label": "B",
+          "text": "Inability to pass a soft catheter from nose to pharynx"
+        },
+        {
+          "label": "C",
+          "text": "Positive transillumination of the sinuses"
+        },
+        {
+          "label": "D",
+          "text": "NG tube coiling in the upper esophagus"
+        },
+        {
+          "label": "E",
+          "text": "CT scan showing diaphragmatic defect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Choanal atresia is confirmed at the bedside by the inability to pass a soft catheter from the nose into the pharynx. The blockage (bony or membranous) prevents passage of the catheter.",
+        "whyCorrect": "The bedside diagnosis of choanal atresia is confirmed by the inability to pass a soft catheter from the nose into the pharynx. The obstruction (either bony or membranous) blocks the posterior nasal passages. This simple test can be performed immediately when choanal atresia is suspected in a neonate with feeding-associated cyanosis.",
+        "whyWrongByChoice": {
+          "A": "Chest X-ray with air in the esophagus may suggest TEF, not choanal atresia.",
+          "C": "Transillumination of sinuses is used to assess for fluid in sinuses, not for diagnosing choanal atresia.",
+          "D": "NG tube coiling in the upper esophagus is a finding in esophageal atresia/TEF, not choanal atresia.",
+          "E": "CT showing a diaphragmatic defect would diagnose CDH, not choanal atresia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "choanal-atresia",
+        "catheter-test",
+        "bedside-diagnosis",
+        "nasal-obstruction"
+      ]
+    },
+    {
+      "id": "r38-011",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "The inner lining of the respiratory tract develops from which embryologic germ layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ectoderm"
+        },
+        {
+          "label": "B",
+          "text": "Endoderm"
+        },
+        {
+          "label": "C",
+          "text": "Mesoderm"
+        },
+        {
+          "label": "D",
+          "text": "Neural crest"
+        },
+        {
+          "label": "E",
+          "text": "Lateral plate mesoderm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The inner lining (epithelium) of the respiratory tract derives from endoderm of the laryngotracheal diverticulum, which grows from the ventral foregut. The supporting structures (cartilage, muscle, connective tissue) come from splanchnic mesoderm.",
+        "whyCorrect": "The respiratory system begins when a pouch (laryngotracheal diverticulum) grows from the ventral foregut. The inner lining of this diverticulum comes from endoderm, which forms the epithelium of the airways. The surrounding splanchnic mesoderm develops into supporting structures such as cartilage, smooth muscle, and connective tissue.",
+        "whyWrongByChoice": {
+          "A": "Ectoderm gives rise to skin, nervous system, and the epithelium of the nasal cavity (external portions), but the airway epithelium derives from endoderm.",
+          "C": "Mesoderm (splanchnic) forms the supporting structures of the respiratory tract (cartilage, smooth muscle) but not the epithelial lining.",
+          "D": "Neural crest cells contribute to various head and neck structures but do not form the respiratory epithelium.",
+          "E": "Lateral plate mesoderm contributes to body wall and limb structures, not the respiratory epithelium."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "endoderm",
+        "respiratory-epithelium",
+        "embryology",
+        "germ-layer"
+      ]
+    },
+    {
+      "id": "r38-012",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "CDH is more common on the left side. Which of the following best explains this left-sided predominance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left lung is smaller and more susceptible"
+        },
+        {
+          "label": "B",
+          "text": "The left pleuroperitoneal membrane closes later"
+        },
+        {
+          "label": "C",
+          "text": "The heart occupies the left chest"
+        },
+        {
+          "label": "D",
+          "text": "The left diaphragm has fewer muscle fibers"
+        },
+        {
+          "label": "E",
+          "text": "The left kidney develops earlier"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CDH is more common on the left side because the left pleuroperitoneal membrane closes later than the right. Additionally, the liver on the right side helps block organ herniation through any defect on that side.",
+        "whyCorrect": "CDH is more common on the left side for two reasons: (1) the left pleuroperitoneal membrane closes later than the right during development, creating a longer window of vulnerability for herniation, and (2) the liver on the right side provides a physical barrier that helps block organ herniation through the right-sided diaphragmatic defect.",
+        "whyWrongByChoice": {
+          "A": "While the left lung is slightly smaller due to the heart, this does not explain why the diaphragmatic defect is more common on the left.",
+          "C": "The heart occupies the left mediastinum but does not directly explain why the pleuroperitoneal membrane defect occurs more on the left.",
+          "D": "There is no significant difference in muscle fiber density between the left and right diaphragm. The timing of membrane closure is the key factor.",
+          "E": "Kidney development timing does not directly explain left-sided CDH predominance. The pleuroperitoneal membrane closure timing is the key."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CDH",
+        "left-sided",
+        "pleuroperitoneal",
+        "liver-barrier"
+      ]
+    },
+    {
+      "id": "r38-013",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "During which week of fetal development does the respiratory system begin to form from the laryngotracheal diverticulum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Week 2"
+        },
+        {
+          "label": "B",
+          "text": "Week 4"
+        },
+        {
+          "label": "C",
+          "text": "Week 8"
+        },
+        {
+          "label": "D",
+          "text": "Week 16"
+        },
+        {
+          "label": "E",
+          "text": "Week 26"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The respiratory system begins forming early in the fourth week of development when the laryngotracheal diverticulum appears as a pouch from the ventral foregut.",
+        "whyCorrect": "The respiratory system begins to form early in the fourth week of development when a small pouch of tissue, the laryngotracheal diverticulum, grows from the front (ventral) wall of the primitive foregut. This structure gives rise to the trachea and lungs. Branching morphogenesis then creates the bronchial tree over subsequent weeks.",
+        "whyWrongByChoice": {
+          "A": "Week 2 is too early\u00e2\u20ac\u201dthe embryo is still in the bilaminar disc stage. The respiratory diverticulum appears in week 4.",
+          "C": "Week 8 is when palate development is occurring. The respiratory system has already begun developing from week 4.",
+          "D": "Week 16 is during the canalicular stage of lung development, well after the initial respiratory system formation.",
+          "E": "Week 26 is in the saccular stage, when primitive alveoli are forming. The respiratory system began developing in week 4."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "week-4",
+        "laryngotracheal-diverticulum",
+        "embryology",
+        "development"
+      ]
+    },
+    {
+      "id": "r38-014",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "Bronchogenic cysts are usually located in which anatomic region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral lung parenchyma"
+        },
+        {
+          "label": "B",
+          "text": "Mediastinum near the trachea and bronchi"
+        },
+        {
+          "label": "C",
+          "text": "Pleural space"
+        },
+        {
+          "label": "D",
+          "text": "Diaphragmatic surface"
+        },
+        {
+          "label": "E",
+          "text": "Nasal cavity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Most bronchogenic cysts are located in the mediastinum near the trachea and bronchi, though they may also occur within lung tissue. They are fluid-filled sacs lined by respiratory epithelium.",
+        "whyCorrect": "Most bronchogenic cysts are located in the mediastinum (near the trachea and bronchi), though they may also occur within lung tissue. They arise when an additional outpouching during lung bud branching becomes separated and does not continue branching, forming a cyst lined by respiratory epithelium.",
+        "whyWrongByChoice": {
+          "A": "While bronchogenic cysts can occasionally occur within lung tissue, the most common location is the mediastinum.",
+          "C": "Bronchogenic cysts are not typically found in the pleural space. They are within the mediastinum or lung parenchyma.",
+          "D": "The diaphragmatic surface is not the typical location for bronchogenic cysts.",
+          "E": "Bronchogenic cysts arise from the lower respiratory tract (lung bud), not the nasal cavity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "bronchogenic-cyst",
+        "mediastinum",
+        "respiratory-epithelium",
+        "location"
+      ]
+    },
+    {
+      "id": "r38-015",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "The most common form of TEF (84% of cases) is esophageal atresia with which of the following fistula configurations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proximal TEF only"
+        },
+        {
+          "label": "B",
+          "text": "Distal TEF"
+        },
+        {
+          "label": "C",
+          "text": "Both proximal and distal TEF"
+        },
+        {
+          "label": "D",
+          "text": "H-type fistula without atresia"
+        },
+        {
+          "label": "E",
+          "text": "Isolated esophageal atresia without fistula"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The most common form (~84%) is esophageal atresia with a distal TEF\u00e2\u20ac\u201dthe upper esophagus ends in a blind pouch while the lower esophagus connects to the trachea.",
+        "whyCorrect": "The most common form of TEF (about 84% of cases) is esophageal atresia with a distal TEF. In this configuration, the upper esophagus ends in a blind pouch (preventing swallowed fluid from reaching the stomach) while the lower esophagus connects to the trachea (allowing gastric contents to potentially enter the airway).",
+        "whyWrongByChoice": {
+          "A": "Proximal TEF only (upper esophagus connecting to trachea with intact lower esophagus) is a much less common variant.",
+          "C": "Both proximal and distal TEF simultaneously is very rare.",
+          "D": "H-type fistula (fistula without esophageal atresia) is less common (~4% of cases). The esophagus is patent, making it harder to diagnose.",
+          "E": "Isolated esophageal atresia without fistula is uncommon (~8% of cases)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TEF",
+        "esophageal-atresia",
+        "distal-fistula",
+        "84-percent"
+      ]
+    },
+    {
+      "id": "r38-016",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "Cleft palate is associated with the 22q11.2 deletion syndrome. Which of the following additional risk factors increase the likelihood of cleft palate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maternal iron supplementation"
+        },
+        {
+          "label": "B",
+          "text": "Maternal anticonvulsant drug exposure"
+        },
+        {
+          "label": "C",
+          "text": "Paternal age over 40"
+        },
+        {
+          "label": "D",
+          "text": "Maternal exercise during pregnancy"
+        },
+        {
+          "label": "E",
+          "text": "Firstborn child status"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Risk factors for cleft palate include family history, 22q11.2 deletion, female sex, and maternal exposure to certain anticonvulsant drugs during pregnancy.",
+        "whyCorrect": "Risk factors for cleft palate include family history, 22q11.2 deletion syndrome, female sex (girls are slightly more likely to have cleft palate than boys), and certain maternal medication exposures during pregnancy, particularly anticonvulsant drugs. These medications can interfere with palatine shelf development during the critical fusion period (weeks 7-10).",
+        "whyWrongByChoice": {
+          "A": "Maternal iron supplementation is not a risk factor for cleft palate. It is a recommended prenatal supplement.",
+          "C": "Paternal age over 40 is associated with certain genetic conditions but is not specifically listed as a risk factor for cleft palate in this context.",
+          "D": "Maternal exercise during pregnancy is generally beneficial and is not a risk factor for cleft palate.",
+          "E": "Birth order (firstborn status) is not identified as a risk factor for cleft palate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cleft-palate",
+        "anticonvulsants",
+        "22q11",
+        "risk-factors"
+      ]
+    },
+    {
+      "id": "r38-017",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "Normal lung development depends on fetal breathing movements that move amniotic fluid into the developing lungs. During which developmental stage are the conducting airways completed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Embryonic stage (weeks 3-4)"
+        },
+        {
+          "label": "B",
+          "text": "Pseudoglandular stage (weeks 5-17)"
+        },
+        {
+          "label": "C",
+          "text": "Canalicular stage (weeks 16-25)"
+        },
+        {
+          "label": "D",
+          "text": "Saccular stage (weeks 26-36)"
+        },
+        {
+          "label": "E",
+          "text": "Alveolar stage (postnatal)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "By the end of the pseudoglandular stage (weeks 5-17), the conducting airways are present. The canalicular and saccular stages then prepare the lungs for gas exchange by increasing blood vessels and forming primitive alveoli.",
+        "whyCorrect": "By the end of the pseudoglandular stage (weeks 5-17), the conducting airways are present through the process of branching morphogenesis. The subsequent canalicular stage (weeks 16-25) increases blood vessels, and the saccular stage (weeks 26-36) forms primitive alveoli. Alveoli continue to mature after birth.",
+        "whyWrongByChoice": {
+          "A": "The embryonic stage (weeks 3-4) is when the laryngotracheal diverticulum first appears. The conducting airways are not yet complete.",
+          "C": "The canalicular stage (weeks 16-25) increases blood vessels and begins gas exchange preparation. Conducting airways were completed in the pseudoglandular stage.",
+          "D": "The saccular stage (weeks 26-36) forms primitive alveoli for gas exchange but the conducting airways were already established earlier.",
+          "E": "The alveolar stage is predominantly postnatal and involves maturation of existing structures, not initial formation of conducting airways."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pseudoglandular",
+        "conducting-airways",
+        "lung-development",
+        "branching"
+      ]
+    },
+    {
+      "id": "r38-018",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "A neonate with esophageal atresia has an NG tube placed. On chest X-ray, the tube is seen coiled in the upper chest and does not reach the stomach. A gastric air bubble is visible. Which of the following diagnoses is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated esophageal atresia without TEF"
+        },
+        {
+          "label": "B",
+          "text": "Esophageal atresia with distal TEF"
+        },
+        {
+          "label": "C",
+          "text": "H-type TEF without atresia"
+        },
+        {
+          "label": "D",
+          "text": "Congenital diaphragmatic hernia"
+        },
+        {
+          "label": "E",
+          "text": "Tracheal atresia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The NG tube coiled in the upper chest (blind pouch of esophageal atresia) with a visible gastric air bubble (indicating air enters the stomach via the distal TEF from the trachea) is classic for esophageal atresia with distal TEF\u00e2\u20ac\u201dthe most common form.",
+        "whyCorrect": "The NG tube coils in the upper esophageal pouch (cannot pass to the stomach due to atresia). The gastric air bubble is present because air enters the stomach through the distal tracheoesophageal fistula (lower esophagus connects to trachea, allowing tracheal air to reach the stomach). This combination is diagnostic of esophageal atresia with distal TEF\u00e2\u20ac\u201dthe most common form (84%).",
+        "whyWrongByChoice": {
+          "A": "In isolated esophageal atresia without TEF, the NG tube would coil in the upper pouch, but there would be NO gastric air bubble because no fistula connects the trachea to the distal esophagus/stomach.",
+          "C": "In H-type TEF without atresia, the NG tube would pass normally to the stomach because the esophagus is patent. The tube would not coil.",
+          "D": "CDH would show bowel in the chest and a scaphoid abdomen, not a coiled NG tube pattern.",
+          "E": "Tracheal atresia would present with complete inability to ventilate, not specifically an NG tube finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TEF",
+        "NG-tube",
+        "gastric-air-bubble",
+        "chest-xray"
+      ]
+    },
+    {
+      "id": "r38-019",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "Surgical repair of cleft lip is typically performed at approximately what age?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediately at birth"
+        },
+        {
+          "label": "B",
+          "text": "6 months of age"
+        },
+        {
+          "label": "C",
+          "text": "2 years of age"
+        },
+        {
+          "label": "D",
+          "text": "5 years of age"
+        },
+        {
+          "label": "E",
+          "text": "After puberty"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Surgical repair of cleft lip is usually performed around 6 months of age. Cleft palate repair is typically done by 12 months. Outcomes are excellent with timely treatment.",
+        "whyCorrect": "Surgical repair of cleft lip is usually done around 6 months of age. Cleft palate repair is typically performed by 12 months of age. With appropriate surgical care, outcomes are very good. Children may subsequently need orthodontic treatment for malocclusions and speech therapy for verbal development.",
+        "whyWrongByChoice": {
+          "A": "Immediate repair at birth is not standard. Waiting until approximately 6 months allows the infant to grow and makes the surgical repair more successful.",
+          "C": "Waiting until 2 years would delay repair beyond the optimal window. Cleft lip repair at ~6 months and palate repair by 12 months are standard.",
+          "D": "5 years is too late for primary repair of cleft lip, which is typically done at 6 months.",
+          "E": "After puberty is far too late for primary cleft lip repair."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cleft-lip",
+        "surgical-repair",
+        "6-months",
+        "timing"
+      ]
+    },
+    {
+      "id": "r38-020",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "A newborn with tracheal atresia has severe respiratory distress and cannot be ventilated through the normal airway. Which of the following, if present, might allow temporary ventilation of the lungs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A patent foramen ovale"
+        },
+        {
+          "label": "B",
+          "text": "A distal tracheoesophageal fistula"
+        },
+        {
+          "label": "C",
+          "text": "A bronchogenic cyst"
+        },
+        {
+          "label": "D",
+          "text": "A choanal atresia"
+        },
+        {
+          "label": "E",
+          "text": "A large nasal polyp"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "If a distal TEF is present with tracheal atresia, air may enter the lungs through the esophagus when the infant is intubated via the esophagus. This may allow temporary ventilation while definitive surgical repair is planned.",
+        "whyCorrect": "In tracheal atresia, the trachea is absent and normal ventilation is impossible. However, if a distal tracheoesophageal fistula is present, air may enter the lungs through the esophagus when the infant is intubated there (esophageal intubation). This creates an alternative air pathway and may allow temporary ventilation while emergency surgical reconstruction is planned.",
+        "whyWrongByChoice": {
+          "A": "A patent foramen ovale is a cardiac shunt between atria. While it can affect oxygenation, it does not provide an airway for ventilation.",
+          "C": "A bronchogenic cyst is a fluid-filled sac that does not create an alternative airway for ventilation.",
+          "D": "Choanal atresia blocks nasal passages but does not provide an alternative route for air to reach the lungs in tracheal atresia.",
+          "E": "A nasal polyp would further obstruct the nasal airway, not help with ventilation in tracheal atresia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tracheal-atresia",
+        "distal-TEF",
+        "temporary-ventilation",
+        "emergency"
+      ]
+    },
+    {
+      "id": "r38-021",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "Oligohydramnios causes pulmonary hypoplasia because the fetus relies on which of the following for normal lung development?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surfactant production stimulated by amniotic fluid"
+        },
+        {
+          "label": "B",
+          "text": "Fetal breathing movements that expand the lungs with amniotic fluid"
+        },
+        {
+          "label": "C",
+          "text": "Nutrient absorption from amniotic fluid through the airways"
+        },
+        {
+          "label": "D",
+          "text": "Amniotic fluid maintaining constant airway temperature"
+        },
+        {
+          "label": "E",
+          "text": "Amniotic fluid providing oxygen for gas exchange in utero"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Normal lung development depends on fetal breathing movements that move amniotic fluid into the developing lungs, stimulating airway branching and alveolar growth. Oligohydramnios reduces this fluid, limiting lung expansion and development.",
+        "whyCorrect": "Although the fetus does not breathe air in utero, practice breathing movements move amniotic fluid into the developing lungs. These movements help stimulate airway branching and alveolar growth. When amniotic fluid is insufficient (oligohydramnios), the lungs cannot expand adequately during fetal breathing, leading to incomplete development (pulmonary hypoplasia) with fewer airways and alveoli.",
+        "whyWrongByChoice": {
+          "A": "Surfactant production is important for postnatal lung function but is not the primary mechanism by which amniotic fluid promotes lung development. The physical expansion of the lungs is key.",
+          "C": "The airways do not absorb nutrients from amniotic fluid. The fluid's role is mechanical\u00e2\u20ac\u201dphysical expansion during fetal breathing movements.",
+          "D": "Temperature regulation is not the mechanism by which amniotic fluid promotes lung development.",
+          "E": "Gas exchange in utero occurs across the placenta, not in the fetal lungs. Amniotic fluid promotes lung growth through mechanical expansion, not oxygenation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "oligohydramnios",
+        "fetal-breathing",
+        "pulmonary-hypoplasia",
+        "lung-expansion"
+      ]
+    },
+    {
+      "id": "r38-022",
+      "topicId": "congenital-respiratory-disorders",
+      "topicName": "Congenital Disorders of the Respiratory System",
+      "stem": "At large academic centers, survival rates for surgically repaired CDH have been reported at greater than which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "30%"
+        },
+        {
+          "label": "B",
+          "text": "50%"
+        },
+        {
+          "label": "C",
+          "text": "65%"
+        },
+        {
+          "label": "D",
+          "text": "80%"
+        },
+        {
+          "label": "E",
+          "text": "95%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "At large academic medical centers, survival rates of more than 80% have been reported with surgical repair of CDH. Prognosis depends on the severity of pulmonary hypoplasia.",
+        "whyCorrect": "At large academic medical centers, survival rates of more than 80% have been reported with surgical repair of CDH. Prognosis depends on the severity of the associated pulmonary hypoplasia. Management involves immediate intubation and mechanical ventilation (avoiding bag-mask ventilation), followed by surgical repair once the infant is stabilized.",
+        "whyWrongByChoice": {
+          "A": "30% significantly underestimates survival rates at major centers.",
+          "B": "50% underestimates the survival rate. More than 80% has been achieved.",
+          "C": "65% is below the reported >80% survival at academic centers.",
+          "E": "95% overestimates. While outcomes are good, survival rates are reported at >80%, not >95%."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CDH",
+        "survival-rate",
+        "80-percent",
+        "surgical-repair"
+      ]
+    }
+  ]
+}
