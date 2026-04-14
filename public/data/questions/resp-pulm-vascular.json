@@ -10,33 +10,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "\u00e2\u2030\u00a5 10 mmHg"
+          "text": "â‰¥ 10 mmHg"
         },
         {
           "label": "B",
-          "text": "\u00e2\u2030\u00a5 15 mmHg"
+          "text": "â‰¥ 15 mmHg"
         },
         {
           "label": "C",
-          "text": "\u00e2\u2030\u00a5 20 mmHg"
+          "text": "â‰¥ 20 mmHg"
         },
         {
           "label": "D",
-          "text": "\u00e2\u2030\u00a5 30 mmHg"
+          "text": "â‰¥ 30 mmHg"
         },
         {
           "label": "E",
-          "text": "\u00e2\u2030\u00a5 40 mmHg"
+          "text": "â‰¥ 40 mmHg"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Pulmonary hypertension is defined as a mean pulmonary arterial pressure at rest of \u00e2\u2030\u00a520 mmHg (normal 15-30 mmHg systolic). The gold standard for diagnosis is right heart catheterization.",
-        "whyCorrect": "PH is defined as an elevated mean pulmonary arterial pressure at rest of \u00e2\u2030\u00a520 mmHg in the pulmonary arteries. Right heart catheterization with pressure measurement using a pressure transducer confirms the diagnosis.",
+        "summary": "Pulmonary hypertension is defined as a mean pulmonary arterial pressure at rest of â‰¥20 mmHg (normal 15-30 mmHg systolic). The gold standard for diagnosis is right heart catheterization.",
+        "whyCorrect": "PH is defined as an elevated mean pulmonary arterial pressure at rest of â‰¥20 mmHg in the pulmonary arteries. Right heart catheterization with pressure measurement using a pressure transducer confirms the diagnosis.",
         "whyWrongByChoice": {
           "A": "10 mmHg is within the normal range for mean PAP.",
           "B": "15 mmHg is within the normal range for mean PAP.",
-          "D": "30 mmHg would be an elevated systolic PA pressure but the definition uses mean PAP \u00e2\u2030\u00a520 mmHg.",
+          "D": "30 mmHg would be an elevated systolic PA pressure but the definition uses mean PAP â‰¥20 mmHg.",
           "E": "40 mmHg is significantly elevated and would represent severe PH, not the diagnostic threshold."
         }
       },
@@ -126,7 +126,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "Group 3 PH includes lung diseases marked by hypoxemia (COPD, pulmonary fibrosis, OSA, hypoventilation, high altitude). Hypoxemia causes reflex pulmonary arteriolar vasoconstriction (pre-capillary), increasing PAP.",
-        "whyCorrect": "Group 3 PH includes lung diseases marked by hypoxemia: COPD, pulmonary fibrosis, obstructive sleep apnea, hypoventilation, and high altitude. The hypoxemia causes reflex pulmonary arteriolar vasoconstriction\u00e2\u20ac\u201da physiologic mechanism to redirect blood from underventilated to better-oxygenated areas. The net result is increased vascular resistance and elevated PAP.",
+        "whyCorrect": "Group 3 PH includes lung diseases marked by hypoxemia: COPD, pulmonary fibrosis, obstructive sleep apnea, hypoventilation, and high altitude. The hypoxemia causes reflex pulmonary arteriolar vasoconstrictionâ€”a physiologic mechanism to redirect blood from underventilated to better-oxygenated areas. The net result is increased vascular resistance and elevated PAP.",
         "whyWrongByChoice": {
           "A": "Group 1 (PAH) includes idiopathic, heritable, and secondary causes of intrinsic pulmonary arterial disease, not COPD.",
           "B": "Group 2 includes left heart failure and valvular disease causing post-capillary PH.",
@@ -173,7 +173,7 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Right heart catheterization is the gold standard for confirming PH. It directly measures pressures in the right heart and pulmonary vessels. PH is diagnosed with a resting mean PAP \u00e2\u2030\u00a520 mmHg.",
+        "summary": "Right heart catheterization is the gold standard for confirming PH. It directly measures pressures in the right heart and pulmonary vessels. PH is diagnosed with a resting mean PAP â‰¥20 mmHg.",
         "whyCorrect": "Right heart catheterization is the gold-standard test for confirming PH. It is an invasive procedure that measures pressures in the right heart and pulmonary vessels using a pressure transducer on a catheter placed via venous cannulation. It is indicated when less-invasive tests (echocardiogram) are inconclusive.",
         "whyWrongByChoice": {
           "A": "Echocardiography is useful for initial evaluation and can estimate PA pressures and assess RV function, but it is not the gold standard.",
@@ -315,7 +315,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "The three specific drug classes for PAH are: endothelin receptor antagonists (bosentan, ambrisentan), PDE5 inhibitors (sildenafil, tadalafil), and prostacyclin analogs (epoprostenol, treprostinil, iloprost).",
-        "whyCorrect": "The three specific medication classes for PAH are: (1) ERAs (bosentan, ambrisentan, macitentan)\u00e2\u20ac\u201dblock ET-1 signaling; (2) PDE5-I (sildenafil, tadalafil)\u00e2\u20ac\u201denhance NO-cGMP pathway; (3) Prostacyclin analogs (epoprostenol, treprostinil, iloprost)\u00e2\u20ac\u201dactivate IP receptor/increase cAMP. These are often used in combination.",
+        "whyCorrect": "The three specific medication classes for PAH are: (1) ERAs (bosentan, ambrisentan, macitentan)â€”block ET-1 signaling; (2) PDE5-I (sildenafil, tadalafil)â€”enhance NO-cGMP pathway; (3) Prostacyclin analogs (epoprostenol, treprostinil, iloprost)â€”activate IP receptor/increase cAMP. These are often used in combination.",
         "whyWrongByChoice": {
           "A": "ACE inhibitors, beta-blockers, and diuretics are used for left heart failure (Group 2 PH treatment), not specific PAH therapy.",
           "C": "CCBs, statins, and anticoagulants are not the specific PAH drug classes.",
@@ -596,7 +596,7 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Hypoxemia in lung diseases causes reflex pulmonary arteriolar vasoconstriction\u00e2\u20ac\u201da physiologic mechanism to redirect blood away from underventilated areas toward better-oxygenated regions. Chronic hypoxia leads to sustained vasoconstriction and elevated PAP.",
+        "summary": "Hypoxemia in lung diseases causes reflex pulmonary arteriolar vasoconstrictionâ€”a physiologic mechanism to redirect blood away from underventilated areas toward better-oxygenated regions. Chronic hypoxia leads to sustained vasoconstriction and elevated PAP.",
         "whyCorrect": "In Group 3 PH, hypoxemia from lung diseases (COPD, fibrosis, OSA) causes reflex pulmonary arteriolar vasoconstriction. This is a physiologic mechanism designed to guide blood away from underventilated areas toward regions with better oxygenation (ventilation-perfusion matching). When hypoxemia is chronic, sustained vasoconstriction leads to vascular remodeling and permanently elevated pulmonary arterial pressure.",
         "whyWrongByChoice": {
           "A": "Direct endothelial damage is more relevant to PAH (Group 1) pathology, not the hypoxia-driven mechanism of Group 3.",
@@ -644,7 +644,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Abrupt interruption of continuous IV epoprostenol can precipitate rebound pulmonary hypertension and rapid clinical decompensation. This is a critical safety concern requiring reliable delivery systems and patient education.",
-        "whyCorrect": "For severe PAH, abrupt interruption of continuous prostacyclin therapy (particularly IV epoprostenol) can precipitate rebound pulmonary hypertension and rapid clinical decompensation. This is a critical safety point\u00e2\u20ac\u201dreliability of delivery systems and thorough patient education are essential to prevent treatment interruption.",
+        "whyCorrect": "For severe PAH, abrupt interruption of continuous prostacyclin therapy (particularly IV epoprostenol) can precipitate rebound pulmonary hypertension and rapid clinical decompensation. This is a critical safety pointâ€”reliability of delivery systems and thorough patient education are essential to prevent treatment interruption.",
         "whyWrongByChoice": {
           "A": "Hepatotoxicity is associated with ERAs (bosentan), not prostacyclin interruption.",
           "C": "Hypoglycemia and seizures are not associated with epoprostenol interruption.",
@@ -788,7 +788,7 @@
         "whyCorrect": "Prostacyclin analogs bind the IP (prostacyclin) receptor on pulmonary vascular smooth muscle, activating adenylate cyclase to increase cAMP (cyclic AMP). Increased cAMP lowers intracellular calcium, driving potent pulmonary vasodilation. This signaling also has antiproliferative effects on smooth muscle and inhibits platelet aggregation.",
         "whyWrongByChoice": {
           "A": "cGMP is the second messenger in the NO-PDE5 pathway, enhanced by PDE5 inhibitors. Prostacyclin uses cAMP.",
-          "C": "IP3 (inositol trisphosphate) is generated by phospholipase C signaling and increases intracellular calcium\u00e2\u20ac\u201dthe opposite of prostacyclin's effect.",
+          "C": "IP3 (inositol trisphosphate) is generated by phospholipase C signaling and increases intracellular calciumâ€”the opposite of prostacyclin's effect.",
           "D": "DAG (diacylglycerol) activates protein kinase C. This is not the prostacyclin signaling pathway.",
           "E": "Calmodulin is a calcium-binding protein, not a second messenger generated by IP receptor activation."
         }
@@ -832,7 +832,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "PDE5 inhibitors must not be combined with nitrates due to the risk of profound hypotension/syncope. Both agents enhance the NO-cGMP pathway, causing excessive vasodilation.",
-        "whyCorrect": "PDE5 inhibitors and nitrates both enhance the NO-cGMP pathway\u00e2\u20ac\u201dPDE5 inhibitors prevent cGMP breakdown while nitrates directly increase NO, which stimulates cGMP production. Co-administration produces additive/synergistic vasodilation, leading to potentially life-threatening hypotension and syncope.",
+        "whyCorrect": "PDE5 inhibitors and nitrates both enhance the NO-cGMP pathwayâ€”PDE5 inhibitors prevent cGMP breakdown while nitrates directly increase NO, which stimulates cGMP production. Co-administration produces additive/synergistic vasodilation, leading to potentially life-threatening hypotension and syncope.",
         "whyWrongByChoice": {
           "A": "While beta-blockers can lower blood pressure, they are not specifically contraindicated with PDE5 inhibitors the way nitrates are.",
           "B": "ACE inhibitors do not specifically interact with the NO-cGMP pathway to cause the profound hypotension seen with nitrates.",
@@ -926,7 +926,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "For Groups 2-5, treatment targets the underlying cause. For Group 2 (left heart failure), treatment includes ACE inhibitors/ARBs, beta-blockers, and mineralocorticoid antagonists for the heart failure itself.",
-        "whyCorrect": "For Group 2 PH (secondary to left heart failure), treatment is aimed at the underlying cause\u00e2\u20ac\u201dheart failure management with ACE inhibitors/ARBs, beta-blockers, and mineralocorticoid inhibitors. The specific PAH drugs (ERAs, PDE5-I, prostacyclin analogs) are reserved for Group 1 PAH.",
+        "whyCorrect": "For Group 2 PH (secondary to left heart failure), treatment is aimed at the underlying causeâ€”heart failure management with ACE inhibitors/ARBs, beta-blockers, and mineralocorticoid inhibitors. The specific PAH drugs (ERAs, PDE5-I, prostacyclin analogs) are reserved for Group 1 PAH.",
         "whyWrongByChoice": {
           "A": "ERAs, PDE5-I, and prostacyclin analogs are specifically for Group 1 PAH, not Group 2 PH from heart failure.",
           "C": "Antiparasitic therapy would be appropriate for schistosomiasis-related PAH, not left heart failure.",
@@ -1041,7 +1041,7 @@
       "id": "r44-001",
       "topicId": "pulmonary-embolism",
       "topicName": "Pulmonary Embolism",
-      "stem": "A 58-year-old woman 4 days after hip replacement develops sudden chest pain and dyspnea. Pulse is 120/min, BP 100/70, SpO\u00e2\u201a\u201a 92%. Her left calf is swollen and tender. Lungs are clear. Which of the following is the most likely diagnosis?",
+      "stem": "A 58-year-old woman 4 days after hip replacement develops sudden chest pain and dyspnea. Pulse is 120/min, BP 100/70, SpOâ‚‚ 92%. Her left calf is swollen and tender. Lungs are clear. Which of the following is the most likely diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -1114,7 +1114,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Virchow's triad consists of hypercoagulability (increased coagulation factors), endothelial injury (surgery, catheterization), and stasis of blood flow (immobilization). These three factors increase DVT risk.",
-        "whyCorrect": "Virchow's triad describes the three factors predisposing to thrombus formation: (1) Hypercoagulability\u00e2\u20ac\u201dincreased/activated coagulation factors from cancer, estrogen, pregnancy; (2) Endothelial injury\u00e2\u20ac\u201dfrom surgery, catheterization, vasculitis; (3) Stasis of blood flow\u00e2\u20ac\u201dfrom prolonged immobilization, hospitalization, prolonged travel.",
+        "whyCorrect": "Virchow's triad describes the three factors predisposing to thrombus formation: (1) Hypercoagulabilityâ€”increased/activated coagulation factors from cancer, estrogen, pregnancy; (2) Endothelial injuryâ€”from surgery, catheterization, vasculitis; (3) Stasis of blood flowâ€”from prolonged immobilization, hospitalization, prolonged travel.",
         "whyWrongByChoice": {
           "A": "Fever, leukocytosis, tachycardia are signs of infection/inflammation (SIRS criteria), not Virchow's triad.",
           "C": "Hypertension, diabetes, obesity are cardiovascular risk factors but not specifically Virchow's triad.",
@@ -1207,8 +1207,8 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "PE causes hypoxemia, which triggers increased ventilation (tachypnea). This hyperventilation leads to excessive CO2 elimination (hypocarbia) and respiratory alkalosis\u00e2\u20ac\u201da classic ABG finding in PE.",
-        "whyCorrect": "Hypoxemia from PE drives increased ventilation\u00e2\u20ac\u201dpatients breathe faster (tachypnea) and often deeper, increasing minute ventilation. This hyperventilation causes excessive CO2 elimination (hypocarbia), producing respiratory alkalosis. This is the classic blood gas finding in PE. Hypercarbia is uncommon because ventilation remains effective.",
+        "summary": "PE causes hypoxemia, which triggers increased ventilation (tachypnea). This hyperventilation leads to excessive CO2 elimination (hypocarbia) and respiratory alkalosisâ€”a classic ABG finding in PE.",
+        "whyCorrect": "Hypoxemia from PE drives increased ventilationâ€”patients breathe faster (tachypnea) and often deeper, increasing minute ventilation. This hyperventilation causes excessive CO2 elimination (hypocarbia), producing respiratory alkalosis. This is the classic blood gas finding in PE. Hypercarbia is uncommon because ventilation remains effective.",
         "whyWrongByChoice": {
           "A": "Metabolic compensation for lactic acidosis would produce metabolic acidosis, not respiratory alkalosis.",
           "C": "CO2 production doesn't decrease simply from pulmonary hypoperfusion. The hyperventilation from hypoxia-driven tachypnea eliminates CO2 excessively.",
@@ -1349,9 +1349,9 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "A large PE blocks pulmonary blood flow, so the RV cannot pump blood forward to the left heart. This reduces LV preload, decreasing LV stroke volume and cardiac output, potentially causing obstructive shock.",
-        "whyCorrect": "When a large PE blocks a significant portion of the pulmonary vasculature, the right ventricle has trouble pumping blood forward past the obstruction. This reduces left ventricular preload (less blood reaches the left heart), decreasing LV stroke volume and cardiac output. This is obstructive shock\u00e2\u20ac\u201dthe ventricles are healthy but cannot generate adequate forward flow.",
+        "whyCorrect": "When a large PE blocks a significant portion of the pulmonary vasculature, the right ventricle has trouble pumping blood forward past the obstruction. This reduces left ventricular preload (less blood reaches the left heart), decreasing LV stroke volume and cardiac output. This is obstructive shockâ€”the ventricles are healthy but cannot generate adequate forward flow.",
         "whyWrongByChoice": {
-          "A": "The left ventricle itself is not failing\u00e2\u20ac\u201dit receives inadequate preload because blood cannot pass through the obstructed pulmonary circulation.",
+          "A": "The left ventricle itself is not failingâ€”it receives inadequate preload because blood cannot pass through the obstructed pulmonary circulation.",
           "C": "Aortic valve obstruction would cause a different hemodynamic picture (aortic stenosis), not PE-related decreased output.",
           "D": "Coronary artery occlusion causes MI. While PE can cause RV strain, the decreased cardiac output is from reduced LV preload, not coronary occlusion.",
           "E": "Systemic vasodilation would cause distributive shock. PE causes obstructive shock from pulmonary vascular obstruction."
@@ -1398,7 +1398,7 @@
         "summary": "Estrogen increases coagulation factor levels in the blood (hypercoagulability component of Virchow's triad). Other hypercoagulability factors include cancer and pregnancy.",
         "whyCorrect": "Estrogen-only oral contraceptives, pregnancy, and estrogen replacement therapy increase coagulation factor levels in the blood, representing the hypercoagulability component of Virchow's triad. This increased procoagulant state raises the risk of venous thrombosis and subsequent PE.",
         "whyWrongByChoice": {
-          "A": "Endothelial injury is caused by surgery, catheterization, or vasculitis\u00e2\u20ac\u201dnot estrogen use.",
+          "A": "Endothelial injury is caused by surgery, catheterization, or vasculitisâ€”not estrogen use.",
           "B": "Venous stasis is caused by immobilization, not estrogen. Estrogen affects coagulation factors.",
           "D": "Increased fibrinolysis would actually protect against thrombosis. Estrogen promotes clotting, not fibrinolysis.",
           "E": "Estrogen increases coagulation factors, not platelet dysfunction."
@@ -1490,7 +1490,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Acute pulmonary infarction from PE characteristically produces a wedge-shaped hemorrhagic infarct, with the base at the pleural surface and the apex pointing toward the hilum (Hampton hump on CXR).",
-        "whyCorrect": "Pulmonary infarction from PE characteristically produces a wedge-shaped hemorrhagic infarct. The apex of the wedge points toward the occluded vessel and the base is at the pleural surface. On chest X-ray, this appears as a Hampton hump\u00e2\u20ac\u201da wedge-shaped opacity based on the pleural surface.",
+        "whyCorrect": "Pulmonary infarction from PE characteristically produces a wedge-shaped hemorrhagic infarct. The apex of the wedge points toward the occluded vessel and the base is at the pleural surface. On chest X-ray, this appears as a Hampton humpâ€”a wedge-shaped opacity based on the pleural surface.",
         "whyWrongByChoice": {
           "A": "Ground-glass opacities are characteristic of viral pneumonia (influenza, COVID-19), not PE infarction.",
           "C": "Central cavitary lesions are associated with TB, lung abscess, or SCC, not PE.",
@@ -1537,7 +1537,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Hemoptysis in PE occurs due to regional ischemia of the lung caused by arterial occlusion, leading to capillary leakage and rupture in the ischemic zone. Hemoptysis is a minority symptom in PE.",
-        "whyCorrect": "Hemoptysis in PE occurs because the embolic occlusion causes regional ischemia of the lung tissue, leading to capillary leakage and rupture in the ischemic area. However, hemoptysis occurs in the minority of PE patients\u00e2\u20ac\u201ddyspnea and pleuritic chest pain are far more common presenting symptoms.",
+        "whyCorrect": "Hemoptysis in PE occurs because the embolic occlusion causes regional ischemia of the lung tissue, leading to capillary leakage and rupture in the ischemic area. However, hemoptysis occurs in the minority of PE patientsâ€”dyspnea and pleuritic chest pain are far more common presenting symptoms.",
         "whyWrongByChoice": {
           "A": "Bronchial arterial rupture from hypertension is not the mechanism of PE-related hemoptysis.",
           "C": "Tumor erosion into bronchial arteries causes hemoptysis in lung cancer, not PE.",
@@ -1818,11 +1818,11 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Prolonged immobilization (post-surgery, lower-leg casting, prolonged travel) causes venous stasis\u00e2\u20ac\u201dslowed blood flow in deep veins\u00e2\u20ac\u201dwhich is one of the three components of Virchow's triad predisposing to DVT/PE.",
+        "summary": "Prolonged immobilization (post-surgery, lower-leg casting, prolonged travel) causes venous stasisâ€”slowed blood flow in deep veinsâ€”which is one of the three components of Virchow's triad predisposing to DVT/PE.",
         "whyCorrect": "Venous blood flow is decreased by prolonged immobilization, including hospitalization post-surgery, lower-leg casting, or prolonged travel. This venous stasis is one of the three components of Virchow's triad (along with hypercoagulability and endothelial injury) that predisposes to DVT formation and subsequent PE.",
         "whyWrongByChoice": {
-          "A": "Hypercoagulability is increased by factors like cancer, estrogen, and pregnancy\u00e2\u20ac\u201dnot specifically by immobilization.",
-          "B": "Endothelial injury is caused by surgery itself, catheterization, or vasculitis\u00e2\u20ac\u201dimmobilization specifically causes stasis.",
+          "A": "Hypercoagulability is increased by factors like cancer, estrogen, and pregnancyâ€”not specifically by immobilization.",
+          "B": "Endothelial injury is caused by surgery itself, catheterization, or vasculitisâ€”immobilization specifically causes stasis.",
           "D": "Increased fibrinolysis would be protective against thrombosis, not a risk factor.",
           "E": "Decreased platelet aggregation would also be protective, not a DVT risk factor."
         }
@@ -1866,9 +1866,9 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Unlike other forms of hypoxemic lung disease, hypercarbia is uncommon in PE because ventilation remains effective. Patients typically hyperventilate in response to hypoxemia, actually producing hypocarbia and respiratory alkalosis.",
-        "whyCorrect": "Hypercarbia is very uncommon in PE because ventilation is still effective\u00e2\u20ac\u201dthe lung parenchyma and airways are intact. The problem is perfusion (V/Q mismatch), not ventilation. Additionally, PE patients typically hyperventilate due to hypoxemia, which actually causes hypocarbia (low CO2) and respiratory alkalosis.",
+        "whyCorrect": "Hypercarbia is very uncommon in PE because ventilation is still effectiveâ€”the lung parenchyma and airways are intact. The problem is perfusion (V/Q mismatch), not ventilation. Additionally, PE patients typically hyperventilate due to hypoxemia, which actually causes hypocarbia (low CO2) and respiratory alkalosis.",
         "whyWrongByChoice": {
-          "A": "PE patients can breathe\u00e2\u20ac\u201dventilation is intact. The problem is perfusion of the lung, not ventilation.",
+          "A": "PE patients can breatheâ€”ventilation is intact. The problem is perfusion of the lung, not ventilation.",
           "C": "Pulmonary emboli do not absorb CO2.",
           "D": "Dead space affects CO2 exchange locally but overall ventilation compensates, and patients hyperventilate.",
           "E": "Emboli do not selectively block CO2-rich areas. They obstruct vessels supplying specific lung segments regardless of CO2 content."
@@ -1913,7 +1913,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "The classic ECG finding in acute PE with right heart strain is the S1Q3T3 pattern (S wave in lead I, Q wave and inverted T wave in lead III), though this finding is neither sensitive nor specific.",
-        "whyCorrect": "The classic ECG finding in acute PE with right ventricular strain is the S1Q3T3 pattern\u00e2\u20ac\u201dan S wave in lead I, Q wave in lead III, and inverted T wave in lead III. While this finding is classically taught, it is neither highly sensitive nor specific for PE. Other findings may include right axis deviation, T-wave inversions in right precordial leads, and sinus tachycardia.",
+        "whyCorrect": "The classic ECG finding in acute PE with right ventricular strain is the S1Q3T3 patternâ€”an S wave in lead I, Q wave in lead III, and inverted T wave in lead III. While this finding is classically taught, it is neither highly sensitive nor specific for PE. Other findings may include right axis deviation, T-wave inversions in right precordial leads, and sinus tachycardia.",
         "whyWrongByChoice": {
           "A": "ST elevation in V1-V4 suggests anterior STEMI, not PE. Though some RV strain from PE can show subtle ST changes.",
           "B": "LBBB is not a typical PE finding. Right bundle branch block (RBBB) can occur with RV strain from PE.",
@@ -2341,7 +2341,7 @@
           "A": "Dyspnea and hypoxemia is the first component of the classic fat embolism triad.",
           "B": "Neurologic deficits (confusion, seizures) are the second component.",
           "C": "Petechial rash on head/neck/trunk is the third component.",
-          "E": "DIC is NOT part of the fat embolism triad\u00e2\u20ac\u201dit is associated with amniotic fluid embolism."
+          "E": "DIC is NOT part of the fat embolism triadâ€”it is associated with amniotic fluid embolism."
         }
       },
       "difficulty": "hard",
@@ -2806,7 +2806,7 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "No specific therapy exists for fat embolism. Management is supportive\u00e2\u20ac\u201doxygen, fluids, and monitoring. Fat emboli can resolve on their own with time, but severe cases may result in respiratory failure, shock, and death.",
+        "summary": "No specific therapy exists for fat embolism. Management is supportiveâ€”oxygen, fluids, and monitoring. Fat emboli can resolve on their own with time, but severe cases may result in respiratory failure, shock, and death.",
         "whyCorrect": "Management of fat embolism syndrome is supportive, including supplemental oxygen and IV fluids. No specific therapy exists. With time, fat emboli can resolve on their own, but severe cases may result in respiratory failure, shock, stroke, and death. Prevention through early fracture stabilization is important.",
         "whyWrongByChoice": {
           "A": "Surgical removal of fat from pulmonary arteries is not feasible or performed. Fat emboli are diffuse and cannot be surgically extracted.",
@@ -2900,13 +2900,13 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Decompression sickness is analogous to opening a pressurized soda can\u00e2\u20ac\u201ddissolved CO2 in soda comes out of solution as bubbles when pressure drops, just as dissolved nitrogen in blood forms bubbles during rapid ascent.",
+        "summary": "Decompression sickness is analogous to opening a pressurized soda canâ€”dissolved CO2 in soda comes out of solution as bubbles when pressure drops, just as dissolved nitrogen in blood forms bubbles during rapid ascent.",
         "whyCorrect": "The effect is similar to opening a pressurized can of soda: dissolved CO2 in the soda is in equilibrium at high pressure. When the seal is cracked and pressure drops, the dissolved gas comes out of solution as bubbles, causing the fizz. Similarly, nitrogen dissolved in blood at depth comes out of solution as gas bubbles when the diver ascends and environmental pressure drops.",
         "whyWrongByChoice": {
           "A": "Ice melting involves a phase change (solid to liquid), not dissolved gas coming out of solution.",
           "C": "Boiling involves heating liquid to its boiling point, not pressure-related gas release.",
           "D": "Condensation is water vapor becoming liquid on a cold surface, not gas bubble formation.",
-          "E": "Salt dissolving is the reverse process\u00e2\u20ac\u201da solid entering solution, not a dissolved substance coming out."
+          "E": "Salt dissolving is the reverse processâ€”a solid entering solution, not a dissolved substance coming out."
         }
       },
       "difficulty": "medium",
@@ -2947,7 +2947,7 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Tumors commonly associated with tumor emboli are those with high propensity to invade blood vessels\u00e2\u20ac\u201dhepatocellular carcinoma and renal cell carcinoma are the most notable examples.",
+        "summary": "Tumors commonly associated with tumor emboli are those with high propensity to invade blood vesselsâ€”hepatocellular carcinoma and renal cell carcinoma are the most notable examples.",
         "whyCorrect": "Tumor emboli most commonly occur with tumors that have a high propensity to invade blood vessels. Hepatocellular carcinoma and renal cell carcinoma are the cancers most commonly associated with tumor embolization. These tumors tend to grow into adjacent veins (hepatic vein, renal vein/IVC), from which fragments can break off and embolize to the lungs.",
         "whyWrongByChoice": {
           "A": "While breast and lung cancers metastasize frequently, they are not the most classically associated with tumor emboli.",
@@ -3104,6 +3104,2977 @@
         "mitral-valve",
         "systemic-emboli",
         "endocarditis"
+      ]
+    },
+    {
+      "id": "r43h-001",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 72-year-old man with a history of anterior myocardial infarction two years ago presents with progressive dyspnea, lower-extremity edema, and weight gain. BP is 124/70 mm Hg, lungs are clear, and he has 1+ peripheral edema. You note a loud P2 but no S3. Echocardiography shows LVEF 30% and pulmonary artery pressure of 42 mm Hg. Which WHO group best classifies his pulmonary hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Group 1"
+        },
+        {
+          "label": "B",
+          "text": "Group 2"
+        },
+        {
+          "label": "C",
+          "text": "Group 3"
+        },
+        {
+          "label": "D",
+          "text": "Group 4"
+        },
+        {
+          "label": "E",
+          "text": "Group 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Post-MI systolic heart failure causes Group 2 (post-capillary) PH.",
+        "whyCorrect": "Left heart failure raises left atrial pressure, transmitted backward to pulmonary veins and capillaries, causing Group 2 PH.",
+        "whyWrongByChoice": {
+          "A": "Group 1 (PAH) involves intrinsic arterial disease, not LV dysfunction.",
+          "C": "Group 3 is from chronic lung disease with hypoxemic vasoconstriction.",
+          "D": "Group 4 is from chronic thromboembolism.",
+          "E": "Group 5 is multifactorial/unclear causes like sickle cell or sarcoidosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "WHO-groups",
+        "left-heart-failure"
+      ]
+    },
+    {
+      "id": "r43h-002",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 28-year-old woman from rural Egypt presents with progressive dyspnea and fatigue. She recalls swimming in freshwater canals as a child. Echocardiogram suggests elevated pulmonary artery pressures. Stool examination reveals parasitic eggs. Which mechanism most directly explains her pulmonary hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelin overproduction from BMPR2 defect"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxemia-driven arteriolar vasoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "Elevated left atrial pressure transmission"
+        },
+        {
+          "label": "D",
+          "text": "Parasitic egg embolization into arterioles"
+        },
+        {
+          "label": "E",
+          "text": "Chronic unresolved thromboembolic obstruction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Schistosomiasis is the leading worldwide cause of PH; eggs embolize to pulmonary arterioles.",
+        "whyCorrect": "Schistosomal eggs travel as emboli into the pulmonary circulation and lodge in arterioles, increasing pulmonary vascular resistance.",
+        "whyWrongByChoice": {
+          "A": "BMPR2 mutations cause heritable PAH, not parasitic PH.",
+          "B": "Hypoxemic vasoconstriction describes Group 3 lung disease.",
+          "C": "Post-capillary transmission describes Group 2 left heart disease.",
+          "E": "CTEPH (Group 4) involves organized fibrotic thrombi, not parasite eggs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "schistosomiasis",
+        "worldwide"
+      ]
+    },
+    {
+      "id": "r43h-003",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 34-year-old woman with idiopathic pulmonary arterial hypertension is started on bosentan. Which adverse effect most requires scheduled laboratory monitoring while on this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thyroid dysfunction"
+        },
+        {
+          "label": "B",
+          "text": "Nephrotoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Hepatotoxicity"
+        },
+        {
+          "label": "D",
+          "text": "QT prolongation"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary fibrosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bosentan causes dose-dependent hepatotoxicity requiring LFT monitoring.",
+        "whyCorrect": "Bosentan is associated with hepatotoxicity; baseline and periodic liver function monitoring is required per labeling.",
+        "whyWrongByChoice": {
+          "A": "Thyroid dysfunction is not a bosentan-associated toxicity.",
+          "B": "Nephrotoxicity is not the main labeled concern with bosentan.",
+          "D": "QT prolongation is not a hallmark bosentan effect.",
+          "E": "Pulmonary fibrosis is not a bosentan-associated toxicity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ERA",
+        "bosentan",
+        "monitoring"
+      ]
+    },
+    {
+      "id": "r43h-004",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 45-year-old man with severe PAH on continuous IV epoprostenol via central catheter is admitted for line infection. The infusion line becomes dislodged and therapy is abruptly interrupted. Which complication is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malignant hyperthermia"
+        },
+        {
+          "label": "B",
+          "text": "Rebound pulmonary hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Priapism"
+        },
+        {
+          "label": "D",
+          "text": "Serotonin syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Neuroleptic malignant syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Abrupt cessation of IV prostacyclin causes rebound PH and decompensation.",
+        "whyCorrect": "Abrupt interruption of continuous prostacyclin therapy, particularly IV epoprostenol, can precipitate rebound pulmonary hypertension and rapid clinical decompensation.",
+        "whyWrongByChoice": {
+          "A": "Not associated with prostacyclin withdrawal.",
+          "C": "Priapism is linked to PDE5 inhibitors, not prostacyclins.",
+          "D": "Not related to prostacyclin therapy.",
+          "E": "Not related to prostacyclin therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "epoprostenol",
+        "rebound"
+      ]
+    },
+    {
+      "id": "r43h-005",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 52-year-old man with PAH is managed with sildenafil. He is started on riociguat by a new provider. Which adverse effect is he at greatest risk of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic failure"
+        },
+        {
+          "label": "B",
+          "text": "Hypertensive emergency"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "Thrombocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Severe hypotension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Combining riociguat with PDE5 inhibitors is contraindicated due to severe hypotension.",
+        "whyCorrect": "Riociguat is contraindicated with PDE-5 inhibitors due to additive enhancement of the NO-cGMP pathway causing severe hypotension.",
+        "whyWrongByChoice": {
+          "A": "Hepatic failure is not the primary concern of this combination.",
+          "B": "Both agents lower BP, so hypertensive emergency is opposite of what occurs.",
+          "C": "Pulmonary edema is not the characteristic effect.",
+          "D": "Thrombocytosis is not associated."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "riociguat",
+        "PDE5",
+        "interaction"
+      ]
+    },
+    {
+      "id": "r43h-006",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 60-year-old man with severe COPD (FEV1 28% predicted) has chronic hypoxemia and progressive dyspnea. Echo reveals RV hypertrophy and estimated PAP of 48 mm Hg. Which mechanism most directly accounts for his pulmonary hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BMPR2 gene mutation"
+        },
+        {
+          "label": "B",
+          "text": "Endothelin-1 overexpression"
+        },
+        {
+          "label": "C",
+          "text": "Hypoxic pulmonary vasoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "Organized thromboembolic fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Elevated pulmonary capillary wedge pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "COPD-related hypoxemia causes reflex pulmonary arteriolar vasoconstriction (Group 3).",
+        "whyCorrect": "Hypoxemia in COPD causes reflex pulmonary arteriole vasoconstriction, increasing vascular resistance and PAP.",
+        "whyWrongByChoice": {
+          "A": "BMPR2 mutation causes heritable Group 1 PAH.",
+          "B": "Endothelin excess characterizes Group 1 PAH, not Group 3.",
+          "D": "Organized thrombi define Group 4 CTEPH.",
+          "E": "Elevated PCWP defines Group 2 left heart disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Group-3",
+        "COPD",
+        "hypoxic-vasoconstriction"
+      ]
+    },
+    {
+      "id": "r43h-007",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 40-year-old woman has a family history of early pulmonary hypertension. Genetic testing reveals a mutation in the BMPR2 gene. Which vascular change is most directly driven by this mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypoxic vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Alveolar hypoventilation"
+        },
+        {
+          "label": "C",
+          "text": "Venous congestion"
+        },
+        {
+          "label": "D",
+          "text": "Endothelial and smooth muscle proliferation"
+        },
+        {
+          "label": "E",
+          "text": "Fibrotic thromboembolic obstruction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "BMPR2 mutations drive pulmonary arterial endothelial cell proliferation and fibrosis.",
+        "whyCorrect": "Heritable PAH from BMPR2/ALK1 mutations causes pulmonary arterial endothelial cell proliferation and arterial wall fibrosis.",
+        "whyWrongByChoice": {
+          "A": "Hypoxic vasoconstriction is Group 3 mechanism.",
+          "B": "Alveolar hypoventilation is not the BMPR2 mechanism.",
+          "C": "Venous congestion is Group 2 mechanism.",
+          "E": "Organized thrombi characterize Group 4."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "BMPR2",
+        "heritable-PAH"
+      ]
+    },
+    {
+      "id": "r43h-008",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A patient with idiopathic PAH undergoes lung biopsy. Which histologic finding is most characteristic of advanced PAH?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granulomas"
+        },
+        {
+          "label": "B",
+          "text": "Hyaline membranes"
+        },
+        {
+          "label": "C",
+          "text": "Plexiform lesions"
+        },
+        {
+          "label": "D",
+          "text": "Honeycombing"
+        },
+        {
+          "label": "E",
+          "text": "Noncaseating granulomas"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Plexiform lesions are hallmark of advanced PAH pathology.",
+        "whyCorrect": "In PAH, small blood vessels proliferate within the media compressing the original lumen, forming plexiform lesions.",
+        "whyWrongByChoice": {
+          "A": "Caseating granulomas suggest TB.",
+          "B": "Hyaline membranes are seen in ARDS.",
+          "D": "Honeycombing is seen in pulmonary fibrosis.",
+          "E": "Noncaseating granulomas are seen in sarcoidosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "plexiform",
+        "pathology"
+      ]
+    },
+    {
+      "id": "r43h-009",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 55-year-old woman has survived two pulmonary emboli in the past 3 years. She now presents with progressive exertional dyspnea. Echocardiogram suggests PH. CT pulmonary angiography shows organized fibrotic material in the pulmonary arteries. Which WHO group is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Group 1"
+        },
+        {
+          "label": "B",
+          "text": "Group 2"
+        },
+        {
+          "label": "C",
+          "text": "Group 3"
+        },
+        {
+          "label": "D",
+          "text": "Group 4"
+        },
+        {
+          "label": "E",
+          "text": "Group 5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CTEPH (Group 4) results from unresolved, organized pulmonary emboli.",
+        "whyCorrect": "Chronic thromboembolism develops when acute PEs fail to resolve and instead organize into fibrotic obstructions, defining Group 4 PH.",
+        "whyWrongByChoice": {
+          "A": "Group 1 is intrinsic pulmonary arterial disease.",
+          "B": "Group 2 is left heart disease.",
+          "C": "Group 3 is parenchymal lung disease/hypoxia.",
+          "E": "Group 5 is multifactorial unclear causes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CTEPH",
+        "Group-4"
+      ]
+    },
+    {
+      "id": "r43h-010",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 30-year-old HIV-positive man with good viral control (undetectable viral load) develops progressive exertional dyspnea. Echocardiogram suggests PAH. What mechanism most likely underlies his pulmonary hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Viral protein-mediated endothelial injury"
+        },
+        {
+          "label": "B",
+          "text": "Direct viral replication in pulmonary arteries"
+        },
+        {
+          "label": "C",
+          "text": "Opportunistic infection of arterioles"
+        },
+        {
+          "label": "D",
+          "text": "Antiretroviral-induced vasoconstriction"
+        },
+        {
+          "label": "E",
+          "text": "Elevated CD4 count-driven fibrosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HIV-PAH is driven by viral protein-mediated endothelial injury, independent of viral load.",
+        "whyCorrect": "HIV-associated PAH occurs via viral protein-mediated endothelial injury and chronic inflammatory mediators that drive pulmonary arterial remodeling; it is unrelated to viral load.",
+        "whyWrongByChoice": {
+          "B": "HIV-PAH is not due to direct viral replication in arterial wall.",
+          "C": "Opportunistic infection is not the mechanism.",
+          "D": "Antiretrovirals are not the cause.",
+          "E": "CD4 count does not drive it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIV-PAH",
+        "Group-1"
+      ]
+    },
+    {
+      "id": "r43h-011",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 50-year-old woman with idiopathic PAH has symptoms despite dual therapy. Echocardiogram is inconclusive. What is the gold-standard test to confirm PH and precisely measure hemodynamics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-resolution CT chest"
+        },
+        {
+          "label": "B",
+          "text": "Ventilation-perfusion scan"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "D",
+          "text": "Right heart catheterization"
+        },
+        {
+          "label": "E",
+          "text": "Transesophageal echocardiogram"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Right heart catheterization is gold standard for diagnosing PH.",
+        "whyCorrect": "Right heart catheterization is the gold standard, measuring resting mean PAP (≥20 mm Hg = PH) and other hemodynamics.",
+        "whyWrongByChoice": {
+          "A": "HRCT evaluates parenchyma, not hemodynamics.",
+          "B": "V/Q scans are used for CTEPH screening, not gold standard diagnosis.",
+          "C": "Cardiac MRI is adjunctive, not gold standard.",
+          "E": "TEE images the heart but does not directly measure PA pressure invasively."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "RHC"
+      ]
+    },
+    {
+      "id": "r43h-012",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 58-year-old man with PH has an ECG showing tall R waves in leads II, III, and aVF with an S wave in lead I, along with T-wave inversions in the inferior leads. What do these findings most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left bundle branch block"
+        },
+        {
+          "label": "B",
+          "text": "RV hypertrophy with strain"
+        },
+        {
+          "label": "C",
+          "text": "Acute anterior MI"
+        },
+        {
+          "label": "D",
+          "text": "Atrial fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "Posterior MI"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Right axis deviation with inferior strain reflects RV hypertrophy from PH.",
+        "whyCorrect": "ECGs in PH may show RV hypertrophy with right axis deviation (positive QRS in II, III, aVF; negative in I) and strain pattern (T inversions/ST depressions inferiorly).",
+        "whyWrongByChoice": {
+          "A": "LBBB produces wide QRS with different morphology.",
+          "C": "Anterior MI localizes to V1-V4.",
+          "D": "AF shows irregularly irregular rhythm without P waves.",
+          "E": "Posterior MI shows tall R in V1-V2."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ECG",
+        "RVH"
+      ]
+    },
+    {
+      "id": "r43h-013",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 62-year-old woman with PAH is on sildenafil. She takes nitroglycerin for presumed anginal chest pain and develops profound hypotension and syncope. What mechanism caused this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of CYP3A4 by nitroglycerin"
+        },
+        {
+          "label": "B",
+          "text": "Beta-adrenergic blockade"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-adrenergic stimulation"
+        },
+        {
+          "label": "D",
+          "text": "Competitive endothelin antagonism"
+        },
+        {
+          "label": "E",
+          "text": "Synergistic cGMP accumulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nitrates plus PDE5 inhibitors cause additive cGMP-mediated vasodilation.",
+        "whyCorrect": "Both nitrates (NO donors) and PDE5 inhibitors increase cGMP in vascular smooth muscle; combined use causes profound hypotension/syncope.",
+        "whyWrongByChoice": {
+          "A": "CYP3A4 inhibition is not the mechanism of the hypotensive crisis.",
+          "B": "Beta blockade is not involved.",
+          "C": "Alpha stimulation would raise BP.",
+          "D": "Endothelin antagonism is the ERA mechanism, not PDE5."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PDE5",
+        "nitrates",
+        "interaction"
+      ]
+    },
+    {
+      "id": "r43h-014",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 32-year-old woman is being started on ambrisentan for PAH. Which fetal risk requires contraception counseling and routine pregnancy testing in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Teratogenicity"
+        },
+        {
+          "label": "B",
+          "text": "Fetal macrosomia"
+        },
+        {
+          "label": "C",
+          "text": "Preterm labor"
+        },
+        {
+          "label": "D",
+          "text": "Fetal hypoglycemia"
+        },
+        {
+          "label": "E",
+          "text": "Neonatal sepsis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ERAs are teratogenic, requiring strict contraception and pregnancy surveillance.",
+        "whyCorrect": "ERAs are teratogenic, requiring reliable contraception and routine pregnancy testing when applicable.",
+        "whyWrongByChoice": {
+          "B": "Macrosomia is not an ERA effect.",
+          "C": "Preterm labor is not a known ERA effect.",
+          "D": "Fetal hypoglycemia is not an ERA effect.",
+          "E": "Neonatal sepsis is not a known ERA effect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ERA",
+        "teratogenicity"
+      ]
+    },
+    {
+      "id": "r43h-015",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A patient with idiopathic PAH is started on iloprost. What is the primary molecular signaling pathway activated by this agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ETA receptor → ↑ calcium"
+        },
+        {
+          "label": "B",
+          "text": "IP receptor → ↑ cAMP"
+        },
+        {
+          "label": "C",
+          "text": "Soluble guanylate cyclase → ↑ cGMP"
+        },
+        {
+          "label": "D",
+          "text": "PDE5 inhibition → ↑ cGMP"
+        },
+        {
+          "label": "E",
+          "text": "Alpha-1 receptor → ↑ IP3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Prostacyclin analogs activate IP receptor, raising cAMP for vasodilation.",
+        "whyCorrect": "Prostacyclin analogs bind the IP receptor on pulmonary vascular smooth muscle, activating adenylate cyclase to increase cAMP, lower calcium, and cause pulmonary vasodilation.",
+        "whyWrongByChoice": {
+          "A": "Activating ETA would worsen PAH (this pathway is blocked by ERAs).",
+          "C": "Riociguat works via sGC stimulation.",
+          "D": "PDE5 inhibitors (sildenafil) raise cGMP.",
+          "E": "Alpha-1 stimulation causes vasoconstriction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "prostacyclin",
+        "cAMP"
+      ]
+    },
+    {
+      "id": "r43h-016",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 50-year-old woman with idiopathic PAH for two months presents with worsening dyspnea, clear lungs, and a right-ventricular S3. Labs show elevated liver enzymes (not drug-induced). Which additional finding is most likely present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascites"
+        },
+        {
+          "label": "B",
+          "text": "Orthopnea"
+        },
+        {
+          "label": "C",
+          "text": "Paroxysmal nocturnal dyspnea"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary edema"
+        },
+        {
+          "label": "E",
+          "text": "Aortic ejection murmur"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Right heart failure from PAH causes venous congestion producing hepatic congestion and ascites.",
+        "whyCorrect": "Right heart failure causes elevated venous pressure leading to hepatic congestion (elevated LFTs) and ascites.",
+        "whyWrongByChoice": {
+          "B": "Orthopnea is typical of left-sided failure.",
+          "C": "PND is a left-sided failure feature.",
+          "D": "Pulmonary edema is left-sided failure; her lungs are clear.",
+          "E": "An aortic ejection murmur is not expected in PAH right heart failure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "RHF",
+        "PAH",
+        "ascites"
+      ]
+    },
+    {
+      "id": "r43h-017",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 48-year-old woman with systemic sclerosis develops exertional dyspnea. Echocardiogram suggests elevated PAP. Which WHO group of PH does she most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Group 1"
+        },
+        {
+          "label": "B",
+          "text": "Group 2"
+        },
+        {
+          "label": "C",
+          "text": "Group 3"
+        },
+        {
+          "label": "D",
+          "text": "Group 4"
+        },
+        {
+          "label": "E",
+          "text": "Group 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Connective tissue disease-associated PAH is Group 1 (secondary PAH).",
+        "whyCorrect": "Secondary PAH due to inflammatory disorders (systemic sclerosis, lupus, dermatomyositis) is classified as Group 1.",
+        "whyWrongByChoice": {
+          "B": "Group 2 is left heart disease.",
+          "C": "Group 3 is chronic lung disease/hypoxia.",
+          "D": "Group 4 is CTEPH.",
+          "E": "Group 5 is miscellaneous/unclear causes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CTD-PAH",
+        "systemic-sclerosis"
+      ]
+    },
+    {
+      "id": "r43h-018",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 40-year-old man has methamphetamine-associated PAH. Molecular analysis of his pulmonary vasculature shows excess endothelin-1 signaling. Which effect of ET-1 at the ETA receptor most directly contributes to his disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "↑ cAMP with vasodilation"
+        },
+        {
+          "label": "B",
+          "text": "↑ Intracellular calcium with vasoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "↑ cGMP with vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "Platelet aggregation inhibition"
+        },
+        {
+          "label": "E",
+          "text": "Fibroblast apoptosis induction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ET-1 at ETA receptors raises intracellular calcium, causing vasoconstriction and remodeling.",
+        "whyCorrect": "ET-1 acts mainly at ETA receptors on pulmonary vascular smooth muscle to increase intracellular calcium, causing vasoconstriction and stimulating proliferation/fibrosis.",
+        "whyWrongByChoice": {
+          "A": "cAMP rise is the IP (prostacyclin) pathway.",
+          "C": "cGMP rise is the NO/PDE5 pathway.",
+          "D": "Platelet inhibition is a prostacyclin effect.",
+          "E": "ET-1 drives fibroblast proliferation, not apoptosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "endothelin",
+        "ETA"
+      ]
+    },
+    {
+      "id": "r43h-019",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A patient with severe PAH develops side effects while on epoprostenol including headache, flushing, jaw pain, and diarrhea. Which additional risk is most likely with this agent, especially when combined with anticoagulants?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Severe hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Hepatotoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Increased bleeding risk"
+        },
+        {
+          "label": "D",
+          "text": "Renal tubular necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Hyperkalemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Prostacyclins inhibit platelet aggregation, raising bleeding risk.",
+        "whyCorrect": "Prostacyclin agents inhibit platelet aggregation; bleeding risk can be clinically significant, especially with anticoagulants or thrombocytopenia.",
+        "whyWrongByChoice": {
+          "A": "Prostacyclins cause hypotension, not hypertension.",
+          "B": "Hepatotoxicity is a bosentan (ERA) issue.",
+          "D": "Renal tubular necrosis is not a prostacyclin toxicity.",
+          "E": "Hyperkalemia is not associated with prostacyclins."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "prostacyclin",
+        "bleeding"
+      ]
+    },
+    {
+      "id": "r43h-020",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 70-year-old man with long-standing untreated pulmonary hypertension now has marked JVD, ascites, and a holosystolic murmur at the left lower sternal border that increases with inspiration. Which cardiac change underlies these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricular hypertrophy"
+        },
+        {
+          "label": "B",
+          "text": "Mitral valve prolapse"
+        },
+        {
+          "label": "C",
+          "text": "Hypertrophic cardiomyopathy"
+        },
+        {
+          "label": "D",
+          "text": "Right ventricular hypertrophy with failure"
+        },
+        {
+          "label": "E",
+          "text": "Aortic stenosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chronic PH leads to RVH and failure with TR murmur (Carvallo sign) and congestion.",
+        "whyCorrect": "Chronic PH increases RV afterload, producing RV hypertrophy and failure; inspiration-worsening murmur reflects tricuspid regurgitation, plus JVD and ascites from venous congestion.",
+        "whyWrongByChoice": {
+          "A": "LVH does not cause an inspiration-worsening TR murmur.",
+          "B": "MVP causes a mid-systolic click, not an inspiration-augmented murmur.",
+          "C": "HCM causes a murmur that worsens with Valsalva, not inspiration.",
+          "E": "Aortic stenosis is a crescendo-decrescendo murmur at the right second interspace."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "RVH",
+        "tricuspid-regurgitation"
+      ]
+    },
+    {
+      "id": "r43h-021",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A 65-year-old man with PH and severe ongoing hypoxemia despite optimized medical therapy remains symptomatic. Which adjunctive intervention helps minimize hypoxemia-mediated pulmonary arteriolar vasoconstriction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic loop diuretic escalation"
+        },
+        {
+          "label": "B",
+          "text": "Oral corticosteroids"
+        },
+        {
+          "label": "C",
+          "text": "Systemic heparin anticoagulation"
+        },
+        {
+          "label": "D",
+          "text": "Inhaled bronchodilators"
+        },
+        {
+          "label": "E",
+          "text": "Supplemental oxygen therapy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Oxygen therapy treats hypoxemia and reduces reflex pulmonary vasoconstriction.",
+        "whyCorrect": "Patients with persistent symptoms may benefit from oxygen therapy to treat hypoxemia and minimize hypoxemia-mediated vasoconstriction of pulmonary arterioles.",
+        "whyWrongByChoice": {
+          "A": "Loop diuretic escalation alone does not target hypoxic vasoconstriction.",
+          "B": "Corticosteroids are not a PH-specific therapy.",
+          "C": "Heparin is not a general PH adjunct for hypoxic vasoconstriction.",
+          "D": "Bronchodilators do not primarily address hypoxic pulmonary vasoconstriction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "oxygen",
+        "hypoxic-vasoconstriction"
+      ]
+    },
+    {
+      "id": "r43h-022",
+      "topicId": "pulmonary-hypertension-hard",
+      "topicName": "Pulmonary Hypertension (Advanced)",
+      "stem": "A patient with PAH is found to have plexiform lesions, neointimal fibrosis, and in situ thrombi on autopsy. Which sequence best represents the pathologic progression in PAH?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoconstriction → remodeling → plexiform → thrombotic"
+        },
+        {
+          "label": "B",
+          "text": "Thrombosis → plexiform → vasoconstriction → remodeling"
+        },
+        {
+          "label": "C",
+          "text": "Remodeling → vasoconstriction → thrombosis → plexiform"
+        },
+        {
+          "label": "D",
+          "text": "Plexiform → thrombosis → remodeling → vasoconstriction"
+        },
+        {
+          "label": "E",
+          "text": "Vasoconstriction → thrombosis → plexiform → remodeling"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PAH progresses: vasoconstriction, remodeling/inflammation, plexiform lesions, then thrombotic lesions.",
+        "whyCorrect": "The described pathologic steps in PAH are: (1) vasoconstriction, (2) arterial remodeling and inflammation, (3) plexiform lesions, and (4) thrombotic lesions.",
+        "whyWrongByChoice": {
+          "B": "Thrombosis is a late, not initial, step.",
+          "C": "Vasoconstriction precedes remodeling.",
+          "D": "Plexiform lesions are not the initial change.",
+          "E": "Remodeling precedes both plexiform and thrombotic lesions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pathogenesis",
+        "PAH-stages"
+      ]
+    },
+    {
+      "id": "r44h-001",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 58-year-old woman develops acute dyspnea 4 days after left hip replacement. Pulse 120/min, BP 100/70 mm Hg, RR 30/min, SpO2 92%. Lungs are clear; her left calf is swollen and tender. Which combination best explains her hypoxemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dead space from occluded alveoli"
+        },
+        {
+          "label": "B",
+          "text": "Low V/Q from overperfused alveoli"
+        },
+        {
+          "label": "C",
+          "text": "Diffusion limitation across septa"
+        },
+        {
+          "label": "D",
+          "text": "Right-to-left intracardiac shunting"
+        },
+        {
+          "label": "E",
+          "text": "Hypoventilation from opioid effect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PE hypoxemia is caused by low V/Q mismatch, not dead space.",
+        "whyCorrect": "Blood is diverted to healthy alveoli (increased Q) without proportional ventilation, causing venous admixture and hypoxemia.",
+        "whyWrongByChoice": {
+          "A": "Dead space has only a minor effect on PaO2.",
+          "C": "Diffusion limitation is not the mechanism in acute PE.",
+          "D": "Shunt physiology is not typical of PE.",
+          "E": "Patient is hyperventilating, not hypoventilating."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "V/Q"
+      ]
+    },
+    {
+      "id": "r44h-002",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 45-year-old woman presents with pleuritic chest pain and mild dyspnea. She has no hemoptysis, no prior DVT, no recent surgery, no leg swelling, no estrogen use. HR 88, SpO2 98% on room air, age <50. Wells score is 0. What is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apply PERC rule to exclude PE"
+        },
+        {
+          "label": "B",
+          "text": "Obtain D-dimer level"
+        },
+        {
+          "label": "C",
+          "text": "Order CT pulmonary angiography"
+        },
+        {
+          "label": "D",
+          "text": "Obtain V/Q scan"
+        },
+        {
+          "label": "E",
+          "text": "Start empirical anticoagulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In low-risk patients, PERC criteria can exclude PE without further testing.",
+        "whyCorrect": "If all PERC criteria are met in a low-risk patient, PE probability is <2% and no further testing is needed.",
+        "whyWrongByChoice": {
+          "B": "Unnecessary if PERC is negative in a low-risk patient.",
+          "C": "CTA is overuse in PERC-negative low-risk patients.",
+          "D": "V/Q scan is not indicated here.",
+          "E": "Anticoagulation is not given without diagnosis in a low-risk patient."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PERC",
+        "risk-stratification"
+      ]
+    },
+    {
+      "id": "r44h-003",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 62-year-old man with active colon cancer presents with dyspnea and tachycardia (HR 110). He has unilateral leg swelling. Wells score is 6. Which is the most appropriate next diagnostic step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D-dimer only"
+        },
+        {
+          "label": "B",
+          "text": "Chest X-ray"
+        },
+        {
+          "label": "C",
+          "text": "CT pulmonary angiography"
+        },
+        {
+          "label": "D",
+          "text": "Echocardiography"
+        },
+        {
+          "label": "E",
+          "text": "Apply PERC rule"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High pretest probability (Wells >4) requires CT angiography.",
+        "whyCorrect": "Patients with high PE suspicion skip D-dimer and proceed directly to CTA, the imaging test of choice.",
+        "whyWrongByChoice": {
+          "A": "D-dimer is not useful in high-probability patients due to low specificity.",
+          "B": "CXR is never diagnostic for PE.",
+          "D": "Echo detects RV strain but does not diagnose PE.",
+          "E": "PERC applies only to low-risk patients."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Wells",
+        "CTA"
+      ]
+    },
+    {
+      "id": "r44h-004",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 30-year-old pregnant woman at 28 weeks gestation presents with pleuritic chest pain and mild dyspnea. HR 108, SpO2 96%. She has no leg swelling. D-dimer is elevated. Which imaging is most appropriate given her pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT pulmonary angiography"
+        },
+        {
+          "label": "B",
+          "text": "Chest X-ray alone"
+        },
+        {
+          "label": "C",
+          "text": "Lung MRI"
+        },
+        {
+          "label": "D",
+          "text": "Abdominal ultrasound"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary arteriography"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "MRI avoids radiation and is increasingly used in pregnancy.",
+        "whyCorrect": "Lung MRI avoids radiation exposure and its role is increasing in pregnant patients with suspected PE.",
+        "whyWrongByChoice": {
+          "A": "CTA involves radiation and iodinated contrast.",
+          "B": "CXR is never diagnostic for PE.",
+          "D": "Abdominal ultrasound does not evaluate for PE.",
+          "E": "Invasive pulmonary arteriography is rarely used."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pregnancy",
+        "imaging"
+      ]
+    },
+    {
+      "id": "r44h-005",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 55-year-old man with a known iodinated contrast allergy and stable creatinine has intermediate suspicion for PE. CTA is contraindicated. Which alternative imaging best establishes the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ventilation/perfusion scan"
+        },
+        {
+          "label": "B",
+          "text": "Chest X-ray"
+        },
+        {
+          "label": "C",
+          "text": "Transthoracic echocardiography"
+        },
+        {
+          "label": "D",
+          "text": "Lower extremity Doppler only"
+        },
+        {
+          "label": "E",
+          "text": "Repeat D-dimer in 24 hours"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "V/Q scan is an alternative when CTA cannot be performed.",
+        "whyCorrect": "V/Q scan can diagnose PE when contrast is contraindicated; mismatch (normal ventilation, absent perfusion) suggests PE.",
+        "whyWrongByChoice": {
+          "B": "CXR is not diagnostic.",
+          "C": "Echo detects RV strain, not the embolus directly.",
+          "D": "Doppler finds DVT but does not rule in PE.",
+          "E": "D-dimer alone cannot confirm PE."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "V/Q",
+        "contrast-allergy"
+      ]
+    },
+    {
+      "id": "r44h-006",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 60-year-old man with acute PE has BP 80/50 mm Hg despite IV fluids. Echo shows severe RV dilation. He has no contraindications to thrombolysis. Which is the most appropriate immediate intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enoxaparin monotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Systemic tissue plasminogen activator"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin loading dose"
+        },
+        {
+          "label": "D",
+          "text": "Inferior vena cava filter placement"
+        },
+        {
+          "label": "E",
+          "text": "Apixaban"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hemodynamic instability is the indication for systemic fibrinolysis.",
+        "whyCorrect": "Hemodynamically unstable PE without contraindications warrants systemic tPA to rapidly reduce clot burden.",
+        "whyWrongByChoice": {
+          "A": "Anticoagulation alone is insufficient in shock.",
+          "C": "Warfarin has delayed onset and is not used alone initially.",
+          "D": "IVC filter prevents new emboli but does not treat current shock.",
+          "E": "DOACs do not dissolve existing clot rapidly."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fibrinolysis",
+        "massive-PE"
+      ]
+    },
+    {
+      "id": "r44h-007",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 72-year-old woman with a stable PE had a hemorrhagic stroke 2 weeks ago. She cannot be anticoagulated. Which intervention is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low-dose apixaban"
+        },
+        {
+          "label": "B",
+          "text": "Systemic fibrinolysis"
+        },
+        {
+          "label": "C",
+          "text": "Inferior vena cava filter"
+        },
+        {
+          "label": "D",
+          "text": "Aspirin monotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin bridged with heparin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "IVC filters are used when anticoagulation is contraindicated.",
+        "whyCorrect": "Patients with PE who cannot be anticoagulated due to high bleeding risk can have an IVC filter placed to prevent further embolization.",
+        "whyWrongByChoice": {
+          "A": "Any anticoagulant is contraindicated after recent hemorrhagic stroke.",
+          "B": "Fibrinolysis dramatically worsens bleeding risk.",
+          "D": "Aspirin is inadequate and still raises bleeding risk.",
+          "E": "All anticoagulants are contraindicated."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "IVC-filter",
+        "contraindications"
+      ]
+    },
+    {
+      "id": "r44h-008",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 40-year-old woman with acute PE is stable (HR 92, BP 128/78, SpO2 96% on RA). Troponin is normal; echo shows no RV strain. Renal function is normal. Which initial agent is most appropriate as monotherapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Warfarin alone"
+        },
+        {
+          "label": "B",
+          "text": "Apixaban"
+        },
+        {
+          "label": "C",
+          "text": "Aspirin"
+        },
+        {
+          "label": "D",
+          "text": "Tissue plasminogen activator"
+        },
+        {
+          "label": "E",
+          "text": "Clopidogrel"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DOACs like apixaban are appropriate initial monotherapy for stable PE.",
+        "whyCorrect": "Apixaban is a factor Xa inhibitor and a first-line DOAC option for immediate anticoagulation in stable PE.",
+        "whyWrongByChoice": {
+          "A": "Warfarin cannot be used alone initially due to delayed onset.",
+          "C": "Aspirin is not an anticoagulant.",
+          "D": "tPA is reserved for unstable/massive PE.",
+          "E": "Clopidogrel is an antiplatelet, not appropriate for PE."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "DOAC",
+        "stable-PE"
+      ]
+    },
+    {
+      "id": "r44h-009",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 55-year-old man with acute PE has BP 120/78, HR 96, SpO2 95%. Troponin is elevated and echo shows RV dilation without hypotension. What is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediate systemic thrombolysis"
+        },
+        {
+          "label": "B",
+          "text": "Anticoagulation with close monitoring"
+        },
+        {
+          "label": "C",
+          "text": "Surgical embolectomy"
+        },
+        {
+          "label": "D",
+          "text": "IVC filter alone"
+        },
+        {
+          "label": "E",
+          "text": "Observation without anticoagulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intermediate-risk PE: anticoagulate and monitor closely.",
+        "whyCorrect": "Intermediate-risk PE (RV dysfunction without hypotension) should generally be treated like low-risk with close monitoring for deterioration and expert consultation.",
+        "whyWrongByChoice": {
+          "A": "Routine thrombolysis is not recommended without hemodynamic instability.",
+          "C": "Reserved for unstable patients who fail or cannot receive fibrinolytics.",
+          "D": "IVC filter is not first-line when anticoagulation is possible.",
+          "E": "Observation alone risks deterioration."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "intermediate-risk"
+      ]
+    },
+    {
+      "id": "r44h-010",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 25-year-old woman on combined oral contraceptives has a suspected PE. Arterial blood gas during tachypnea is most likely to show which pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Respiratory acidosis with hypercarbia"
+        },
+        {
+          "label": "B",
+          "text": "Respiratory alkalosis with hypocarbia"
+        },
+        {
+          "label": "C",
+          "text": "Metabolic acidosis with low bicarbonate"
+        },
+        {
+          "label": "D",
+          "text": "Normal ABG with elevated PaCO2"
+        },
+        {
+          "label": "E",
+          "text": "Metabolic alkalosis with high bicarbonate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hyperventilation in PE causes respiratory alkalosis.",
+        "whyCorrect": "Hypoxemia drives increased minute ventilation, producing hypocarbia and respiratory alkalosis classically associated with PE.",
+        "whyWrongByChoice": {
+          "A": "Hypercarbia is very uncommon because ventilation remains effective.",
+          "C": "Not the primary acid-base disturbance in acute PE.",
+          "D": "PaCO2 typically falls, not rises.",
+          "E": "Not the expected pattern in acute PE."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ABG",
+        "acid-base"
+      ]
+    },
+    {
+      "id": "r44h-011",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 65-year-old man presents with sudden dyspnea and pleuritic chest pain. CXR shows a peripheral wedge-shaped opacification. Which finding does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Westermark sign"
+        },
+        {
+          "label": "B",
+          "text": "Hampton's hump"
+        },
+        {
+          "label": "C",
+          "text": "Kerley B lines"
+        },
+        {
+          "label": "D",
+          "text": "Air bronchograms"
+        },
+        {
+          "label": "E",
+          "text": "Ground-glass opacities"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hampton's hump is a peripheral wedge-shaped opacity from lung infarct.",
+        "whyCorrect": "A peripheral wedge-shaped opacification due to pulmonary infarct is called Hampton's hump, an uncommon but classic PE finding.",
+        "whyWrongByChoice": {
+          "A": "Westermark sign is regional decreased vascularity, not a wedge opacity.",
+          "C": "Kerley B lines reflect interstitial edema.",
+          "D": "Air bronchograms suggest consolidation/pneumonia.",
+          "E": "Ground-glass opacities are nonspecific."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CXR",
+        "Hamptons-hump"
+      ]
+    },
+    {
+      "id": "r44h-012",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 68-year-old man with massive PE is hypotensive. Echo shows a dilated right ventricle bowing the intraventricular septum into the left ventricle. This finding most directly explains which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced LV preload and cardiac output"
+        },
+        {
+          "label": "B",
+          "text": "Increased LV contractility"
+        },
+        {
+          "label": "C",
+          "text": "Decreased right atrial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Improved coronary perfusion"
+        },
+        {
+          "label": "E",
+          "text": "Reduced pulmonary artery pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "RV dilation compresses the LV, reducing preload and output.",
+        "whyCorrect": "RV dilation from obstruction impairs LV filling, reducing LV stroke volume and cardiac output (obstructive shock).",
+        "whyWrongByChoice": {
+          "B": "LV contractility is not primarily increased in PE.",
+          "C": "RA pressure rises, not falls.",
+          "D": "Coronary perfusion typically worsens with hypotension.",
+          "E": "PA pressure rises because of the obstruction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "echo",
+        "obstructive-shock"
+      ]
+    },
+    {
+      "id": "r44h-013",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 70-year-old bedridden woman with a hip fracture develops sudden dyspnea, HR 125, BP 90/60, SpO2 88%. Which is the most likely precipitating factor for her PE?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Age alone"
+        },
+        {
+          "label": "B",
+          "text": "Immobilization"
+        },
+        {
+          "label": "C",
+          "text": "Underlying malignancy"
+        },
+        {
+          "label": "D",
+          "text": "Recent air travel"
+        },
+        {
+          "label": "E",
+          "text": "Oral contraceptive use"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Prolonged immobilization causes venous stasis and DVT/PE.",
+        "whyCorrect": "Bedrest from hip fracture causes venous stasis (a Virchow's triad component) leading to DVT and PE.",
+        "whyWrongByChoice": {
+          "A": "Age raises risk but is not the proximate precipitant.",
+          "C": "Not indicated in this scenario.",
+          "D": "No travel history is given.",
+          "E": "Not mentioned; age makes it unlikely."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Virchow",
+        "immobilization"
+      ]
+    },
+    {
+      "id": "r44h-014",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 50-year-old man is admitted with confirmed PE. The attending wants to start anticoagulation before imaging due to high clinical suspicion. Which of the following best supports this practice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DOACs prevent clot dissolution"
+        },
+        {
+          "label": "B",
+          "text": "Imaging is often falsely negative"
+        },
+        {
+          "label": "C",
+          "text": "Empirical anticoagulation is recommended when PE likelihood is high"
+        },
+        {
+          "label": "D",
+          "text": "D-dimer is falsely low in PE"
+        },
+        {
+          "label": "E",
+          "text": "Anticoagulation eliminates the need for imaging"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Start anticoagulation empirically when PE is highly likely.",
+        "whyCorrect": "If the likelihood of PE is high after history/exam, anticoagulation should not be delayed awaiting imaging.",
+        "whyWrongByChoice": {
+          "A": "DOACs prevent new clot formation; natural fibrinolysis continues.",
+          "B": "CTA has high sensitivity and specificity.",
+          "D": "D-dimer is typically elevated in PE.",
+          "E": "Imaging is still required to confirm the diagnosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "empirical-anticoagulation"
+      ]
+    },
+    {
+      "id": "r44h-015",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 58-year-old man with acute PE remains hypotensive despite fluids and has absolute contraindications to systemic thrombolytics (recent intracranial hemorrhage). Which is the next most appropriate intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased dose of DOAC"
+        },
+        {
+          "label": "B",
+          "text": "Catheter-based embolectomy"
+        },
+        {
+          "label": "C",
+          "text": "IV aspirin"
+        },
+        {
+          "label": "D",
+          "text": "Warfarin loading"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Embolectomy is indicated when fibrinolytics are contraindicated.",
+        "whyCorrect": "Catheter-based or surgical embolectomy is indicated in critically ill patients who cannot receive fibrinolytics.",
+        "whyWrongByChoice": {
+          "A": "DOACs do not lyse large existing thrombi.",
+          "C": "Aspirin is inadequate in massive PE.",
+          "D": "Warfarin has delayed onset.",
+          "E": "Oxygen alone does not address clot burden."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embolectomy"
+      ]
+    },
+    {
+      "id": "r44h-016",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 45-year-old woman has Wells score 3. She has no hemoptysis or estrogen use but is HR 102. D-dimer is mildly elevated. What is the best next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Discharge home without further workup"
+        },
+        {
+          "label": "B",
+          "text": "CT pulmonary angiography"
+        },
+        {
+          "label": "C",
+          "text": "Start IV tPA"
+        },
+        {
+          "label": "D",
+          "text": "Repeat D-dimer in 6 hours"
+        },
+        {
+          "label": "E",
+          "text": "Begin empiric warfarin alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Low-to-moderate suspicion with elevated D-dimer warrants CTA.",
+        "whyCorrect": "Chest CTA should be performed in patients with low-to-moderate suspicion and elevated D-dimer, as well as in high-suspicion patients.",
+        "whyWrongByChoice": {
+          "A": "Elevated D-dimer with PE symptoms cannot be dismissed.",
+          "C": "tPA requires confirmed diagnosis and instability.",
+          "D": "Repeating D-dimer does not change management.",
+          "E": "Warfarin alone is never appropriate initial therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Wells",
+        "D-dimer"
+      ]
+    },
+    {
+      "id": "r44h-017",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 50-year-old man recovers from an acute PE after 3 months of anticoagulation. Which complication occurs in approximately 1% to 5% of PE survivors and is characterized by persistent clot burden?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic thromboembolic pulmonary hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Emphysema"
+        },
+        {
+          "label": "E",
+          "text": "Aortic stenosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CTEPH develops in 1-5% of acute PE patients.",
+        "whyCorrect": "Some patients (1-5%) develop persistent pulmonary thrombi causing chronic thromboembolic pulmonary hypertension and right heart failure.",
+        "whyWrongByChoice": {
+          "B": "Not associated with PE.",
+          "C": "Not a typical PE complication.",
+          "D": "Unrelated to embolism.",
+          "E": "Not caused by PE."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CTEPH",
+        "complications"
+      ]
+    },
+    {
+      "id": "r44h-018",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 60-year-old woman with stable PE has severe chronic kidney disease (CKD) and iodinated contrast allergy. Which is the best diagnostic imaging?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT pulmonary angiography"
+        },
+        {
+          "label": "B",
+          "text": "Lung MRI"
+        },
+        {
+          "label": "C",
+          "text": "Chest X-ray"
+        },
+        {
+          "label": "D",
+          "text": "Catheter pulmonary angiography"
+        },
+        {
+          "label": "E",
+          "text": "Abdominal CT"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "MRI avoids iodinated contrast and radiation.",
+        "whyCorrect": "Lung MRI is an alternative for patients with iodine allergy or severe CKD who cannot receive CTA.",
+        "whyWrongByChoice": {
+          "A": "Contraindicated by allergy and renal dysfunction.",
+          "C": "CXR is not diagnostic.",
+          "D": "Invasive catheter angiography is rarely used.",
+          "E": "Abdominal CT does not image the lungs adequately."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "MRI",
+        "CKD"
+      ]
+    },
+    {
+      "id": "r44h-019",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 45-year-old trauma patient develops PE. The ICU team administers catheter-directed rather than systemic thrombolysis. Which is the primary rationale?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater efficacy in clot lysis"
+        },
+        {
+          "label": "B",
+          "text": "Reduced systemic bleeding exposure"
+        },
+        {
+          "label": "C",
+          "text": "Lower procedural cost"
+        },
+        {
+          "label": "D",
+          "text": "Avoidance of anticoagulation"
+        },
+        {
+          "label": "E",
+          "text": "Prevention of recurrent DVT"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Catheter-directed lysis minimizes systemic drug exposure and bleeding.",
+        "whyCorrect": "Delivering fibrinolytics directly to the embolus reduces systemic exposure and bleeding risk compared with systemic therapy.",
+        "whyWrongByChoice": {
+          "A": "Clot lysis efficacy is not dramatically different.",
+          "C": "Catheter procedures are not cheaper.",
+          "D": "Anticoagulation is still given afterward.",
+          "E": "Not the main reason for directed therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "catheter-directed"
+      ]
+    },
+    {
+      "id": "r44h-020",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 52-year-old woman presents after a transatlantic flight. Which element of Virchow's triad is most directly implicated in her DVT risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial injury"
+        },
+        {
+          "label": "B",
+          "text": "Venous stasis"
+        },
+        {
+          "label": "C",
+          "text": "Hypercoagulability"
+        },
+        {
+          "label": "D",
+          "text": "Platelet activation"
+        },
+        {
+          "label": "E",
+          "text": "Fibrinolysis defect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Prolonged travel causes venous stasis.",
+        "whyCorrect": "Prolonged immobility during travel slows venous return, producing stasis, a component of Virchow's triad.",
+        "whyWrongByChoice": {
+          "A": "No direct venous trauma in travel alone.",
+          "C": "Hypercoagulability requires another inciting factor.",
+          "D": "Not a primary mechanism in travel-related DVT.",
+          "E": "Not the primary factor described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Virchow",
+        "stasis"
+      ]
+    },
+    {
+      "id": "r44h-021",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 33-year-old woman presents 2 days postpartum with sudden dyspnea, cyanosis, hypotension, and DIC. Which embolus type is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thrombotic embolus from DVT"
+        },
+        {
+          "label": "B",
+          "text": "Fat embolus"
+        },
+        {
+          "label": "C",
+          "text": "Air embolus"
+        },
+        {
+          "label": "D",
+          "text": "Amniotic fluid embolus"
+        },
+        {
+          "label": "E",
+          "text": "Tumor embolus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Amniotic fluid embolus occurs during/after parturition.",
+        "whyCorrect": "Amniotic fluid embolism arises from obstetric complications during parturition with sudden cardiovascular collapse and DIC.",
+        "whyWrongByChoice": {
+          "A": "Possible but less specific to the scenario.",
+          "B": "Fat embolus follows long-bone fracture.",
+          "C": "Air embolus follows rapid ascent or vascular procedures.",
+          "E": "Tumor embolism is rare and not acute."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amniotic-fluid",
+        "embolus-types"
+      ]
+    },
+    {
+      "id": "r44h-022",
+      "topicId": "pulmonary-embolism-hard",
+      "topicName": "Pulmonary Embolism (Advanced)",
+      "stem": "A 72-year-old woman with confirmed PE is started on enoxaparin. Her care team plans long-term therapy. What is the typical outpatient duration of anticoagulation after PE?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "7 to 14 days"
+        },
+        {
+          "label": "B",
+          "text": "1 month only"
+        },
+        {
+          "label": "C",
+          "text": "3 to 12 months"
+        },
+        {
+          "label": "D",
+          "text": "Lifelong in all patients"
+        },
+        {
+          "label": "E",
+          "text": "Until D-dimer normalizes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Standard outpatient anticoagulation duration after PE is 3-12 months.",
+        "whyCorrect": "Per guidelines, anticoagulation is continued for 3 to 12 months using DOACs, enoxaparin, dabigatran, fondaparinux, or warfarin.",
+        "whyWrongByChoice": {
+          "A": "Too short to prevent recurrence.",
+          "B": "Less than the recommended 3-12 months.",
+          "D": "Lifelong therapy is reserved for specific patients only.",
+          "E": "D-dimer is not used to guide duration."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "duration",
+        "anticoagulation"
+      ]
+    },
+    {
+      "id": "r45h-001",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 58-year-old man underwent open reduction and internal fixation of a femur fracture 48 hours ago. He now has tachypnea, confusion, hypoxemia (SpO2 86%), and a red-brown petechial rash over his chest and neck. Chest CT angiography shows no filling defects. What is the most likely underlying mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrin-platelet thrombus in pulmonary artery"
+        },
+        {
+          "label": "B",
+          "text": "Marrow fat entering venous circulation"
+        },
+        {
+          "label": "C",
+          "text": "Air entrainment via open vein"
+        },
+        {
+          "label": "D",
+          "text": "Fetal squamous debris in circulation"
+        },
+        {
+          "label": "E",
+          "text": "Septic vegetation from mitral valve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fat embolism syndrome classic triad 24-72 hours post-long bone fracture.",
+        "whyCorrect": "Femur marrow fat enters ruptured venules, lodges in lungs, and degrades into free fatty acids causing the classic triad of dyspnea, neurologic deficits, and petechial rash.",
+        "whyWrongByChoice": {
+          "A": "Thromboembolism would show CT filling defects and lacks petechial rash.",
+          "C": "Air emboli require vascular communication and pressure gradient, not fracture.",
+          "D": "Amniotic fluid embolism occurs peripartum, not post-trauma.",
+          "E": "Septic emboli require endocarditis source with fever and vegetations."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fat-embolism",
+        "femur-fracture"
+      ]
+    },
+    {
+      "id": "r45h-002",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 34-year-old woman becomes acutely dyspneic, hypotensive, and develops uterine hemorrhage 10 minutes after vaginal delivery. Labs show platelets 40,000, prolonged INR, and low fibrinogen. She is afebrile. Which pathophysiologic mechanism is primarily responsible for her hemodynamic collapse?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mechanical obstruction of pulmonary arteries"
+        },
+        {
+          "label": "B",
+          "text": "Fetal debris causing pulmonary vasoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "Free fatty acid-induced alveolar damage"
+        },
+        {
+          "label": "D",
+          "text": "Air lodging in right ventricular outflow"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial vegetation embolization"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Amniotic fluid embolism causes vasogenic pulmonary hypertension, not mechanical obstruction.",
+        "whyCorrect": "Fetal antigenic debris triggers pulmonary vasoconstriction leading to acute right ventricular failure, cardiogenic shock, plus procoagulant activation causing DIC.",
+        "whyWrongByChoice": {
+          "A": "AFE consequences arise from antigenic properties, not mechanical blockage.",
+          "C": "Free fatty acids characterize fat embolism, not AFE.",
+          "D": "No procedural history of air entry; AFE explains DIC.",
+          "E": "Patient is afebrile without endocarditis risk factors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amniotic-fluid-embolism",
+        "DIC"
+      ]
+    },
+    {
+      "id": "r45h-003",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A neurosurgeon is performing a posterior fossa craniotomy on a patient in the sitting position. Suddenly, the patient's end-tidal CO2 drops and blood pressure falls. A central line is in place. What is the primary mechanism enabling this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paradoxical thrombus through patent foramen ovale"
+        },
+        {
+          "label": "B",
+          "text": "Marrow fat release from bony drilling"
+        },
+        {
+          "label": "C",
+          "text": "Sub-atmospheric venous pressure drawing air"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary vasoconstriction from fetal antigens"
+        },
+        {
+          "label": "E",
+          "text": "Catheter fragment embolization"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Venous air embolism during sitting neurosurgery due to hydrostatic pressure gradient.",
+        "whyCorrect": "When the surgical site is above the heart, head/neck venous pressure can drop below atmospheric pressure, allowing air entry through open veins.",
+        "whyWrongByChoice": {
+          "A": "PFO allows paradoxical air passage but is not the primary entry mechanism.",
+          "B": "Cranial bone marrow is not the fat-rich source implicated in fat embolism.",
+          "D": "No obstetric context present.",
+          "E": "Catheter fragmentation is a rare foreign body cause, not the sitting-position mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "air-embolism",
+        "neurosurgery"
+      ]
+    },
+    {
+      "id": "r45h-004",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A scuba diver rapidly ascends from 40 meters without exhaling after his regulator malfunctions. He surfaces with acute chest pain, hemiparesis, and altered mental status. Which mechanism best explains his stroke?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitrogen gas coming out of solution in veins"
+        },
+        {
+          "label": "B",
+          "text": "Alveolar rupture allowing arterial air entry"
+        },
+        {
+          "label": "C",
+          "text": "Thrombus from stasis during ascent"
+        },
+        {
+          "label": "D",
+          "text": "Fat marrow release from barotrauma"
+        },
+        {
+          "label": "E",
+          "text": "Hypoxia-induced cerebral vasospasm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pulmonary barotrauma from breath-holding ascent causes arterial air embolism and stroke.",
+        "whyCorrect": "Ascent without exhalation causes alveolar rupture; air enters pulmonary veins and then arterial circulation, causing stroke/MI due to large volumes entering arteries.",
+        "whyWrongByChoice": {
+          "A": "That mechanism (decompression sickness) typically affects joints/muscles/lungs with slower onset.",
+          "C": "Thrombus formation is not characteristic of rapid ascent.",
+          "D": "Fat emboli require long-bone fracture.",
+          "E": "Focal neurologic deficits indicate embolic occlusion, not diffuse vasospasm."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "air-embolism",
+        "barotrauma"
+      ]
+    },
+    {
+      "id": "r45h-005",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A nurse inadvertently disconnects a central venous catheter while the patient sits upright. The patient immediately becomes dyspneic and hypotensive. In which position should the patient be placed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supine with head elevated"
+        },
+        {
+          "label": "B",
+          "text": "Prone with legs elevated"
+        },
+        {
+          "label": "C",
+          "text": "Right lateral decubitus"
+        },
+        {
+          "label": "D",
+          "text": "Left lateral decubitus"
+        },
+        {
+          "label": "E",
+          "text": "Reverse Trendelenburg"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Venous air embolism management: left lateral decubitus traps air in right ventricle.",
+        "whyCorrect": "Left lateral decubitus positioning traps air in the right ventricle apex, preventing migration into pulmonary arteries.",
+        "whyWrongByChoice": {
+          "A": "Head elevation worsens venous air entry pathophysiology.",
+          "B": "Prone positioning is not indicated for venous air embolism.",
+          "C": "Right lateral would push air toward the pulmonary outflow.",
+          "E": "Reverse Trendelenburg increases risk of further air entry."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "air-embolism",
+        "management"
+      ]
+    },
+    {
+      "id": "r45h-006",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A diver presents with severe chest pain, hypotension, and confusion after rapid ascent. Supplemental oxygen is initiated. Which definitive therapy is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous heparin infusion"
+        },
+        {
+          "label": "B",
+          "text": "Tissue plasminogen activator"
+        },
+        {
+          "label": "C",
+          "text": "Hyperbaric oxygen therapy"
+        },
+        {
+          "label": "D",
+          "text": "Left lateral decubitus positioning"
+        },
+        {
+          "label": "E",
+          "text": "Inhaled nitric oxide"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Severe scuba-related air embolism requires hyperbaric oxygen for definitive treatment.",
+        "whyCorrect": "Hyperbaric chambers (2-3x atmospheric pressure) compress air bubbles and increase tissue oxygen delivery to ischemic regions.",
+        "whyWrongByChoice": {
+          "A": "Anticoagulation does not dissolve air bubbles.",
+          "B": "Thrombolytics target fibrin, not air.",
+          "D": "This is used for venous, not scuba-related arterial air embolism (supine preferred).",
+          "E": "iNO addresses pulmonary hypertension, not bubble dissolution."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "air-embolism",
+        "hyperbaric"
+      ]
+    },
+    {
+      "id": "r45h-007",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 28-year-old man with a tibial and pelvic fracture develops dyspnea, confusion, and a petechial rash on his anterior chest 36 hours post-injury. Why are these particular fractures high-risk for this syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased platelet activation at fracture sites"
+        },
+        {
+          "label": "B",
+          "text": "Fat-rich, highly vascularized marrow"
+        },
+        {
+          "label": "C",
+          "text": "Increased bacterial colonization"
+        },
+        {
+          "label": "D",
+          "text": "Release of tissue factor only"
+        },
+        {
+          "label": "E",
+          "text": "Higher cortical bone porosity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Long bone and pelvic marrow contains abundant fat and vascular supply.",
+        "whyCorrect": "These bones have marrow particularly rich in fat and are highly vascularized, allowing fat to enter ruptured venules and reach the lungs.",
+        "whyWrongByChoice": {
+          "A": "Platelet activation causes thromboembolism, not fat embolism.",
+          "C": "Bacterial colonization causes osteomyelitis/septic emboli, not fat embolism.",
+          "D": "Tissue factor release alone does not explain fat globule embolization.",
+          "E": "Cortical porosity is not the key factor; marrow composition is."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fat-embolism",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "r45h-008",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 45-year-old IV drug user presents with fever, dyspnea, and bilateral lung abscesses on CT. Blood cultures grow Staphylococcus aureus. Echocardiography shows a vegetation. Which valve is most likely affected as the source of emboli in this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonic valve"
+        },
+        {
+          "label": "C",
+          "text": "Tricuspid valve"
+        },
+        {
+          "label": "D",
+          "text": "Mitral valve"
+        },
+        {
+          "label": "E",
+          "text": "Eustachian valve"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "IV drug use with septic pulmonary emboli indicates tricuspid valve endocarditis.",
+        "whyCorrect": "Tricuspid valve endocarditis in IV drug users sends septic emboli to the lungs (venous circulation), causing multiple cavitary abscesses.",
+        "whyWrongByChoice": {
+          "A": "Aortic emboli go to systemic arterial circulation, not lungs.",
+          "B": "Pulmonic endocarditis is rare and not the typical IV drug use source.",
+          "D": "Mitral is most likely overall and for systemic emboli, but septic pulmonary emboli in IVDU are from tricuspid.",
+          "E": "The eustachian valve is a vestigial structure not relevant here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "septic-embolism",
+        "endocarditis"
+      ]
+    },
+    {
+      "id": "r45h-009",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 55-year-old man with known hepatocellular carcinoma develops progressive dyspnea, tachycardia, and signs of pulmonary hypertension over several weeks. Chest CT shows no large vessel filling defects but scattered small nodules. What is the most likely embolic mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fat embolism from bone metastases"
+        },
+        {
+          "label": "B",
+          "text": "Tumor emboli from vascular invasion"
+        },
+        {
+          "label": "C",
+          "text": "Septic emboli from biliary infection"
+        },
+        {
+          "label": "D",
+          "text": "Air emboli from port access"
+        },
+        {
+          "label": "E",
+          "text": "Paradoxical thrombotic emboli"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HCC characteristically invades blood vessels producing tumor emboli.",
+        "whyCorrect": "Hepatocellular and renal cell carcinomas invade vessels; tumor fragments lodge in the lungs, cause thrombi/inflammation, and can lead to pulmonary hypertension.",
+        "whyWrongByChoice": {
+          "A": "No fracture described; fat embolism presents acutely.",
+          "C": "No fever or abscesses described.",
+          "D": "No procedural history.",
+          "E": "CT would typically show large-vessel filling defects for large PE."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tumor-embolism",
+        "HCC"
+      ]
+    },
+    {
+      "id": "r45h-010",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 32-year-old IV drug user has chronic dyspnea. Lung biopsy shows granulomatous inflammation surrounding birefringent crystalline material. Which embolus type is most consistent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fat embolism"
+        },
+        {
+          "label": "B",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "C",
+          "text": "Tumor embolism"
+        },
+        {
+          "label": "D",
+          "text": "Foreign body embolism (talc)"
+        },
+        {
+          "label": "E",
+          "text": "Air embolism"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Talc contamination from injected drugs causes granulomatous foreign body emboli.",
+        "whyCorrect": "Injected street drugs may contain talc/cotton/cellulose; these foreign materials lodge in the lungs and incite granulomatous (walling off) inflammation.",
+        "whyWrongByChoice": {
+          "A": "Fat embolism does not produce birefringent crystals or granulomas.",
+          "B": "AFE occurs peripartum with acute DIC.",
+          "C": "Tumor emboli cause thrombotic inflammation, not granulomas with crystals.",
+          "E": "Air emboli do not leave birefringent residue."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "foreign-body-embolism",
+        "talc"
+      ]
+    },
+    {
+      "id": "r45h-011",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "Which clinical feature most reliably distinguishes amniotic fluid embolism from septic embolism in a postpartum patient with hypotension and respiratory failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Presence of pulmonary edema"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxemia"
+        },
+        {
+          "label": "C",
+          "text": "Absence of fever with DIC"
+        },
+        {
+          "label": "D",
+          "text": "Tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Elevated creatine kinase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "AFE diagnostic criteria include absence of fever plus DIC.",
+        "whyCorrect": "Diagnostic criteria for AFE explicitly include absence of fever along with DIC and hypotension/respiratory failure, distinguishing it from septic causes.",
+        "whyWrongByChoice": {
+          "A": "Pulmonary edema occurs in both.",
+          "B": "Hypoxemia is nonspecific and present in both.",
+          "D": "Tachycardia is common to both entities.",
+          "E": "CK elevation relates to decompression sickness, not AFE."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amniotic-fluid-embolism",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "r45h-012",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 60-year-old woman with mitral valve endocarditis develops right-sided weakness and a left splenic abscess. What is the most specific therapy to address the underlying embolic source?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tissue plasminogen activator"
+        },
+        {
+          "label": "B",
+          "text": "Hyperbaric oxygen"
+        },
+        {
+          "label": "C",
+          "text": "Supplemental oxygen only"
+        },
+        {
+          "label": "D",
+          "text": "Antibiotic therapy"
+        },
+        {
+          "label": "E",
+          "text": "Systemic anticoagulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Septic emboli are treated by treating the underlying infection.",
+        "whyCorrect": "No therapy is specific to septic emboli themselves; management consists of treating the infection with antibiotics (with surgical source control as needed).",
+        "whyWrongByChoice": {
+          "A": "tPA risks hemorrhage and may transform septic embolic strokes.",
+          "B": "Hyperbaric oxygen treats air emboli, not septic.",
+          "C": "Oxygen does not address the infectious source.",
+          "E": "Anticoagulation is controversial in infected emboli with mycotic aneurysm risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "septic-embolism",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r45h-013",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 25-year-old diver surfaces rapidly and develops diffuse body aches, fatigue, and mild dyspnea. Labs reveal elevated creatine kinase. What is the most likely cause of his CK elevation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rhabdomyolysis from exertion"
+        },
+        {
+          "label": "B",
+          "text": "Muscle injury from occluded arteries"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac muscle barotrauma"
+        },
+        {
+          "label": "D",
+          "text": "Statin-induced myopathy"
+        },
+        {
+          "label": "E",
+          "text": "Hypothermia-induced muscle breakdown"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Decompression sickness elevates CK due to muscle ischemia from arterial gas occlusion.",
+        "whyCorrect": "After decompression sickness, CK rises due to muscle injury from arteries occluded by nitrogen gas bubbles.",
+        "whyWrongByChoice": {
+          "A": "Exertional rhabdo would not produce the characteristic pattern of DCS symptoms.",
+          "C": "Cardiac barotrauma would elevate troponin, not diffusely elevate CK.",
+          "D": "Not relevant to this acute presentation.",
+          "E": "Hypothermia can raise CK but is not the primary described mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "decompression-sickness",
+        "labs"
+      ]
+    },
+    {
+      "id": "r45h-014",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 40-year-old woman with severe acute pancreatitis develops sudden hypoxemia, confusion, and petechiae on her neck. She has no fractures. What is the most likely explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "B",
+          "text": "Fat embolism from pancreatic necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Septic embolism from gut translocation"
+        },
+        {
+          "label": "D",
+          "text": "Tumor embolism"
+        },
+        {
+          "label": "E",
+          "text": "Air embolism from central line"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fat embolism can rarely arise from non-orthopedic causes including severe pancreatitis.",
+        "whyCorrect": "Severe pancreatitis causes fat necrosis that can release fat into circulation, producing fat embolism syndrome even without fracture.",
+        "whyWrongByChoice": {
+          "A": "No pregnancy history.",
+          "C": "Septic embolism would typically present with fever and bacteremia.",
+          "D": "No malignancy history described.",
+          "E": "No procedural history mentioned; petechial rash is characteristic of fat embolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fat-embolism",
+        "pancreatitis"
+      ]
+    },
+    {
+      "id": "r45h-015",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 30-year-old woman 20 minutes postpartum develops hypotension, severe hypoxia, and hemorrhage from her episiotomy site. Which combination of interventions is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heparin and tPA"
+        },
+        {
+          "label": "B",
+          "text": "Hyperbaric oxygen and aspirin"
+        },
+        {
+          "label": "C",
+          "text": "Fluid resuscitation and blood products"
+        },
+        {
+          "label": "D",
+          "text": "Left lateral decubitus and diuresis"
+        },
+        {
+          "label": "E",
+          "text": "Antibiotics and vasodilators"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "AFE management is supportive: hemodynamic support and blood products for DIC.",
+        "whyCorrect": "Management includes CPR/resuscitation, IV fluids, vasopressors if refractory, and blood products (platelets, FFP, cryoprecipitate) for DIC.",
+        "whyWrongByChoice": {
+          "A": "Anticoagulation/thrombolytics worsen DIC bleeding.",
+          "B": "Not indicated; no air embolism.",
+          "D": "Positioning addresses air embolism, not AFE; diuretics worsen hypotension.",
+          "E": "Vasodilators worsen hypotension; no infectious source."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amniotic-fluid-embolism",
+        "management"
+      ]
+    },
+    {
+      "id": "r45h-016",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A patient had a tunneled central catheter placed yesterday. Today during dressing change, he sits up abruptly and becomes acutely short of breath with hypotension. Cardiac auscultation reveals a 'mill-wheel' murmur. What is the immediate next step after supplemental oxygen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Place in right lateral decubitus"
+        },
+        {
+          "label": "B",
+          "text": "Place in left lateral decubitus"
+        },
+        {
+          "label": "C",
+          "text": "Administer heparin"
+        },
+        {
+          "label": "D",
+          "text": "Obtain CT pulmonary angiogram"
+        },
+        {
+          "label": "E",
+          "text": "Administer epinephrine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Venous air embolism from catheter: left lateral decubitus + oxygen.",
+        "whyCorrect": "Left lateral decubitus traps air in the right ventricle apex, preventing migration to pulmonary arteries while oxygen aids bubble resolution.",
+        "whyWrongByChoice": {
+          "A": "Right lateral promotes air movement into pulmonary outflow.",
+          "C": "Heparin is not indicated for air emboli.",
+          "D": "CT delays immediate life-saving positioning.",
+          "E": "Epinephrine is not the first-line maneuver for air emboli."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "air-embolism",
+        "catheter"
+      ]
+    },
+    {
+      "id": "r45h-017",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "During liposuction, a 45-year-old woman suddenly develops hypoxemia and confusion. Over the next 48 hours, a petechial rash develops on her upper trunk. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Air embolism"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary thromboembolism"
+        },
+        {
+          "label": "C",
+          "text": "Fat embolism syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "E",
+          "text": "Anaphylaxis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Liposuction can cause fat embolism from damage to abdominal fat.",
+        "whyCorrect": "Non-orthopedic fat embolism can follow liposuction due to disruption of adipose tissue, with classic triad of dyspnea, neurologic change, and petechial rash.",
+        "whyWrongByChoice": {
+          "A": "Air embolism would present more acutely without delayed petechial rash.",
+          "B": "Thromboembolism lacks petechial rash.",
+          "D": "No pregnancy context.",
+          "E": "Anaphylaxis presents acutely with urticaria/wheezing, not petechiae 48 hours later."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fat-embolism",
+        "liposuction"
+      ]
+    },
+    {
+      "id": "r45h-018",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A patient presents with sudden stroke after shotgun injury to the shoulder 2 weeks ago. Imaging shows metallic fragments in the right ventricle and pulmonary artery. What is the embolic mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Septic vegetation embolization"
+        },
+        {
+          "label": "B",
+          "text": "Foreign body (pellet) embolism"
+        },
+        {
+          "label": "C",
+          "text": "Fat embolism from scapular injury"
+        },
+        {
+          "label": "D",
+          "text": "Air embolism from chest wound"
+        },
+        {
+          "label": "E",
+          "text": "Tumor embolism"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bullet/pellet fragment embolization is a recognized foreign body embolism cause.",
+        "whyCorrect": "Finely fragmented bullets/pellets can enter vessels and travel through the circulation; per the brick they can embolize from the right ventricle to the lung.",
+        "whyWrongByChoice": {
+          "A": "No endocarditis or infection described.",
+          "C": "No long bone fracture; scapular injury is not a typical fat embolism source.",
+          "D": "Air would not be radiopaque metallic.",
+          "E": "No malignancy described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "foreign-body-embolism",
+        "ballistic"
+      ]
+    },
+    {
+      "id": "r45h-019",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A motorcyclist develops hypoxemia 48 hours after multiple long-bone fractures. Which intervention is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous heparin"
+        },
+        {
+          "label": "B",
+          "text": "Tissue plasminogen activator"
+        },
+        {
+          "label": "C",
+          "text": "High-dose corticosteroids"
+        },
+        {
+          "label": "D",
+          "text": "Supplemental oxygen and supportive care"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin loading"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fat embolism management is supportive with oxygen and fluids.",
+        "whyCorrect": "No specific therapy exists for fat embolism; management is supportive (oxygen, fluids) with most patients recovering.",
+        "whyWrongByChoice": {
+          "A": "Anticoagulation is not indicated for fat emboli.",
+          "B": "Thrombolytics target thrombus, not fat.",
+          "C": "Steroids are not standard therapy per this source.",
+          "E": "Warfarin is not indicated."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fat-embolism",
+        "management"
+      ]
+    },
+    {
+      "id": "r45h-020",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A patient with sickle cell disease in vaso-occlusive crisis suddenly develops hypoxia, confusion, and petechiae. ABG shows hypoxemia. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute chest syndrome from pneumonia only"
+        },
+        {
+          "label": "B",
+          "text": "Fat embolism from bone marrow necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary thromboembolism"
+        },
+        {
+          "label": "D",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "E",
+          "text": "Air embolism from central line"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute sickle cell disease can cause fat embolism from bone marrow necrosis.",
+        "whyCorrect": "Per the brick, acute sickle cell disease causes fat/bone marrow necrosis leading to fat embolism with the classic triad.",
+        "whyWrongByChoice": {
+          "A": "Acute chest syndrome doesn't typically produce petechiae; fat embolism is a recognized precipitant.",
+          "C": "PE lacks the petechial rash component.",
+          "D": "No obstetric context.",
+          "E": "No procedural history."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fat-embolism",
+        "sickle-cell"
+      ]
+    },
+    {
+      "id": "r45h-021",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "Comparing embolus types, which statement most accurately differentiates fat embolism from pulmonary thromboembolism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fat embolism presents within minutes of injury"
+        },
+        {
+          "label": "B",
+          "text": "Fat embolism produces CT filling defects"
+        },
+        {
+          "label": "C",
+          "text": "Fat embolism typically includes petechial rash"
+        },
+        {
+          "label": "D",
+          "text": "Fat embolism is treated with tPA"
+        },
+        {
+          "label": "E",
+          "text": "Fat embolism requires hyperbaric oxygen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Petechial rash distinguishes fat embolism from thromboembolism.",
+        "whyCorrect": "The classic triad (dyspnea + neurologic deficits + red-brown petechial rash on head/neck/anterior trunk) uniquely identifies fat embolism; PE lacks petechiae.",
+        "whyWrongByChoice": {
+          "A": "Fat embolism typically presents 24-72 hours after injury, not minutes.",
+          "B": "Fat emboli don't produce typical CT filling defects; CT helps rule out PE.",
+          "D": "No specific therapy exists; management is supportive.",
+          "E": "Hyperbaric oxygen is for air emboli, not fat."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fat-embolism",
+        "differentiation"
+      ]
+    },
+    {
+      "id": "r45h-022",
+      "topicId": "nonthrombotic-emboli-hard",
+      "topicName": "Nonthrombotic Emboli (Advanced)",
+      "stem": "A 29-year-old woman develops sudden cardiorespiratory collapse during cesarean delivery. Histopathology of lung tissue at autopsy would most likely reveal which finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fat globules in pulmonary capillaries"
+        },
+        {
+          "label": "B",
+          "text": "Fibrin-platelet thrombi only"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial vegetations with neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "Fetal squamous cells in pulmonary vasculature"
+        },
+        {
+          "label": "E",
+          "text": "Birefringent talc crystals with granulomas"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "AFE histopathology shows fetal squamous epithelium in pulmonary vasculature.",
+        "whyCorrect": "Amniotic fluid embolism classically shows squamous epithelium from fetal skin and other fetal debris lodged in maternal pulmonary vessels.",
+        "whyWrongByChoice": {
+          "A": "Fat globules indicate fat embolism, typically from fractures.",
+          "B": "Pure thrombi suggest thromboembolism.",
+          "C": "Bacterial vegetations indicate septic emboli.",
+          "E": "Talc granulomas suggest IV drug foreign body emboli."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amniotic-fluid-embolism",
+        "histology"
       ]
     }
   ]

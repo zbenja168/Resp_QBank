@@ -302,6 +302,26 @@
           "id": "atypical-bacteria",
           "name": "Atypical Bacteria",
           "questionCount": 22
+        },
+        {
+          "id": "introduction-pneumonia-hard",
+          "name": "Introduction to Pneumonia (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "strep-hflu-mcatarrhalis-hard",
+          "name": "Streptococcus spp., H. influenzae, and M. catarrhalis (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "pseudomonas-related-bacteria-hard",
+          "name": "Pseudomonas and Other Closely Related Bacteria (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "atypical-bacteria-hard",
+          "name": "Atypical Bacteria (Advanced)",
+          "questionCount": 22
         }
       ]
     },
@@ -328,6 +348,26 @@
           "id": "anthrax-qfever",
           "name": "B. anthracis and C. burnetii",
           "questionCount": 22
+        },
+        {
+          "id": "tb-mac-hard",
+          "name": "Mycobacterium tuberculosis and MAC (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "tb-mac-treatment-hard",
+          "name": "Treatment of Tuberculosis and MAC Infections (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "nocardia-ecoli-klebsiella-staph-hard",
+          "name": "Nocardia spp., E. coli, K. pneumoniae, and S. aureus (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "anthrax-qfever-hard",
+          "name": "B. anthracis and C. burnetii (Advanced)",
+          "questionCount": 22
         }
       ]
     },
@@ -343,6 +383,16 @@
         {
           "id": "geographically-defined-mycoses",
           "name": "Geographically Defined Mycoses",
+          "questionCount": 22
+        },
+        {
+          "id": "invasive-fungal-infections-hard",
+          "name": "Invasive Fungal Infections (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "geographically-defined-mycoses-hard",
+          "name": "Geographically Defined Mycoses (Advanced)",
           "questionCount": 22
         }
       ]
@@ -365,6 +415,21 @@
           "id": "coronaviridae",
           "name": "Coronaviridae",
           "questionCount": 22
+        },
+        {
+          "id": "common-resp-viruses-1-hard",
+          "name": "Common Respiratory Tract Viruses Part 1 (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "common-resp-viruses-2-hard",
+          "name": "Common Respiratory Tract Viruses Part 2 (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "coronaviridae-hard",
+          "name": "Coronaviridae (Advanced)",
+          "questionCount": 22
         }
       ]
     },
@@ -380,6 +445,16 @@
         {
           "id": "congenital-respiratory-disorders",
           "name": "Congenital Disorders of the Respiratory System",
+          "questionCount": 22
+        },
+        {
+          "id": "benign-nasal-tumors-hard",
+          "name": "Benign Tumors of the Nasal Cavity (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "congenital-respiratory-disorders-hard",
+          "name": "Congenital Disorders of the Respiratory System (Advanced)",
           "questionCount": 22
         }
       ]
@@ -407,6 +482,26 @@
           "id": "non-small-cell-lung-cancer",
           "name": "Non-Small Cell Lung Cancer",
           "questionCount": 22
+        },
+        {
+          "id": "lung-cancer-foundations-hard",
+          "name": "Lung Cancer: Foundations and Frameworks (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "malignant-tumors-upper-resp-hard",
+          "name": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "small-cell-lung-cancer-hard",
+          "name": "Small Cell Lung Cancer (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "non-small-cell-lung-cancer-hard",
+          "name": "Non-Small Cell Lung Cancer (Advanced)",
+          "questionCount": 22
         }
       ]
     },
@@ -428,9 +523,24 @@
           "id": "nonthrombotic-emboli",
           "name": "Nonthrombotic Emboli",
           "questionCount": 22
+        },
+        {
+          "id": "pulmonary-hypertension-hard",
+          "name": "Pulmonary Hypertension (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "pulmonary-embolism-hard",
+          "name": "Pulmonary Embolism (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "nonthrombotic-emboli-hard",
+          "name": "Nonthrombotic Emboli (Advanced)",
+          "questionCount": 22
         }
       ]
     }
   ],
-  "totalQuestions": 1484
+  "totalQuestions": 1968
 }

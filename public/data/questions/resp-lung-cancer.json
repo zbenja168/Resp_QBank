@@ -31,13 +31,13 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "US guidelines recommend annual low-dose spiral CT (LDCT) screening for high-risk patients: age 50-80 with \u00e2\u2030\u00a520 pack-year smoking history who currently smoke or quit within the past 15 years. LDCT reduces lung cancer death risk by 20%.",
-        "whyCorrect": "Current US screening recommendations include annual low-dose spiral CT scan (LDCT) for high-risk patients aged 50-80 with a \u00e2\u2030\u00a520 pack-year smoking history who are current smokers or quit within the past 15 years. This 65-year-old with a 40-pack-year history meets all criteria. LDCT screening reduces relative risk of death from lung cancer by 20%.",
+        "summary": "US guidelines recommend annual low-dose spiral CT (LDCT) screening for high-risk patients: age 50-80 with â‰¥20 pack-year smoking history who currently smoke or quit within the past 15 years. LDCT reduces lung cancer death risk by 20%.",
+        "whyCorrect": "Current US screening recommendations include annual low-dose spiral CT scan (LDCT) for high-risk patients aged 50-80 with a â‰¥20 pack-year smoking history who are current smokers or quit within the past 15 years. This 65-year-old with a 40-pack-year history meets all criteria. LDCT screening reduces relative risk of death from lung cancer by 20%.",
         "whyWrongByChoice": {
           "A": "Chest X-ray is not the recommended screening tool. LDCT is more sensitive for detecting early lung cancers.",
           "C": "Sputum cytology is not recommended for lung cancer screening. LDCT is the standard.",
           "D": "PET scans are used for staging confirmed cancers, not for routine screening.",
-          "E": "This patient meets all criteria for screening (age 50-80, \u00e2\u2030\u00a520 pack-years, current smoker). Screening IS recommended."
+          "E": "This patient meets all criteria for screening (age 50-80, â‰¥20 pack-years, current smoker). Screening IS recommended."
         }
       },
       "difficulty": "hard",
@@ -84,7 +84,7 @@
           "A": "Adenocarcinoma and squamous cell carcinoma are subtypes of NSCLC, not the broad classification. The primary division is NSCLC vs. SCLC.",
           "C": "This reverses the frequencies. NSCLC is more common (85%), not SCLC.",
           "D": "Carcinoid tumors and neuroendocrine tumors are less common subtypes, not the major classification.",
-          "E": "Mesothelioma is not a lung cancer\u00e2\u20ac\u201dit is a cancer of the pleural lining surrounding the lung."
+          "E": "Mesothelioma is not a lung cancerâ€”it is a cancer of the pleural lining surrounding the lung."
         }
       },
       "difficulty": "hard",
@@ -267,7 +267,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "Gain-of-function mutations in tyrosine kinase genes like EGFR and ALK are characteristic of adenocarcinoma. These mutations are clinically important because they guide targeted therapy with EGFR tyrosine kinase inhibitors and ALK inhibitors.",
-        "whyCorrect": "Gain-of-function mutations in tyrosine kinase genes like EGFR and ALK, as well as serine/threonine kinases like BRAF and PIK3, are commonly found in adenocarcinoma. Identifying these mutations guides targeted therapy\u00e2\u20ac\u201dEGFR mutations \u00e2\u2020\u2019 EGFR tyrosine kinase inhibitors; BRAF mutations \u00e2\u2020\u2019 BRAF inhibitors. MYC amplification is more associated with SCLC.",
+        "whyCorrect": "Gain-of-function mutations in tyrosine kinase genes like EGFR and ALK, as well as serine/threonine kinases like BRAF and PIK3, are commonly found in adenocarcinoma. Identifying these mutations guides targeted therapyâ€”EGFR mutations â†’ EGFR tyrosine kinase inhibitors; BRAF mutations â†’ BRAF inhibitors. MYC amplification is more associated with SCLC.",
         "whyWrongByChoice": {
           "A": "SCLC is more associated with MYC oncogene amplification and TP53 loss. EGFR and ALK mutations are characteristic of adenocarcinoma.",
           "B": "Squamous cell carcinoma has its own molecular profile but EGFR and ALK mutations are more specifically associated with adenocarcinoma.",
@@ -882,7 +882,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "When asbestos exposure is combined with smoking history, the risk of lung cancer is substantially increased in a multiplicative (synergistic) fashion, far exceeding the risk of either exposure alone.",
-        "whyCorrect": "When asbestos exposure is combined with a smoking history, the risk of lung cancer is substantially increased\u00e2\u20ac\u201dthe interaction is synergistic/multiplicative rather than simply additive. This means the combined risk is far greater than the sum of individual risks. Asbestos particles lodged in the lung also migrate into the pleural sac, where they can induce mesothelioma.",
+        "whyCorrect": "When asbestos exposure is combined with a smoking history, the risk of lung cancer is substantially increasedâ€”the interaction is synergistic/multiplicative rather than simply additive. This means the combined risk is far greater than the sum of individual risks. Asbestos particles lodged in the lung also migrate into the pleural sac, where they can induce mesothelioma.",
         "whyWrongByChoice": {
           "A": "The interaction is multiplicative/synergistic, not merely additive. Combined risk far exceeds the sum of individual risks.",
           "C": "The combined risk is much greater than smoking alone. Asbestos adds substantial additional risk.",
@@ -976,7 +976,7 @@
       "correctAnswer": "E",
       "explanation": {
         "summary": "The most common sites of distant lung cancer metastasis are lymph nodes, brain, bone, liver, contralateral lung, and adrenal gland. The spleen is not a common site of lung cancer metastasis.",
-        "whyCorrect": "The most common sites of distant lung cancer metastasis are lymph nodes, brain, bone, liver, elsewhere in the lung, and the adrenal gland. The spleen is not among the common metastatic sites. Metastasis patterns vary by cancer type\u00e2\u20ac\u201dSCLC favors liver (35%) and nervous system (47%), while NSCLC favors bone (39%) and respiratory system (22%).",
+        "whyCorrect": "The most common sites of distant lung cancer metastasis are lymph nodes, brain, bone, liver, elsewhere in the lung, and the adrenal gland. The spleen is not among the common metastatic sites. Metastasis patterns vary by cancer typeâ€”SCLC favors liver (35%) and nervous system (47%), while NSCLC favors bone (39%) and respiratory system (22%).",
         "whyWrongByChoice": {
           "A": "Brain is a common metastatic site, especially for SCLC (47% nervous system metastases).",
           "B": "Bone is a common metastatic site, especially for NSCLC (39%). Bone pain can be an initial presenting symptom.",
@@ -1587,7 +1587,7 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Olfactory neuroblastoma (esthesioneuroblastoma) is a malignant neuroendocrine tumor that arises from the olfactory epithelium\u00e2\u20ac\u201dthe specialized tissue in the nasal cavity associated with smell.",
+        "summary": "Olfactory neuroblastoma (esthesioneuroblastoma) is a malignant neuroendocrine tumor that arises from the olfactory epitheliumâ€”the specialized tissue in the nasal cavity associated with smell.",
         "whyCorrect": "Olfactory neuroblastoma (also called esthesioneuroblastoma) arises from the olfactory epithelium, the specialized neuroepithelial tissue in the nasal cavity associated with the sense of smell. It is a rare malignant neuroendocrine tumor (2% of all sinonasal tumors), highly differentiated, with a mean age at presentation of 53 years.",
         "whyWrongByChoice": {
           "A": "Squamous epithelium of the nasopharynx gives rise to nasopharyngeal carcinoma, not olfactory neuroblastoma.",
@@ -1917,7 +1917,7 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Rarely, patients with olfactory neuroblastoma can present with paraneoplastic syndromes including SIADH, hypercalcemia, and ectopic ACTH production\u00e2\u20ac\u201dsimilar to other neuroendocrine tumors.",
+        "summary": "Rarely, patients with olfactory neuroblastoma can present with paraneoplastic syndromes including SIADH, hypercalcemia, and ectopic ACTH productionâ€”similar to other neuroendocrine tumors.",
         "whyCorrect": "Rarely, patients with olfactory neuroblastoma can present with paraneoplastic syndromes, including SIADH, hypercalcemia, and ectopic ACTH production. This is consistent with ONB's classification as a neuroendocrine tumor, which can produce ectopic hormones.",
         "whyWrongByChoice": {
           "A": "HUS is not a reported paraneoplastic syndrome of ONB. It is associated with E. coli O157:H7 infection.",
@@ -2154,7 +2154,7 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "SCLC shows small cells with scant cytoplasm, dispersed 'salt-and-pepper' chromatin (finely granular, speckled pattern), and inconspicuous nucleoli\u00e2\u20ac\u201dcharacteristic of neuroendocrine tumors.",
+        "summary": "SCLC shows small cells with scant cytoplasm, dispersed 'salt-and-pepper' chromatin (finely granular, speckled pattern), and inconspicuous nucleoliâ€”characteristic of neuroendocrine tumors.",
         "whyCorrect": "Under the microscope, SCLC is composed of small cells with scant cytoplasm. At higher power, the malignant cells show dispersed 'salt-and-pepper' chromatin (finely granular, speckled pattern with dark granules interspersed with lighter areas) and inconspicuous nucleoli. This chromatin pattern is characteristic of neuroendocrine tumors.",
         "whyWrongByChoice": {
           "A": "Large cells with abundant eosinophilic cytoplasm would suggest large cell carcinoma or squamous cell carcinoma, not SCLC.",
@@ -2952,7 +2952,7 @@
         },
         {
           "label": "E",
-          "text": "TNF-\u00ce\u00b1 signaling pathway"
+          "text": "TNF-Î± signaling pathway"
         }
       ],
       "correctAnswer": "B",
@@ -2963,7 +2963,7 @@
           "A": "CTLA-4 pathway is targeted by ipilimumab, not atezolizumab or pembrolizumab.",
           "C": "CD28/B7 costimulation is a T cell activation pathway, not the target of these checkpoint inhibitors.",
           "D": "IL-2 receptor pathway is targeted by different immunotherapies (basiliximab, aldesleukin), not PD-1/PD-L1 inhibitors.",
-          "E": "TNF-\u00ce\u00b1 signaling is targeted by anti-TNF biologics (infliximab, adalimumab) for autoimmune diseases, not cancer immunotherapy."
+          "E": "TNF-Î± signaling is targeted by anti-TNF biologics (infliximab, adalimumab) for autoimmune diseases, not cancer immunotherapy."
         }
       },
       "difficulty": "hard",
@@ -3313,29 +3313,29 @@
       "choices": [
         {
           "label": "A",
-          "text": "Dysplasia \u00e2\u2020\u2019 metaplasia \u00e2\u2020\u2019 carcinoma in situ \u00e2\u2020\u2019 invasion"
+          "text": "Dysplasia â†’ metaplasia â†’ carcinoma in situ â†’ invasion"
         },
         {
           "label": "B",
-          "text": "Metaplasia \u00e2\u2020\u2019 dysplasia \u00e2\u2020\u2019 carcinoma in situ \u00e2\u2020\u2019 invasion"
+          "text": "Metaplasia â†’ dysplasia â†’ carcinoma in situ â†’ invasion"
         },
         {
           "label": "C",
-          "text": "Hyperplasia \u00e2\u2020\u2019 metaplasia \u00e2\u2020\u2019 invasion \u00e2\u2020\u2019 carcinoma in situ"
+          "text": "Hyperplasia â†’ metaplasia â†’ invasion â†’ carcinoma in situ"
         },
         {
           "label": "D",
-          "text": "Carcinoma in situ \u00e2\u2020\u2019 metaplasia \u00e2\u2020\u2019 dysplasia \u00e2\u2020\u2019 invasion"
+          "text": "Carcinoma in situ â†’ metaplasia â†’ dysplasia â†’ invasion"
         },
         {
           "label": "E",
-          "text": "Invasion \u00e2\u2020\u2019 metaplasia \u00e2\u2020\u2019 dysplasia \u00e2\u2020\u2019 carcinoma in situ"
+          "text": "Invasion â†’ metaplasia â†’ dysplasia â†’ carcinoma in situ"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "The progression to invasive SCC follows: normal epithelium \u00e2\u2020\u2019 squamous metaplasia (from smoking) \u00e2\u2020\u2019 squamous dysplasia \u00e2\u2020\u2019 carcinoma in situ (full-thickness dysplasia) \u00e2\u2020\u2019 invasive SCC (basement membrane penetration).",
-        "whyCorrect": "Squamous cell carcinoma develops through a stepwise progression: normal bronchial columnar epithelium \u00e2\u2020\u2019 squamous metaplasia (from cigarette smoke exposure) \u00e2\u2020\u2019 squamous dysplasia (with continued exposure) \u00e2\u2020\u2019 carcinoma in situ (full-thickness dysplasia without basement membrane invasion) \u00e2\u2020\u2019 invasive squamous cell carcinoma (basement membrane penetration with ability to invade and metastasize).",
+        "summary": "The progression to invasive SCC follows: normal epithelium â†’ squamous metaplasia (from smoking) â†’ squamous dysplasia â†’ carcinoma in situ (full-thickness dysplasia) â†’ invasive SCC (basement membrane penetration).",
+        "whyCorrect": "Squamous cell carcinoma develops through a stepwise progression: normal bronchial columnar epithelium â†’ squamous metaplasia (from cigarette smoke exposure) â†’ squamous dysplasia (with continued exposure) â†’ carcinoma in situ (full-thickness dysplasia without basement membrane invasion) â†’ invasive squamous cell carcinoma (basement membrane penetration with ability to invade and metastasize).",
         "whyWrongByChoice": {
           "A": "Dysplasia does not precede metaplasia. Metaplasia (change in cell type) occurs first, followed by dysplasia (abnormal cell growth) within the metaplastic epithelium.",
           "C": "Invasion does not precede carcinoma in situ. CIS is defined as full-thickness dysplasia WITHOUT invasion; invasion occurs as the next step.",
@@ -3430,10 +3430,10 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "KRAS mutations (found in ~25% of adenocarcinomas) affect a GTPase-coding gene and are associated with poor survival. Mutations in KRAS contribute to malignant transformation and reduce overall survival by about 25%.",
-        "whyCorrect": "KRAS mutations are found in approximately 25% of lung adenocarcinoma cases and affect a GTPase-coding gene involved in cell signaling. KRAS mutations are associated with poor survival\u00e2\u20ac\u201dthey contribute to malignant transformation of cells and reduce overall survival by about 25%.",
+        "whyCorrect": "KRAS mutations are found in approximately 25% of lung adenocarcinoma cases and affect a GTPase-coding gene involved in cell signaling. KRAS mutations are associated with poor survivalâ€”they contribute to malignant transformation of cells and reduce overall survival by about 25%.",
         "whyWrongByChoice": {
           "A": "KRAS mutations are associated with poor survival, not excellent prognosis.",
-          "C": "KRAS mutations do affect prognosis\u00e2\u20ac\u201dthey are associated with worse outcomes.",
+          "C": "KRAS mutations do affect prognosisâ€”they are associated with worse outcomes.",
           "D": "While newer KRAS-targeted therapies are being developed, KRAS mutations have historically been associated with poor prognosis, not improved immunotherapy response.",
           "E": "KRAS-mutant tumors do not spontaneously regress. They tend to be aggressive."
         }
@@ -3476,7 +3476,7 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Large cell carcinoma is an undifferentiated malignant epithelial tumor with large cells, large nuclei, prominent nucleoli, and moderate cytoplasm\u00e2\u20ac\u201dbut lacking evidence of glandular or squamous differentiation or SCLC features.",
+        "summary": "Large cell carcinoma is an undifferentiated malignant epithelial tumor with large cells, large nuclei, prominent nucleoli, and moderate cytoplasmâ€”but lacking evidence of glandular or squamous differentiation or SCLC features.",
         "whyCorrect": "Large cell carcinoma is defined by what it is NOT: it lacks glandular differentiation (adenocarcinoma), squamous differentiation (SCC), and features of small cell carcinoma. It shows large cells with large nuclei, prominent nucleoli, and moderate amounts of cytoplasm. It is a diagnosis of exclusion when other NSCLC subtypes are ruled out histologically.",
         "whyWrongByChoice": {
           "A": "Glandular formation with mucin production defines adenocarcinoma, not large cell carcinoma.",
@@ -3617,7 +3617,7 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Squamous cell carcinoma originates in the flat squamous epithelial cells lining the lungs' airways. It develops through squamous metaplasia \u00e2\u2020\u2019 dysplasia \u00e2\u2020\u2019 CIS \u00e2\u2020\u2019 invasive carcinoma from chronic cigarette smoke exposure.",
+        "summary": "Squamous cell carcinoma originates in the flat squamous epithelial cells lining the lungs' airways. It develops through squamous metaplasia â†’ dysplasia â†’ CIS â†’ invasive carcinoma from chronic cigarette smoke exposure.",
         "whyCorrect": "SCC originates in the flat squamous epithelial cells lining the lungs' airways. Normally, the bronchial epithelium is columnar, but chronic cigarette smoke exposure causes squamous metaplasia, which can progress through dysplasia to carcinoma.",
         "whyWrongByChoice": {
           "A": "Mucus-producing epithelial cells give rise to adenocarcinoma, not SCC.",
@@ -3737,32 +3737,32 @@
       "choices": [
         {
           "label": "A",
-          "text": "Squamous metaplasia \u00e2\u2020\u2019 dysplasia \u00e2\u2020\u2019 invasion"
+          "text": "Squamous metaplasia â†’ dysplasia â†’ invasion"
         },
         {
           "label": "B",
-          "text": "Atypical adenomatous hyperplasia \u00e2\u2020\u2019 adenocarcinoma in situ \u00e2\u2020\u2019 invasive adenocarcinoma"
+          "text": "Atypical adenomatous hyperplasia â†’ adenocarcinoma in situ â†’ invasive adenocarcinoma"
         },
         {
           "label": "C",
-          "text": "Carcinoma in situ \u00e2\u2020\u2019 hyperplasia \u00e2\u2020\u2019 invasion"
+          "text": "Carcinoma in situ â†’ hyperplasia â†’ invasion"
         },
         {
           "label": "D",
-          "text": "Bronchial metaplasia \u00e2\u2020\u2019 neuroendocrine differentiation \u00e2\u2020\u2019 invasion"
+          "text": "Bronchial metaplasia â†’ neuroendocrine differentiation â†’ invasion"
         },
         {
           "label": "E",
-          "text": "Goblet cell hyperplasia \u00e2\u2020\u2019 mucin accumulation \u00e2\u2020\u2019 invasion"
+          "text": "Goblet cell hyperplasia â†’ mucin accumulation â†’ invasion"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Lung adenocarcinoma develops through: atypical adenomatous hyperplasia (small dysplastic pneumocyte foci) \u00e2\u2020\u2019 adenocarcinoma in situ (larger dysplastic areas) \u00e2\u2020\u2019 frank invasive adenocarcinoma (>3 cm with ability to invade and metastasize).",
-        "whyCorrect": "The progressive cell transformations in adenocarcinoma are: (1) Atypical adenomatous hyperplasia\u00e2\u20ac\u201dsmall areas of dysplastic pneumocytes; (2) Adenocarcinoma in situ (formerly bronchoalveolar carcinoma)\u00e2\u20ac\u201dlarger areas of dysplasia with increasingly atypical cytology; (3) Invasive adenocarcinoma\u00e2\u20ac\u201dlesion >3 cm with full ability to invade adjacent tissues and metastasize.",
+        "summary": "Lung adenocarcinoma develops through: atypical adenomatous hyperplasia (small dysplastic pneumocyte foci) â†’ adenocarcinoma in situ (larger dysplastic areas) â†’ frank invasive adenocarcinoma (>3 cm with ability to invade and metastasize).",
+        "whyCorrect": "The progressive cell transformations in adenocarcinoma are: (1) Atypical adenomatous hyperplasiaâ€”small areas of dysplastic pneumocytes; (2) Adenocarcinoma in situ (formerly bronchoalveolar carcinoma)â€”larger areas of dysplasia with increasingly atypical cytology; (3) Invasive adenocarcinomaâ€”lesion >3 cm with full ability to invade adjacent tissues and metastasize.",
         "whyWrongByChoice": {
-          "A": "Squamous metaplasia \u00e2\u2020\u2019 dysplasia \u00e2\u2020\u2019 invasion describes the progression of squamous cell carcinoma, not adenocarcinoma.",
-          "C": "This sequence is incorrect\u00e2\u20ac\u201dhyperplasia precedes CIS, not the reverse.",
+          "A": "Squamous metaplasia â†’ dysplasia â†’ invasion describes the progression of squamous cell carcinoma, not adenocarcinoma.",
+          "C": "This sequence is incorrectâ€”hyperplasia precedes CIS, not the reverse.",
           "D": "Neuroendocrine differentiation is the pathway for SCLC, not adenocarcinoma.",
           "E": "Goblet cell hyperplasia and mucin accumulation are not the standard progression stages of lung adenocarcinoma."
         }
@@ -4088,7 +4088,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "BRAF V600E mutations in lung adenocarcinoma are associated with more aggressive disease and reduced survival. BRAF inhibitors can be used as targeted therapy for these patients.",
-        "whyCorrect": "BRAF V600E mutations in adenocarcinoma are associated with a more aggressive disease course and reduced survival. However, these mutations are actionable\u00e2\u20ac\u201dBRAF inhibitors (dabrafenib) combined with MEK inhibitors (trametinib) can be used as targeted therapy. Knowing the BRAF status guides treatment decisions.",
+        "whyCorrect": "BRAF V600E mutations in adenocarcinoma are associated with a more aggressive disease course and reduced survival. However, these mutations are actionableâ€”BRAF inhibitors (dabrafenib) combined with MEK inhibitors (trametinib) can be used as targeted therapy. Knowing the BRAF status guides treatment decisions.",
         "whyWrongByChoice": {
           "A": "BRAF V600E mutations are associated with worse outcomes, not improved response to standard chemotherapy.",
           "C": "BRAF-mutant tumors do not spontaneously regress. They tend to be aggressive.",
@@ -4135,11 +4135,11 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Molecular testing of adenocarcinoma identifies mutations (EGFR, ALK, BRAF, KRAS, ROS1, MET) that guide targeted therapy selection. This 'precision medicine' approach can offer better outcomes than conventional chemotherapy.",
-        "whyCorrect": "When adenocarcinoma is diagnosed, molecular/genetic testing is needed to identify mutations susceptible to targeted therapy (e.g., EGFR \u00e2\u2020\u2019 osimertinib, ALK \u00e2\u2020\u2019 alectinib, BRAF \u00e2\u2020\u2019 BRAF inhibitors). This 'precision medicine' approach matches treatment to the specific molecular driver of the patient's cancer, often providing better outcomes than conventional chemotherapy alone.",
+        "whyCorrect": "When adenocarcinoma is diagnosed, molecular/genetic testing is needed to identify mutations susceptible to targeted therapy (e.g., EGFR â†’ osimertinib, ALK â†’ alectinib, BRAF â†’ BRAF inhibitors). This 'precision medicine' approach matches treatment to the specific molecular driver of the patient's cancer, often providing better outcomes than conventional chemotherapy alone.",
         "whyWrongByChoice": {
           "A": "Distinguishing primary from metastatic cancer uses immunohistochemistry (TTF-1, etc.), not the molecular testing for therapeutic targets.",
           "C": "Imaging identifies the tumor but molecular testing guides treatment, not imaging confirmation.",
-          "D": "Molecular testing supplements biopsy\u00e2\u20ac\u201dit does not replace the need for tissue diagnosis.",
+          "D": "Molecular testing supplements biopsyâ€”it does not replace the need for tissue diagnosis.",
           "E": "Smoking status is determined by clinical history, not molecular testing."
         }
       },
@@ -4151,6 +4151,3939 @@
         "EGFR",
         "ALK",
         "BRAF"
+      ]
+    },
+    {
+      "id": "r39h-001",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 58-year-old man who currently smokes has a 22-pack-year history. He asks about lung cancer screening. Which strategy is recommended?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annual chest x-ray"
+        },
+        {
+          "label": "B",
+          "text": "Annual low-dose CT"
+        },
+        {
+          "label": "C",
+          "text": "Biennial low-dose CT"
+        },
+        {
+          "label": "D",
+          "text": "Sputum cytology yearly"
+        },
+        {
+          "label": "E",
+          "text": "No screening indicated"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "USPSTF screens high-risk adults with annual LDCT.",
+        "whyCorrect": "Age 50-80, 20+ pack-years, current or quit <15 years: annual LDCT.",
+        "whyWrongByChoice": {
+          "A": "CXR is not used for screening.",
+          "C": "Screening is annual, not biennial.",
+          "D": "Sputum cytology is not a screening modality.",
+          "E": "He meets all high-risk criteria."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "screening"
+      ]
+    },
+    {
+      "id": "r39h-002",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 48-year-old man with a 25-pack-year history asks about screening. Which factor disqualifies him from annual LDCT under current US guidelines?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "His age"
+        },
+        {
+          "label": "B",
+          "text": "His pack-years"
+        },
+        {
+          "label": "C",
+          "text": "Current smoker status"
+        },
+        {
+          "label": "D",
+          "text": "Male sex"
+        },
+        {
+          "label": "E",
+          "text": "Absence of symptoms"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Screening begins at age 50.",
+        "whyCorrect": "The minimum screening age is 50; he is 48.",
+        "whyWrongByChoice": {
+          "B": "25 pack-years exceeds the 20 threshold.",
+          "C": "Current smokers qualify.",
+          "D": "Sex is not a criterion.",
+          "E": "Screening targets asymptomatic patients."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "screening"
+      ]
+    },
+    {
+      "id": "r39h-003",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 67-year-old former smoker quit 12 years ago with a 30-pack-year history. Is he eligible for LDCT screening?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No, age too old"
+        },
+        {
+          "label": "B",
+          "text": "No, quit too long ago"
+        },
+        {
+          "label": "C",
+          "text": "No, pack-years too low"
+        },
+        {
+          "label": "D",
+          "text": "Yes, meets all criteria"
+        },
+        {
+          "label": "E",
+          "text": "No, must be current smoker"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "He falls within all eligibility parameters.",
+        "whyCorrect": "Age 50-80, 20+ pack-years, quit within 15 years.",
+        "whyWrongByChoice": {
+          "A": "67 is within the 50-80 range.",
+          "B": "12 years is within the 15-year window.",
+          "C": "30 exceeds 20 pack-years.",
+          "E": "Former smokers who quit <15 years qualify."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "screening"
+      ]
+    },
+    {
+      "id": "r39h-004",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A chest CT in a 65-year-old smoker shows multiple bilateral lower-lobe nodules. Which is the most likely origin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Primary squamous carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic disease"
+        },
+        {
+          "label": "D",
+          "text": "Primary small cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Bronchogenic hamartoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Multiple lower-lobe lesions suggest metastasis.",
+        "whyCorrect": "Metastases typically present as multiple lesions in lower lobes.",
+        "whyWrongByChoice": {
+          "A": "Primary tumors are usually singular, upper lobe.",
+          "B": "Primary tumors are typically singular, upper lobe.",
+          "D": "SCLC is usually a central primary mass.",
+          "E": "Hamartomas are typically solitary and benign."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "radiology"
+      ]
+    },
+    {
+      "id": "r39h-005",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 60-year-old woman with a solitary 2.5 cm upper-lobe nodule has a 35-pack-year history. What is the approximate likelihood this nodule is malignant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 5%"
+        },
+        {
+          "label": "B",
+          "text": "About 10%"
+        },
+        {
+          "label": "C",
+          "text": "About 25%"
+        },
+        {
+          "label": "D",
+          "text": "Greater than 50%"
+        },
+        {
+          "label": "E",
+          "text": "Essentially 100%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Size, age, and smoking strongly predict malignancy.",
+        "whyCorrect": "Nodules >2 cm in patients >60 who smoke are malignant >50% of the time.",
+        "whyWrongByChoice": {
+          "A": "This underestimates risk in this high-risk profile.",
+          "B": "Applies to young nonsmokers.",
+          "C": "Too low for >2 cm nodule in older smoker.",
+          "E": "Not certain without biopsy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nodule"
+      ]
+    },
+    {
+      "id": "r39h-006",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 70-year-old man with lung cancer develops facial/arm swelling worse when supine, with headache. Which structure is compressed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phrenic nerve"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Superior vena cava"
+        },
+        {
+          "label": "D",
+          "text": "Brachial plexus"
+        },
+        {
+          "label": "E",
+          "text": "Sympathetic chain"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Classic SVC syndrome.",
+        "whyCorrect": "SVC compression reduces upper-body venous return causing facial/arm edema.",
+        "whyWrongByChoice": {
+          "A": "Phrenic compression causes hemidiaphragm paralysis, not edema.",
+          "B": "RLN compression causes hoarseness.",
+          "D": "Brachial plexus invasion causes arm pain (Pancoast).",
+          "E": "Sympathetic compression causes Horner syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "extension"
+      ]
+    },
+    {
+      "id": "r39h-007",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 62-year-old smoker has apical lung tumor with right arm pain, ptosis, miosis, and anhidrosis. Which nerve structure explains the eye findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cervical sympathetic chain"
+        },
+        {
+          "label": "B",
+          "text": "Oculomotor nerve"
+        },
+        {
+          "label": "C",
+          "text": "Trigeminal nerve"
+        },
+        {
+          "label": "D",
+          "text": "Vagus nerve"
+        },
+        {
+          "label": "E",
+          "text": "Phrenic nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pancoast tumor invades sympathetic chain producing Horner syndrome.",
+        "whyCorrect": "Compression of sympathetic trunk yields miosis, ptosis, anhidrosis.",
+        "whyWrongByChoice": {
+          "B": "CN III palsy causes mydriasis and down-out gaze.",
+          "C": "Trigeminal gives facial sensory loss.",
+          "D": "Vagus compression causes hoarseness.",
+          "E": "Phrenic causes diaphragm paralysis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Pancoast"
+      ]
+    },
+    {
+      "id": "r39h-008",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 65-year-old woman with SCLC has Na of 122 mEq/L with confusion. Which mechanism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PTHrP secretion"
+        },
+        {
+          "label": "B",
+          "text": "Ectopic ACTH release"
+        },
+        {
+          "label": "C",
+          "text": "ADH secretion by tumor"
+        },
+        {
+          "label": "D",
+          "text": "Bone marrow invasion"
+        },
+        {
+          "label": "E",
+          "text": "Lambert-Eaton antibodies"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SIADH is classic in SCLC.",
+        "whyCorrect": "SCLC secretes ADH causing renal water retention and hyponatremia.",
+        "whyWrongByChoice": {
+          "A": "PTHrP causes hypercalcemia, not hyponatremia.",
+          "B": "Ectopic ACTH causes Cushingoid features.",
+          "D": "Marrow invasion causes cytopenias.",
+          "E": "Lambert-Eaton causes weakness."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r39h-009",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 68-year-old man with a central cavitating hilar mass has Ca of 13.8 mg/dL. What is the most likely cancer subtype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Small cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Large cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Carcinoid tumor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PTHrP-mediated hypercalcemia is most common in squamous cell.",
+        "whyCorrect": "Squamous lung cancer classically secretes PTHrP.",
+        "whyWrongByChoice": {
+          "A": "Adenocarcinoma less often causes PTHrP hypercalcemia.",
+          "C": "SCLC causes SIADH, ectopic ACTH, Lambert-Eaton.",
+          "D": "Large cell is less commonly linked to PTHrP.",
+          "E": "Carcinoids secrete serotonin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r39h-010",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 60-year-old smoker has progressive proximal leg weakness that improves with repeated effort and dry mouth. Which tumor is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Small cell lung cancer"
+        },
+        {
+          "label": "D",
+          "text": "Mesothelioma"
+        },
+        {
+          "label": "E",
+          "text": "Hamartoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lambert-Eaton is most associated with SCLC.",
+        "whyCorrect": "Autoantibodies in SCLC attack presynaptic Ca channels causing LEMS.",
+        "whyWrongByChoice": {
+          "A": "Adenocarcinoma rarely causes LEMS.",
+          "B": "Squamous is linked to PTHrP.",
+          "D": "Mesothelioma is pleural, not paraneoplastic.",
+          "E": "Hamartoma is benign with no paraneoplastic syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r39h-011",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "An adenocarcinoma specimen is tested for actionable mutations. Which mutation most commonly guides targeted therapy in adenocarcinoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "EGFR mutation"
+        },
+        {
+          "label": "B",
+          "text": "MYC amplification"
+        },
+        {
+          "label": "C",
+          "text": "RB1 loss"
+        },
+        {
+          "label": "D",
+          "text": "BCR-ABL fusion"
+        },
+        {
+          "label": "E",
+          "text": "JAK2 V617F"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "EGFR gain-of-function is targetable in adenocarcinoma.",
+        "whyCorrect": "EGFR TKIs treat EGFR-mutated adenocarcinoma.",
+        "whyWrongByChoice": {
+          "B": "MYC amplification is seen in SCLC.",
+          "C": "RB1 loss is not used as targeted marker here.",
+          "D": "BCR-ABL is CML.",
+          "E": "JAK2 is in myeloproliferative disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "genetics"
+      ]
+    },
+    {
+      "id": "r39h-012",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "Which oncogenic change is most characteristic of small cell lung cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "EGFR activation"
+        },
+        {
+          "label": "B",
+          "text": "ALK rearrangement"
+        },
+        {
+          "label": "C",
+          "text": "BRAF V600E"
+        },
+        {
+          "label": "D",
+          "text": "MYC amplification"
+        },
+        {
+          "label": "E",
+          "text": "KRAS G12C"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "MYC amplification drives SCLC proliferation.",
+        "whyCorrect": "SCLC is classically linked to MYC oncogene amplification.",
+        "whyWrongByChoice": {
+          "A": "EGFR is in adenocarcinoma.",
+          "B": "ALK is in adenocarcinoma.",
+          "C": "BRAF is in adenocarcinoma.",
+          "E": "KRAS is in adenocarcinoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "genetics"
+      ]
+    },
+    {
+      "id": "r39h-013",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A shipyard worker with 30 years of asbestos exposure also smokes. How does this exposure profile alter lung cancer risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additive increase only"
+        },
+        {
+          "label": "B",
+          "text": "Substantial multiplicative increase"
+        },
+        {
+          "label": "C",
+          "text": "No change in risk"
+        },
+        {
+          "label": "D",
+          "text": "Decreased risk from asbestos"
+        },
+        {
+          "label": "E",
+          "text": "Only mesothelioma risk"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Asbestos and smoking synergistically raise lung cancer risk.",
+        "whyCorrect": "Combined exposure substantially increases risk beyond either alone.",
+        "whyWrongByChoice": {
+          "A": "Effect is multiplicative, not simply additive.",
+          "C": "Both are independent risk factors.",
+          "D": "Asbestos raises, not reduces, risk.",
+          "E": "Both lung cancer and mesothelioma risks rise."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "risk"
+      ]
+    },
+    {
+      "id": "r39h-014",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 55-year-old woman never-smoker has a new 2 cm upper-lobe nodule. What is the best next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ignore, low risk"
+        },
+        {
+          "label": "B",
+          "text": "Further evaluation including biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Empiric antibiotics"
+        },
+        {
+          "label": "D",
+          "text": "Annual LDCT screening"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary function testing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nonsmokers still develop lung cancer; nodules need workup.",
+        "whyCorrect": "10% of lung cancers occur in nonsmokers; evaluation is required.",
+        "whyWrongByChoice": {
+          "A": "Lung cancer cannot be excluded based on smoking alone.",
+          "C": "No evidence of infection provided.",
+          "D": "She does not fit screening criteria; nodule already found.",
+          "E": "PFTs do not diagnose cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "workup"
+      ]
+    },
+    {
+      "id": "r39h-015",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "Biopsy in a 66-year-old smoker reveals adenocarcinoma. Per the brick, which modality best detects small tumors and lymph node invasion for staging?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chest x-ray"
+        },
+        {
+          "label": "B",
+          "text": "CT without contrast"
+        },
+        {
+          "label": "C",
+          "text": "PET scan"
+        },
+        {
+          "label": "D",
+          "text": "Transthoracic ultrasound"
+        },
+        {
+          "label": "E",
+          "text": "Ventilation-perfusion scan"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PET surpasses CT for detecting small lesions and nodal involvement.",
+        "whyCorrect": "PET scanning is better than CT for small tumors and lymph node invasion.",
+        "whyWrongByChoice": {
+          "A": "CXR has low sensitivity.",
+          "B": "CT is inferior to PET for small lesions.",
+          "D": "Ultrasound is not used for staging.",
+          "E": "V/Q scans assess PE."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "staging"
+      ]
+    },
+    {
+      "id": "r39h-016",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 70-year-old man with lung cancer develops new unilateral leg swelling and pleuritic chest pain. Which mechanism best explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SIADH"
+        },
+        {
+          "label": "B",
+          "text": "Tumor procoagulant release"
+        },
+        {
+          "label": "C",
+          "text": "PTHrP effect"
+        },
+        {
+          "label": "D",
+          "text": "Phrenic nerve compression"
+        },
+        {
+          "label": "E",
+          "text": "SVC obstruction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cancer causes hypercoagulability via tissue factor and cysteine proteases.",
+        "whyCorrect": "Tumor-secreted procoagulants predispose to DVT/PE.",
+        "whyWrongByChoice": {
+          "A": "SIADH causes hyponatremia.",
+          "C": "PTHrP causes hypercalcemia.",
+          "D": "Phrenic compression causes diaphragm paralysis.",
+          "E": "SVC obstruction causes upper body edema."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r39h-017",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 59-year-old man with NSCLC has new onset hoarseness without airway lesion on laryngoscopy. Which structure is most likely compressed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phrenic nerve"
+        },
+        {
+          "label": "B",
+          "text": "Vagus/recurrent laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Brachial plexus"
+        },
+        {
+          "label": "D",
+          "text": "Esophagus"
+        },
+        {
+          "label": "E",
+          "text": "Sympathetic trunk"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hoarseness from vocal cord paralysis suggests RLN/vagus compression.",
+        "whyCorrect": "Compression of vagus (supplying vocal cords) causes hoarseness.",
+        "whyWrongByChoice": {
+          "A": "Phrenic causes dyspnea, not hoarseness.",
+          "C": "Brachial plexus causes arm pain.",
+          "D": "Esophageal compression causes dysphagia.",
+          "E": "Sympathetic compression causes Horner."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "extension"
+      ]
+    },
+    {
+      "id": "r39h-018",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 64-year-old with adenocarcinoma develops clubbing, periosteal long-bone pain, and symmetric arthritis. Which syndrome is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lambert-Eaton syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Hypertrophic pulmonary osteoarthropathy"
+        },
+        {
+          "label": "C",
+          "text": "SIADH"
+        },
+        {
+          "label": "D",
+          "text": "Cushing syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Dermatomyositis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HPOA triad: clubbing, periosteal pain, arthritis.",
+        "whyCorrect": "HPOA is classic musculoskeletal paraneoplastic syndrome in adenocarcinoma.",
+        "whyWrongByChoice": {
+          "A": "LEMS causes muscle weakness, not clubbing.",
+          "C": "SIADH causes hyponatremia.",
+          "D": "Cushing causes truncal obesity, weakness.",
+          "E": "DM causes skin rash, proximal weakness."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r39h-019",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 63-year-old man with SCLC has elevated cortisol, truncal obesity, and hypokalemia. Which mechanism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal metastasis"
+        },
+        {
+          "label": "B",
+          "text": "Ectopic ACTH secretion"
+        },
+        {
+          "label": "C",
+          "text": "PTHrP release"
+        },
+        {
+          "label": "D",
+          "text": "SIADH"
+        },
+        {
+          "label": "E",
+          "text": "Cortisol-resistant receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SCLC can secrete ectopic ACTH causing Cushingoid features.",
+        "whyCorrect": "Ectopic ACTH from SCLC drives cortisol release from adrenals.",
+        "whyWrongByChoice": {
+          "A": "Adrenal mets usually reduce, not increase, cortisol production.",
+          "C": "PTHrP causes hypercalcemia.",
+          "D": "SIADH causes hyponatremia without hypercortisolism.",
+          "E": "Not a recognized mechanism here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r39h-020",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 72-year-old woman with NSCLC complains of new bone pain. Which blood test abnormality is most suggestive of bone metastasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated alkaline phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Low sodium"
+        },
+        {
+          "label": "C",
+          "text": "Elevated ALT only"
+        },
+        {
+          "label": "D",
+          "text": "Elevated hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Low potassium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ALP rises with bony or hepatic metastasis.",
+        "whyCorrect": "Elevated ALP may indicate bone or liver metastasis.",
+        "whyWrongByChoice": {
+          "B": "Low sodium suggests SIADH.",
+          "C": "Isolated ALT elevation suggests hepatocyte injury, less specific for bone.",
+          "D": "High hemoglobin is not typical of metastasis.",
+          "E": "Hypokalemia suggests ectopic ACTH."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "staging"
+      ]
+    },
+    {
+      "id": "r39h-021",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "Following a confirmed biopsy of NSCLC, the patient reports new headaches and focal weakness. What is the best next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chest CT only"
+        },
+        {
+          "label": "B",
+          "text": "Brain MRI"
+        },
+        {
+          "label": "C",
+          "text": "Abdominal ultrasound"
+        },
+        {
+          "label": "D",
+          "text": "Bone marrow biopsy"
+        },
+        {
+          "label": "E",
+          "text": "Repeat bronchoscopy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CNS symptoms warrant brain MRI during staging.",
+        "whyCorrect": "Patients with CNS symptoms receive brain or spinal MRI.",
+        "whyWrongByChoice": {
+          "A": "Chest CT does not evaluate brain.",
+          "C": "Abdominal US would not address CNS symptoms.",
+          "D": "Marrow biopsy does not evaluate brain metastases.",
+          "E": "Bronchoscopy is diagnostic, not staging for CNS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "staging"
+      ]
+    },
+    {
+      "id": "r39h-022",
+      "topicId": "lung-cancer-foundations-hard",
+      "topicName": "Lung Cancer: Foundations and Frameworks (Advanced)",
+      "stem": "A 66-year-old smoker has a pulmonary mass, cervical lymphadenopathy on exam, and biopsy pending. Which study best confirms malignancy and guides targeted therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sputum cytology"
+        },
+        {
+          "label": "B",
+          "text": "PET scan"
+        },
+        {
+          "label": "C",
+          "text": "Tissue biopsy with molecular analysis"
+        },
+        {
+          "label": "D",
+          "text": "Serum tumor markers"
+        },
+        {
+          "label": "E",
+          "text": "Chest x-ray"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tissue biopsy is essential for diagnosis and molecular profiling.",
+        "whyCorrect": "Obtaining lung tissue is essential to diagnose and guide genetic-targeted therapy.",
+        "whyWrongByChoice": {
+          "A": "Cytology is less sensitive and lacks tissue for molecular testing.",
+          "B": "PET stages but does not yield tissue.",
+          "D": "Markers do not establish diagnosis.",
+          "E": "CXR cannot confirm cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "r40h-001",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 55-year-old man presents with progressive left-sided nasal obstruction, intermittent epistaxis, and new anosmia. MRI shows a mass extending through the cribriform plate. Biopsy reveals small round blue cells in lobular nests within fibrovascular stroma, with Homer-Wright pseudorosettes. From which tissue does this tumor arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Salivary gland tissue"
+        },
+        {
+          "label": "B",
+          "text": "Respiratory epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Squamous epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Nasopharyngeal mucosa"
+        },
+        {
+          "label": "E",
+          "text": "Olfactory epithelium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Olfactory neuroblastoma arises from the olfactory epithelium.",
+        "whyCorrect": "ONB (esthesioneuroblastoma) is a neuroendocrine tumor arising from olfactory epithelium in the nasal cavity, explaining the anosmia from cribriform plate extension.",
+        "whyWrongByChoice": {
+          "A": "Salivary gland tissue gives rise to salivary neoplasms, not ONB.",
+          "B": "Respiratory epithelium lines much of the airway but is not the origin of ONB.",
+          "C": "Squamous epithelium origin is seen in laryngeal SCC, not ONB.",
+          "D": "Nasopharyngeal mucosa gives rise to nasopharyngeal carcinoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "olfactory-neuroblastoma",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "r40h-002",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 50-year-old man with a sinonasal mass is found to have hyponatremia with serum sodium 122 mEq/L, urine osmolality 600 mOsm/kg, and normal volume status. Biopsy of the nasal mass shows small round blue cells with a lobular architecture in a fibrovascular stroma. What is the most likely underlying mechanism for his sodium abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary adrenal insufficiency"
+        },
+        {
+          "label": "B",
+          "text": "Ectopic ADH production"
+        },
+        {
+          "label": "C",
+          "text": "PTHrP secretion"
+        },
+        {
+          "label": "D",
+          "text": "Ectopic ACTH secretion"
+        },
+        {
+          "label": "E",
+          "text": "Cerebral salt wasting"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ONB can produce paraneoplastic SIADH.",
+        "whyCorrect": "Olfactory neuroblastoma rarely produces paraneoplastic syndromes including SIADH (ectopic ADH) causing euvolemic hyponatremia with concentrated urine.",
+        "whyWrongByChoice": {
+          "A": "Adrenal insufficiency is not typical of ONB paraneoplastic syndromes.",
+          "C": "PTHrP causes hypercalcemia, not hyponatremia.",
+          "D": "Ectopic ACTH causes Cushing syndrome, not this euvolemic hyponatremia pattern.",
+          "E": "Cerebral salt wasting shows volume depletion, not the euvolemic pattern here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "olfactory-neuroblastoma",
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r40h-003",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 48-year-old woman presents with nasal obstruction, epistaxis, and right-sided proptosis with diplopia. Biopsy of a nasal mass shows neuroblasts and neurofibrils in lobular nests within a fibrovascular stroma. What is the most likely explanation for her ocular findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Optic nerve glioma"
+        },
+        {
+          "label": "B",
+          "text": "Graves ophthalmopathy"
+        },
+        {
+          "label": "C",
+          "text": "Tumor extension into the orbit"
+        },
+        {
+          "label": "D",
+          "text": "Cavernous sinus thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Carotid-cavernous fistula"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ONB can extend into the orbit causing proptosis and diplopia.",
+        "whyCorrect": "Orbital extension of olfactory neuroblastoma causes pain, proptosis, diplopia, and excessive tearing.",
+        "whyWrongByChoice": {
+          "A": "Optic nerve glioma is unrelated to sinonasal small round blue cell tumors.",
+          "B": "Graves ophthalmopathy is autoimmune and unrelated to this biopsy finding.",
+          "D": "Cavernous sinus thrombosis presents with multiple cranial neuropathies and sepsis-like features.",
+          "E": "Carotid-cavernous fistula causes pulsatile exophthalmos and bruit, not this biopsy finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "olfactory-neuroblastoma",
+        "local-invasion"
+      ]
+    },
+    {
+      "id": "r40h-004",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 52-year-old man with biopsy-confirmed olfactory neuroblastoma has imaging showing local invasion into the ethmoid sinuses and orbit without distant metastases. What is the most appropriate treatment approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Radiation alone"
+        },
+        {
+          "label": "B",
+          "text": "Immunotherapy monotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Targeted therapy monotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Surgery plus radiation/chemotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Observation with serial imaging"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ONB is treated with surgery combined with radiation and/or chemotherapy.",
+        "whyCorrect": "The standard treatment for olfactory neuroblastoma is surgical resection combined with adjuvant radiation, chemotherapy, or both.",
+        "whyWrongByChoice": {
+          "A": "Radiation alone is inadequate; surgical excision is a cornerstone.",
+          "B": "Immunotherapy has not shown substantial benefit in ONB.",
+          "C": "Targeted therapy has not shown substantial benefit in ONB.",
+          "E": "Observation is inappropriate for an aggressive invasive tumor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "olfactory-neuroblastoma",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r40h-005",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A pathologist reviews a biopsy from a sinonasal mass and identifies small round blue cells in a lobular pattern with nests of neuroblasts and neurofibrils embedded in a vascular fibrous stroma. Which additional histologic feature would most strongly support the diagnosis of olfactory neuroblastoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Keratin pearls"
+        },
+        {
+          "label": "B",
+          "text": "Homer-Wright pseudorosettes"
+        },
+        {
+          "label": "C",
+          "text": "Psammoma bodies"
+        },
+        {
+          "label": "D",
+          "text": "Reed-Sternberg cells"
+        },
+        {
+          "label": "E",
+          "text": "Signet ring cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Homer-Wright pseudorosettes are characteristic of neuroblastomas including ONB.",
+        "whyCorrect": "Homer-Wright pseudorosettes and Flexner-Wintersteiner rosettes are characteristic pathologic features of neuroblastomas.",
+        "whyWrongByChoice": {
+          "A": "Keratin pearls are seen in squamous cell carcinoma (laryngeal cancer).",
+          "C": "Psammoma bodies are seen in papillary thyroid cancer and meningiomas.",
+          "D": "Reed-Sternberg cells are seen in Hodgkin lymphoma.",
+          "E": "Signet ring cells are characteristic of gastric adenocarcinoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "olfactory-neuroblastoma",
+        "histology"
+      ]
+    },
+    {
+      "id": "r40h-006",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 40-year-old man from Southern China presents with headaches, diplopia, right facial numbness, and a neck mass. Nasal endoscopy reveals a nasopharyngeal mass; biopsy shows nests of epithelioid cells lacking keratinization, with prominent nucleoli and infiltrating lymphocytes. Which virus is most strongly associated with this malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus 8"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis C virus"
+        },
+        {
+          "label": "E",
+          "text": "Epstein-Barr virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nasopharyngeal carcinoma is strongly associated with EBV.",
+        "whyCorrect": "EBV is a major risk factor for nasopharyngeal carcinoma, particularly the non-keratinizing undifferentiated type seen in endemic regions.",
+        "whyWrongByChoice": {
+          "A": "HPV is associated with laryngeal and oropharyngeal cancer, not NPC.",
+          "B": "CMV is not linked to NPC.",
+          "C": "HHV-8 causes Kaposi sarcoma, not NPC.",
+          "D": "HCV is linked to hepatocellular carcinoma, not NPC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nasopharyngeal-carcinoma",
+        "EBV"
+      ]
+    },
+    {
+      "id": "r40h-007",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 50-year-old man of Southeast Asian origin reports a lifelong diet high in salted fish and preserved foods. He now presents with nasal obstruction, epistaxis, and a cervical lymph node mass. Which dietary component is thought to contribute to his cancer risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitrosamines"
+        },
+        {
+          "label": "B",
+          "text": "Aflatoxins"
+        },
+        {
+          "label": "C",
+          "text": "Polycyclic aromatic hydrocarbons"
+        },
+        {
+          "label": "D",
+          "text": "Heterocyclic amines"
+        },
+        {
+          "label": "E",
+          "text": "Acrylamide"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Preserved foods (salted fish) contain nitrosamines linked to NPC.",
+        "whyCorrect": "Eating preserved foods such as salted fish leads to high levels of nitrosamines, a known risk factor for nasopharyngeal carcinoma.",
+        "whyWrongByChoice": {
+          "B": "Aflatoxins are linked to hepatocellular carcinoma.",
+          "C": "PAHs are linked to lung cancer from smoking/pollution.",
+          "D": "Heterocyclic amines form during cooking meat and are linked more to colon cancer.",
+          "E": "Acrylamide is formed in fried starchy foods and not specifically tied to NPC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nasopharyngeal-carcinoma",
+        "risk-factors"
+      ]
+    },
+    {
+      "id": "r40h-008",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 55-year-old woman has biopsy-confirmed non-keratinizing undifferentiated nasopharyngeal carcinoma that has spread to regional lymph nodes. Which is the most appropriate initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Radical surgical resection"
+        },
+        {
+          "label": "B",
+          "text": "Immunotherapy alone"
+        },
+        {
+          "label": "C",
+          "text": "Radiotherapy plus chemotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Observation"
+        },
+        {
+          "label": "E",
+          "text": "Autologous stem cell transplant"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "NPC is treated with radiotherapy and chemotherapy, not surgery.",
+        "whyCorrect": "Nasopharyngeal carcinoma is uniquely treated with radiation and chemotherapy (cisplatin + gemcitabine); surgery is very specialized and challenging due to anatomic location.",
+        "whyWrongByChoice": {
+          "A": "Surgery is not the primary treatment for NPC because of anatomic complexity.",
+          "B": "Immunotherapy alone is not first-line therapy.",
+          "D": "Observation is inappropriate for invasive disease.",
+          "E": "Stem cell transplant is not used for NPC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nasopharyngeal-carcinoma",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r40h-009",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 48-year-old woman with nasopharyngeal carcinoma begins chemotherapy with cisplatin and gemcitabine. She develops myelosuppression, fatigue, hair loss, and elevated liver enzymes. Which best describes gemcitabine's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkylating agent cross-linking DNA"
+        },
+        {
+          "label": "B",
+          "text": "Pyrimidine analog inhibiting DNA synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Topoisomerase II inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "Microtubule stabilizer"
+        },
+        {
+          "label": "E",
+          "text": "Folate antagonist inhibiting DHFR"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Gemcitabine is a pyrimidine analog antimetabolite.",
+        "whyCorrect": "Gemcitabine is an antimetabolite chemotherapy, a pyrimidine analog similar to cytarabine that inhibits DNA synthesis during the S phase.",
+        "whyWrongByChoice": {
+          "A": "Alkylating/cross-linking is the mechanism of cisplatin, not gemcitabine.",
+          "C": "Topoisomerase II inhibitors include etoposide, not gemcitabine.",
+          "D": "Microtubule stabilizers include paclitaxel.",
+          "E": "Folate antagonists include methotrexate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nasopharyngeal-carcinoma",
+        "pharmacology"
+      ]
+    },
+    {
+      "id": "r40h-010",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 68-year-old man with a 50-pack-year smoking history presents with 6 months of progressive hoarseness, a tickling cough, and an enlarged left neck lymph node. Laryngoscopy identifies a mass on the vocal cord. Which is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Olfactory neuroblastoma"
+        },
+        {
+          "label": "B",
+          "text": "Laryngeal squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Nasopharyngeal carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Adenoid cystic carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Sinonasal lymphoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The presentation is classic for laryngeal SCC in a smoker.",
+        "whyCorrect": "Persistent hoarseness, cough, and cervical lymphadenopathy in a long-term smoker strongly suggest laryngeal cancer, most commonly squamous cell carcinoma.",
+        "whyWrongByChoice": {
+          "A": "ONB presents with nasal obstruction and anosmia, not hoarseness.",
+          "C": "NPC typically presents with cranial nerve findings and nasal obstruction, not vocal cord mass.",
+          "D": "Adenoid cystic carcinoma is uncommon and not characterized by this scenario.",
+          "E": "Sinonasal lymphoma would not present with a vocal cord mass."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "laryngeal-cancer",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "r40h-011",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 70-year-old man is diagnosed with laryngeal squamous cell carcinoma. Which anatomic subsite accounts for the majority of laryngeal cancers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supraglottic"
+        },
+        {
+          "label": "B",
+          "text": "Glottic"
+        },
+        {
+          "label": "C",
+          "text": "Subglottic"
+        },
+        {
+          "label": "D",
+          "text": "Pyriform sinus"
+        },
+        {
+          "label": "E",
+          "text": "Postcricoid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Supraglottic tumors account for two-thirds of laryngeal cancers.",
+        "whyCorrect": "Laryngeal cancers are classified as supraglottic (two-thirds of cases), glottic (one-third), or subglottic (1-2%).",
+        "whyWrongByChoice": {
+          "B": "Glottic tumors account for about one-third, not the majority.",
+          "C": "Subglottic tumors represent only 1-2% of cases.",
+          "D": "Pyriform sinus is part of the hypopharynx, not a standard laryngeal subsite category.",
+          "E": "Postcricoid is a hypopharyngeal subsite, not a laryngeal subsite category."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "laryngeal-cancer",
+        "anatomy"
+      ]
+    },
+    {
+      "id": "r40h-012",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 35-year-old non-smoker presents with hoarseness. Laryngoscopy reveals a glottic mass; biopsy shows squamous cell carcinoma. Which viral oncoprotein most likely drives this cancer by inactivating p53?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HPV E7"
+        },
+        {
+          "label": "B",
+          "text": "EBV LMP1"
+        },
+        {
+          "label": "C",
+          "text": "HPV E6"
+        },
+        {
+          "label": "D",
+          "text": "HHV-8 vGPCR"
+        },
+        {
+          "label": "E",
+          "text": "HTLV-1 Tax"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HPV E6 inactivates p53.",
+        "whyCorrect": "HPV E6 inactivates the tumor suppressor p53, while E7 inactivates pRb; together they drive uncontrolled cell cycle progression leading to laryngeal/oropharyngeal cancer.",
+        "whyWrongByChoice": {
+          "A": "E7 inactivates pRb, not p53.",
+          "B": "LMP1 is associated with EBV-driven NPC, not p53 inactivation in laryngeal SCC.",
+          "D": "vGPCR is associated with Kaposi sarcoma.",
+          "E": "HTLV-1 Tax drives adult T-cell leukemia/lymphoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "laryngeal-cancer",
+        "HPV"
+      ]
+    },
+    {
+      "id": "r40h-013",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 60-year-old man with laryngeal SCC has a tumor localized to the larynx without nodal spread. Which treatment strategy best preserves vocal function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Total laryngectomy upfront"
+        },
+        {
+          "label": "B",
+          "text": "Chemotherapy alone"
+        },
+        {
+          "label": "C",
+          "text": "Immunotherapy alone"
+        },
+        {
+          "label": "D",
+          "text": "Combined radiation and limited surgery"
+        },
+        {
+          "label": "E",
+          "text": "Observation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Localized laryngeal cancer is treated with radiation plus limited (organ-sparing) surgery.",
+        "whyCorrect": "For tumors localized to the larynx, combined radiation and limited surgery (eg, partial laryngectomy) are used to preserve vocal function.",
+        "whyWrongByChoice": {
+          "A": "Total laryngectomy is reserved for advanced disease and sacrifices voice.",
+          "B": "Chemotherapy alone is not the standard for localized disease.",
+          "C": "Immunotherapy alone is not first-line for localized laryngeal cancer.",
+          "E": "Observation risks progression of a curable localized cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "laryngeal-cancer",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r40h-014",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A pathologist examines a laryngectomy specimen. Which microscopic feature is most characteristic of laryngeal squamous cell carcinoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Small round blue cells in lobules"
+        },
+        {
+          "label": "B",
+          "text": "Keratin pearls with pleomorphic nuclei"
+        },
+        {
+          "label": "C",
+          "text": "Syncytial clusters with lymphocyte infiltration"
+        },
+        {
+          "label": "D",
+          "text": "Glandular tubules with mucin production"
+        },
+        {
+          "label": "E",
+          "text": "Spindle cells with herringbone pattern"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Laryngeal SCC shows keratin pearls, polygonal cells, and pleomorphic nuclei.",
+        "whyCorrect": "Laryngeal SCC pathology typically shows polygonal cells with eosinophilic cytoplasm, keratin pearls, and pleomorphic nuclei.",
+        "whyWrongByChoice": {
+          "A": "Small round blue cells in lobules describe olfactory neuroblastoma.",
+          "C": "Syncytial clusters with lymphocytes describe non-keratinizing NPC.",
+          "D": "Glandular tubules with mucin are features of adenocarcinoma.",
+          "E": "Spindle cells with herringbone pattern describe fibrosarcoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "laryngeal-cancer",
+        "histology"
+      ]
+    },
+    {
+      "id": "r40h-015",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 62-year-old smoker with laryngeal SCC has biopsy-proven spread to cervical lymph nodes. Which is the most likely chemotherapy agent to be added to his regimen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gemcitabine"
+        },
+        {
+          "label": "B",
+          "text": "Etoposide"
+        },
+        {
+          "label": "C",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "D",
+          "text": "Vincristine"
+        },
+        {
+          "label": "E",
+          "text": "Cisplatin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cisplatin is the most common chemotherapy for laryngeal cancer.",
+        "whyCorrect": "When laryngeal cancer spreads to adjacent neck structures, chemotherapy is added; the most common agent used is cisplatin.",
+        "whyWrongByChoice": {
+          "A": "Gemcitabine is paired with cisplatin for NPC, not laryngeal cancer.",
+          "B": "Etoposide is used with cisplatin for ONB.",
+          "C": "Methotrexate is not the standard for laryngeal cancer.",
+          "D": "Vincristine is not standard for laryngeal cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "laryngeal-cancer",
+        "chemotherapy"
+      ]
+    },
+    {
+      "id": "r40h-016",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 45-year-old woman presents with unilateral serous otitis media and ear pain. Nasal endoscopy reveals a nasopharyngeal mass. Which anatomic structure is most likely obstructed by the tumor, causing her ear symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "External auditory canal"
+        },
+        {
+          "label": "B",
+          "text": "Round window"
+        },
+        {
+          "label": "C",
+          "text": "Eustachian tube"
+        },
+        {
+          "label": "D",
+          "text": "Oval window"
+        },
+        {
+          "label": "E",
+          "text": "Cochlear aqueduct"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nasopharyngeal tumors obstruct the Eustachian tube causing otitis media.",
+        "whyCorrect": "Obstruction of the Eustachian tube by a tumor causes ear pain and otitis media, a classic presentation of nasopharyngeal/sinonasal tumors.",
+        "whyWrongByChoice": {
+          "A": "External auditory canal is not obstructed by nasopharyngeal masses.",
+          "B": "The round window is intracranial and not obstructed by nasopharyngeal masses.",
+          "D": "The oval window is part of middle ear ossicle transmission, not obstructed externally.",
+          "E": "The cochlear aqueduct connects inner ear to subarachnoid space, not nasopharynx."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nasopharyngeal-carcinoma",
+        "anatomy"
+      ]
+    },
+    {
+      "id": "r40h-017",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 58-year-old man with biopsy-proven olfactory neuroblastoma will begin chemotherapy. Which combination regimen is most commonly used for this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cisplatin plus gemcitabine"
+        },
+        {
+          "label": "B",
+          "text": "Cyclophosphamide plus doxorubicin"
+        },
+        {
+          "label": "C",
+          "text": "Carboplatin plus paclitaxel"
+        },
+        {
+          "label": "D",
+          "text": "Methotrexate plus 5-fluorouracil"
+        },
+        {
+          "label": "E",
+          "text": "Cisplatin plus etoposide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ONB is typically treated with cisplatin + etoposide.",
+        "whyCorrect": "The most common chemotherapy regimen for olfactory neuroblastoma is cisplatin plus etoposide.",
+        "whyWrongByChoice": {
+          "A": "Cisplatin + gemcitabine is the regimen for nasopharyngeal carcinoma.",
+          "B": "Cyclophosphamide + doxorubicin is used for lymphomas/breast cancer.",
+          "C": "Carboplatin + paclitaxel is common in NSCLC and ovarian cancer.",
+          "D": "Methotrexate + 5-FU is not the standard ONB regimen."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "olfactory-neuroblastoma",
+        "chemotherapy"
+      ]
+    },
+    {
+      "id": "r40h-018",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 55-year-old man presents with hoarseness, dysphagia, and odynophagia for several months along with recent weight loss. Which finding most strongly suggests metastatic disease rather than local complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistent cough"
+        },
+        {
+          "label": "B",
+          "text": "Rapid weight loss"
+        },
+        {
+          "label": "C",
+          "text": "Change in voice"
+        },
+        {
+          "label": "D",
+          "text": "Odynophagia"
+        },
+        {
+          "label": "E",
+          "text": "Dysphagia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rapid weight loss suggests metastatic laryngeal cancer.",
+        "whyCorrect": "Rapid weight loss is described as a feature of metastatic laryngeal cancer; the other symptoms reflect local disease.",
+        "whyWrongByChoice": {
+          "A": "Persistent cough occurs with localized laryngeal cancer.",
+          "C": "Voice change typically reflects local vocal cord involvement.",
+          "D": "Odynophagia reflects local invasion, not metastases.",
+          "E": "Dysphagia reflects local extension, not metastases."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "laryngeal-cancer",
+        "presentation"
+      ]
+    },
+    {
+      "id": "r40h-019",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 50-year-old shipyard worker with a 30-pack-year smoking history presents with hoarseness and is diagnosed with laryngeal SCC. Besides tobacco, which occupational exposure most likely contributed to his cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Silica"
+        },
+        {
+          "label": "B",
+          "text": "Coal dust"
+        },
+        {
+          "label": "C",
+          "text": "Beryllium"
+        },
+        {
+          "label": "D",
+          "text": "Asbestos"
+        },
+        {
+          "label": "E",
+          "text": "Cotton dust"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Occupational asbestos exposure is a risk factor for laryngeal cancer.",
+        "whyCorrect": "Occupational exposure to asbestos, radiation, paint, and gas fumes are cited risk factors for laryngeal cancer.",
+        "whyWrongByChoice": {
+          "A": "Silica is linked primarily to silicosis and lung cancer, not specifically laryngeal cancer.",
+          "B": "Coal dust is associated with pneumoconiosis.",
+          "C": "Beryllium causes berylliosis, not specifically laryngeal cancer.",
+          "E": "Cotton dust causes byssinosis, not laryngeal cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "laryngeal-cancer",
+        "risk-factors"
+      ]
+    },
+    {
+      "id": "r40h-020",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 30-year-old man from North Africa presents with a left neck mass, diplopia, and facial numbness. Endoscopic biopsy shows syncytial clusters of malignant epithelial cells infiltrated by benign lymphocytes, positive for EBV. Which histologic subtype of nasopharyngeal carcinoma is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Non-keratinizing undifferentiated"
+        },
+        {
+          "label": "B",
+          "text": "Keratinizing"
+        },
+        {
+          "label": "C",
+          "text": "Basaloid squamous"
+        },
+        {
+          "label": "D",
+          "text": "Non-keratinizing differentiated"
+        },
+        {
+          "label": "E",
+          "text": "Adenosquamous"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The non-keratinizing undifferentiated type is most common and EBV-associated.",
+        "whyCorrect": "Non-keratinizing undifferentiated NPC (60-65% of cases) shows syncytial clusters of tumor cells with lymphocytic infiltrate and strong EBV association.",
+        "whyWrongByChoice": {
+          "B": "Keratinizing type accounts for 20-25% and shows more keratinization.",
+          "C": "Basaloid squamous type is rare (1-2%).",
+          "D": "Non-keratinizing differentiated type is less common (10-15%).",
+          "E": "Adenosquamous is not among the four common NPC subtypes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nasopharyngeal-carcinoma",
+        "histology"
+      ]
+    },
+    {
+      "id": "r40h-021",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 22-year-old man presents with progressive unilateral nasal obstruction and epistaxis. MRI shows a sinonasal mass extending through the cribriform plate into the anterior cranial fossa. Biopsy shows lobular small round blue cells in fibrovascular stroma. Which paraneoplastic syndrome is LEAST likely associated with his tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SIADH"
+        },
+        {
+          "label": "B",
+          "text": "Ectopic ACTH production"
+        },
+        {
+          "label": "C",
+          "text": "Paraneoplastic cerebellar degeneration"
+        },
+        {
+          "label": "D",
+          "text": "Hypercalcemia"
+        },
+        {
+          "label": "E",
+          "text": "Hyponatremia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ONB is associated with SIADH, hypercalcemia, and ectopic ACTH but not cerebellar degeneration.",
+        "whyCorrect": "Olfactory neuroblastoma rarely causes paraneoplastic syndromes including SIADH, hypercalcemia, and ectopic ACTH; paraneoplastic cerebellar degeneration is not described.",
+        "whyWrongByChoice": {
+          "A": "SIADH is a recognized paraneoplastic syndrome of ONB.",
+          "B": "Ectopic ACTH is a described paraneoplastic syndrome in ONB.",
+          "D": "Hypercalcemia is a described paraneoplastic syndrome in ONB.",
+          "E": "Hyponatremia (from SIADH) is an expected ONB paraneoplastic finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "olfactory-neuroblastoma",
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r40h-022",
+      "topicId": "malignant-tumors-upper-resp-hard",
+      "topicName": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+      "stem": "A 65-year-old man with hoarseness is found to have a supraglottic mass on laryngoscopy, and biopsy confirms SCC. Which is the most common site of metastasis for laryngeal cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lungs"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Bone"
+        },
+        {
+          "label": "D",
+          "text": "Brain"
+        },
+        {
+          "label": "E",
+          "text": "Local cervical lymph nodes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Laryngeal cancer commonly metastasizes to local lymph nodes.",
+        "whyCorrect": "All laryngeal cancer subsites commonly metastasize to local lymph nodes; distant metastases occur but are less common initially.",
+        "whyWrongByChoice": {
+          "A": "Lung metastases occur but are less common than local lymph node spread.",
+          "B": "Liver is not the most common site of laryngeal cancer metastasis.",
+          "C": "Bone metastases occur in late/advanced disease, not most commonly.",
+          "D": "Brain metastases are uncommon in laryngeal cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "laryngeal-cancer",
+        "metastasis"
+      ]
+    },
+    {
+      "id": "r41h-001",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 68-year-old man with a 40-pack-year smoking history is brought in by his daughter for worsening confusion over the past month. He has lost 15 lb. He is oriented only to place. Labs reveal serum sodium of 117 mEq/L. Chest x-ray shows a perihilar mass. Head CT is normal. Which mechanism best explains his hyponatremia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ectopic ACTH secretion"
+        },
+        {
+          "label": "B",
+          "text": "Tumor secretion of ADH"
+        },
+        {
+          "label": "C",
+          "text": "Cerebral salt wasting"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal metastatic destruction"
+        },
+        {
+          "label": "E",
+          "text": "PTHrP-mediated loss"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SIADH from SCLC causes euvolemic hyponatremia.",
+        "whyCorrect": "SCLC cells ectopically secrete ADH (SIADH), causing water retention and dilutional hyponatremia; seen in ~10% of SCLC.",
+        "whyWrongByChoice": {
+          "A": "ACTH causes Cushing syndrome, not hyponatremia.",
+          "C": "Head CT is normal; no intracranial pathology.",
+          "D": "Adrenal metastases cause hyperkalemia and volume depletion, not SIADH pattern.",
+          "E": "PTHrP causes hypercalcemia (squamous cell), not hyponatremia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SIADH",
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r41h-002",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 62-year-old smoker is diagnosed with SCLC. Biopsy shows small cells with scant cytoplasm, finely granular chromatin with interspersed lighter areas, and inconspicuous nucleoli. This characteristic chromatin pattern is most specifically associated with which cell lineage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Squamous epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Glandular epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Neuroendocrine cells"
+        },
+        {
+          "label": "D",
+          "text": "Mesothelial cells"
+        },
+        {
+          "label": "E",
+          "text": "Lymphoid cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Salt-and-pepper chromatin is a hallmark of neuroendocrine tumors.",
+        "whyCorrect": "SCLC arises from bronchial neuroendocrine cells; salt-and-pepper chromatin is characteristic of neuroendocrine neoplasms.",
+        "whyWrongByChoice": {
+          "A": "Squamous cancers show keratin pearls and intercellular bridges.",
+          "B": "Adenocarcinoma shows glandular/mucinous features.",
+          "D": "Mesothelioma has distinct papillary architecture.",
+          "E": "Lymphoid cells lack this chromatin pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "neuroendocrine"
+      ]
+    },
+    {
+      "id": "r41h-003",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 60-year-old man with SCLC develops truncal obesity, purple striae, and proximal muscle weakness. Labs show hypokalemia and hyperglycemia. Which ectopic hormone best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ADH"
+        },
+        {
+          "label": "B",
+          "text": "ACTH"
+        },
+        {
+          "label": "C",
+          "text": "PTHrP"
+        },
+        {
+          "label": "D",
+          "text": "Calcitonin"
+        },
+        {
+          "label": "E",
+          "text": "Serotonin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ectopic ACTH causes paraneoplastic Cushing syndrome in SCLC.",
+        "whyCorrect": "SCLC secretes ACTH in 1-5% of patients, causing Cushing syndrome with weight gain, muscle weakness, thin/fragile skin.",
+        "whyWrongByChoice": {
+          "A": "ADH causes SIADH/hyponatremia, not Cushing features.",
+          "C": "PTHrP is associated with squamous cell lung cancer.",
+          "D": "Calcitonin is associated with medullary thyroid cancer.",
+          "E": "Serotonin relates to carcinoid syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Cushing",
+        "ACTH"
+      ]
+    },
+    {
+      "id": "r41h-004",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 65-year-old smoker with SCLC complains of proximal muscle weakness that improves with repeated exertion. Which autoantibody is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-acetylcholine receptor"
+        },
+        {
+          "label": "B",
+          "text": "Anti-MuSK"
+        },
+        {
+          "label": "C",
+          "text": "Anti-presynaptic Ca channel"
+        },
+        {
+          "label": "D",
+          "text": "Anti-Hu"
+        },
+        {
+          "label": "E",
+          "text": "Anti-Yo"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "LEMS in SCLC is mediated by antibodies against presynaptic voltage-gated calcium channels.",
+        "whyCorrect": "Lambert-Eaton myasthenic syndrome involves antibodies to presynaptic calcium channels, causing decreased ACh release; strength improves with repeated use.",
+        "whyWrongByChoice": {
+          "A": "Anti-AChR causes myasthenia gravis (worsens with use).",
+          "B": "Anti-MuSK is another myasthenia gravis variant.",
+          "D": "Anti-Hu causes paraneoplastic encephalomyelitis.",
+          "E": "Anti-Yo causes cerebellar degeneration."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "LEMS",
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "r41h-005",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 67-year-old man is diagnosed with extensive-stage SCLC. Which initial treatment approach is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surgical lobectomy alone"
+        },
+        {
+          "label": "B",
+          "text": "Cisplatin plus etoposide"
+        },
+        {
+          "label": "C",
+          "text": "Radiation therapy alone"
+        },
+        {
+          "label": "D",
+          "text": "Targeted EGFR inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Observation with restaging"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Extensive-stage SCLC is treated primarily with systemic chemotherapy.",
+        "whyCorrect": "Cisplatin + etoposide is the standard first-line regimen for SCLC, used alone in extensive disease to slow growth and improve survival.",
+        "whyWrongByChoice": {
+          "A": "Surgery is almost never appropriate; most patients have metastases.",
+          "C": "Radiation alone is insufficient for widespread disease.",
+          "D": "EGFR inhibitors are used in NSCLC, not SCLC.",
+          "E": "SCLC is too aggressive to observe."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "chemotherapy"
+      ]
+    },
+    {
+      "id": "r41h-006",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A pathologist examining an SCLC biopsy notes basophilic DNA deposits encrusting small blood vessel walls adjacent to areas of tumor necrosis. What is this finding called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crush artifact"
+        },
+        {
+          "label": "B",
+          "text": "Azzopardi effect"
+        },
+        {
+          "label": "C",
+          "text": "Psammoma bodies"
+        },
+        {
+          "label": "D",
+          "text": "Schiller-Duval bodies"
+        },
+        {
+          "label": "E",
+          "text": "Call-Exner bodies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The Azzopardi effect reflects DNA encrustation of vessel walls in high-grade tumors.",
+        "whyCorrect": "In SCLC, necrotic tumor cells release DNA that adheres to blood vessel walls, producing basophilic encrustation known as the Azzopardi effect.",
+        "whyWrongByChoice": {
+          "A": "Crush artifact distorts cells mechanically; not vessel encrustation.",
+          "C": "Psammoma bodies are laminated calcifications.",
+          "D": "Schiller-Duval bodies occur in yolk sac tumors.",
+          "E": "Call-Exner bodies occur in granulosa cell tumors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pathology",
+        "Azzopardi"
+      ]
+    },
+    {
+      "id": "r41h-007",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 64-year-old smoker is found to have a centrally located lung mass. To definitively diagnose suspected SCLC while minimizing risk to mediastinal structures, which procedure is preferred?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transthoracic needle biopsy"
+        },
+        {
+          "label": "B",
+          "text": "Bronchoscopic biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Open thoracotomy"
+        },
+        {
+          "label": "D",
+          "text": "Sputum cytology"
+        },
+        {
+          "label": "E",
+          "text": "Pleural fluid cytology"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Central SCLC masses are best biopsied bronchoscopically.",
+        "whyCorrect": "SCLC is typically central; bronchoscopy accesses it safely. Transthoracic needle biopsy risks damaging mediastinal structures.",
+        "whyWrongByChoice": {
+          "A": "Transthoracic needle biopsy risks injury to central mediastinal vessels.",
+          "C": "Open surgery is not first-line for diagnosis.",
+          "D": "Sputum cytology is insensitive for definitive diagnosis.",
+          "E": "Most patients lack diagnostic pleural effusion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "bronchoscopy"
+      ]
+    },
+    {
+      "id": "r41h-008",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 70-year-old man with SCLC is started on chemotherapy. His sodium is 118 mEq/L and he is acutely confused with a seizure. What is the most appropriate immediate intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluid restriction alone"
+        },
+        {
+          "label": "B",
+          "text": "Hypertonic saline"
+        },
+        {
+          "label": "C",
+          "text": "Isotonic saline bolus"
+        },
+        {
+          "label": "D",
+          "text": "Loop diuretic alone"
+        },
+        {
+          "label": "E",
+          "text": "Wait for chemo effect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Severe symptomatic hyponatremia requires hypertonic saline.",
+        "whyCorrect": "Symptomatic severe hyponatremia (confusion, seizures) requires hypertonic saline to rapidly but carefully raise serum sodium.",
+        "whyWrongByChoice": {
+          "A": "Fluid restriction is too slow for seizures.",
+          "C": "Isotonic saline may worsen SIADH-related hyponatremia.",
+          "D": "Loop diuretic alone is inadequate monotherapy.",
+          "E": "Chemo effect takes weeks; patient needs immediate intervention."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SIADH",
+        "emergency"
+      ]
+    },
+    {
+      "id": "r41h-009",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "An SCLC tumor shows gene amplification driving uncontrolled proliferation. Which oncogene is most commonly amplified in SCLC?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MYC"
+        },
+        {
+          "label": "B",
+          "text": "EGFR"
+        },
+        {
+          "label": "C",
+          "text": "KRAS"
+        },
+        {
+          "label": "D",
+          "text": "HER2"
+        },
+        {
+          "label": "E",
+          "text": "ALK"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MYC is commonly amplified in SCLC.",
+        "whyCorrect": "MYC amplification drives tumor cell proliferation in SCLC.",
+        "whyWrongByChoice": {
+          "B": "EGFR mutations characterize adenocarcinoma of the lung.",
+          "C": "KRAS is common in NSCLC adenocarcinoma, not SCLC.",
+          "D": "HER2 is relevant to breast/gastric cancer.",
+          "E": "ALK rearrangements occur in NSCLC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "MYC"
+      ]
+    },
+    {
+      "id": "r41h-010",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 69-year-old smoker with SCLC has immunohistochemistry performed on biopsy tissue. Which pair of markers most strongly supports the neuroendocrine origin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CK7 and TTF-1"
+        },
+        {
+          "label": "B",
+          "text": "Chromogranin and synaptophysin"
+        },
+        {
+          "label": "C",
+          "text": "p40 and CK5/6"
+        },
+        {
+          "label": "D",
+          "text": "Calretinin and WT-1"
+        },
+        {
+          "label": "E",
+          "text": "CD20 and CD79a"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chromogranin and synaptophysin are classic neuroendocrine markers.",
+        "whyCorrect": "SCLC tumor cells express chromogranin and synaptophysin, confirming neuroendocrine differentiation.",
+        "whyWrongByChoice": {
+          "A": "CK7/TTF-1 are nonspecific lung epithelial markers.",
+          "C": "p40 and CK5/6 indicate squamous differentiation.",
+          "D": "Calretinin/WT-1 mark mesothelioma.",
+          "E": "CD20/CD79a mark B-cell lymphoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "immunohistochemistry"
+      ]
+    },
+    {
+      "id": "r41h-011",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 66-year-old man is newly diagnosed with SCLC confined to one hemithorax and regional lymph nodes without distant metastasis. What is the expected median survival with treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1-3 months"
+        },
+        {
+          "label": "B",
+          "text": "4-7 months"
+        },
+        {
+          "label": "C",
+          "text": "8-13 months"
+        },
+        {
+          "label": "D",
+          "text": "15-20 months"
+        },
+        {
+          "label": "E",
+          "text": "Over 5 years"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Limited-stage SCLC has 15-20 month median survival.",
+        "whyCorrect": "Limited-stage disease (one lung plus nearby nodes) has median survival of 15-20 months with chemoradiation.",
+        "whyWrongByChoice": {
+          "A": "Too short; applies to untreated late disease.",
+          "B": "Too short for limited stage.",
+          "C": "8-13 months is expected for extensive-stage disease.",
+          "E": "SCLC rarely has such long survival; mortality is high."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "prognosis"
+      ]
+    },
+    {
+      "id": "r41h-012",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 63-year-old man with SCLC is started on a chemotherapy agent that inhibits religation of double-strand DNA breaks during S/early G2 phase. Which drug is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "B",
+          "text": "Etoposide"
+        },
+        {
+          "label": "C",
+          "text": "Paclitaxel"
+        },
+        {
+          "label": "D",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "E",
+          "text": "Methotrexate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Etoposide is a topoisomerase II inhibitor.",
+        "whyCorrect": "Etoposide inhibits topoisomerase II religation of double-strand DNA breaks during S/early G2 phases, core to SCLC therapy.",
+        "whyWrongByChoice": {
+          "A": "Cisplatin cross-links DNA; it does not inhibit topoisomerase II.",
+          "C": "Paclitaxel stabilizes microtubules.",
+          "D": "Doxorubicin intercalates DNA and generates free radicals.",
+          "E": "Methotrexate inhibits dihydrofolate reductase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "etoposide"
+      ]
+    },
+    {
+      "id": "r41h-013",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 65-year-old patient with SCLC on cisplatin-etoposide develops fatigue, pallor, easy bruising, and fevers. CBC shows pancytopenia. Which drug effect best explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nephrotoxicity"
+        },
+        {
+          "label": "B",
+          "text": "Ototoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Myelosuppression"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral neuropathy"
+        },
+        {
+          "label": "E",
+          "text": "Cardiotoxicity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Etoposide causes myelosuppression.",
+        "whyCorrect": "Etoposide commonly causes myelosuppression, producing pancytopenia with fatigue, bruising, and infection risk.",
+        "whyWrongByChoice": {
+          "A": "Nephrotoxicity is a cisplatin effect but doesn't cause pancytopenia.",
+          "B": "Ototoxicity is a cisplatin effect unrelated to CBC.",
+          "D": "Neuropathy is a cisplatin effect, not marrow related.",
+          "E": "Cardiotoxicity is characteristic of doxorubicin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxicity",
+        "etoposide"
+      ]
+    },
+    {
+      "id": "r41h-014",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 67-year-old man with SCLC has lesions on imaging raising concern for metastasis. Which combination represents the most common metastatic sites for SCLC?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liver, adrenals, bone, brain"
+        },
+        {
+          "label": "B",
+          "text": "Kidneys, ovaries, pancreas"
+        },
+        {
+          "label": "C",
+          "text": "Skin, thyroid, larynx"
+        },
+        {
+          "label": "D",
+          "text": "Spleen, testes, uterus"
+        },
+        {
+          "label": "E",
+          "text": "Heart, prostate, bladder"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SCLC preferentially metastasizes to liver, adrenals, bone, marrow, and brain.",
+        "whyCorrect": "SCLC has propensity for liver, adrenals, bone, bone marrow, and brain; ~70% present with overt metastases.",
+        "whyWrongByChoice": {
+          "B": "These are uncommon SCLC metastatic sites.",
+          "C": "Skin is possible but thyroid/larynx aren't typical.",
+          "D": "Not typical distribution.",
+          "E": "Not characteristic sites."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metastasis"
+      ]
+    },
+    {
+      "id": "r41h-015",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 59-year-old woman presents with a central bronchial neuroendocrine tumor causing wheezing and recurrent pneumonia. Biopsy shows well-differentiated cells with rosettes and trabecular patterns. This tumor is best classified as:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Small cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Bronchial carcinoid"
+        },
+        {
+          "label": "C",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Mesothelioma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bronchial carcinoids are low-grade, well-differentiated neuroendocrine tumors.",
+        "whyCorrect": "Bronchial carcinoids are well-differentiated, central neuroendocrine tumors causing obstructive symptoms, with rosette/trabecular patterns.",
+        "whyWrongByChoice": {
+          "A": "SCLC is poorly differentiated/high-grade, not trabecular/rosetted.",
+          "C": "Squamous cell shows keratinization and pearls.",
+          "D": "Adenocarcinoma shows glandular patterns.",
+          "E": "Mesothelioma arises from pleura."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "carcinoid",
+        "differential"
+      ]
+    },
+    {
+      "id": "r41h-016",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A molecular pathologist reviews the genetic profile of an SCLC tumor. Which pair of tumor suppressor genes is most commonly mutated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TP53 and RB"
+        },
+        {
+          "label": "B",
+          "text": "APC and BRCA1"
+        },
+        {
+          "label": "C",
+          "text": "VHL and NF1"
+        },
+        {
+          "label": "D",
+          "text": "WT1 and PTEN"
+        },
+        {
+          "label": "E",
+          "text": "MLH1 and MSH2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "TP53 and RB are hallmark mutations in SCLC.",
+        "whyCorrect": "Smoking-induced somatic mutations in TP53 and RB are commonly found in SCLC, enabling uncontrolled division and reduced apoptosis.",
+        "whyWrongByChoice": {
+          "B": "APC/BRCA1 are colorectal/breast-related.",
+          "C": "VHL/NF1 relate to renal/neurofibromatosis syndromes.",
+          "D": "WT1/PTEN not characteristic of SCLC.",
+          "E": "MLH1/MSH2 cause Lynch syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "TP53",
+        "RB"
+      ]
+    },
+    {
+      "id": "r41h-017",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 66-year-old man with SCLC-related SIADH is hyponatremic. After two weeks of chemotherapy, sodium normalizes. What is the underlying reason for resolution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chemo activates V2 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Tumor burden and ADH fall"
+        },
+        {
+          "label": "C",
+          "text": "Chemo induces diabetes insipidus"
+        },
+        {
+          "label": "D",
+          "text": "Corticosteroid replacement"
+        },
+        {
+          "label": "E",
+          "text": "Improved renal perfusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tumor cytoreduction reduces ectopic ADH secretion.",
+        "whyCorrect": "As chemotherapy reduces tumor burden, ectopic ADH production falls, resolving SIADH-related hyponatremia over several weeks.",
+        "whyWrongByChoice": {
+          "A": "Chemo does not directly stimulate V2 receptors.",
+          "C": "Chemo does not cause DI.",
+          "D": "Steroids aren't the mechanism of SIADH resolution here.",
+          "E": "Renal perfusion isn't the primary issue."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SIADH",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r41h-018",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 60-year-old former smoker has a solitary peripheral lung nodule without evidence of nodal or distant spread; biopsy reveals SCLC. Which treatment approach is most appropriate in this uncommon scenario?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Observation alone"
+        },
+        {
+          "label": "B",
+          "text": "Surgery plus adjuvant chemo"
+        },
+        {
+          "label": "C",
+          "text": "Immunotherapy monotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Palliative radiation only"
+        },
+        {
+          "label": "E",
+          "text": "Hormonal therapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Isolated SCLC without metastasis may be resected with adjuvant chemo.",
+        "whyCorrect": "A single lung mass without metastatic spread can rarely undergo surgical resection followed by postoperative chemotherapy.",
+        "whyWrongByChoice": {
+          "A": "SCLC is too aggressive to observe.",
+          "C": "Monotherapy immunotherapy isn't standard first line for localized SCLC.",
+          "D": "Palliative radiation is inadequate for potentially curable disease.",
+          "E": "Hormonal therapy has no role in SCLC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "surgery"
+      ]
+    },
+    {
+      "id": "r41h-019",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "SCLC represents approximately what percentage of all primary lung cancers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1%"
+        },
+        {
+          "label": "B",
+          "text": "5%"
+        },
+        {
+          "label": "C",
+          "text": "15%"
+        },
+        {
+          "label": "D",
+          "text": "40%"
+        },
+        {
+          "label": "E",
+          "text": "70%"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SCLC accounts for about 15% of primary lung cancers.",
+        "whyCorrect": "SCLC represents roughly 15% of all primary lung cancers but is the most aggressive subtype.",
+        "whyWrongByChoice": {
+          "A": "Too low; 1% represents SCLC in nonsmokers.",
+          "B": "Too low.",
+          "D": "Adenocarcinoma is closer to this proportion.",
+          "E": "Far too high."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "epidemiology"
+      ]
+    },
+    {
+      "id": "r41h-020",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 70-year-old with SCLC receives chemotherapy and is also considered for adjuvant immune checkpoint inhibitor. Which agent is most commonly added in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rituximab"
+        },
+        {
+          "label": "B",
+          "text": "Atezolizumab"
+        },
+        {
+          "label": "C",
+          "text": "Trastuzumab"
+        },
+        {
+          "label": "D",
+          "text": "Cetuximab"
+        },
+        {
+          "label": "E",
+          "text": "Bevacizumab"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atezolizumab (or pembrolizumab) is added as adjuvant immunotherapy.",
+        "whyCorrect": "Patients with SCLC may benefit from atezolizumab or pembrolizumab as adjuvant immune checkpoint inhibitors alongside chemotherapy.",
+        "whyWrongByChoice": {
+          "A": "Rituximab targets CD20 for B-cell lymphomas.",
+          "C": "Trastuzumab is for HER2 breast/gastric cancer.",
+          "D": "Cetuximab is anti-EGFR used in colon/head-neck.",
+          "E": "Bevacizumab is anti-VEGF for other lung cancers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "immunotherapy"
+      ]
+    },
+    {
+      "id": "r41h-021",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A 63-year-old woman presents with fatigue and hemoptysis. She is diagnosed with extensive-stage SCLC, with hyponatremia due to SIADH. Her mental status is normal. Which approach best addresses her hyponatremia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer exogenous ADH"
+        },
+        {
+          "label": "B",
+          "text": "Start chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Radiate the pituitary"
+        },
+        {
+          "label": "D",
+          "text": "Surgical tumor resection"
+        },
+        {
+          "label": "E",
+          "text": "High-sodium diet"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In asymptomatic SCLC-SIADH, treating the tumor with chemotherapy resolves hyponatremia.",
+        "whyCorrect": "In asymptomatic SIADH from SCLC, chemotherapy reduces tumor secretion of ADH; hyponatremia typically resolves within weeks.",
+        "whyWrongByChoice": {
+          "A": "ADH would worsen SIADH.",
+          "C": "Pituitary isn't the source of ADH here.",
+          "D": "Surgery is usually not feasible for extensive disease.",
+          "E": "Sodium intake alone does not correct SIADH."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SIADH",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r41h-022",
+      "topicId": "small-cell-lung-cancer-hard",
+      "topicName": "Small Cell Lung Cancer (Advanced)",
+      "stem": "A patient with SCLC is noted to have poor tumor apoptosis despite DNA damage. Overexpression of which anti-apoptotic protein most likely contributes to tumor cell survival?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BAX"
+        },
+        {
+          "label": "B",
+          "text": "BCL2"
+        },
+        {
+          "label": "C",
+          "text": "Caspase-3"
+        },
+        {
+          "label": "D",
+          "text": "p53"
+        },
+        {
+          "label": "E",
+          "text": "Fas ligand"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "BCL2 overexpression suppresses apoptosis in SCLC.",
+        "whyCorrect": "Some SCLCs overexpress BCL2, inhibiting mitochondrial apoptosis pathway and promoting cell survival.",
+        "whyWrongByChoice": {
+          "A": "BAX is pro-apoptotic.",
+          "C": "Caspase-3 is an effector of apoptosis, not anti-apoptotic.",
+          "D": "p53 promotes apoptosis (and is often mutated/lost in SCLC).",
+          "E": "Fas ligand induces apoptosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "apoptosis",
+        "BCL2"
+      ]
+    },
+    {
+      "id": "r42h-001",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A 64-year-old woman with a 40-pack-year smoking history presents with chronic cough, hemoptysis, and a 5-lb weight loss. Labs reveal a serum calcium of 12.8 mg/dL. Chest x-ray shows a central hilar mass. Which NSCLC subtype is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Large cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Small cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Bronchoalveolar carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Central location plus hypercalcemia strongly suggests squamous cell carcinoma.",
+        "whyCorrect": "Squamous cell carcinoma typically arises centrally in bronchial airways and is the NSCLC subtype most associated with hypercalcemia.",
+        "whyWrongByChoice": {
+          "A": "Adenocarcinoma is peripheral, not typically hypercalcemic.",
+          "C": "Large cell carcinoma is peripheral and less common.",
+          "D": "Small cell is not NSCLC.",
+          "E": "Bronchoalveolar is the old name for adenocarcinoma in situ, which is peripheral."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "squamous",
+        "hypercalcemia"
+      ]
+    },
+    {
+      "id": "r42h-002",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A 42-year-old never-smoker woman is diagnosed with a peripheral lung adenocarcinoma. Molecular testing shows an EGFR exon 19 deletion. Which targeted therapy is most appropriate to initiate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alectinib"
+        },
+        {
+          "label": "B",
+          "text": "Osimertinib"
+        },
+        {
+          "label": "C",
+          "text": "Atezolizumab"
+        },
+        {
+          "label": "D",
+          "text": "Pembrolizumab"
+        },
+        {
+          "label": "E",
+          "text": "Cisplatin monotherapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "EGFR-mutant NSCLC responds to EGFR tyrosine kinase inhibitors such as osimertinib.",
+        "whyCorrect": "Osimertinib is a tyrosine kinase inhibitor targeting EGFR and is indicated for EGFR-mutant NSCLC.",
+        "whyWrongByChoice": {
+          "A": "Alectinib targets ALK rearrangements, not EGFR.",
+          "C": "Atezolizumab targets PD-L1, not EGFR.",
+          "D": "Pembrolizumab is a PD-1 inhibitor, not EGFR-directed.",
+          "E": "Cisplatin alone is not targeted therapy; TKI preferred for EGFR mutation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "EGFR",
+        "osimertinib"
+      ]
+    },
+    {
+      "id": "r42h-003",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A 38-year-old light-smoker presents with a peripheral lung mass. Biopsy shows adenocarcinoma and molecular testing reveals an ALK rearrangement. Which drug is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osimertinib"
+        },
+        {
+          "label": "B",
+          "text": "Alectinib"
+        },
+        {
+          "label": "C",
+          "text": "Pembrolizumab"
+        },
+        {
+          "label": "D",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "E",
+          "text": "Atezolizumab"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ALK-rearranged NSCLC responds to ALK tyrosine kinase inhibitors like alectinib.",
+        "whyCorrect": "Alectinib is a TKI specifically targeting ALK; ALK-positive patients are often younger, light/nonsmokers.",
+        "whyWrongByChoice": {
+          "A": "Osimertinib targets EGFR, not ALK.",
+          "C": "Pembrolizumab is an immune checkpoint inhibitor, not ALK-specific.",
+          "D": "Cisplatin is standard chemotherapy without ALK targeting.",
+          "E": "Atezolizumab targets PD-L1, not ALK."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ALK",
+        "alectinib"
+      ]
+    },
+    {
+      "id": "r42h-004",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A pathologist examines a peripheral lung tumor. Immunohistochemistry is positive for TTF-1, CK7, and Napsin A. Which diagnosis is most consistent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary lung adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic colon adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Large cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Small cell carcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "TTF-1, CK7, and Napsin A positivity is characteristic of primary lung adenocarcinoma.",
+        "whyCorrect": "This immunohistochemical pattern distinguishes primary pulmonary adenocarcinoma from metastatic adenocarcinoma.",
+        "whyWrongByChoice": {
+          "B": "SCC stains for CK5/6, p40, p63 (not Napsin A or TTF-1).",
+          "C": "Metastatic colon cancer would not stain for TTF-1 or Napsin A.",
+          "D": "Large cell carcinoma lacks these markers of glandular differentiation.",
+          "E": "Small cell is not NSCLC and has different markers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "IHC",
+        "TTF-1"
+      ]
+    },
+    {
+      "id": "r42h-005",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A lung biopsy shows sheets of malignant epithelial cells with circular collections of keratin and intercellular bridging. Which immunohistochemical profile is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TTF-1, Napsin A positive"
+        },
+        {
+          "label": "B",
+          "text": "CK7, CK5/6, p40, p63 positive"
+        },
+        {
+          "label": "C",
+          "text": "Chromogranin, synaptophysin positive"
+        },
+        {
+          "label": "D",
+          "text": "CK20, CDX2 positive"
+        },
+        {
+          "label": "E",
+          "text": "S100, HMB-45 positive"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Keratin pearls and intercellular bridging indicate squamous cell carcinoma, which stains for CK5/6, p40, p63, and CK7.",
+        "whyCorrect": "These are the characteristic squamous markers for lung SCC per the brick.",
+        "whyWrongByChoice": {
+          "A": "TTF-1 and Napsin A are adenocarcinoma markers.",
+          "C": "These are neuroendocrine markers (small cell).",
+          "D": "CK20/CDX2 suggest GI origin.",
+          "E": "S100/HMB-45 indicate melanoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "squamous",
+        "keratin-pearl"
+      ]
+    },
+    {
+      "id": "r42h-006",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A 60-year-old smoker is diagnosed with NSCLC. Molecular panel reveals a KRAS mutation. Which statement is most accurate regarding prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Improved 5-year survival"
+        },
+        {
+          "label": "B",
+          "text": "No prognostic effect"
+        },
+        {
+          "label": "C",
+          "text": "Reduced survival by about 25%"
+        },
+        {
+          "label": "D",
+          "text": "Associated with never-smokers"
+        },
+        {
+          "label": "E",
+          "text": "Highly sensitive to alectinib"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "KRAS mutations are associated with poor survival, reducing overall survival by approximately 25%.",
+        "whyCorrect": "The brick states KRAS mutations contribute to malignant transformation and reduce overall survival by about 25%.",
+        "whyWrongByChoice": {
+          "A": "Survival is reduced, not improved.",
+          "B": "There is a prognostic effect.",
+          "D": "KRAS is linked to smokers, not specifically nonsmokers.",
+          "E": "Alectinib targets ALK, not KRAS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "KRAS",
+        "prognosis"
+      ]
+    },
+    {
+      "id": "r42h-007",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A patient with newly diagnosed lung adenocarcinoma has a BRAF V600E mutation. Compared to other oncogenic drivers, what is most characteristic of this mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Indolent disease with long survival"
+        },
+        {
+          "label": "B",
+          "text": "More aggressive with reduced survival"
+        },
+        {
+          "label": "C",
+          "text": "Strongly responsive to osimertinib"
+        },
+        {
+          "label": "D",
+          "text": "Exclusively found in nonsmokers"
+        },
+        {
+          "label": "E",
+          "text": "Associated with squamous histology"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "BRAF V600E is associated with more aggressive disease and reduced survival.",
+        "whyCorrect": "The brick identifies BRAF V600E as a mutation linked to more aggressive disease and reduced survival.",
+        "whyWrongByChoice": {
+          "A": "It is aggressive, not indolent.",
+          "C": "Osimertinib targets EGFR, not BRAF.",
+          "D": "Not exclusive to nonsmokers.",
+          "E": "BRAF mutations occur in adenocarcinoma, not squamous."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "BRAF",
+        "prognosis"
+      ]
+    },
+    {
+      "id": "r42h-008",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "An asymptomatic 55-year-old former heavy smoker quit 30 years ago. How does his lung cancer risk compare to a lifelong nonsmoker?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Equal to nonsmoker"
+        },
+        {
+          "label": "B",
+          "text": "Half of nonsmoker"
+        },
+        {
+          "label": "C",
+          "text": "Double that of nonsmoker"
+        },
+        {
+          "label": "D",
+          "text": "Twentyfold higher"
+        },
+        {
+          "label": "E",
+          "text": "Unchanged from active smoking"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "After 30 years of cessation, NSCLC risk remains about double that of nonsmokers.",
+        "whyCorrect": "Per the brick, risk slowly decreases after quitting but never reaches a nonsmoker's level; at 30 years it is still double.",
+        "whyWrongByChoice": {
+          "A": "Risk never equals a nonsmoker's.",
+          "B": "Risk is higher, not lower.",
+          "D": "20-fold is while actively smoking.",
+          "E": "Risk does decrease after cessation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "risk",
+        "smoking"
+      ]
+    },
+    {
+      "id": "r42h-009",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A central bronchial biopsy shows full-thickness epithelial dysplasia with atypical squamous cells that have not penetrated the basement membrane. What is the correct diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Squamous metaplasia"
+        },
+        {
+          "label": "B",
+          "text": "Mild squamous dysplasia"
+        },
+        {
+          "label": "C",
+          "text": "Squamous cell carcinoma in situ"
+        },
+        {
+          "label": "D",
+          "text": "Invasive squamous cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Atypical adenomatous hyperplasia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Full-thickness dysplasia without basement membrane penetration defines carcinoma in situ.",
+        "whyCorrect": "Squamous cell carcinoma in situ shows full-thickness epithelial involvement but has not invaded beyond the basement membrane.",
+        "whyWrongByChoice": {
+          "A": "Metaplasia is replacement of columnar with squamous without dysplasia.",
+          "B": "Mild dysplasia is less than full-thickness.",
+          "D": "Invasion requires basement membrane penetration.",
+          "E": "This is a precursor to adenocarcinoma, not squamous."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CIS",
+        "squamous"
+      ]
+    },
+    {
+      "id": "r42h-010",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A peripheral lung biopsy reveals dysplastic pneumocytes in small focal areas without invasion. This lesion most likely represents which step in adenocarcinoma progression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atypical adenomatous hyperplasia"
+        },
+        {
+          "label": "B",
+          "text": "Adenocarcinoma in situ"
+        },
+        {
+          "label": "C",
+          "text": "Invasive adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Squamous metaplasia"
+        },
+        {
+          "label": "E",
+          "text": "Large cell carcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Small foci of dysplastic pneumocytes define atypical adenomatous hyperplasia, the earliest stage.",
+        "whyCorrect": "Atypical adenomatous hyperplasia is the earliest of the three progressive transformations in lung adenocarcinoma.",
+        "whyWrongByChoice": {
+          "B": "AIS shows larger areas with more atypia.",
+          "C": "Invasive disease requires >3 cm and invasion.",
+          "D": "Squamous metaplasia is in squamous progression.",
+          "E": "Large cell carcinoma is undifferentiated tumor, not precursor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenocarcinoma",
+        "precursor"
+      ]
+    },
+    {
+      "id": "r42h-011",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A peripheral lung lesion measures 3.5 cm and contains dysplastic pneumocytes with invasion of adjacent alveoli. According to the brick's criteria, this is best classified as:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atypical adenomatous hyperplasia"
+        },
+        {
+          "label": "B",
+          "text": "Adenocarcinoma in situ"
+        },
+        {
+          "label": "C",
+          "text": "Frank invasive adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Squamous carcinoma in situ"
+        },
+        {
+          "label": "E",
+          "text": "Large cell neuroendocrine tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lesions >3 cm with invasive capability are classified as frank adenocarcinoma.",
+        "whyCorrect": "Once a lesion exceeds 3 cm with invasive ability it is frank adenocarcinoma able to metastasize.",
+        "whyWrongByChoice": {
+          "A": "AAH is small and non-invasive.",
+          "B": "AIS lacks invasion beyond the alveolar walls.",
+          "D": "Squamous is of bronchial origin.",
+          "E": "LCC is undifferentiated without glandular differentiation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adenocarcinoma",
+        "staging"
+      ]
+    },
+    {
+      "id": "r42h-012",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A lung tumor biopsy shows large cells with prominent nucleoli and moderate cytoplasm, lacking glandular, squamous, or neuroendocrine differentiation. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Large cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Small cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Carcinoid tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Large cell carcinoma is a diagnosis of exclusion defined by large cells, prominent nucleoli, and absence of differentiation.",
+        "whyCorrect": "Large cell carcinoma is undifferentiated without glandular, squamous, or small cell features.",
+        "whyWrongByChoice": {
+          "A": "Adenocarcinoma has glandular differentiation.",
+          "B": "SCC shows keratinization and bridging.",
+          "D": "Small cell has scant cytoplasm and neuroendocrine features.",
+          "E": "Carcinoid is neuroendocrine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "large-cell"
+      ]
+    },
+    {
+      "id": "r42h-013",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A 67-year-old smoker is diagnosed with advanced NSCLC. Which immunotherapy can be initiated regardless of PD-L1 mutation status as long as other criteria are met?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atezolizumab"
+        },
+        {
+          "label": "B",
+          "text": "Pembrolizumab"
+        },
+        {
+          "label": "C",
+          "text": "Osimertinib"
+        },
+        {
+          "label": "D",
+          "text": "Alectinib"
+        },
+        {
+          "label": "E",
+          "text": "Cisplatin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pembrolizumab (PD-1 inhibitor) can be used regardless of specific PD-L1 mutation status.",
+        "whyCorrect": "Per the brick, pembrolizumab is used regardless of the patient's genetic expression as long as other criteria are met.",
+        "whyWrongByChoice": {
+          "A": "Atezolizumab requires a PD-L1 mutation.",
+          "C": "Osimertinib requires EGFR mutation.",
+          "D": "Alectinib requires ALK rearrangement.",
+          "E": "Cisplatin is chemotherapy, not immunotherapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pembrolizumab",
+        "immunotherapy"
+      ]
+    },
+    {
+      "id": "r42h-014",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A patient with stage IV adenocarcinoma receives cisplatin-based chemotherapy. Which adverse effects are most characteristic of cisplatin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiotoxicity, alopecia"
+        },
+        {
+          "label": "B",
+          "text": "Ototoxicity, nephrotoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Neuropathy, thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Hepatotoxicity, rash"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cisplatin is associated with ototoxicity and nephrotoxicity (the 'C's on chemoman).",
+        "whyCorrect": "The brick explicitly identifies ototoxicity and nephrotoxicity as the most common side effects of platinum agents.",
+        "whyWrongByChoice": {
+          "A": "Classic for doxorubicin.",
+          "C": "Classic for bleomycin.",
+          "D": "Not the primary cisplatin toxicities.",
+          "E": "Not primary cisplatin toxicities."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cisplatin",
+        "toxicity"
+      ]
+    },
+    {
+      "id": "r42h-015",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "What is the mechanism of action of platinum-based chemotherapy such as cisplatin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Topoisomerase II inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Microtubule stabilization"
+        },
+        {
+          "label": "C",
+          "text": "DNA intrastrand cross-linking"
+        },
+        {
+          "label": "D",
+          "text": "Folate pathway inhibition"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosine kinase inhibition"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Platinum agents cause direct DNA damage through intrastrand cross-linking, cell cycle-independent.",
+        "whyCorrect": "Per the brick, platinum agents are cell cycle-independent drugs causing direct DNA damage through intrastrand cross-linking.",
+        "whyWrongByChoice": {
+          "A": "This is the mechanism of etoposide.",
+          "B": "This is the mechanism of taxanes.",
+          "D": "This is the mechanism of methotrexate.",
+          "E": "This is the mechanism of osimertinib/alectinib."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cisplatin",
+        "mechanism"
+      ]
+    },
+    {
+      "id": "r42h-016",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A 70-year-old patient with advanced NSCLC has molecular testing showing strong PD-L1 expression. Which agent specifically targets PD-L1?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pembrolizumab"
+        },
+        {
+          "label": "B",
+          "text": "Atezolizumab"
+        },
+        {
+          "label": "C",
+          "text": "Osimertinib"
+        },
+        {
+          "label": "D",
+          "text": "Alectinib"
+        },
+        {
+          "label": "E",
+          "text": "Cisplatin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atezolizumab is a PD-L1 inhibitor used in patients with that specific mutation.",
+        "whyCorrect": "Per the brick, atezolizumab targets PD-L1 and is used only in patients with a PD-L1 mutation.",
+        "whyWrongByChoice": {
+          "A": "Pembrolizumab targets PD-1, not PD-L1.",
+          "C": "Osimertinib targets EGFR.",
+          "D": "Alectinib targets ALK.",
+          "E": "Cisplatin is chemotherapy, not a checkpoint inhibitor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PD-L1",
+        "atezolizumab"
+      ]
+    },
+    {
+      "id": "r42h-017",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "Genetic analysis of squamous cell lung carcinoma most commonly reveals which genetic abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "EGFR exon 19 deletion"
+        },
+        {
+          "label": "B",
+          "text": "ALK rearrangement"
+        },
+        {
+          "label": "C",
+          "text": "TP53 mutation on chromosome 17"
+        },
+        {
+          "label": "D",
+          "text": "KRAS GTPase gain-of-function"
+        },
+        {
+          "label": "E",
+          "text": "BRAF V600E mutation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "TP53 on chromosome 17 is the most common genetic abnormality in SCC.",
+        "whyCorrect": "The brick states TP53 mutations on chromosome 17 are the most common somatic abnormalities in squamous cell carcinoma.",
+        "whyWrongByChoice": {
+          "A": "EGFR is linked to adenocarcinoma.",
+          "B": "ALK is linked to adenocarcinoma.",
+          "D": "KRAS is linked to adenocarcinoma.",
+          "E": "BRAF V600E is linked to adenocarcinoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TP53",
+        "squamous"
+      ]
+    },
+    {
+      "id": "r42h-018",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A patient with a solitary 2-cm peripheral adenocarcinoma has no lymph node involvement. According to the brick's management principles, what is the initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Palliative chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Radiation monotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Surgical resection followed by chemotherapy/targeted therapy"
+        },
+        {
+          "label": "D",
+          "text": "Immunotherapy alone"
+        },
+        {
+          "label": "E",
+          "text": "Observation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Small tumors with only local lymph node extension are treated with surgical resection followed by chemotherapy and/or targeted therapy.",
+        "whyCorrect": "Per the brick, small tumors and those with only local extension are treated with surgical resection followed by adjuvant therapy.",
+        "whyWrongByChoice": {
+          "A": "Palliative chemo is reserved for metastatic disease.",
+          "B": "Radiation monotherapy is for nonsurgical candidates or advanced tumors.",
+          "D": "Immunotherapy alone is not first-line for resectable disease.",
+          "E": "Observation is not appropriate for confirmed cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "resection"
+      ]
+    },
+    {
+      "id": "r42h-019",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A patient with NSCLC presents with distant metastases. According to the brick, what is the approximate 5-year survival?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 6%"
+        },
+        {
+          "label": "B",
+          "text": "About 25%"
+        },
+        {
+          "label": "C",
+          "text": "About 50%"
+        },
+        {
+          "label": "D",
+          "text": "About 75%"
+        },
+        {
+          "label": "E",
+          "text": "About 90%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Distant metastasis confers a poor prognosis with 5-year survival of about 6%.",
+        "whyCorrect": "The brick explicitly states distant metastasis is associated with a 5-year survival of about 6%.",
+        "whyWrongByChoice": {
+          "B": "~25% is the overall NSCLC 5-year survival.",
+          "C": "~50% applies to early, localized disease.",
+          "D": "Too high for metastatic disease.",
+          "E": "Not consistent with NSCLC outcomes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "prognosis",
+        "metastasis"
+      ]
+    },
+    {
+      "id": "r42h-020",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A 58-year-old with NSCLC develops hoarseness and a paralyzed left hemidiaphragm on chest imaging. These findings most likely represent:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paraneoplastic syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Local tumor effects from primary tumor growth"
+        },
+        {
+          "label": "C",
+          "text": "Distant metastasis"
+        },
+        {
+          "label": "D",
+          "text": "Chemotherapy side effect"
+        },
+        {
+          "label": "E",
+          "text": "Pleural effusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hoarseness and diaphragm paralysis are less common local tumor effects from primary tumor growth impinging on recurrent laryngeal and phrenic nerves.",
+        "whyCorrect": "The brick lists hoarseness, dysphagia, and diaphragm paralysis as less common local tumor effects of NSCLC.",
+        "whyWrongByChoice": {
+          "A": "These are mechanical, not paraneoplastic.",
+          "C": "Not from distant mets but from local invasion.",
+          "D": "Not a chemotherapy effect.",
+          "E": "These findings are not due to pleural effusion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "local",
+        "complications"
+      ]
+    },
+    {
+      "id": "r42h-021",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A patient with centrally located squamous cell lung cancer presents with post-obstructive pneumonia. What is the most likely mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematogenous bacterial seeding"
+        },
+        {
+          "label": "B",
+          "text": "Airway obstruction by tumor"
+        },
+        {
+          "label": "C",
+          "text": "Immunosuppression from chemo"
+        },
+        {
+          "label": "D",
+          "text": "Paraneoplastic neutropenia"
+        },
+        {
+          "label": "E",
+          "text": "Aspiration from dysphagia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Post-obstructive pneumonia in central SCC results from airway obstruction by the tumor.",
+        "whyCorrect": "The brick identifies pneumonia due to airway obstruction as a less common local tumor effect of NSCLC.",
+        "whyWrongByChoice": {
+          "A": "Not the typical mechanism in lung cancer.",
+          "C": "The patient has not started chemotherapy.",
+          "D": "Neutropenia is not the described mechanism.",
+          "E": "Dysphagia-related aspiration is a different mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "obstruction",
+        "pneumonia"
+      ]
+    },
+    {
+      "id": "r42h-022",
+      "topicId": "non-small-cell-lung-cancer-hard",
+      "topicName": "Non-Small Cell Lung Cancer (Advanced)",
+      "stem": "A 64-year-old smoker has a solitary 15-mm central lung nodule identified on chest CT. What is the most appropriate next step to establish a definitive diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Start empiric chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Repeat CT in 6 months"
+        },
+        {
+          "label": "C",
+          "text": "Biopsy (e.g., bronchoscopy or needle biopsy)"
+        },
+        {
+          "label": "D",
+          "text": "Begin pembrolizumab"
+        },
+        {
+          "label": "E",
+          "text": "Radiation therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A biopsy is required to definitively diagnose NSCLC via histologic analysis and molecular testing.",
+        "whyCorrect": "Per the brick, once NSCLC is suspected the cancer must be definitively diagnosed using histologic analysis obtained via bronchoscopy, mediastinoscopy, needle biopsy, or open resection.",
+        "whyWrongByChoice": {
+          "A": "Empiric therapy without tissue diagnosis is inappropriate.",
+          "B": "Delaying diagnosis in a suspicious nodule is inappropriate.",
+          "D": "Treatment requires tissue diagnosis and molecular testing.",
+          "E": "Radiation is treatment not diagnosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "biopsy",
+        "diagnosis"
       ]
     }
   ]

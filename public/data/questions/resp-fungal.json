@@ -80,7 +80,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "The halo sign (nodular lesions with surrounding ground-glass opacity representing hemorrhage) on CT is a classic radiographic finding in invasive pulmonary aspergillosis, which most commonly occurs in neutropenic patients.",
-        "whyCorrect": "Invasive pulmonary aspergillosis (IPA) most often occurs in patients with prolonged neutropenia or hematologic malignancy. The 'halo sign' on CT\u00e2\u20ac\u201dnodular lesions with surrounding ground-glass opacities reflecting hemorrhage around fungal lesions\u00e2\u20ac\u201dis a classic finding. As disease progresses, an 'air-crescent sign' may appear. A. fumigatus is the primary causative species.",
+        "whyCorrect": "Invasive pulmonary aspergillosis (IPA) most often occurs in patients with prolonged neutropenia or hematologic malignancy. The 'halo sign' on CTâ€”nodular lesions with surrounding ground-glass opacities reflecting hemorrhage around fungal lesionsâ€”is a classic finding. As disease progresses, an 'air-crescent sign' may appear. A. fumigatus is the primary causative species.",
         "whyWrongByChoice": {
           "A": "P. jirovecii causes diffuse bilateral interstitial infiltrates and ground-glass opacities in HIV patients, not nodular lesions with halo sign in neutropenic patients.",
           "C": "Cryptococcus primarily causes meningitis in immunocompromised patients. Pulmonary involvement shows nodules or consolidation but not the classic halo sign.",
@@ -127,10 +127,10 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Rhinocerebral mucormycosis is the most frequent presentation of mucormycosis. DKA is the strongest risk factor. Mucorales possess ketone reductase and grow well in acidic, high-glucose environments. Biopsy shows broad, non-septate hyphae with right-angle (~90\u00c2\u00b0) branching.",
-        "whyCorrect": "Rhinocerebral mucormycosis begins in the nasal turbinates/sinuses and can spread to the orbit and brain. DKA is the strongest risk factor because Mucorales possess ketone reductase and thrive in acidic, high-glucose environments. Acidosis increases free iron (decreasing transferrin binding), further promoting fungal growth. Biopsy shows broad, ribbon-like, non-septate hyphae with right-angle (~90\u00c2\u00b0) branching.",
+        "summary": "Rhinocerebral mucormycosis is the most frequent presentation of mucormycosis. DKA is the strongest risk factor. Mucorales possess ketone reductase and grow well in acidic, high-glucose environments. Biopsy shows broad, non-septate hyphae with right-angle (~90Â°) branching.",
+        "whyCorrect": "Rhinocerebral mucormycosis begins in the nasal turbinates/sinuses and can spread to the orbit and brain. DKA is the strongest risk factor because Mucorales possess ketone reductase and thrive in acidic, high-glucose environments. Acidosis increases free iron (decreasing transferrin binding), further promoting fungal growth. Biopsy shows broad, ribbon-like, non-septate hyphae with right-angle (~90Â°) branching.",
         "whyWrongByChoice": {
-          "A": "Aspergillus hyphae are septate with acute-angle (~45\u00c2\u00b0) branching, not the broad, non-septate, right-angle branching described here.",
+          "A": "Aspergillus hyphae are septate with acute-angle (~45Â°) branching, not the broad, non-septate, right-angle branching described here.",
           "C": "Nocardia forms gram-positive branching filaments that are weakly acid-fast. It does not produce the broad, non-septate hyphae described in this biopsy.",
           "D": "Cryptococcal meningitis presents with meningeal symptoms and is diagnosed by India ink stain or CSF antigen. It does not cause nasal necrosis with hyphal invasion.",
           "E": "PCP causes interstitial pneumonia in immunocompromised patients. It does not cause rhinocerebral disease with tissue necrosis."
@@ -150,7 +150,7 @@
       "id": "r32-004",
       "topicId": "invasive-fungal-infections",
       "topicName": "Invasive Fungal Infections",
-      "stem": "A 35-year-old man with AIDS (CD4 count 80 cells/mm\u00c2\u00b3) presents with progressive dyspnea and dry cough over 3 weeks. Chest X-ray shows bilateral interstitial infiltrates. BAL with silver stain reveals indented, helmet-shaped cysts. Which of the following is the most likely organism?",
+      "stem": "A 35-year-old man with AIDS (CD4 count 80 cells/mmÂ³) presents with progressive dyspnea and dry cough over 3 weeks. Chest X-ray shows bilateral interstitial infiltrates. BAL with silver stain reveals indented, helmet-shaped cysts. Which of the following is the most likely organism?",
       "choices": [
         {
           "label": "A",
@@ -176,9 +176,9 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "P. jirovecii causes PCP in severely immunocompromised patients (CD4 <200). Silver stain of BAL reveals characteristic indented, helmet-shaped cysts. PCP presents with progressive dyspnea, dry cough, and bilateral interstitial infiltrates.",
-        "whyCorrect": "P. jirovecii causes Pneumocystis pneumonia (PCP) in severely immunocompromised patients, especially those with HIV/AIDS when CD4 count falls below 200 cells/mm\u00c2\u00b3. Classic presentation includes progressive dyspnea, nonproductive cough, and bilateral interstitial infiltrates on CXR. Silver stain (methenamine silver) reveals characteristic 'indented, helmet-shaped cysts.'",
+        "whyCorrect": "P. jirovecii causes Pneumocystis pneumonia (PCP) in severely immunocompromised patients, especially those with HIV/AIDS when CD4 count falls below 200 cells/mmÂ³. Classic presentation includes progressive dyspnea, nonproductive cough, and bilateral interstitial infiltrates on CXR. Silver stain (methenamine silver) reveals characteristic 'indented, helmet-shaped cysts.'",
         "whyWrongByChoice": {
-          "A": "Aspergillus causes invasive disease in neutropenic patients, showing septate hyphae with acute-angle branching on biopsy\u00e2\u20ac\u201dnot helmet-shaped cysts.",
+          "A": "Aspergillus causes invasive disease in neutropenic patients, showing septate hyphae with acute-angle branching on biopsyâ€”not helmet-shaped cysts.",
           "B": "Mucor causes rhinocerebral or pulmonary disease with broad, non-septate hyphae, not helmet-shaped cysts.",
           "D": "TB shows acid-fast bacilli on staining, not helmet-shaped cysts. TB can occur at any CD4 count in HIV patients but presents differently.",
           "E": "S. pneumoniae causes acute bacterial pneumonia with lobar consolidation and gram-positive diplococci, not bilateral interstitial infiltrates with helmet-shaped cysts."
@@ -249,7 +249,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "\u00ce\u00b2-D-glucan"
+          "text": "Î²-D-glucan"
         },
         {
           "label": "B",
@@ -273,7 +273,7 @@
         "summary": "Galactomannan is a component of the Aspergillus cell wall that can be detected by antigen tests in blood or BAL to support a diagnosis of invasive aspergillosis.",
         "whyCorrect": "Galactomannan is a specific component of the Aspergillus cell wall. Antigen detection kits can detect galactomannan in blood or BAL fluid. While sensitivity and specificity have limitations, in the right clinical context, a positive galactomannan test provides a presumptive diagnosis of invasive aspergillosis. Importantly, Mucorales species do NOT possess galactomannan, so a negative result in a suspected fungal infection may suggest mucormycosis.",
         "whyWrongByChoice": {
-          "A": "\u00ce\u00b2-D-glucan is found in the cell wall of most fungi (not just Aspergillus) and is therefore nonspecific. It can support a diagnosis of fungal infection generally but does not identify Aspergillus specifically.",
+          "A": "Î²-D-glucan is found in the cell wall of most fungi (not just Aspergillus) and is therefore nonspecific. It can support a diagnosis of fungal infection generally but does not identify Aspergillus specifically.",
           "C": "Ergosterol is a fungal membrane component targeted by antifungals (amphotericin B, azoles) but is not used as a diagnostic antigen test.",
           "D": "Chitin is a structural polysaccharide in fungal cell walls but is not used as a diagnostic antigen for aspergillosis.",
           "E": "Mannoprotein is a component of the Cryptococcus capsule, not an Aspergillus-specific antigen."
@@ -437,34 +437,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "500 cells/\u00ce\u00bcL"
+          "text": "500 cells/Î¼L"
         },
         {
           "label": "B",
-          "text": "350 cells/\u00ce\u00bcL"
+          "text": "350 cells/Î¼L"
         },
         {
           "label": "C",
-          "text": "200 cells/\u00ce\u00bcL"
+          "text": "200 cells/Î¼L"
         },
         {
           "label": "D",
-          "text": "100 cells/\u00ce\u00bcL"
+          "text": "100 cells/Î¼L"
         },
         {
           "label": "E",
-          "text": "50 cells/\u00ce\u00bcL"
+          "text": "50 cells/Î¼L"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "TMP-SMX prophylaxis for PCP is recommended when CD4 T cell counts fall below 200 cells/\u00ce\u00bcL. This intervention has significantly reduced PCP incidence since the AIDS epidemic.",
-        "whyCorrect": "PCP prophylaxis with TMP-SMX is recommended when CD4 T cell counts fall below 200 cells/\u00ce\u00bcL. This threshold was established because PCP risk increases dramatically below this level. The widespread use of prophylaxis has significantly reduced PCP incidence since the early days of the AIDS epidemic.",
+        "summary": "TMP-SMX prophylaxis for PCP is recommended when CD4 T cell counts fall below 200 cells/Î¼L. This intervention has significantly reduced PCP incidence since the AIDS epidemic.",
+        "whyCorrect": "PCP prophylaxis with TMP-SMX is recommended when CD4 T cell counts fall below 200 cells/Î¼L. This threshold was established because PCP risk increases dramatically below this level. The widespread use of prophylaxis has significantly reduced PCP incidence since the early days of the AIDS epidemic.",
         "whyWrongByChoice": {
-          "A": "500 cells/\u00ce\u00bcL is not the threshold for PCP prophylaxis. Some opportunistic infections are considered at this level, but PCP prophylaxis begins at 200.",
-          "B": "350 cells/\u00ce\u00bcL was historically used as a threshold for initiating ART in some guidelines, but PCP prophylaxis specifically starts at 200.",
-          "D": "100 cells/\u00ce\u00bcL is the threshold for MAC prophylaxis, not PCP. PCP prophylaxis begins earlier, at 200.",
-          "E": "50 cells/\u00ce\u00bcL is associated with CMV retinitis risk. PCP prophylaxis should already be in place well before CD4 counts drop this low."
+          "A": "500 cells/Î¼L is not the threshold for PCP prophylaxis. Some opportunistic infections are considered at this level, but PCP prophylaxis begins at 200.",
+          "B": "350 cells/Î¼L was historically used as a threshold for initiating ART in some guidelines, but PCP prophylaxis specifically starts at 200.",
+          "D": "100 cells/Î¼L is the threshold for MAC prophylaxis, not PCP. PCP prophylaxis begins earlier, at 200.",
+          "E": "50 cells/Î¼L is associated with CMV retinitis risk. PCP prophylaxis should already be in place well before CD4 counts drop this low."
         }
       },
       "difficulty": "medium",
@@ -527,7 +527,7 @@
       "id": "r32-012",
       "topicId": "invasive-fungal-infections",
       "topicName": "Invasive Fungal Infections",
-      "stem": "A patient suspected of having a fungal infection has a negative galactomannan test AND a negative \u00ce\u00b2-D-glucan test. Which of the following organisms is most consistent with these results?",
+      "stem": "A patient suspected of having a fungal infection has a negative galactomannan test AND a negative Î²-D-glucan test. Which of the following organisms is most consistent with these results?",
       "choices": [
         {
           "label": "A",
@@ -552,13 +552,13 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Mucorales species do NOT possess galactomannan or \u00ce\u00b2-D-glucan in their cell walls. Both tests being negative in a suspected fungal infection should raise suspicion for mucormycosis.",
-        "whyCorrect": "Species of Mucorales do not possess galactomannan (an Aspergillus cell wall component) or \u00ce\u00b2-D-glucan in their cell walls. Therefore, both the galactomannan and \u00ce\u00b2-D-glucan tests are negative in mucormycosis. A negative result for both tests in a patient with suspected invasive fungal infection should raise the possibility of mucormycosis.",
+        "summary": "Mucorales species do NOT possess galactomannan or Î²-D-glucan in their cell walls. Both tests being negative in a suspected fungal infection should raise suspicion for mucormycosis.",
+        "whyCorrect": "Species of Mucorales do not possess galactomannan (an Aspergillus cell wall component) or Î²-D-glucan in their cell walls. Therefore, both the galactomannan and Î²-D-glucan tests are negative in mucormycosis. A negative result for both tests in a patient with suspected invasive fungal infection should raise the possibility of mucormycosis.",
         "whyWrongByChoice": {
           "A": "Aspergillus has galactomannan in its cell wall, so the galactomannan test would likely be positive in invasive aspergillosis.",
-          "B": "Candida has \u00ce\u00b2-D-glucan in its cell wall, so the \u00ce\u00b2-D-glucan test would likely be positive in invasive candidiasis.",
-          "D": "P. jirovecii has \u00ce\u00b2-D-glucan in its cell wall, so the \u00ce\u00b2-D-glucan test would be positive in PCP (though it is nonspecific).",
-          "E": "Histoplasma has \u00ce\u00b2-D-glucan in its cell wall. Additionally, Histoplasma has its own urine antigen test."
+          "B": "Candida has Î²-D-glucan in its cell wall, so the Î²-D-glucan test would likely be positive in invasive candidiasis.",
+          "D": "P. jirovecii has Î²-D-glucan in its cell wall, so the Î²-D-glucan test would be positive in PCP (though it is nonspecific).",
+          "E": "Histoplasma has Î²-D-glucan in its cell wall. Additionally, Histoplasma has its own urine antigen test."
         }
       },
       "difficulty": "hard",
@@ -600,7 +600,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "In DKA, acidosis increases free (unbound) iron by decreasing transferrin binding. This elevated free iron enhances Mucorales proliferation. Mucorales also possess ketone reductase and grow well in acidic, high-glucose environments.",
-        "whyCorrect": "In diabetic ketoacidosis, acidosis decreases iron binding to transferrin, increasing free (unbound) iron levels in the serum. This elevated free iron enhances fungal proliferation. Additionally, Mucorales organisms possess ketone reductase and grow well in acidic, high-glucose environments\u00e2\u20ac\u201dall conditions present in DKA\u00e2\u20ac\u201dmaking it the strongest risk factor for mucormycosis.",
+        "whyCorrect": "In diabetic ketoacidosis, acidosis decreases iron binding to transferrin, increasing free (unbound) iron levels in the serum. This elevated free iron enhances fungal proliferation. Additionally, Mucorales organisms possess ketone reductase and grow well in acidic, high-glucose environmentsâ€”all conditions present in DKAâ€”making it the strongest risk factor for mucormycosis.",
         "whyWrongByChoice": {
           "A": "Acidosis does not activate sporulation genes. The mechanism is increased free iron and favorable growth conditions (high glucose, ketones, acid pH).",
           "C": "While DKA can impair neutrophil function, the primary mechanism promoting Mucorales growth is increased free iron from decreased transferrin binding in acidotic conditions.",
@@ -673,11 +673,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Aspergillus: non-septate, 90\u00c2\u00b0 branching; Mucorales: septate, 45\u00c2\u00b0 branching"
+          "text": "Aspergillus: non-septate, 90Â° branching; Mucorales: septate, 45Â° branching"
         },
         {
           "label": "B",
-          "text": "Aspergillus: septate, 45\u00c2\u00b0 branching; Mucorales: non-septate, 90\u00c2\u00b0 branching"
+          "text": "Aspergillus: septate, 45Â° branching; Mucorales: non-septate, 90Â° branching"
         },
         {
           "label": "C",
@@ -694,10 +694,10 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Aspergillus hyphae are septate with acute-angle (~45\u00c2\u00b0) branching. Mucorales hyphae are broad, non-septate (ribbon-like) with right-angle (~90\u00c2\u00b0) branching. This distinction is critical for diagnosis and treatment selection.",
-        "whyCorrect": "Aspergillus spp. hyphae are septate (with breaks/septa) and branch at acute angles (approximately 45\u00c2\u00b0). Mucorales hyphae are broad, ribbon-like, non-septate (no septa) with irregular, right-angle branching (approximately 90\u00c2\u00b0). This histologic distinction is critical because treatment differs significantly (voriconazole for Aspergillus vs. amphotericin B for Mucorales).",
+        "summary": "Aspergillus hyphae are septate with acute-angle (~45Â°) branching. Mucorales hyphae are broad, non-septate (ribbon-like) with right-angle (~90Â°) branching. This distinction is critical for diagnosis and treatment selection.",
+        "whyCorrect": "Aspergillus spp. hyphae are septate (with breaks/septa) and branch at acute angles (approximately 45Â°). Mucorales hyphae are broad, ribbon-like, non-septate (no septa) with irregular, right-angle branching (approximately 90Â°). This histologic distinction is critical because treatment differs significantly (voriconazole for Aspergillus vs. amphotericin B for Mucorales).",
         "whyWrongByChoice": {
-          "A": "This reverses the characteristics. Aspergillus is septate with 45\u00c2\u00b0 branching, and Mucorales is non-septate with 90\u00c2\u00b0 branching.",
+          "A": "This reverses the characteristics. Aspergillus is septate with 45Â° branching, and Mucorales is non-septate with 90Â° branching.",
           "C": "Both Aspergillus and Mucorales exist as hyphal (mold) forms. Neither produces yeast forms in tissue.",
           "D": "Neither Aspergillus nor Mucorales are encapsulated. Encapsulation is a feature of yeasts like Cryptococcus.",
           "E": "While Aspergillus species can produce pigmented colonies in culture, this is not the primary distinguishing histologic feature. The septation and branching angle are the key differentiators."
@@ -743,7 +743,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "Chronic granulomatous disease (CGD) involves defective NADPH oxidase, impairing the oxidative burst needed to kill catalase-positive organisms. Aspergillus species are catalase-positive, making CGD patients particularly susceptible.",
-        "whyCorrect": "Aspergillus species are catalase-positive. In CGD, defective NADPH oxidase activity impairs the neutrophil oxidative burst. Normally, neutrophils produce reactive oxygen species (H\u00e2\u201a\u201aO\u00e2\u201a\u201a) to kill phagocytosed organisms. Catalase-positive organisms like Aspergillus can break down H\u00e2\u201a\u201aO\u00e2\u201a\u201a, so they particularly thrive when the oxidative burst is already impaired, as in CGD.",
+        "whyCorrect": "Aspergillus species are catalase-positive. In CGD, defective NADPH oxidase activity impairs the neutrophil oxidative burst. Normally, neutrophils produce reactive oxygen species (Hâ‚‚Oâ‚‚) to kill phagocytosed organisms. Catalase-positive organisms like Aspergillus can break down Hâ‚‚Oâ‚‚, so they particularly thrive when the oxidative burst is already impaired, as in CGD.",
         "whyWrongByChoice": {
           "A": "CVID involves B cell dysfunction and low immunoglobulin levels, predisposing to encapsulated bacterial infections, not specifically catalase-positive fungal infections.",
           "B": "X-linked agammaglobulinemia (Bruton's) involves absent B cells and immunoglobulins, predisposing to encapsulated bacteria, not specifically Aspergillus.",
@@ -890,7 +890,7 @@
         "whyWrongByChoice": {
           "B": "While IgG may also be elevated in ABPA, the key distinguishing test for ABPA is elevated IgE. CPA is specifically diagnosed with IgG, not IgE.",
           "C": "IgM and IgA are not the standard antibody markers used to distinguish ABPA from CPA.",
-          "D": "Antibody tests are positive in both conditions\u00e2\u20ac\u201dIgE in ABPA and IgG in CPA. They are negative/unreliable only in IPA.",
+          "D": "Antibody tests are positive in both conditionsâ€”IgE in ABPA and IgG in CPA. They are negative/unreliable only in IPA.",
           "E": "Galactomannan antigen testing is used for invasive aspergillosis, not for distinguishing ABPA from CPA."
         }
       },
@@ -938,7 +938,7 @@
         "whyWrongByChoice": {
           "A": "Voriconazole is first-line for invasive aspergillosis. P. jirovecii lacks ergosterol, making azole antifungals ineffective.",
           "B": "Amphotericin B targets ergosterol in fungal membranes. Since P. jirovecii lacks ergosterol, amphotericin B is ineffective.",
-          "D": "Caspofungin targets \u00ce\u00b2-D-glucan synthesis. While P. jirovecii has \u00ce\u00b2-D-glucan, echinocandins are not standard treatment for PCP.",
+          "D": "Caspofungin targets Î²-D-glucan synthesis. While P. jirovecii has Î²-D-glucan, echinocandins are not standard treatment for PCP.",
           "E": "Fluconazole targets ergosterol synthesis. Since P. jirovecii lacks ergosterol, fluconazole is ineffective."
         }
       },
@@ -1030,10 +1030,10 @@
         "summary": "PCR has excellent sensitivity for detecting P. jirovecii but cannot distinguish between environmental exposure/colonization and active infection. People are exposed to P. jirovecii daily and may have detectable DNA without disease. PCR is typically paired with other methods for confirmation.",
         "whyCorrect": "PCR has excellent sensitivity for detecting P. jirovecii DNA, but this is also its greatest weakness. People are exposed to P. jirovecii daily and breathe the fungus into their lungs. There is also evidence of pulmonary colonization. Because of this, PCR cannot distinguish between someone who simply breathed in the organism (exposure/colonization) and those with active infection. PCR is typically paired with staining or other diagnostic methods for confirmation.",
         "whyWrongByChoice": {
-          "A": "PCR can detect P. jirovecii DNA with excellent sensitivity. Detection is not the problem\u00e2\u20ac\u201ddistinguishing colonization from disease is.",
+          "A": "PCR can detect P. jirovecii DNA with excellent sensitivity. Detection is not the problemâ€”distinguishing colonization from disease is.",
           "C": "PCR can be performed on BAL fluid, induced sputum, or other respiratory specimens. Tissue biopsy is not required.",
           "D": "PCR for P. jirovecii is available at many clinical laboratories, not just reference labs.",
-          "E": "The opposite is true\u00e2\u20ac\u201dPCR has excellent sensitivity but specificity is limited because it cannot differentiate colonization from infection."
+          "E": "The opposite is trueâ€”PCR has excellent sensitivity but specificity is limited because it cannot differentiate colonization from infection."
         }
       },
       "difficulty": "hard",
@@ -1168,8 +1168,8 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Coccidioides immitis causes Valley fever, endemic to the arid southwestern US (Arizona, California). In tissue at 37\u00c2\u00b0C, it forms large spherules filled with endospores. Erythema nodosum is a common immune reaction to circulating fungal antigens.",
-        "whyCorrect": "Coccidioides is endemic to the arid desert regions of the southwestern US. Exposure to dry, dusty soil is a risk factor. In tissue at 37\u00c2\u00b0C, Coccidioides forms large spherules filled with endospores rather than typical yeast\u00e2\u20ac\u201da unique morphologic feature. Erythema nodosum (painful red nodules on shins) is a common immune-mediated reaction to circulating fungal antigens.",
+        "summary": "Coccidioides immitis causes Valley fever, endemic to the arid southwestern US (Arizona, California). In tissue at 37Â°C, it forms large spherules filled with endospores. Erythema nodosum is a common immune reaction to circulating fungal antigens.",
+        "whyCorrect": "Coccidioides is endemic to the arid desert regions of the southwestern US. Exposure to dry, dusty soil is a risk factor. In tissue at 37Â°C, Coccidioides forms large spherules filled with endospores rather than typical yeastâ€”a unique morphologic feature. Erythema nodosum (painful red nodules on shins) is a common immune-mediated reaction to circulating fungal antigens.",
         "whyWrongByChoice": {
           "A": "Histoplasma shows small intracellular yeast with narrow-based budding, not spherules with endospores. It is endemic to the Ohio/Mississippi River valleys.",
           "B": "Blastomyces shows large yeast with broad-based budding, not spherules. It is endemic to the Great Lakes/eastern US.",
@@ -1191,7 +1191,7 @@
       "id": "r33-004",
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "stem": "An HIV-positive man with CD4 count of 50 cells/mm\u00c2\u00b3 presents with fever, headache, and nuchal rigidity. CSF analysis shows an encapsulated yeast. Which of the following staining methods historically was used to visualize this organism?",
+      "stem": "An HIV-positive man with CD4 count of 50 cells/mmÂ³ presents with fever, headache, and nuchal rigidity. CSF analysis shows an encapsulated yeast. Which of the following staining methods historically was used to visualize this organism?",
       "choices": [
         {
           "label": "A",
@@ -1217,7 +1217,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "Cryptococcus neoformans has a prominent polysaccharide capsule that was historically visualized with India ink in CSF. India ink reveals a clear halo around the yeast cells. CrAg testing has largely replaced India ink.",
-        "whyCorrect": "Cryptococcus neoformans has a very large, prominent polysaccharide capsule. Historically, India ink was used to visualize this capsule in CSF\u00e2\u20ac\u201dthe ink particles cannot penetrate the capsule, creating a clear halo around the yeast. However, India ink has largely been replaced by the more sensitive and specific Cryptococcal Antigen (CrAg) test for rapid diagnosis.",
+        "whyCorrect": "Cryptococcus neoformans has a very large, prominent polysaccharide capsule. Historically, India ink was used to visualize this capsule in CSFâ€”the ink particles cannot penetrate the capsule, creating a clear halo around the yeast. However, India ink has largely been replaced by the more sensitive and specific Cryptococcal Antigen (CrAg) test for rapid diagnosis.",
         "whyWrongByChoice": {
           "A": "Ziehl-Neelsen stain is the acid-fast stain for mycobacteria (TB), not Cryptococcus.",
           "B": "Standard Gram stain does not reliably visualize Cryptococcus's capsule. India ink or CrAg testing is needed.",
@@ -1239,15 +1239,15 @@
       "id": "r33-005",
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "stem": "Histoplasma, Blastomyces, and Coccidioides are thermally dimorphic fungi. Which of the following correctly describes their morphology at body temperature (37\u00c2\u00b0C) versus environmental temperature (25\u00c2\u00b0C)?",
+      "stem": "Histoplasma, Blastomyces, and Coccidioides are thermally dimorphic fungi. Which of the following correctly describes their morphology at body temperature (37Â°C) versus environmental temperature (25Â°C)?",
       "choices": [
         {
           "label": "A",
-          "text": "Yeast at 25\u00c2\u00b0C, mold at 37\u00c2\u00b0C"
+          "text": "Yeast at 25Â°C, mold at 37Â°C"
         },
         {
           "label": "B",
-          "text": "Mold at 25\u00c2\u00b0C, yeast at 37\u00c2\u00b0C"
+          "text": "Mold at 25Â°C, yeast at 37Â°C"
         },
         {
           "label": "C",
@@ -1259,18 +1259,18 @@
         },
         {
           "label": "E",
-          "text": "Spores at 25\u00c2\u00b0C, hyphae at 37\u00c2\u00b0C"
+          "text": "Spores at 25Â°C, hyphae at 37Â°C"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Thermally dimorphic fungi follow the rule 'mold in the cold (25\u00c2\u00b0C), yeast in the heat (37\u00c2\u00b0C).' At environmental temperatures they grow as molds; at body temperature they convert to yeast (or spherules in Coccidioides).",
-        "whyCorrect": "Thermally dimorphic fungi follow the classic rule: 'mold in the cold (25\u00c2\u00b0C), yeast in the heat (37\u00c2\u00b0C).' At environmental temperatures, they grow in mold form; at body temperature, they convert to pathogenic yeast form (or spherules in the case of Coccidioides). This dimorphism is demonstrated in the lab by growing on Sabouraud agar at both temperatures.",
+        "summary": "Thermally dimorphic fungi follow the rule 'mold in the cold (25Â°C), yeast in the heat (37Â°C).' At environmental temperatures they grow as molds; at body temperature they convert to yeast (or spherules in Coccidioides).",
+        "whyCorrect": "Thermally dimorphic fungi follow the classic rule: 'mold in the cold (25Â°C), yeast in the heat (37Â°C).' At environmental temperatures, they grow in mold form; at body temperature, they convert to pathogenic yeast form (or spherules in the case of Coccidioides). This dimorphism is demonstrated in the lab by growing on Sabouraud agar at both temperatures.",
         "whyWrongByChoice": {
-          "A": "This reverses the relationship. Dimorphic fungi are molds at 25\u00c2\u00b0C (environmental) and yeast at 37\u00c2\u00b0C (body temperature).",
+          "A": "This reverses the relationship. Dimorphic fungi are molds at 25Â°C (environmental) and yeast at 37Â°C (body temperature).",
           "C": "Cryptococcus spp. exist as yeast at both temperatures, but the thermally dimorphic fungi (Histoplasma, Blastomyces, Coccidioides) convert between mold and yeast forms.",
           "D": "Aspergillus exists only as mold at both temperatures. The thermally dimorphic fungi convert to yeast at body temperature.",
-          "E": "While spores/conidia are produced at 25\u00c2\u00b0C, the key dimorphism is between mold form (25\u00c2\u00b0C) and yeast form (37\u00c2\u00b0C)."
+          "E": "While spores/conidia are produced at 25Â°C, the key dimorphism is between mold form (25Â°C) and yeast form (37Â°C)."
         }
       },
       "difficulty": "medium",
@@ -1359,7 +1359,7 @@
       "correctAnswer": "E",
       "explanation": {
         "summary": "Paracoccidioides is a dimorphic fungus endemic to South and Central America. Its yeast form shows multiple narrow-based buds arranged circumferentially around a central mother cell, called the Captain's or Mariner's wheel. Oral mucosal ulcers are characteristic.",
-        "whyCorrect": "Paracoccidioides is endemic to South and Central America (especially Brazil), primarily affecting adult men. In chronic cases, mucosal involvement occurs in over 50% of cases, with the mouth being most frequently affected. The yeast form shows large, round cells with multiple buds arranged circumferentially\u00e2\u20ac\u201dthe Captain's or Mariner's wheel appearance.",
+        "whyCorrect": "Paracoccidioides is endemic to South and Central America (especially Brazil), primarily affecting adult men. In chronic cases, mucosal involvement occurs in over 50% of cases, with the mouth being most frequently affected. The yeast form shows large, round cells with multiple buds arranged circumferentiallyâ€”the Captain's or Mariner's wheel appearance.",
         "whyWrongByChoice": {
           "A": "Histoplasma shows small yeast with narrow-based budding (single buds, not multiple circumferential buds). It is endemic to the Ohio/Mississippi River valleys.",
           "B": "Blastomyces shows large yeast with broad-based budding (single bud), not the multiple circumferential buds of Paracoccidioides. Blastomyces skin lesions are verrucous, not oral ulcers.",
@@ -1436,7 +1436,7 @@
         },
         {
           "label": "B",
-          "text": "\u00ce\u00b2-D-glucan assay"
+          "text": "Î²-D-glucan assay"
         },
         {
           "label": "C",
@@ -1457,7 +1457,7 @@
         "whyCorrect": "Histoplasma can be diagnosed by urine and serum galactomannan antigen detection. Both Histoplasma and Aspergillus spp. have galactomannan, so this test cannot distinguish between the two. However, in the right clinical context (endemic area exposure, risk factors), a positive galactomannan helps confirm Histoplasma infection.",
         "whyWrongByChoice": {
           "A": "CrAg test detects Cryptococcus capsular antigen in serum or CSF, not Histoplasma antigen.",
-          "B": "\u00ce\u00b2-D-glucan is a nonspecific fungal marker found in most fungi. While it can support a fungal infection diagnosis, it does not specifically identify Histoplasma.",
+          "B": "Î²-D-glucan is a nonspecific fungal marker found in most fungi. While it can support a fungal infection diagnosis, it does not specifically identify Histoplasma.",
           "D": "India ink is used to visualize the Cryptococcus capsule in CSF, not for Histoplasma detection.",
           "E": "While PCR can detect fungal DNA, galactomannan antigen testing is the specific rapid antigen test for Histoplasma."
         }
@@ -1738,9 +1738,9 @@
         "summary": "Cryptococcus spp. are considered yeasts without a clear mold form and are thus not thermally dimorphic. All other listed fungi (Histoplasma, Blastomyces, Coccidioides, Paracoccidioides) are thermally dimorphic.",
         "whyCorrect": "Cryptococcus spp. exist only as yeast and do not have a mold form, making them the exception among the geographically defined mycoses. They are not thermally dimorphic. Histoplasma, Blastomyces, and Coccidioides all follow the 'mold in the cold, yeast in the heat' pattern.",
         "whyWrongByChoice": {
-          "A": "Histoplasma is thermally dimorphic: mold at 25\u00c2\u00b0C with micro/macroconidia; yeast at 37\u00c2\u00b0C with narrow-based budding.",
-          "B": "Blastomyces is thermally dimorphic: mold at 25\u00c2\u00b0C with microconidia; yeast at 37\u00c2\u00b0C with broad-based budding.",
-          "C": "Coccidioides is thermally dimorphic: mold at 25\u00c2\u00b0C with arthroconidia; spherules with endospores at 37\u00c2\u00b0C.",
+          "A": "Histoplasma is thermally dimorphic: mold at 25Â°C with micro/macroconidia; yeast at 37Â°C with narrow-based budding.",
+          "B": "Blastomyces is thermally dimorphic: mold at 25Â°C with microconidia; yeast at 37Â°C with broad-based budding.",
+          "C": "Coccidioides is thermally dimorphic: mold at 25Â°C with arthroconidia; spherules with endospores at 37Â°C.",
           "E": "Paracoccidioides is thermally dimorphic: mold in the environment; yeast with multiple buds (Captain's wheel) in tissue."
         }
       },
@@ -1783,7 +1783,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Histoplasma infection can produce caseating granulomas, similar to M. tuberculosis. Both organisms cause intracellular infection in macrophages and stimulate Th1 cell-mediated immune responses that form granulomas.",
-        "whyCorrect": "Pathologic evaluation of histoplasmosis may demonstrate caseating granulomas, similar to tuberculosis. Both Histoplasma and M. tuberculosis are intracellular pathogens that replicate within macrophages and stimulate Th1/IFN-\u00ce\u00b3-driven immune responses that form granulomas. The clinical presentation can also mimic TB with nodular infiltrates and cavitation.",
+        "whyCorrect": "Pathologic evaluation of histoplasmosis may demonstrate caseating granulomas, similar to tuberculosis. Both Histoplasma and M. tuberculosis are intracellular pathogens that replicate within macrophages and stimulate Th1/IFN-Î³-driven immune responses that form granulomas. The clinical presentation can also mimic TB with nodular infiltrates and cavitation.",
         "whyWrongByChoice": {
           "A": "Sarcoidosis causes noncaseating granulomas (without central necrosis), not caseating granulomas like Histoplasma and TB.",
           "C": "Aspergillosis causes tissue invasion by hyphae and tissue necrosis but does not typically form the caseating granulomas seen with Histoplasma.",
@@ -1859,7 +1859,7 @@
         },
         {
           "label": "B",
-          "text": "\u00ce\u00b2-D-glucan assay"
+          "text": "Î²-D-glucan assay"
         },
         {
           "label": "C",
@@ -1880,7 +1880,7 @@
         "whyCorrect": "The Cryptococcal Antigen (CrAg) test detects the polysaccharide capsular antigen of Cryptococcus in serum or CSF. It is very sensitive and has largely replaced India ink staining as the standard diagnostic method. CrAg can be detected even in severely immunocompromised patients who may have atypical presentations without classic meningeal signs.",
         "whyWrongByChoice": {
           "A": "Galactomannan antigen testing detects Aspergillus and Histoplasma antigens, not Cryptococcus.",
-          "B": "\u00ce\u00b2-D-glucan is a nonspecific marker for most fungal infections. Cryptococcus does not possess significant amounts of \u00ce\u00b2-D-glucan, making this test less useful.",
+          "B": "Î²-D-glucan is a nonspecific marker for most fungal infections. Cryptococcus does not possess significant amounts of Î²-D-glucan, making this test less useful.",
           "D": "Aspergillus-specific IgE is used for ABPA diagnosis, not Cryptococcus.",
           "E": "Histoplasma urine antigen detects Histoplasma galactomannan, not Cryptococcus."
         }
@@ -1954,7 +1954,7 @@
         },
         {
           "label": "B",
-          "text": "Th1 cell-mediated immunity with IFN-\u00ce\u00b3"
+          "text": "Th1 cell-mediated immunity with IFN-Î³"
         },
         {
           "label": "C",
@@ -1971,8 +1971,8 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Effective granuloma formation requires a strong Th1 cell-mediated immune response, especially IFN-\u00ce\u00b3-activated macrophages. Immunocompromised patients (HIV/AIDS, corticosteroids, transplant) cannot mount this organized response.",
-        "whyCorrect": "Effective granuloma formation requires a strong Th1 cell-mediated immune response, especially IFN-\u00ce\u00b3-activated macrophages. When patients are immunocompromised (advanced HIV/AIDS, corticosteroid use, transplant immunosuppression, chemotherapy), they cannot mount this organized response. Instead of granulomas, pathology shows diffuse organisms with minimal granulomatous inflammation.",
+        "summary": "Effective granuloma formation requires a strong Th1 cell-mediated immune response, especially IFN-Î³-activated macrophages. Immunocompromised patients (HIV/AIDS, corticosteroids, transplant) cannot mount this organized response.",
+        "whyCorrect": "Effective granuloma formation requires a strong Th1 cell-mediated immune response, especially IFN-Î³-activated macrophages. When patients are immunocompromised (advanced HIV/AIDS, corticosteroid use, transplant immunosuppression, chemotherapy), they cannot mount this organized response. Instead of granulomas, pathology shows diffuse organisms with minimal granulomatous inflammation.",
         "whyWrongByChoice": {
           "A": "Humoral immunity (antibodies) is not the primary driver of granuloma formation. Granulomas require T cell-mediated (Th1) immunity.",
           "C": "Complement activation aids in innate immune defense but does not drive granuloma formation, which requires adaptive Th1 responses.",
@@ -2082,6 +2082,2044 @@
         "amphotericin-B",
         "flucytosine",
         "induction"
+      ]
+    },
+    {
+      "id": "r32h-001",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 58-year-old man with acute myeloid leukemia is on day 18 of induction chemotherapy. His absolute neutrophil count is 120 cells/uL. He develops fever, pleuritic chest pain, and hemoptysis. Chest CT reveals a pulmonary nodule surrounded by ground-glass opacity. Serum galactomannan is positive. Which morphology is expected on biopsy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Septate hyphae, acute-angle branching"
+        },
+        {
+          "label": "B",
+          "text": "Non-septate hyphae, right-angle branching"
+        },
+        {
+          "label": "C",
+          "text": "Encapsulated budding yeast"
+        },
+        {
+          "label": "D",
+          "text": "Helmet-shaped cysts on silver stain"
+        },
+        {
+          "label": "E",
+          "text": "Pseudohyphae with blastoconidia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neutropenia + halo sign + positive galactomannan = invasive aspergillosis.",
+        "whyCorrect": "Aspergillus hyphae are septate with acute-angle (approximately 45 degrees) branching. Galactomannan is a cell wall component of Aspergillus, and the halo sign reflects hemorrhage around angioinvasive fungal lesions in neutropenic hosts.",
+        "whyWrongByChoice": {
+          "A": "",
+          "B": "Broad non-septate hyphae with ~90 degree branching characterize Mucorales, not Aspergillus.",
+          "C": "Encapsulated yeast describes Cryptococcus, which does not produce galactomannan.",
+          "D": "Helmet-shaped cysts describe Pneumocystis jirovecii on silver stain.",
+          "E": "Pseudohyphae with blastoconidia describe Candida species."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aspergillus",
+        "neutropenia",
+        "halo-sign"
+      ]
+    },
+    {
+      "id": "r32h-002",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 45-year-old woman with type 1 diabetes presents with diabetic ketoacidosis, facial pain, and a black eschar on the hard palate. Biopsy is pending but imaging shows sinus opacification with extension into the orbit. Which intervention should be initiated immediately?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IV voriconazole alone"
+        },
+        {
+          "label": "B",
+          "text": "IV amphotericin B plus surgical debridement"
+        },
+        {
+          "label": "C",
+          "text": "Oral itraconazole only"
+        },
+        {
+          "label": "D",
+          "text": "IV caspofungin monotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Observation until culture returns"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DKA + black eschar = rhino-orbital-cerebral mucormycosis; urgent amphotericin B plus debridement.",
+        "whyCorrect": "Mucormycosis is angioinvasive and rapidly progressive. First-line therapy is amphotericin B combined with aggressive surgical debridement, and treatment should not wait for laboratory confirmation when clinical suspicion is high.",
+        "whyWrongByChoice": {
+          "A": "Voriconazole is first-line for invasive aspergillosis but is NOT active against Mucorales.",
+          "B": "",
+          "C": "Itraconazole has insufficient activity against Mucorales and is not appropriate as monotherapy for life-threatening invasive disease.",
+          "D": "Echinocandins such as caspofungin have no meaningful activity against Mucorales.",
+          "E": "Delay is catastrophic; mortality is 50-80% and therapy must begin empirically."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mucormycosis",
+        "DKA",
+        "amphotericin"
+      ]
+    },
+    {
+      "id": "r32h-003",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 36-year-old man with HIV (CD4 count 85 cells/uL) who is non-adherent to therapy presents with 3 weeks of progressive dyspnea, dry cough, and low-grade fever. Chest CT shows diffuse bilateral ground-glass opacities. Which diagnostic finding is most specific for the likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive serum galactomannan"
+        },
+        {
+          "label": "B",
+          "text": "Growth on Sabouraud agar"
+        },
+        {
+          "label": "C",
+          "text": "Helmet-shaped cysts on silver stain of BAL"
+        },
+        {
+          "label": "D",
+          "text": "India ink capsule on CSF"
+        },
+        {
+          "label": "E",
+          "text": "Broad non-septate hyphae on KOH"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Advanced HIV + ground-glass opacities = Pneumocystis jirovecii; silver stain shows indented, helmet-shaped cysts.",
+        "whyCorrect": "Pneumocystis does not grow on standard fungal media, so diagnosis relies on visualization of cysts using methenamine silver stain, which reveals characteristic indented helmet-shaped forms, or PCR/direct fluorescent antibody of BAL.",
+        "whyWrongByChoice": {
+          "A": "Galactomannan detects Aspergillus cell wall components, not Pneumocystis.",
+          "B": "Pneumocystis cannot be cultured; it lacks ergosterol and does not grow on standard fungal media.",
+          "C": "",
+          "D": "India ink demonstrates cryptococcal capsule in CSF, a different opportunistic organism.",
+          "E": "Non-septate hyphae describe Mucorales, not Pneumocystis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pneumocystis",
+        "HIV",
+        "silver-stain"
+      ]
+    },
+    {
+      "id": "r32h-004",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 28-year-old woman with cystic fibrosis has worsening asthma-like symptoms, expectoration of brown mucus plugs, and central bronchiectasis on CT. Labs show eosinophilia and markedly elevated total IgE with positive Aspergillus-specific IgE and IgG. Which mechanism best explains her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angioinvasion by septate hyphae"
+        },
+        {
+          "label": "B",
+          "text": "Granuloma formation from Th1 response"
+        },
+        {
+          "label": "C",
+          "text": "Complement-mediated direct lysis of fungi"
+        },
+        {
+          "label": "D",
+          "text": "Type I and III hypersensitivity to colonizing fungus"
+        },
+        {
+          "label": "E",
+          "text": "Cytotoxic T-cell destruction of infected cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ABPA = type I (IgE) + type III (immune complex) hypersensitivity to airway Aspergillus colonization in asthma/CF.",
+        "whyCorrect": "ABPA results from colonization of airways by Aspergillus in patients with asthma or cystic fibrosis, triggering IgE-mediated (type I) and immune-complex-mediated (type III) hypersensitivity, yielding eosinophilia, elevated IgE, and central bronchiectasis.",
+        "whyWrongByChoice": {
+          "A": "Angioinvasion describes invasive pulmonary aspergillosis in immunocompromised hosts, not ABPA.",
+          "B": "Granulomatous/Th1-mediated disease characterizes hypersensitivity pneumonitis (type IV), which is a different Aspergillus-associated process.",
+          "C": "Complement does not directly lyse Aspergillus; ABPA is not complement-mediated.",
+          "D": "",
+          "E": "CD8 cytotoxic responses do not drive ABPA."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ABPA",
+        "hypersensitivity",
+        "cystic-fibrosis"
+      ]
+    },
+    {
+      "id": "r32h-005",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 62-year-old man with a history of healed pulmonary tuberculosis and a residual upper lobe cavity develops hemoptysis. CT shows a rounded mass within the old cavity that moves with patient positioning. He is not immunosuppressed. What is the most appropriate management for symptomatic disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IV amphotericin B and TMP-SMX"
+        },
+        {
+          "label": "B",
+          "text": "Surgical resection plus antifungal therapy"
+        },
+        {
+          "label": "C",
+          "text": "High-dose corticosteroids alone"
+        },
+        {
+          "label": "D",
+          "text": "Empiric antituberculous therapy"
+        },
+        {
+          "label": "E",
+          "text": "Observation with no intervention"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fungus ball (aspergilloma) in a pre-existing cavity with hemoptysis requires surgical removal plus antifungals.",
+        "whyCorrect": "Aspergillomas form within pre-existing cavities (commonly from prior TB). Symptomatic disease, especially with hemoptysis, requires surgical resection because the fungal mass cannot be eradicated by antifungal therapy alone.",
+        "whyWrongByChoice": {
+          "A": "TMP-SMX targets Pneumocystis, not Aspergillus.",
+          "B": "",
+          "C": "Corticosteroids treat ABPA, not aspergilloma, and would worsen invasive disease.",
+          "D": "TB is healed; there is no evidence of active mycobacterial infection.",
+          "E": "Symptomatic aspergilloma with hemoptysis carries major bleeding risk; intervention is indicated."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aspergilloma",
+        "cavity",
+        "hemoptysis"
+      ]
+    },
+    {
+      "id": "r32h-006",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 50-year-old woman hospitalized for severe COVID-19 received several weeks of high-dose dexamethasone. She has poorly controlled type 2 diabetes. Three weeks later she presents with periorbital edema, ophthalmoplegia, and facial numbness. Which pathophysiologic feature best explains her susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective NADPH oxidase activity"
+        },
+        {
+          "label": "B",
+          "text": "CD4 T-cell depletion below 200 cells/uL"
+        },
+        {
+          "label": "C",
+          "text": "Elevated free iron and ketone reductase activity"
+        },
+        {
+          "label": "D",
+          "text": "Complement deficiency of MAC components"
+        },
+        {
+          "label": "E",
+          "text": "Inherited B-cell dysfunction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mucorales thrive in acidic, high-glucose, iron-rich environments of DKA plus steroid immunosuppression.",
+        "whyCorrect": "Mucorales organisms possess ketone reductase and grow well in acidic, high-glucose environments. Acidosis reduces transferrin iron binding, increasing free iron that further enhances fungal proliferation; steroids compound susceptibility.",
+        "whyWrongByChoice": {
+          "A": "NADPH oxidase defects (CGD) predispose to Aspergillus, not specifically Mucorales.",
+          "B": "CD4 depletion is the key risk for Pneumocystis and cryptococcus, not mucormycosis.",
+          "C": "",
+          "D": "MAC complement deficiency predisposes to Neisseria, not fungi.",
+          "E": "B-cell dysfunction predisposes to encapsulated bacteria, not Mucorales."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mucormycosis",
+        "COVID-19",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "r32h-007",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 9-year-old boy with recurrent bacterial and fungal infections is diagnosed with chronic granulomatous disease (CGD). He develops fever and a pulmonary nodule with halo sign. Which property of the likely organism makes CGD patients especially vulnerable?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Possession of a polysaccharide capsule"
+        },
+        {
+          "label": "B",
+          "text": "Catalase-positive status"
+        },
+        {
+          "label": "C",
+          "text": "Production of IgA protease"
+        },
+        {
+          "label": "D",
+          "text": "Lack of cell wall ergosterol"
+        },
+        {
+          "label": "E",
+          "text": "Expression of protein A"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aspergillus is catalase-positive; CGD patients with defective NADPH oxidase cannot clear catalase-producing organisms.",
+        "whyCorrect": "CGD is characterized by defective NADPH oxidase and failure to generate reactive oxygen species. Catalase-positive organisms like Aspergillus destroy their own peroxide, leaving CGD phagocytes without weapon, yielding invasive disease.",
+        "whyWrongByChoice": {
+          "A": "Aspergillus is not encapsulated; Cryptococcus is.",
+          "B": "",
+          "C": "IgA protease is a virulence factor of certain bacteria (e.g., Neisseria), not Aspergillus.",
+          "D": "Aspergillus contains ergosterol; this is how azoles and amphotericin target it.",
+          "E": "Protein A is a Staphylococcus aureus virulence factor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CGD",
+        "aspergillus",
+        "catalase"
+      ]
+    },
+    {
+      "id": "r32h-008",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 70-year-old man with a prior post-tuberculous cavity develops chronic cough, weight loss, and night sweats over 8 months. Chest CT shows a cavitary lesion with peripheral thickening, and serum Aspergillus-specific IgG is markedly elevated. Hematogenous spread is absent. What is the most appropriate first-line therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Long-term oral itraconazole or voriconazole"
+        },
+        {
+          "label": "B",
+          "text": "IV amphotericin B induction"
+        },
+        {
+          "label": "C",
+          "text": "Systemic corticosteroids"
+        },
+        {
+          "label": "D",
+          "text": "TMP-SMX prophylaxis"
+        },
+        {
+          "label": "E",
+          "text": "Surgical lobectomy only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic pulmonary aspergillosis with elevated Aspergillus IgG: long-term oral itraconazole or voriconazole.",
+        "whyCorrect": "CPA is a slowly progressive disease in patients with structural lung disease, diagnosed by elevated Aspergillus-specific IgG. First-line is long-term oral itraconazole or voriconazole; amphotericin is reserved for severe disease.",
+        "whyWrongByChoice": {
+          "A": "",
+          "B": "Amphotericin B is second-line, reserved for severe or refractory CPA.",
+          "C": "Corticosteroids treat ABPA and would worsen colonization in CPA.",
+          "D": "TMP-SMX targets Pneumocystis, not Aspergillus.",
+          "E": "Surgery alone is not first-line; medical therapy is the cornerstone of CPA management."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CPA",
+        "itraconazole",
+        "aspergillus-IgG"
+      ]
+    },
+    {
+      "id": "r32h-009",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 55-year-old allogeneic stem cell transplant recipient develops fever and pulmonary nodules. Serum galactomannan is negative, serum beta-D-glucan is negative, and biopsy shows broad ribbon-like non-septate hyphae with right-angle branching. Which therapy is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Voriconazole"
+        },
+        {
+          "label": "B",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "C",
+          "text": "Caspofungin"
+        },
+        {
+          "label": "D",
+          "text": "Amphotericin B"
+        },
+        {
+          "label": "E",
+          "text": "TMP-SMX"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Negative galactomannan and beta-D-glucan with ribbon-like non-septate right-angle hyphae = Mucorales; treat with amphotericin B.",
+        "whyCorrect": "Mucorales lack galactomannan and beta-D-glucan in their cell walls, so both tests will be negative. Broad non-septate hyphae with right-angle (~90 degrees) branching confirms mucormycosis, treated with amphotericin B.",
+        "whyWrongByChoice": {
+          "A": "Voriconazole treats Aspergillus but is ineffective against Mucorales.",
+          "B": "Fluconazole does not cover Aspergillus or Mucorales.",
+          "C": "Echinocandins target beta-D-glucan synthesis; Mucorales lack beta-D-glucan and are not susceptible.",
+          "D": "",
+          "E": "TMP-SMX treats Pneumocystis, not Mucorales."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mucormycosis",
+        "beta-D-glucan",
+        "amphotericin"
+      ]
+    },
+    {
+      "id": "r32h-010",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 32-year-old woman with newly diagnosed HIV has a CD4 count of 180 cells/uL and no active pulmonary symptoms. She is starting antiretroviral therapy. What additional intervention is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Empiric voriconazole"
+        },
+        {
+          "label": "B",
+          "text": "Prophylactic TMP-SMX"
+        },
+        {
+          "label": "C",
+          "text": "Amphotericin B prophylaxis"
+        },
+        {
+          "label": "D",
+          "text": "Serial galactomannan testing"
+        },
+        {
+          "label": "E",
+          "text": "Inhaled corticosteroids"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CD4 <200 in HIV: start TMP-SMX prophylaxis against Pneumocystis jirovecii.",
+        "whyCorrect": "PCP prophylaxis with TMP-SMX is indicated in HIV patients once CD4 falls below 200 cells/uL. Widespread use of this prophylaxis is why PCP incidence has declined dramatically.",
+        "whyWrongByChoice": {
+          "A": "Voriconazole prophylaxis is not standard in HIV without hematologic malignancy/transplant.",
+          "B": "",
+          "C": "Amphotericin is not used for routine fungal prophylaxis in HIV.",
+          "D": "Galactomannan surveillance is used in high-risk hematologic patients, not routine HIV care.",
+          "E": "Inhaled steroids treat asthma, not opportunistic infections."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PCP-prophylaxis",
+        "HIV",
+        "TMP-SMX"
+      ]
+    },
+    {
+      "id": "r32h-011",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 60-year-old woman with granulomatosis with polyangiitis on high-dose prednisone and cyclophosphamide develops subacute dyspnea and dry cough. Chest CT shows diffuse ground-glass opacities. BAL PCR for Pneumocystis is positive; silver stain shows cysts. Which feature of this organism explains why culture was not attempted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It forms pseudohyphae only in vivo"
+        },
+        {
+          "label": "B",
+          "text": "It requires anaerobic conditions"
+        },
+        {
+          "label": "C",
+          "text": "It is obligately intracellular"
+        },
+        {
+          "label": "D",
+          "text": "It produces lethal aflatoxins in culture"
+        },
+        {
+          "label": "E",
+          "text": "It lacks ergosterol and fails to grow on media"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pneumocystis jirovecii lacks ergosterol and does not grow on standard fungal media; diagnosis is by stain/PCR/DFA.",
+        "whyCorrect": "Pneumocystis is an atypical fungus lacking ergosterol in its cell membrane; it cannot be cultured on standard fungal media. Diagnosis depends on visualization via silver stain, PCR, or direct fluorescent antibody of BAL samples.",
+        "whyWrongByChoice": {
+          "A": "Pneumocystis exists as trophozoites and cysts, not pseudohyphae.",
+          "B": "Pneumocystis does not require anaerobic conditions; it simply cannot be cultured.",
+          "C": "Pneumocystis is not obligately intracellular.",
+          "D": "Aflatoxin production is associated with Aspergillus flavus, not Pneumocystis.",
+          "E": ""
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pneumocystis",
+        "ergosterol",
+        "culture"
+      ]
+    },
+    {
+      "id": "r32h-012",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 44-year-old man 6 weeks post-lung transplant develops fever and pulmonary nodules. Chest CT shows a nodule with a cavity and an intracavitary mass separated by a crescent of air. Which radiographic sign is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Halo sign"
+        },
+        {
+          "label": "B",
+          "text": "Tree-in-bud"
+        },
+        {
+          "label": "C",
+          "text": "Air-crescent sign"
+        },
+        {
+          "label": "D",
+          "text": "Reverse halo sign"
+        },
+        {
+          "label": "E",
+          "text": "Signet ring sign"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Late cavitation with a crescent of air around the necrotic fungal mass = air-crescent sign of invasive aspergillosis.",
+        "whyCorrect": "In invasive aspergillosis, early disease shows the halo sign (nodule with ground-glass rim). As infection progresses and neutrophils recover, central necrosis cavitates, producing the air-crescent sign.",
+        "whyWrongByChoice": {
+          "A": "Halo sign refers to ground-glass opacity surrounding a nodule (early finding), not a crescent of air.",
+          "B": "Tree-in-bud reflects small airway infections such as mycobacteria or viral bronchiolitis.",
+          "C": "",
+          "D": "Reverse halo (atoll sign) suggests organizing pneumonia or cryptogenic organizing pneumonia.",
+          "E": "Signet ring describes bronchiectasis with adjacent pulmonary artery, unrelated."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aspergillus",
+        "air-crescent",
+        "imaging"
+      ]
+    },
+    {
+      "id": "r32h-013",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 48-year-old woman with acute leukemia in prolonged neutropenia develops fever unresponsive to broad-spectrum antibiotics. Blood cultures are negative. Chest CT shows bilateral nodules with halo sign. Serum galactomannan returns positive. Which antifungal is the first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amphotericin B deoxycholate"
+        },
+        {
+          "label": "B",
+          "text": "Voriconazole"
+        },
+        {
+          "label": "C",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "D",
+          "text": "TMP-SMX"
+        },
+        {
+          "label": "E",
+          "text": "Nystatin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Invasive pulmonary aspergillosis first-line therapy is voriconazole.",
+        "whyCorrect": "Voriconazole is preferred for invasive pulmonary aspergillosis due to strong activity against Aspergillus and excellent tissue penetration including CNS. Amphotericin B and isavuconazole are alternatives.",
+        "whyWrongByChoice": {
+          "A": "Amphotericin B is second-line for invasive aspergillosis; voriconazole is preferred.",
+          "B": "",
+          "C": "Fluconazole lacks activity against Aspergillus species.",
+          "D": "TMP-SMX treats Pneumocystis.",
+          "E": "Nystatin is a topical antifungal used for mucocutaneous Candida."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "IPA",
+        "voriconazole",
+        "neutropenia"
+      ]
+    },
+    {
+      "id": "r32h-014",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 38-year-old HIV-positive man with CD4 count 30 cells/uL presents with PCP. Which laboratory marker, although non-specific, is elevated and supports fungal etiology given its cell wall component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galactomannan"
+        },
+        {
+          "label": "B",
+          "text": "Procalcitonin"
+        },
+        {
+          "label": "C",
+          "text": "Cryptococcal antigen"
+        },
+        {
+          "label": "D",
+          "text": "Beta-D-glucan"
+        },
+        {
+          "label": "E",
+          "text": "Aspergillus-specific IgG"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Beta-D-glucan is a fungal cell wall component elevated in PCP but not specific to Pneumocystis.",
+        "whyCorrect": "Beta-D-glucan is a cell wall component present in most fungi including Pneumocystis. It supports the diagnosis of PCP (sensitivity ~92%, specificity ~86%) but is not specific and should be paired with staining/PCR.",
+        "whyWrongByChoice": {
+          "A": "Galactomannan is specific for Aspergillus, not Pneumocystis.",
+          "B": "Procalcitonin typically rises in bacterial infection, not fungal pneumonia.",
+          "C": "Cryptococcal antigen detects Cryptococcus neoformans, not Pneumocystis.",
+          "D": "",
+          "E": "Aspergillus-specific IgG diagnoses chronic pulmonary aspergillosis, not PCP."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "beta-D-glucan",
+        "PCP",
+        "diagnostics"
+      ]
+    },
+    {
+      "id": "r32h-015",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 42-year-old woman with longstanding asthma presents with nasal obstruction, facial pressure, and decreased olfaction. CT shows nasal polyposis with opacification of both maxillary sinuses and differential densities suggesting dense mucin within the sinuses. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rhino-orbital mucormycosis"
+        },
+        {
+          "label": "B",
+          "text": "Allergic fungal rhinosinusitis (AFRS)"
+        },
+        {
+          "label": "C",
+          "text": "Acute bacterial sinusitis"
+        },
+        {
+          "label": "D",
+          "text": "Invasive pulmonary aspergillosis"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatosis with polyangiitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nasal polyposis, sinus opacification, and hyperdense eosinophilic mucin in an atopic/asthmatic patient = AFRS.",
+        "whyCorrect": "AFRS is a chronic allergic inflammation directed against colonizing fungi, typically in atopic patients. Hallmarks include nasal polyposis, sinus opacification with differential densities from eosinophilic mucin accumulation.",
+        "whyWrongByChoice": {
+          "A": "Mucormycosis features acute necrosis, black eschar, and rapid angioinvasion, not chronic polyposis.",
+          "B": "",
+          "C": "Acute bacterial sinusitis is typically short-lived without polyposis or hyperdense mucin.",
+          "D": "IPA affects lung parenchyma, not the sinuses.",
+          "E": "GPA produces destructive granulomatous lesions, not eosinophilic polypoid sinusitis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "AFRS",
+        "sinusitis",
+        "aspergillus"
+      ]
+    },
+    {
+      "id": "r32h-016",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A clinician is comparing hyphal morphology of two mold pathogens. Organism 1 has broad, ribbon-like, non-septate hyphae with ~90 degree branching. Organism 2 has narrower, septate hyphae with ~45 degree branching. Which statement is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Organism 1 is Aspergillus; organism 2 is Mucor"
+        },
+        {
+          "label": "B",
+          "text": "Both are Aspergillus species"
+        },
+        {
+          "label": "C",
+          "text": "Both are Pneumocystis species"
+        },
+        {
+          "label": "D",
+          "text": "Organism 1 is Candida; organism 2 is Cryptococcus"
+        },
+        {
+          "label": "E",
+          "text": "Organism 1 is Mucor; organism 2 is Aspergillus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Broad non-septate hyphae with 90-degree branching = Mucor; septate hyphae with 45-degree branching = Aspergillus.",
+        "whyCorrect": "Mucorales produce broad ribbon-like non-septate hyphae with right-angle (90 degrees) branching. Aspergillus species produce narrower septate hyphae with acute-angle (~45 degrees) branching.",
+        "whyWrongByChoice": {
+          "A": "Reversed; broad non-septate right-angle is Mucorales.",
+          "B": "Aspergillus hyphae are exclusively septate with acute-angle branching.",
+          "C": "Pneumocystis lives as trophozoites and cysts, not hyphae.",
+          "D": "Candida forms pseudohyphae and Cryptococcus is a yeast; neither matches these morphologies.",
+          "E": ""
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "morphology",
+        "hyphae",
+        "mucor-vs-aspergillus"
+      ]
+    },
+    {
+      "id": "r32h-017",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 52-year-old man with untreated HIV has a CD4 count of 40 cells/uL. He presents with headache, fever, and confusion. Lumbar puncture shows lymphocytic pleocytosis. India ink staining of CSF reveals encapsulated round organisms. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pneumocystis jirovecii"
+        },
+        {
+          "label": "B",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "C",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "D",
+          "text": "Mucor spp."
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Encapsulated yeast on India ink in CSF of advanced HIV = Cryptococcus neoformans.",
+        "whyCorrect": "India ink staining of CSF highlights the polysaccharide capsule of Cryptococcus neoformans as a clear halo around the yeast cell. Cryptococcal meningoencephalitis is common in advanced HIV with CD4 <100.",
+        "whyWrongByChoice": {
+          "A": "Pneumocystis causes pneumonia, not encapsulated meningitis findings on India ink.",
+          "B": "",
+          "C": "Aspergillus is a mold with septate hyphae, not an encapsulated yeast.",
+          "D": "Mucor is a non-septate mold, not a capsule-forming yeast.",
+          "E": "Candida is a budding yeast with pseudohyphae but lacks a polysaccharide capsule demonstrable by India ink."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cryptococcus",
+        "india-ink",
+        "HIV"
+      ]
+    },
+    {
+      "id": "r32h-018",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 30-year-old man with asthma and ABPA is diagnosed and started on treatment. Which pairing best reflects first-line therapy with an adjunct aimed at reducing fungal burden?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Voriconazole with surgical debridement"
+        },
+        {
+          "label": "B",
+          "text": "Amphotericin B alone"
+        },
+        {
+          "label": "C",
+          "text": "TMP-SMX with pentamidine"
+        },
+        {
+          "label": "D",
+          "text": "Systemic corticosteroids with itraconazole"
+        },
+        {
+          "label": "E",
+          "text": "Caspofungin with fluconazole"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ABPA: systemic corticosteroids are first-line; antifungals (itraconazole/voriconazole) reduce fungal burden.",
+        "whyCorrect": "ABPA is an immune-mediated disease. Corticosteroids address the inflammatory hypersensitivity reaction, and antifungals such as itraconazole or voriconazole are added to reduce airway fungal burden.",
+        "whyWrongByChoice": {
+          "A": "Surgery is used for aspergilloma, not ABPA.",
+          "B": "Amphotericin B is not standard ABPA therapy.",
+          "C": "TMP-SMX/pentamidine treat Pneumocystis, not ABPA.",
+          "D": "",
+          "E": "Caspofungin/fluconazole are not used as first-line for ABPA."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ABPA",
+        "corticosteroids",
+        "itraconazole"
+      ]
+    },
+    {
+      "id": "r32h-019",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 66-year-old man with poorly controlled diabetes presents with fever, hemoptysis, and a rapidly progressive pulmonary infiltrate over 5 days. Biopsy shows broad non-septate hyphae invading pulmonary vessels. Which statement best explains the clinical course?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angioinvasion causing thrombosis and tissue necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Slow colonization of pre-existing cavities"
+        },
+        {
+          "label": "C",
+          "text": "IgE-mediated airway hyperreactivity"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous immune complex deposition"
+        },
+        {
+          "label": "E",
+          "text": "Intracellular persistence in macrophages"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pulmonary mucormycosis: angioinvasion -> thrombosis -> ischemic necrosis -> rapid progression with mortality 50-80%.",
+        "whyCorrect": "Mucorales are angioinvasive and penetrate tissue barriers rapidly, occluding blood vessels and causing ischemic necrosis. This explains fulminant progression with hemoptysis and very high mortality.",
+        "whyWrongByChoice": {
+          "A": "",
+          "B": "Slow colonization characterizes CPA/aspergilloma, not Mucorales.",
+          "C": "IgE airway hyperreactivity describes ABPA.",
+          "D": "Granulomatous/immune complex pathology describes hypersensitivity pneumonitis.",
+          "E": "Mucorales are not primarily intracellular organisms."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mucormycosis",
+        "angioinvasion",
+        "pulmonary"
+      ]
+    },
+    {
+      "id": "r32h-020",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 25-year-old man with asthma has clinical and laboratory findings consistent with ABPA. Which laboratory test pattern best supports the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive serum galactomannan"
+        },
+        {
+          "label": "B",
+          "text": "Elevated beta-D-glucan only"
+        },
+        {
+          "label": "C",
+          "text": "Positive Aspergillus-specific IgG only"
+        },
+        {
+          "label": "D",
+          "text": "Negative IgE with elevated IgM"
+        },
+        {
+          "label": "E",
+          "text": "Elevated Aspergillus IgE and IgG with eosinophilia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ABPA: eosinophilia, elevated total serum IgE, and positive Aspergillus-specific IgE and IgG antibodies.",
+        "whyCorrect": "ABPA is a Th2-driven hypersensitivity response. Classic labs include peripheral eosinophilia, markedly elevated total IgE, and positive Aspergillus-specific IgE and IgG antibodies.",
+        "whyWrongByChoice": {
+          "A": "Galactomannan supports invasive aspergillosis, not ABPA.",
+          "B": "Beta-D-glucan is not specific and does not establish ABPA.",
+          "C": "Isolated Aspergillus IgG supports CPA/aspergilloma; ABPA also requires IgE and eosinophilia.",
+          "D": "ABPA is defined by elevated IgE; IgM has no role.",
+          "E": ""
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ABPA",
+        "IgE",
+        "eosinophilia"
+      ]
+    },
+    {
+      "id": "r32h-021",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 56-year-old man with AML has suspected invasive aspergillosis. Bronchoalveolar lavage is sent for testing. Which combination most strongly supports a presumptive diagnosis when invasive tissue biopsy is not feasible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive BAL galactomannan plus BAL PCR for Aspergillus"
+        },
+        {
+          "label": "B",
+          "text": "Elevated Aspergillus IgE plus eosinophilia"
+        },
+        {
+          "label": "C",
+          "text": "Positive cryptococcal antigen plus India ink"
+        },
+        {
+          "label": "D",
+          "text": "Positive beta-D-glucan plus silver stain cysts"
+        },
+        {
+          "label": "E",
+          "text": "Positive acid-fast bacilli plus interferon-gamma release"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "BAL galactomannan plus BAL PCR provides presumptive diagnosis of invasive aspergillosis.",
+        "whyCorrect": "In the right clinical context, a positive BAL galactomannan, BAL PCR for Aspergillus, or positive serum galactomannan can establish a presumptive diagnosis of invasive aspergillosis when biopsy is not possible.",
+        "whyWrongByChoice": {
+          "A": "",
+          "B": "IgE and eosinophilia support ABPA, not invasive disease.",
+          "C": "Cryptococcal antigen and India ink diagnose cryptococcosis.",
+          "D": "Beta-D-glucan plus silver cysts supports PCP.",
+          "E": "AFB and IGRA diagnose tuberculosis, not aspergillosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "galactomannan",
+        "BAL-PCR",
+        "IPA"
+      ]
+    },
+    {
+      "id": "r32h-022",
+      "topicId": "invasive-fungal-infections-hard",
+      "topicName": "Invasive Fungal Infections (Advanced)",
+      "stem": "A 58-year-old man develops severe PCP while on high-dose glucocorticoids for polymyositis. He has a documented severe sulfa allergy with prior Stevens-Johnson syndrome. Which of the following is the most appropriate alternative therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Voriconazole"
+        },
+        {
+          "label": "B",
+          "text": "Amphotericin B"
+        },
+        {
+          "label": "C",
+          "text": "Pentamidine"
+        },
+        {
+          "label": "D",
+          "text": "Caspofungin"
+        },
+        {
+          "label": "E",
+          "text": "Itraconazole"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PCP second-line therapy for sulfa-allergic patients includes pentamidine, atovaquone, or clindamycin + primaquine.",
+        "whyCorrect": "TMP-SMX is first-line for PCP. In patients with severe sulfa allergy, alternatives include pentamidine, atovaquone, or clindamycin plus primaquine.",
+        "whyWrongByChoice": {
+          "A": "Voriconazole treats Aspergillus, not Pneumocystis.",
+          "B": "Amphotericin B has no role in PCP treatment.",
+          "C": "",
+          "D": "Caspofungin has limited activity against Pneumocystis and is not standard second-line therapy.",
+          "E": "Itraconazole treats CPA/ABPA, not PCP."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PCP",
+        "pentamidine",
+        "sulfa-allergy"
+      ]
+    },
+    {
+      "id": "r33h-001",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 38-year-old spelunker in Ohio develops fever, cough, and malaise 10 days after exploring a cave heavily populated by bats. Chest CT shows nodular pneumonia with mediastinal lymphadenopathy resembling miliary TB. Lung biopsy reveals caseating granulomas with small ovoid yeast inside macrophages exhibiting narrow-based budding. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "B",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "C",
+          "text": "Coccidioides immitis"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "E",
+          "text": "Paracoccidioides brasiliensis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Histoplasma: caves/bat droppings, intracellular yeast in macrophages, narrow-based budding.",
+        "whyCorrect": "Ohio River valley, bat exposure, and small intracellular yeast with narrow-based budding are pathognomonic for Histoplasma capsulatum.",
+        "whyWrongByChoice": {
+          "A": "Blastomyces shows broad-based budding and is not intracellular.",
+          "C": "Coccidioides forms spherules, not intracellular yeast.",
+          "D": "Cryptococcus is a large encapsulated yeast, not intracellular.",
+          "E": "Paracoccidioides is endemic to Latin America with captain's wheel morphology."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histoplasma",
+        "spelunker",
+        "narrow-based-budding"
+      ]
+    },
+    {
+      "id": "r33h-002",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 45-year-old forestry worker from Wisconsin develops subacute pneumonia with productive cough and a verrucous skin lesion on his forearm. Sputum KOH prep reveals large, thick-walled yeast with broad-based budding. Which is the most appropriate first-line therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amphotericin B"
+        },
+        {
+          "label": "B",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "C",
+          "text": "Itraconazole"
+        },
+        {
+          "label": "D",
+          "text": "Voriconazole"
+        },
+        {
+          "label": "E",
+          "text": "Flucytosine monotherapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mild-moderate blastomycosis: itraconazole first-line.",
+        "whyCorrect": "Broad-based budding yeast from the Great Lakes region with mild-to-moderate disease is blastomycosis; itraconazole is first-line.",
+        "whyWrongByChoice": {
+          "A": "Amphotericin B is reserved for severe/disseminated disease.",
+          "B": "Fluconazole is second-line for blastomycosis.",
+          "D": "Voriconazole is not first-line for blastomycosis.",
+          "E": "Flucytosine is adjunctive for cryptococcal infection, not blastomycosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "blastomycosis",
+        "itraconazole",
+        "broad-based-budding"
+      ]
+    },
+    {
+      "id": "r33h-003",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 29-year-old construction worker in Arizona's Central Valley develops fever, dry cough, pleuritic chest pain, and painful red nodules on his shins 2 weeks after working in dusty soil. Biopsy of a pulmonary nodule shows large structures filled with small endospores. Which is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "C",
+          "text": "Coccidioides immitis"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcus gattii"
+        },
+        {
+          "label": "E",
+          "text": "Paracoccidioides brasiliensis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Valley fever with spherules and erythema nodosum indicates Coccidioides.",
+        "whyCorrect": "SW US desert dust exposure with spherule-endospore morphology and erythema nodosum is classic for Coccidioides.",
+        "whyWrongByChoice": {
+          "A": "Histoplasma does not form spherules; associated with bat/bird droppings.",
+          "B": "Blastomyces forms broad-based budding yeast, not spherules.",
+          "D": "Cryptococcus gattii is an encapsulated yeast in the Pacific Northwest.",
+          "E": "Paracoccidioides is in Latin America and forms captain's wheel."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coccidioides",
+        "spherules",
+        "erythema-nodosum"
+      ]
+    },
+    {
+      "id": "r33h-004",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 42-year-old Brazilian agricultural worker who recently immigrated to the US presents with 2 months of productive cough, weight loss, and painful ulcerative lesions on the oral mucosa. Biopsy shows large yeast with multiple narrow-based buds arranged circumferentially around a central mother cell. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paracoccidioides brasiliensis"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "C",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "D",
+          "text": "Coccidioides immitis"
+        },
+        {
+          "label": "E",
+          "text": "Cryptococcus neoformans"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Captain's wheel yeast with oral mucosal lesions in a Latin American patient = Paracoccidioides.",
+        "whyCorrect": "Paracoccidioides is endemic to Latin America, commonly involves oral mucosa, and has the pathognomonic captain's/mariner's wheel morphology.",
+        "whyWrongByChoice": {
+          "B": "Blastomyces shows single broad-based budding, not multiple buds.",
+          "C": "Histoplasma is small intracellular yeast with single narrow-based budding.",
+          "D": "Coccidioides forms spherules, not budding yeast.",
+          "E": "Cryptococcus is a single encapsulated yeast without multiple buds."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "paracoccidioides",
+        "captains-wheel",
+        "oral-lesions"
+      ]
+    },
+    {
+      "id": "r33h-005",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 34-year-old man with AIDS (CD4 25) presents with fever, hepatosplenomegaly, and pancytopenia. He lived in Kentucky as a child. Bone marrow biopsy shows diffuse small intracellular organisms with minimal granuloma formation. Which factor best explains the poorly formed granulomas?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fungal capsule blocks phagocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Impaired Th1/IFN-gamma response"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil oxidative burst defect"
+        },
+        {
+          "label": "D",
+          "text": "Complement deficiency"
+        },
+        {
+          "label": "E",
+          "text": "B-cell antibody deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Granuloma formation requires Th1/IFN-gamma-activated macrophages, impaired in AIDS.",
+        "whyCorrect": "Effective granulomas need a strong Th1 cell-mediated response with IFN-gamma activation of macrophages; AIDS impairs this, producing diffuse organisms with minimal granulomatous inflammation.",
+        "whyWrongByChoice": {
+          "A": "Histoplasma lacks a prominent capsule.",
+          "C": "Neutrophil burst defects relate to chronic granulomatous disease, not AIDS.",
+          "D": "Complement deficiency is not the cause of granuloma failure in AIDS.",
+          "E": "B-cell/antibody function is largely preserved in AIDS; T-cell loss is the issue."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "disseminated-histoplasmosis",
+        "Th1",
+        "AIDS"
+      ]
+    },
+    {
+      "id": "r33h-006",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 60-year-old smoker with COPD in Tennessee has 6 months of progressive cough, weight loss, and cavitary upper lobe lesions on CT. Sputum GMS stain reveals small intracellular yeast with narrow-based budding. Which complicating diagnosis should be most strongly considered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillus superinfection"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis coinfection"
+        },
+        {
+          "label": "C",
+          "text": "Lung cancer"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary embolism"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic pulmonary histoplasmosis in smokers: consider cancer on differential.",
+        "whyCorrect": "The PDF specifically notes that cancer should be considered because smokers are at risk for both chronic pulmonary histoplasmosis and lung cancer.",
+        "whyWrongByChoice": {
+          "A": "Aspergillus is possible but not specifically highlighted in this context.",
+          "B": "TB is on the differential but cancer is the specific concern noted for smokers.",
+          "D": "Sarcoidosis does not fit the smoker/cavitary picture.",
+          "E": "PE does not produce cavitary upper lobe lesions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "chronic-pulmonary-histoplasmosis",
+        "smoker",
+        "cancer"
+      ]
+    },
+    {
+      "id": "r33h-007",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 50-year-old man with HIV/AIDS in Oklahoma presents with headache, fever, and altered mental status. LP shows elevated opening pressure and lymphocytic pleocytosis. India ink stain shows large yeast with a prominent capsule. Which test is most sensitive for diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urine galactomannan"
+        },
+        {
+          "label": "B",
+          "text": "Serum beta-D-glucan"
+        },
+        {
+          "label": "C",
+          "text": "Cryptococcal antigen (CrAg)"
+        },
+        {
+          "label": "D",
+          "text": "CSF immunodiffusion"
+        },
+        {
+          "label": "E",
+          "text": "Blood culture on chocolate agar"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CrAg is the most sensitive test for Cryptococcus.",
+        "whyCorrect": "The cryptococcal antigen (CrAg) test in serum or CSF is very sensitive and has largely replaced India ink for rapid diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Galactomannan detects Histoplasma/Aspergillus, not Cryptococcus.",
+          "B": "Beta-D-glucan is nonspecific and Cryptococcus has low levels.",
+          "D": "Immunodiffusion is used for Coccidioides.",
+          "E": "Chocolate agar is for Haemophilus, not fungi."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cryptococcus",
+        "CrAg",
+        "meningitis"
+      ]
+    },
+    {
+      "id": "r33h-008",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 55-year-old AIDS patient has severe disseminated cryptococcal meningitis. Which regimen is most appropriate for initial induction therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Itraconazole monotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Fluconazole monotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Amphotericin B plus flucytosine"
+        },
+        {
+          "label": "D",
+          "text": "Voriconazole plus caspofungin"
+        },
+        {
+          "label": "E",
+          "text": "Posaconazole monotherapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Severe Cryptococcus: amphotericin B + flucytosine.",
+        "whyCorrect": "Per the table, severe/disseminated cryptococcal disease requires amphotericin B; flucytosine is added specifically for Cryptococcus.",
+        "whyWrongByChoice": {
+          "A": "Itraconazole is not first-line for severe cryptococcal disease.",
+          "B": "Fluconazole alone is maintenance therapy, not induction.",
+          "D": "Voriconazole/caspofungin are not the standard cryptococcal induction.",
+          "E": "Posaconazole is not standard induction therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cryptococcus",
+        "amphotericin",
+        "flucytosine"
+      ]
+    },
+    {
+      "id": "r33h-009",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 30-year-old man has suspected fungal pneumonia. Urine galactomannan antigen returns positive. Which pair of organisms can this assay NOT distinguish between?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma and Aspergillus"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces and Coccidioides"
+        },
+        {
+          "label": "C",
+          "text": "Cryptococcus and Candida"
+        },
+        {
+          "label": "D",
+          "text": "Histoplasma and Cryptococcus"
+        },
+        {
+          "label": "E",
+          "text": "Aspergillus and Candida"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Galactomannan is shared by Histoplasma and Aspergillus.",
+        "whyCorrect": "Both Histoplasma and Aspergillus possess galactomannan antigen, so the assay cannot distinguish them. Candida, Blastomyces, Coccidioides, and Cryptococcus do not have galactomannan.",
+        "whyWrongByChoice": {
+          "B": "Neither Blastomyces nor Coccidioides has galactomannan.",
+          "C": "Neither Cryptococcus nor Candida has galactomannan.",
+          "D": "Cryptococcus lacks galactomannan.",
+          "E": "Candida lacks galactomannan."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "galactomannan",
+        "cross-reactivity"
+      ]
+    },
+    {
+      "id": "r33h-010",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A sputum specimen is cultured on Sabouraud agar at 25°C and grows septate hyphae forming barrel-shaped arthroconidia. At 37°C, tissue biopsy shows large sac-like structures filled with small endospores rather than budding yeast. Which geographic exposure fits best?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mississippi River valley caves"
+        },
+        {
+          "label": "B",
+          "text": "Great Lakes forested regions"
+        },
+        {
+          "label": "C",
+          "text": "Arizona Central Valley desert soil"
+        },
+        {
+          "label": "D",
+          "text": "Pacific Northwest decaying wood"
+        },
+        {
+          "label": "E",
+          "text": "Rural Brazil agricultural areas"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Arthroconidia and spherules = Coccidioides = SW US desert.",
+        "whyCorrect": "Coccidioides forms arthroconidia in mold phase and spherules filled with endospores in tissue; endemic to arid SW US including Arizona.",
+        "whyWrongByChoice": {
+          "A": "Mississippi caves suggest Histoplasma.",
+          "B": "Great Lakes forests suggest Blastomyces.",
+          "D": "Pacific NW decaying wood suggests C. gattii.",
+          "E": "Brazil suggests Paracoccidioides."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coccidioides",
+        "arthroconidia",
+        "spherules"
+      ]
+    },
+    {
+      "id": "r33h-011",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 65-year-old man in Washington state develops cough and mental status changes. MRI shows multiple pulmonary and cerebral nodular lesions (cryptococcomas). He has no immunocompromise. Which organism is most consistent with this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "B",
+          "text": "Cryptococcus gattii"
+        },
+        {
+          "label": "C",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "D",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "E",
+          "text": "Coccidioides immitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pacific Northwest + immunocompetent host + cryptococcomas = C. gattii.",
+        "whyCorrect": "C. gattii is predominantly found in the Pacific Northwest and notably infects immunocompetent hosts, producing cryptococcomas.",
+        "whyWrongByChoice": {
+          "A": "C. neoformans is nationwide and typically affects immunocompromised patients (pigeon droppings).",
+          "C": "Blastomyces is endemic to the east, not PNW.",
+          "D": "Histoplasma is endemic to Ohio/Mississippi valleys.",
+          "E": "Coccidioides is in SW desert regions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cryptococcus-gattii",
+        "immunocompetent",
+        "PNW"
+      ]
+    },
+    {
+      "id": "r33h-012",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A patient with suspected fungal pneumonia has a urine antigen test positive for Blastomyces. The lab cautions that this result may not be definitive. Which organism most commonly cross-reacts with this assay?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "B",
+          "text": "Coccidioides immitis"
+        },
+        {
+          "label": "C",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "D",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Blastomyces urine antigen cross-reacts with Histoplasma.",
+        "whyCorrect": "The PDF explicitly notes cross-reactivity of the Blastomyces urine antigen test with Histoplasma.",
+        "whyWrongByChoice": {
+          "B": "Coccidioides is detected by serum/CSF immunodiffusion without this cross-reactivity.",
+          "C": "Cryptococcus is detected by CrAg without cross-reactivity.",
+          "D": "Aspergillus shares galactomannan with Histoplasma, not Blastomyces.",
+          "E": "Candida does not share this cross-reactivity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "urine-antigen",
+        "cross-reactivity",
+        "blastomyces"
+      ]
+    },
+    {
+      "id": "r33h-013",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 55-year-old man who lived in Ohio 20 years ago and now lives in New York begins chemotherapy for lymphoma. He develops fever, pancytopenia, and hepatosplenomegaly. Urine antigen is positive for Histoplasma. Which best explains his infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recent acute exposure in New York"
+        },
+        {
+          "label": "B",
+          "text": "Reactivation of latent infection"
+        },
+        {
+          "label": "C",
+          "text": "Laboratory contamination"
+        },
+        {
+          "label": "D",
+          "text": "Cross-reactivity with Aspergillus"
+        },
+        {
+          "label": "E",
+          "text": "Congenital immunodeficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Histoplasma establishes latency; reactivation occurs with immunosuppression.",
+        "whyCorrect": "Like TB, Histoplasma can persist in macrophages for decades and reactivate when immunosuppression develops (e.g., chemotherapy).",
+        "whyWrongByChoice": {
+          "A": "NY is not endemic for Histoplasma.",
+          "C": "Contamination does not explain the clinical syndrome.",
+          "D": "Cross-reactivity doesn't explain clinical disseminated disease.",
+          "E": "Chemotherapy immunosuppression is the inciting factor, not congenital immunodeficiency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "latent-reactivation",
+        "histoplasma",
+        "chemotherapy"
+      ]
+    },
+    {
+      "id": "r33h-014",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A mold form of a dimorphic fungus shows septate hyphae bearing BOTH microconidia and large tuberculated sun-shaped macroconidia on Sabouraud agar at 25°C. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "C",
+          "text": "Coccidioides immitis"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "E",
+          "text": "Paracoccidioides brasiliensis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sun-shaped macroconidia are characteristic of Histoplasma.",
+        "whyCorrect": "Histoplasma mold has both microconidia and large sun-shaped (tuberculated) macroconidia.",
+        "whyWrongByChoice": {
+          "B": "Blastomyces mold has only microconidia.",
+          "C": "Coccidioides mold produces arthroconidia.",
+          "D": "Cryptococcus is not thermally dimorphic and has no mold form.",
+          "E": "Paracoccidioides mold does not show these sun-shaped macroconidia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histoplasma",
+        "macroconidia",
+        "mold"
+      ]
+    },
+    {
+      "id": "r33h-015",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A patient with pulmonary disease has a fungal culture that does NOT exhibit thermal dimorphism on Sabouraud agar at 25°C vs 37°C. Which organism is most consistent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "C",
+          "text": "Coccidioides immitis"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "E",
+          "text": "Paracoccidioides brasiliensis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cryptococcus is a yeast only, not thermally dimorphic.",
+        "whyCorrect": "Cryptococcus spp. are considered yeasts without a clear mold form and are not thermally dimorphic.",
+        "whyWrongByChoice": {
+          "A": "Histoplasma is thermally dimorphic.",
+          "B": "Blastomyces is thermally dimorphic.",
+          "C": "Coccidioides is dimorphic (mold with arthroconidia; spherules in tissue).",
+          "E": "Paracoccidioides is thermally dimorphic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thermal-dimorphism",
+        "cryptococcus"
+      ]
+    },
+    {
+      "id": "r33h-016",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 50-year-old poultry farmer in Arkansas has mild self-limited pulmonary histoplasmosis with persistent mild symptoms for 3 weeks. He remains ambulatory and is otherwise healthy. Which is the most appropriate pharmacotherapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No antifungal therapy needed"
+        },
+        {
+          "label": "B",
+          "text": "Itraconazole"
+        },
+        {
+          "label": "C",
+          "text": "Amphotericin B"
+        },
+        {
+          "label": "D",
+          "text": "Voriconazole"
+        },
+        {
+          "label": "E",
+          "text": "Flucytosine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mild-moderate histoplasmosis with persistent symptoms: itraconazole.",
+        "whyCorrect": "Itraconazole is first-line for mild-to-moderate histoplasmosis; it is used for persistent symptoms or disseminated disease.",
+        "whyWrongByChoice": {
+          "A": "Persistent symptoms warrant treatment rather than observation only.",
+          "C": "Amphotericin B is reserved for severe disease.",
+          "D": "Voriconazole is not first-line for histoplasmosis.",
+          "E": "Flucytosine is adjunctive for Cryptococcus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histoplasmosis",
+        "itraconazole"
+      ]
+    },
+    {
+      "id": "r33h-017",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A patient suspected of fungal CNS disease undergoes CSF antigen testing. Which assay is the recommended CSF test for identifying Coccidioides infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Galactomannan"
+        },
+        {
+          "label": "B",
+          "text": "Beta-D-glucan"
+        },
+        {
+          "label": "C",
+          "text": "Immunodiffusion"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcal antigen (CrAg)"
+        },
+        {
+          "label": "E",
+          "text": "Urine histoplasma antigen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Coccidioides: serum and CSF immunodiffusion.",
+        "whyCorrect": "Per the PDF, Coccidioides is identified via serum and CSF immunodiffusion assay.",
+        "whyWrongByChoice": {
+          "A": "Galactomannan is for Histoplasma/Aspergillus.",
+          "B": "Beta-D-glucan is not the specified test for Coccidioides.",
+          "D": "CrAg is for Cryptococcus.",
+          "E": "Urine antigen is for Histoplasma (and Blastomyces)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coccidioides",
+        "immunodiffusion"
+      ]
+    },
+    {
+      "id": "r33h-018",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 48-year-old man from Minnesota presents with subacute pneumonia and a verrucous cutaneous lesion with irregular borders on his forearm. Which is the most common site of dissemination for this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Skin"
+        },
+        {
+          "label": "C",
+          "text": "Central nervous system"
+        },
+        {
+          "label": "D",
+          "text": "Bone marrow"
+        },
+        {
+          "label": "E",
+          "text": "Oral mucosa"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Blastomyces: skin is the most common site of dissemination.",
+        "whyCorrect": "Skin involvement (verrucous lesions) is the most common extrapulmonary site for Blastomyces dermatitidis (~18%).",
+        "whyWrongByChoice": {
+          "A": "Lymph nodes are more classic for disseminated histoplasmosis.",
+          "C": "CNS involvement is uncommon (~1%) for Blastomyces.",
+          "D": "Bone marrow dissemination is more typical of disseminated histoplasmosis.",
+          "E": "Oral mucosal lesions are characteristic of Paracoccidioides."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "blastomycosis",
+        "skin-dissemination"
+      ]
+    },
+    {
+      "id": "r33h-019",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 40-year-old man with HIV (CD4 40) in California develops meningitis but has no fever or nuchal rigidity, only altered mental status. Which factor best explains the atypical presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic pretreatment masked signs"
+        },
+        {
+          "label": "B",
+          "text": "Impaired inflammatory response"
+        },
+        {
+          "label": "C",
+          "text": "Low fungal burden"
+        },
+        {
+          "label": "D",
+          "text": "Early stage of disease"
+        },
+        {
+          "label": "E",
+          "text": "Resistance to host immune detection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Severely immunocompromised patients may lack classic inflammatory signs.",
+        "whyCorrect": "In advanced AIDS, the inflammatory response is impaired so classic meningeal signs (fever, nuchal rigidity) may be absent; special attention is warranted to neurologic symptoms alone.",
+        "whyWrongByChoice": {
+          "A": "No antibiotic pretreatment is described.",
+          "C": "AIDS patients often have very high fungal burdens.",
+          "D": "Altered mental status is not an early feature alone.",
+          "E": "Host immune detection is intrinsically impaired, not evaded."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cryptococcal-meningitis",
+        "AIDS",
+        "atypical"
+      ]
+    },
+    {
+      "id": "r33h-020",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 32-year-old woman with mild Valley fever (fever, dry cough) has a positive Coccidioides immunodiffusion and is otherwise healthy without dissemination. Which is the most appropriate first-line pharmacotherapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "B",
+          "text": "Itraconazole"
+        },
+        {
+          "label": "C",
+          "text": "Amphotericin B"
+        },
+        {
+          "label": "D",
+          "text": "Voriconazole"
+        },
+        {
+          "label": "E",
+          "text": "Echinocandin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mild-moderate coccidioidomycosis: fluconazole first-line.",
+        "whyCorrect": "Per the treatment table, fluconazole is first-line for mild to moderate coccidioidomycosis; itraconazole is second-line.",
+        "whyWrongByChoice": {
+          "B": "Itraconazole is second-line for coccidioidomycosis.",
+          "C": "Amphotericin B is reserved for severe/disseminated disease.",
+          "D": "Voriconazole is not first-line.",
+          "E": "Echinocandins are not effective against Coccidioides."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coccidioidomycosis",
+        "fluconazole"
+      ]
+    },
+    {
+      "id": "r33h-021",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A patient with Crohn's disease develops painful red nodular lesions on her shins. She has no travel history or fungal exposure. Which best describes the likely pathophysiology of the skin lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct fungal dissemination to skin"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial cellulitis"
+        },
+        {
+          "label": "C",
+          "text": "Immune reaction producing erythema nodosum"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous skin infection"
+        },
+        {
+          "label": "E",
+          "text": "Vasculitis from direct organism invasion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erythema nodosum can arise from non-infectious causes like Crohn's, representing an immune reaction.",
+        "whyCorrect": "Erythema nodosum is an immune-mediated reaction presenting as painful red nodules on the shins; it can occur from fungal antigens or non-infectious causes such as Crohn's disease.",
+        "whyWrongByChoice": {
+          "A": "No fungal exposure; this is not dissemination.",
+          "B": "Cellulitis is diffuse and unilateral, not bilateral shin nodules.",
+          "D": "No infectious granuloma is present.",
+          "E": "EN is septal panniculitis, not vasculitis with organism invasion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "erythema-nodosum",
+        "crohns"
+      ]
+    },
+    {
+      "id": "r33h-022",
+      "topicId": "geographically-defined-mycoses-hard",
+      "topicName": "Geographically Defined Mycoses (Advanced)",
+      "stem": "A 38-year-old landscaper in Indiana develops severe disseminated blastomycosis with hypoxic respiratory failure and skin lesions. Which is the most appropriate initial pharmacotherapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Itraconazole"
+        },
+        {
+          "label": "B",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "C",
+          "text": "Amphotericin B"
+        },
+        {
+          "label": "D",
+          "text": "Voriconazole"
+        },
+        {
+          "label": "E",
+          "text": "Posaconazole"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Severe/disseminated blastomycosis: amphotericin B initial therapy.",
+        "whyCorrect": "Per the treatment table, severe or disseminated blastomycosis (as well as histoplasmosis, coccidioidomycosis, and cryptococcosis) is treated with amphotericin B as initial therapy.",
+        "whyWrongByChoice": {
+          "A": "Itraconazole is first-line only for mild-moderate disease.",
+          "B": "Fluconazole is used for maintenance after amphotericin B.",
+          "D": "Voriconazole is not standard for severe blastomycosis.",
+          "E": "Posaconazole is not standard initial therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "severe-blastomycosis",
+        "amphotericin-B"
       ]
     }
   ]

@@ -49,15 +49,19 @@ export function CategoryAccordion({ category, selectedTopicIds, answeredByTopic,
             const answered = answeredByTopic[topic.id] || 0;
             const remaining = topic.questionCount - answered;
             const allDone = remaining <= 0;
+            const isHard = topic.id.endsWith('-hard');
             return (
-              <label key={topic.id} className={`flex items-center gap-3 py-1.5 cursor-pointer hover:bg-slate-700 px-2 rounded ${allDone ? 'opacity-50' : ''}`}>
+              <label key={topic.id} className={`flex items-center gap-3 py-1.5 cursor-pointer hover:bg-slate-700 px-2 rounded ${allDone ? 'opacity-50' : ''} ${isHard ? 'border-l-2 border-amber-500/50 ml-1' : ''}`}>
                 <input
                   type="checkbox"
                   checked={selectedTopicIds.has(topic.id)}
                   onChange={() => onToggleTopic(topic.id)}
-                  className="w-4 h-4 rounded border-slate-500 text-teal-500 focus:ring-teal-500 bg-slate-700"
+                  className={`w-4 h-4 rounded border-slate-500 focus:ring-teal-500 bg-slate-700 ${isHard ? 'text-amber-500 focus:ring-amber-500' : 'text-teal-500'}`}
                 />
-                <span className="text-sm text-slate-300 flex-1">{topic.name}</span>
+                <span className={`text-sm flex-1 ${isHard ? 'text-amber-200' : 'text-slate-300'}`}>
+                  {isHard && <span className="text-amber-500 mr-1">⚡</span>}
+                  {topic.name}
+                </span>
                 {answered > 0 ? (
                   <span className={`text-xs ${allDone ? 'text-green-500' : 'text-slate-500'}`}>
                     {allDone ? 'done' : `${remaining} left`}
