@@ -304,7 +304,7 @@
         },
         {
           "label": "D",
-          "text": "Reduced DLCO on pulmonary function testing"
+          "text": "Reduced DLCO"
         },
         {
           "label": "E",
@@ -729,7 +729,7 @@
         },
         {
           "label": "D",
-          "text": "Recent medication initiation preceding symptoms"
+          "text": "Recent medication initiation"
         },
         {
           "label": "E",
@@ -905,7 +905,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Systemic autoimmune inflammation targeting lung interstitium"
+          "text": "Systemic autoimmune inflammation"
         },
         {
           "label": "B",
@@ -1152,7 +1152,7 @@
         },
         {
           "label": "D",
-          "text": "Noncaseating granulomas with peribronchial fibrosis"
+          "text": "Noncaseating granulomas"
         },
         {
           "label": "E",
@@ -3221,7 +3221,7 @@
         },
         {
           "label": "D",
-          "text": "Ferruginous bodies with iron coating"
+          "text": "Ferruginous bodies"
         },
         {
           "label": "E",
@@ -4206,7 +4206,7 @@
         },
         {
           "label": "D",
-          "text": "Iron-rich proteinaceous material (hemosiderin)"
+          "text": "Iron-rich proteinaceous material"
         },
         {
           "label": "E",

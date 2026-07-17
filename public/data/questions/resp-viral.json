@@ -441,7 +441,7 @@
         },
         {
           "label": "B",
-          "text": "Rapid influenza diagnostic test (RIDT)"
+          "text": "Rapid influenza diagnostic test"
         },
         {
           "label": "C",
@@ -2324,7 +2324,7 @@
         },
         {
           "label": "B",
-          "text": "Neutrophil extracellular traps (NETs) activation"
+          "text": "Neutrophil extracellular traps activation"
         },
         {
           "label": "C",
@@ -2380,7 +2380,7 @@
         },
         {
           "label": "D",
-          "text": "Nucleic acid amplification test (NAAT/RT-PCR)"
+          "text": "Nucleic acid amplification test"
         },
         {
           "label": "E",
@@ -3777,7 +3777,7 @@
         },
         {
           "label": "D",
-          "text": "Influenza B circulates only in humans, limiting genetic diversity"
+          "text": "Influenza B circulates only in humans"
         },
         {
           "label": "E",
@@ -4045,7 +4045,7 @@
         },
         {
           "label": "B",
-          "text": "Greater lung involvement and higher CXR score"
+          "text": "Greater lung involvement"
         },
         {
           "label": "C",
@@ -5491,7 +5491,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased viral load and transmissibility"
+          "text": "Increased viral load"
         },
         {
           "label": "B",

@@ -112,7 +112,7 @@
         },
         {
           "label": "C",
-          "text": "Pulmonary capillary compression raising right ventricular afterload"
+          "text": "Pulmonary capillary compression"
         },
         {
           "label": "D",
@@ -1057,7 +1057,7 @@
         },
         {
           "label": "D",
-          "text": "Meconium ileus from cystic fibrosis"
+          "text": "Meconium ileus"
         },
         {
           "label": "E",
@@ -2757,7 +2757,7 @@
         },
         {
           "label": "E",
-          "text": "High-calorie, high-fat with vitamin supplements"
+          "text": "High-calorie, high-fat"
         }
       ],
       "correctAnswer": "E",
@@ -5396,7 +5396,7 @@
         },
         {
           "label": "D",
-          "text": "Chronic allergic rhinitis with adenoid hypertrophy"
+          "text": "Chronic allergic rhinitis"
         },
         {
           "label": "E",

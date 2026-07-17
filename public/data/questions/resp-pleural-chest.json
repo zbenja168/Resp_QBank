@@ -2607,7 +2607,7 @@
         },
         {
           "label": "D",
-          "text": "Cardiac tamponade from pericardial extension"
+          "text": "Cardiac tamponade"
         },
         {
           "label": "E",
@@ -3175,7 +3175,7 @@
         },
         {
           "label": "E",
-          "text": "Multimodal pain control with breathing coaching"
+          "text": "Multimodal pain control"
         }
       ],
       "correctAnswer": "E",
@@ -3445,7 +3445,7 @@
         },
         {
           "label": "B",
-          "text": "Esophageal perforation with mediastinitis"
+          "text": "Esophageal perforation"
         },
         {
           "label": "C",

@@ -449,7 +449,7 @@
         },
         {
           "label": "E",
-          "text": "Interstitial fibrosis with cyst formation"
+          "text": "Interstitial fibrosis"
         }
       ],
       "correctAnswer": "E",
@@ -488,7 +488,7 @@
         },
         {
           "label": "C",
-          "text": "Increased capillary permeability from endothelial damage"
+          "text": "Increased capillary permeability"
         },
         {
           "label": "D",
@@ -809,7 +809,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Oxygen toxicity with additional lung damage"
+          "text": "Oxygen toxicity"
         },
         {
           "label": "B",

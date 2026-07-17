@@ -769,7 +769,7 @@
         },
         {
           "label": "B",
-          "text": "Tumor secretion of procoagulant proteins like tissue factor"
+          "text": "Tumor secretion of procoagulant proteins"
         },
         {
           "label": "C",
@@ -911,7 +911,7 @@
         },
         {
           "label": "B",
-          "text": "Vagus nerve (recurrent laryngeal branch)"
+          "text": "Vagus nerve"
         },
         {
           "label": "C",
@@ -1242,7 +1242,7 @@
         },
         {
           "label": "B",
-          "text": "Radiation therapy with/without chemotherapy"
+          "text": "Radiation therapy"
         },
         {
           "label": "C",
@@ -1336,7 +1336,7 @@
         },
         {
           "label": "B",
-          "text": "Non-keratinizing undifferentiated type (60-65%)"
+          "text": "Non-keratinizing undifferentiated type"
         },
         {
           "label": "C",
@@ -1434,7 +1434,7 @@
         },
         {
           "label": "C",
-          "text": "Neck mass from cervical lymph node metastasis"
+          "text": "Neck mass"
         },
         {
           "label": "D",
@@ -1621,7 +1621,7 @@
         },
         {
           "label": "C",
-          "text": "Inhibiting DNA synthesis as a pyrimidine analog"
+          "text": "Inhibiting DNA synthesis"
         },
         {
           "label": "D",
@@ -2231,7 +2231,7 @@
         },
         {
           "label": "B",
-          "text": "DNA encrustation of blood vessel walls from tumor necrosis"
+          "text": "DNA encrustation of blood vessel walls"
         },
         {
           "label": "C",
@@ -3600,7 +3600,7 @@
         },
         {
           "label": "B",
-          "text": "Flat squamous epithelial cells of the airways"
+          "text": "Flat squamous epithelial cells"
         },
         {
           "label": "C",
@@ -3839,7 +3839,7 @@
         },
         {
           "label": "C",
-          "text": "Surgical resection followed by adjuvant therapy"
+          "text": "Surgical resection"
         },
         {
           "label": "D",
@@ -3929,7 +3929,7 @@
         },
         {
           "label": "B",
-          "text": "It has affinity for lung cells and good lung tissue penetration"
+          "text": "It has affinity for lung cells"
         },
         {
           "label": "C",
@@ -7877,7 +7877,7 @@
         },
         {
           "label": "C",
-          "text": "Surgical resection followed by chemotherapy/targeted therapy"
+          "text": "Surgical resection"
         },
         {
           "label": "D",
@@ -7963,7 +7963,7 @@
         },
         {
           "label": "B",
-          "text": "Local tumor effects from primary tumor growth"
+          "text": "Local tumor effects"
         },
         {
           "label": "C",
@@ -8057,7 +8057,7 @@
         },
         {
           "label": "C",
-          "text": "Biopsy (e.g., bronchoscopy or needle biopsy)"
+          "text": "Biopsy"
         },
         {
           "label": "D",

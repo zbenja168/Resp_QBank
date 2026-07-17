@@ -582,7 +582,7 @@
         },
         {
           "label": "B",
-          "text": "Acidosis increases free iron by decreasing transferrin binding"
+          "text": "Acidosis increases free iron"
         },
         {
           "label": "C",
@@ -820,7 +820,7 @@
         },
         {
           "label": "B",
-          "text": "Structural lung disease (healed TB cavities, COPD)"
+          "text": "Structural lung disease"
         },
         {
           "label": "C",
@@ -1863,7 +1863,7 @@
         },
         {
           "label": "C",
-          "text": "Cryptococcal antigen (CrAg) test"
+          "text": "Cryptococcal antigen test"
         },
         {
           "label": "D",
@@ -2194,7 +2194,7 @@
         },
         {
           "label": "C",
-          "text": "Helmet-shaped cysts on silver stain of BAL"
+          "text": "Helmet-shaped cysts on silver stain"
         },
         {
           "label": "D",
@@ -2284,7 +2284,7 @@
         },
         {
           "label": "B",
-          "text": "Surgical resection plus antifungal therapy"
+          "text": "Surgical resection"
         },
         {
           "label": "C",
@@ -2421,7 +2421,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Long-term oral itraconazole or voriconazole"
+          "text": "Oral itraconazole or voriconazole"
         },
         {
           "label": "B",

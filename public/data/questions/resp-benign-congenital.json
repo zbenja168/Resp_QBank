@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "Approximately 10% risk of malignant transformation"
+          "text": "Risk of malignant transformation"
         },
         {
           "label": "C",
@@ -671,7 +671,7 @@
         },
         {
           "label": "B",
-          "text": "Extension into the brain causing neurological deficits"
+          "text": "Extension into the brain"
         },
         {
           "label": "C",
@@ -765,7 +765,7 @@
         },
         {
           "label": "B",
-          "text": "Periodic surveillance for recurrence and malignant transformation"
+          "text": "Periodic surveillance"
         },
         {
           "label": "C",
@@ -1424,7 +1424,7 @@
         },
         {
           "label": "B",
-          "text": "Renal agenesis causing oligohydramnios"
+          "text": "Renal agenesis"
         },
         {
           "label": "C",
@@ -1659,7 +1659,7 @@
         },
         {
           "label": "B",
-          "text": "Mediastinum near the trachea and bronchi"
+          "text": "Mediastinum"
         },
         {
           "label": "C",
@@ -3315,7 +3315,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Palatine shelves failing to fuse in the midline"
+          "text": "Palatine shelves failing to fuse"
         },
         {
           "label": "B",
@@ -3360,7 +3360,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It inflates herniated bowel and worsens lung compression"
+          "text": "It inflates herniated bowel"
         },
         {
           "label": "B",
@@ -3765,7 +3765,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Maxillary prominence (palatine shelves)"
+          "text": "Maxillary prominence"
         },
         {
           "label": "B",
@@ -3863,7 +3863,7 @@
         },
         {
           "label": "C",
-          "text": "Prone positioning to relieve glossoptosis"
+          "text": "Prone positioning"
         },
         {
           "label": "D",
@@ -3953,7 +3953,7 @@
         },
         {
           "label": "C",
-          "text": "Recurrent pneumonia and coughing with feeds, with NG passage intact"
+          "text": "Recurrent pneumonia and coughing with feeds"
         },
         {
           "label": "D",
@@ -4051,7 +4051,7 @@
         },
         {
           "label": "E",
-          "text": "Chest expansion with amniotic fluid during fetal breathing"
+          "text": "Chest expansion with amniotic fluid"
         }
       ],
       "correctAnswer": "E",
