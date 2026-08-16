@@ -812,7 +812,7 @@
         },
         {
           "label": "B",
-          "text": "It contains both vascular (angio) and fibrous components"
+          "text": "It contains both vascular and fibrous components"
         },
         {
           "label": "C",
@@ -1236,7 +1236,7 @@
         },
         {
           "label": "B",
-          "text": "Endotracheal intubation and mechanical ventilation"
+          "text": "Endotracheal intubation"
         },
         {
           "label": "C",
@@ -1988,7 +1988,7 @@
         },
         {
           "label": "B",
-          "text": "Fetal breathing movements that expand the lungs with amniotic fluid"
+          "text": "Fetal breathing movements that expand the lungs"
         },
         {
           "label": "C",
@@ -2914,7 +2914,7 @@
         },
         {
           "label": "C",
-          "text": "Fibroblasts with cuboidal nuclei and capillaries"
+          "text": "Fibroblasts and capillaries"
         },
         {
           "label": "D",

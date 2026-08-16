@@ -1750,7 +1750,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Micronodular or reticular pattern in mid/upper lobes"
+          "text": "Micronodular pattern in mid/upper lobes"
         },
         {
           "label": "B",
@@ -3587,7 +3587,7 @@
         },
         {
           "label": "B",
-          "text": "Silica (silicon dioxide) particles"
+          "text": "Silica particles"
         },
         {
           "label": "C",

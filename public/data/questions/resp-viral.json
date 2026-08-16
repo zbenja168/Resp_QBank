@@ -109,7 +109,7 @@
         },
         {
           "label": "B",
-          "text": "Inhibits neuraminidase, preventing viral release"
+          "text": "Inhibits neuraminidase"
         },
         {
           "label": "C",
@@ -251,7 +251,7 @@
         },
         {
           "label": "B",
-          "text": "Influenza A has a broader host range with more diverse strains"
+          "text": "Influenza A has a broader host range"
         },
         {
           "label": "C",
@@ -2324,7 +2324,7 @@
         },
         {
           "label": "B",
-          "text": "Neutrophil extracellular traps activation"
+          "text": "Neutrophil extracellular traps"
         },
         {
           "label": "C",
@@ -3953,7 +3953,7 @@
         },
         {
           "label": "B",
-          "text": "Abrupt onset with high fever and severe myalgias"
+          "text": "Abrupt onset with high fever"
         },
         {
           "label": "C",
@@ -3995,7 +3995,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "PCR-based testing detects multiple pathogens with high sensitivity"
+          "text": "PCR-based testing detects multiple pathogens"
         },
         {
           "label": "B",
@@ -4099,7 +4099,7 @@
         },
         {
           "label": "D",
-          "text": "Start oseltamivir; underlying asthma increases risk of severe disease"
+          "text": "Start oseltamivir; underlying asthma increases risk"
         },
         {
           "label": "E",

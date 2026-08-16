@@ -168,7 +168,7 @@
         },
         {
           "label": "E",
-          "text": "Surfactant layer, alveolar epithelium, basement membranes, endothelium"
+          "text": "Surfactant, epithelium, basement membranes, endothelium"
         }
       ],
       "correctAnswer": "E",
@@ -2751,7 +2751,7 @@
         },
         {
           "label": "E",
-          "text": "Displacement of CO from hemoglobin by high dissolved O₂"
+          "text": "Displacement of CO from hemoglobin"
         }
       ],
       "correctAnswer": "E",
@@ -4912,7 +4912,7 @@
         },
         {
           "label": "C",
-          "text": "High compliance allowing recruitment and distension"
+          "text": "High compliance allowing recruitment"
         },
         {
           "label": "D",

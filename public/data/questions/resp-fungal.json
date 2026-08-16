@@ -864,7 +864,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Aspergillus IgE for ABPA; Aspergillus IgG for CPA"
+          "text": "Aspergillus IgE for ABPA; IgG for CPA"
         },
         {
           "label": "B",
@@ -1577,7 +1577,7 @@
         },
         {
           "label": "B",
-          "text": "It survives within macrophages and persists for decades"
+          "text": "It survives within macrophages"
         },
         {
           "label": "C",
@@ -2754,7 +2754,7 @@
         },
         {
           "label": "B",
-          "text": "Allergic fungal rhinosinusitis (AFRS)"
+          "text": "Allergic fungal rhinosinusitis"
         },
         {
           "label": "C",
@@ -2938,7 +2938,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Angioinvasion causing thrombosis and tissue necrosis"
+          "text": "Angioinvasion causing thrombosis"
         },
         {
           "label": "B",
@@ -3001,7 +3001,7 @@
         },
         {
           "label": "E",
-          "text": "Elevated Aspergillus IgE and IgG with eosinophilia"
+          "text": "Elevated Aspergillus IgE and IgG"
         }
       ],
       "correctAnswer": "E",

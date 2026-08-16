@@ -673,7 +673,7 @@
         },
         {
           "label": "B",
-          "text": "Chest physiotherapy with airway clearance devices"
+          "text": "Chest physiotherapy"
         },
         {
           "label": "C",
@@ -1245,7 +1245,7 @@
         },
         {
           "label": "D",
-          "text": "Pancreatic duct obstruction with exocrine failure"
+          "text": "Pancreatic duct obstruction"
         },
         {
           "label": "E",
@@ -1390,7 +1390,7 @@
         },
         {
           "label": "E",
-          "text": "Quantitative pilocarpine sweat chloride test"
+          "text": "Sweat chloride test"
         }
       ],
       "correctAnswer": "E",
@@ -1527,7 +1527,7 @@
         },
         {
           "label": "D",
-          "text": "Thickened bile causing cholestatic obstruction"
+          "text": "Thickened bile causing obstruction"
         },
         {
           "label": "E",
@@ -1845,7 +1845,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased luminal osmolality pulling water intracellularly"
+          "text": "Decreased luminal osmolality"
         },
         {
           "label": "B",
@@ -6148,7 +6148,7 @@
         },
         {
           "label": "D",
-          "text": "Nonallergic (vasomotor) rhinitis"
+          "text": "Nonallergic rhinitis"
         },
         {
           "label": "E",

@@ -3525,7 +3525,7 @@
         },
         {
           "label": "C",
-          "text": "Long-acting bronchodilator (LABA or LAMA)"
+          "text": "Long-acting bronchodilator"
         },
         {
           "label": "D",
@@ -3805,7 +3805,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Oxygen-induced respiratory drive suppression and V/Q worsening"
+          "text": "Oxygen-induced respiratory drive suppression"
         },
         {
           "label": "B",
@@ -4205,7 +4205,7 @@
         },
         {
           "label": "E",
-          "text": "Noninvasive positive pressure ventilation (BiPAP)"
+          "text": "Noninvasive positive pressure ventilation"
         }
       ],
       "correctAnswer": "E",
@@ -5485,7 +5485,7 @@
         },
         {
           "label": "D",
-          "text": "Give systemic corticosteroids and prepare intubation"
+          "text": "Give systemic corticosteroids"
         },
         {
           "label": "E",

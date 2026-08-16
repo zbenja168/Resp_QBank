@@ -3594,7 +3594,7 @@
         },
         {
           "label": "D",
-          "text": "Hyperventilation-induced hypoxia before breathing urge"
+          "text": "Hyperventilation-induced hypoxia"
         },
         {
           "label": "E",
@@ -3876,7 +3876,7 @@
         },
         {
           "label": "D",
-          "text": "Diagnostic thoracoscopy or laparoscopy"
+          "text": "Thoracoscopy or laparoscopy"
         },
         {
           "label": "E",
@@ -4099,7 +4099,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Alveolar overdistension from rapid decompression"
+          "text": "Alveolar overdistension"
         },
         {
           "label": "B",

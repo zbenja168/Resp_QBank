@@ -486,7 +486,7 @@
         },
         {
           "label": "B",
-          "text": "Bronchoscopy, needle biopsy, or surgical resection"
+          "text": "Bronchoscopy, needle biopsy"
         },
         {
           "label": "C",
@@ -1383,7 +1383,7 @@
         },
         {
           "label": "B",
-          "text": "Anosmia (inability to smell)"
+          "text": "Anosmia"
         },
         {
           "label": "C",
@@ -1668,7 +1668,7 @@
         },
         {
           "label": "C",
-          "text": "Southern China and Southeast Asia"
+          "text": "Southern China"
         },
         {
           "label": "D",
@@ -2137,7 +2137,7 @@
         },
         {
           "label": "B",
-          "text": "Small cells with scant cytoplasm and salt-and-pepper chromatin"
+          "text": "Small cells with scant cytoplasm"
         },
         {
           "label": "C",
@@ -2372,7 +2372,7 @@
         },
         {
           "label": "B",
-          "text": "Lymph nodes, brain, liver, bone, and adrenals"
+          "text": "Lymph nodes, brain, liver, bone"
         },
         {
           "label": "C",
@@ -2563,7 +2563,7 @@
         },
         {
           "label": "B",
-          "text": "Most patients present with metastatic disease at diagnosis"
+          "text": "Most patients present with metastatic disease"
         },
         {
           "label": "C",
@@ -3463,7 +3463,7 @@
         },
         {
           "label": "C",
-          "text": "Large cells with prominent nucleoli lacking squamous or glandular differentiation"
+          "text": "Large cells lacking squamous or glandular differentiation"
         },
         {
           "label": "D",
@@ -5681,7 +5681,7 @@
         },
         {
           "label": "D",
-          "text": "Combined radiation and limited surgery"
+          "text": "Radiation and limited surgery"
         },
         {
           "label": "E",
@@ -6090,7 +6090,7 @@
         },
         {
           "label": "E",
-          "text": "Local cervical lymph nodes"
+          "text": "Cervical lymph nodes"
         }
       ],
       "correctAnswer": "E",

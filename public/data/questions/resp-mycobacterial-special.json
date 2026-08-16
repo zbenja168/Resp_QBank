@@ -1383,7 +1383,7 @@
         },
         {
           "label": "C",
-          "text": "Reassure him this is a harmless side effect"
+          "text": "Reassure him this is harmless"
         },
         {
           "label": "D",
@@ -2271,7 +2271,7 @@
         },
         {
           "label": "B",
-          "text": "Right upper lobe posterior segment"
+          "text": "Right upper lobe"
         },
         {
           "label": "C",
@@ -4115,7 +4115,7 @@
         },
         {
           "label": "C",
-          "text": "Send to reference lab; contact state health department and CDC"
+          "text": "Send to reference lab; contact state health department"
         },
         {
           "label": "D",
@@ -4523,7 +4523,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibition of macrophage calcium signaling and phagosome acidification"
+          "text": "Inhibition of macrophage calcium signaling"
         },
         {
           "label": "B",
@@ -5774,7 +5774,7 @@
         },
         {
           "label": "C",
-          "text": "It targets semi-dormant bacilli in acidic intracellular environments"
+          "text": "It targets semi-dormant bacilli in acidic environments"
         },
         {
           "label": "D",
@@ -6138,7 +6138,7 @@
         },
         {
           "label": "B",
-          "text": "Intensive = RIPE x 2 months; continuation = INH + rifampin x 4 months"
+          "text": "Intensive = RIPE; continuation = INH + rifampin"
         },
         {
           "label": "C",
