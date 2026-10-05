@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "resp-anatomy",
-      "name": "Anatomy",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "histology-respiratory-tract",
@@ -29,11 +29,14 @@
           "name": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
           "questionCount": 22
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-physiology",
-      "name": "Respiratory Physiology",
+      "id": "w1s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "overview-respiratory-physiology",
@@ -54,7 +57,16 @@
           "id": "alveolar-gas-exchange-diffusion",
           "name": "Alveolar Gas Exchange and Diffusion",
           "questionCount": 22
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "pulmonary-circulation",
           "name": "Pulmonary Circulation",
@@ -64,13 +76,7 @@
           "id": "oxygen-co2-transport",
           "name": "Oxygen and Carbon Dioxide Transport",
           "questionCount": 22
-        }
-      ]
-    },
-    {
-      "id": "resp-acid-base-gas",
-      "name": "Acid-Base & Gas Disorders",
-      "topics": [
+        },
         {
           "id": "respiratory-acidosis",
           "name": "Respiratory Acidosis",
@@ -85,22 +91,15 @@
           "id": "co-cn-poisoning",
           "name": "Carbon Monoxide and Cyanide Poisoning",
           "questionCount": 23
-        },
-        {
-          "id": "hypoxemia",
-          "name": "Hypoxemia",
-          "questionCount": 23
-        },
-        {
-          "id": "hypercapnia",
-          "name": "Hypercapnia",
-          "questionCount": 23
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-ventilation-mechanics",
-      "name": "Ventilation & Lung Mechanics",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "control-ventilation-altitude-exercise",
@@ -121,12 +120,25 @@
           "id": "ventilation-perfusion",
           "name": "Pulmonary Ventilation and Perfusion (V/Q)",
           "questionCount": 22
+        },
+        {
+          "id": "hypoxemia",
+          "name": "Hypoxemia",
+          "questionCount": 23
+        },
+        {
+          "id": "hypercapnia",
+          "name": "Hypercapnia",
+          "questionCount": 23
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-obstructive",
-      "name": "Obstructive Lung Diseases",
+      "id": "w2s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "obstructive-restrictive-foundations",
@@ -158,11 +170,14 @@
           "name": "Treatment of Asthma and COPD",
           "questionCount": 22
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-airway",
-      "name": "Airway Diseases",
+      "id": "w2s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "bronchiectasis",
@@ -194,11 +209,14 @@
           "name": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
           "questionCount": 22
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-interstitial-restrictive",
-      "name": "Interstitial & Restrictive Diseases",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "ild-foundations",
@@ -230,11 +248,14 @@
           "name": "Autoimmune Diseases with Respiratory Manifestations",
           "questionCount": 22
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-pleural-chest",
-      "name": "Pleural & Chest Diseases",
+      "id": "w3s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "pleural-effusion",
@@ -250,18 +271,21 @@
           "id": "mesothelioma",
           "name": "Mesothelioma",
           "questionCount": 22
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "traumatic-chest-disorders",
           "name": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
           "questionCount": 22
-        }
-      ]
-    },
-    {
-      "id": "resp-acute-failure",
-      "name": "Acute Respiratory Failure",
-      "topics": [
+        },
         {
           "id": "ards",
           "name": "Acute Respiratory Distress Syndrome (ARDS)",
@@ -277,30 +301,18 @@
           "name": "Sleep Apnea",
           "questionCount": 22
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-pneumonia-bacterial",
-      "name": "Pneumonia & Bacterial Infections",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "introduction-pneumonia",
           "name": "Introduction to Pneumonia",
-          "questionCount": 22
-        },
-        {
-          "id": "strep-hflu-mcatarrhalis",
-          "name": "Streptococcus spp., H. influenzae, and M. catarrhalis",
-          "questionCount": 22
-        },
-        {
-          "id": "pseudomonas-related-bacteria",
-          "name": "Pseudomonas and Other Closely Related Bacteria",
-          "questionCount": 22
-        },
-        {
-          "id": "atypical-bacteria",
-          "name": "Atypical Bacteria",
           "questionCount": 22
         },
         {
@@ -309,8 +321,18 @@
           "questionCount": 22
         },
         {
+          "id": "strep-hflu-mcatarrhalis",
+          "name": "Streptococcus spp., H. influenzae, and M. catarrhalis",
+          "questionCount": 22
+        },
+        {
           "id": "strep-hflu-mcatarrhalis-hard",
           "name": "Streptococcus spp., H. influenzae, and M. catarrhalis (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "pseudomonas-related-bacteria",
+          "name": "Pseudomonas and Other Closely Related Bacteria",
           "questionCount": 22
         },
         {
@@ -319,34 +341,18 @@
           "questionCount": 22
         },
         {
+          "id": "atypical-bacteria",
+          "name": "Atypical Bacteria",
+          "questionCount": 22
+        },
+        {
           "id": "atypical-bacteria-hard",
           "name": "Atypical Bacteria (Advanced)",
           "questionCount": 22
-        }
-      ]
-    },
-    {
-      "id": "resp-mycobacterial-special",
-      "name": "Mycobacterial & Special Bacterial Infections",
-      "topics": [
+        },
         {
           "id": "tb-mac",
           "name": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
-          "questionCount": 22
-        },
-        {
-          "id": "tb-mac-treatment",
-          "name": "Treatment of Tuberculosis and MAC Infections",
-          "questionCount": 22
-        },
-        {
-          "id": "nocardia-ecoli-klebsiella-staph",
-          "name": "Nocardia spp., E. coli, K. pneumoniae, and S. aureus",
-          "questionCount": 22
-        },
-        {
-          "id": "anthrax-qfever",
-          "name": "B. anthracis and C. burnetii",
           "questionCount": 22
         },
         {
@@ -355,8 +361,27 @@
           "questionCount": 22
         },
         {
+          "id": "tb-mac-treatment",
+          "name": "Treatment of Tuberculosis and MAC Infections",
+          "questionCount": 22
+        },
+        {
           "id": "tb-mac-treatment-hard",
           "name": "Treatment of Tuberculosis and MAC Infections (Advanced)",
+          "questionCount": 22
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "nocardia-ecoli-klebsiella-staph",
+          "name": "Nocardia spp., E. coli, K. pneumoniae, and S. aureus",
           "questionCount": 22
         },
         {
@@ -365,24 +390,18 @@
           "questionCount": 22
         },
         {
-          "id": "anthrax-qfever-hard",
-          "name": "B. anthracis and C. burnetii (Advanced)",
-          "questionCount": 22
-        }
-      ]
-    },
-    {
-      "id": "resp-fungal",
-      "name": "Fungal Infections",
-      "topics": [
-        {
-          "id": "invasive-fungal-infections",
-          "name": "Invasive Fungal Infections",
+          "id": "anthrax-qfever",
+          "name": "B. anthracis and C. burnetii",
           "questionCount": 22
         },
         {
-          "id": "geographically-defined-mycoses",
-          "name": "Geographically Defined Mycoses",
+          "id": "anthrax-qfever-hard",
+          "name": "B. anthracis and C. burnetii (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "invasive-fungal-infections",
+          "name": "Invasive Fungal Infections",
           "questionCount": 22
         },
         {
@@ -391,29 +410,27 @@
           "questionCount": 22
         },
         {
+          "id": "geographically-defined-mycoses",
+          "name": "Geographically Defined Mycoses",
+          "questionCount": 22
+        },
+        {
           "id": "geographically-defined-mycoses-hard",
           "name": "Geographically Defined Mycoses (Advanced)",
           "questionCount": 22
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-viral",
-      "name": "Viral Infections",
+      "id": "w4s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "common-resp-viruses-1",
           "name": "Common Respiratory Tract Viruses (Part 1)",
-          "questionCount": 22
-        },
-        {
-          "id": "common-resp-viruses-2",
-          "name": "Common Respiratory Tract Viruses (Part 2)",
-          "questionCount": 22
-        },
-        {
-          "id": "coronaviridae",
-          "name": "Coronaviridae",
           "questionCount": 22
         },
         {
@@ -422,8 +439,18 @@
           "questionCount": 22
         },
         {
+          "id": "common-resp-viruses-2",
+          "name": "Common Respiratory Tract Viruses (Part 2)",
+          "questionCount": 22
+        },
+        {
           "id": "common-resp-viruses-2-hard",
           "name": "Common Respiratory Tract Viruses Part 2 (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "coronaviridae",
+          "name": "Coronaviridae",
           "questionCount": 22
         },
         {
@@ -431,20 +458,18 @@
           "name": "Coronaviridae (Advanced)",
           "questionCount": 22
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-benign-congenital",
-      "name": "Benign Tumors & Congenital Disorders",
+      "id": "w5s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "benign-nasal-tumors",
           "name": "Benign Tumors of the Nasal Cavity",
-          "questionCount": 22
-        },
-        {
-          "id": "congenital-respiratory-disorders",
-          "name": "Congenital Disorders of the Respiratory System",
           "questionCount": 22
         },
         {
@@ -453,34 +478,18 @@
           "questionCount": 22
         },
         {
+          "id": "congenital-respiratory-disorders",
+          "name": "Congenital Disorders of the Respiratory System",
+          "questionCount": 22
+        },
+        {
           "id": "congenital-respiratory-disorders-hard",
           "name": "Congenital Disorders of the Respiratory System (Advanced)",
           "questionCount": 22
-        }
-      ]
-    },
-    {
-      "id": "resp-lung-cancer",
-      "name": "Lung Cancer",
-      "topics": [
+        },
         {
           "id": "lung-cancer-foundations",
           "name": "Lung Cancer: Foundations and Frameworks",
-          "questionCount": 22
-        },
-        {
-          "id": "malignant-tumors-upper-resp",
-          "name": "Malignant Tumors of the Upper Respiratory System",
-          "questionCount": 22
-        },
-        {
-          "id": "small-cell-lung-cancer",
-          "name": "Small Cell Lung Cancer",
-          "questionCount": 22
-        },
-        {
-          "id": "non-small-cell-lung-cancer",
-          "name": "Non-Small Cell Lung Cancer",
           "questionCount": 22
         },
         {
@@ -489,8 +498,18 @@
           "questionCount": 22
         },
         {
+          "id": "malignant-tumors-upper-resp",
+          "name": "Malignant Tumors of the Upper Respiratory System",
+          "questionCount": 22
+        },
+        {
           "id": "malignant-tumors-upper-resp-hard",
           "name": "Malignant Tumors of the Upper Respiratory System (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "small-cell-lung-cancer",
+          "name": "Small Cell Lung Cancer",
           "questionCount": 22
         },
         {
@@ -502,26 +521,24 @@
           "id": "non-small-cell-lung-cancer-hard",
           "name": "Non-Small Cell Lung Cancer (Advanced)",
           "questionCount": 22
+        },
+        {
+          "id": "non-small-cell-lung-cancer",
+          "name": "Non-Small Cell Lung Cancer",
+          "questionCount": 22
         }
-      ]
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
     },
     {
-      "id": "resp-pulm-vascular",
-      "name": "Pulmonary Vascular Diseases",
+      "id": "w5s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "pulmonary-hypertension",
           "name": "Pulmonary Hypertension",
-          "questionCount": 22
-        },
-        {
-          "id": "pulmonary-embolism",
-          "name": "Pulmonary Embolism",
-          "questionCount": 22
-        },
-        {
-          "id": "nonthrombotic-emboli",
-          "name": "Nonthrombotic Emboli",
           "questionCount": 22
         },
         {
@@ -530,8 +547,18 @@
           "questionCount": 22
         },
         {
+          "id": "pulmonary-embolism",
+          "name": "Pulmonary Embolism",
+          "questionCount": 22
+        },
+        {
           "id": "pulmonary-embolism-hard",
           "name": "Pulmonary Embolism (Advanced)",
+          "questionCount": 22
+        },
+        {
+          "id": "nonthrombotic-emboli",
+          "name": "Nonthrombotic Emboli",
           "questionCount": 22
         },
         {
@@ -539,7 +566,10 @@
           "name": "Nonthrombotic Emboli (Advanced)",
           "questionCount": 22
         }
-      ]
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 1968

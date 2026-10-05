@@ -1,7 +1,1041 @@
 {
-  "categoryId": "resp-acute-failure",
-  "categoryName": "Acute Respiratory Failure",
+  "categoryId": "w3s3",
+  "categoryName": "Session 3",
   "questions": [
+    {
+      "id": "r21-023",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 45-year-old man is brought to the emergency department after a motor vehicle collision. He has severe left chest wall pain and difficulty breathing. Physical examination reveals a segment of the left lateral chest wall that moves inward during inspiration and outward during expiration. Chest X-ray shows fractures of ribs 4 through 7, each fractured in two locations. Which of the following is the most accurate diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Simple rib fractures"
+        },
+        {
+          "label": "B",
+          "text": "Flail chest"
+        },
+        {
+          "label": "C",
+          "text": "Costochondritis"
+        },
+        {
+          "label": "D",
+          "text": "Sternal fracture"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary contusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Flail chest is defined as 3 or more consecutive ribs fractured in 2 or more places, creating a free-floating segment that moves paradoxically (inward with inspiration, outward with expiration).",
+        "whyCorrect": "This patient has 4 consecutive ribs (4-7) each fractured in two places, meeting the definition of flail chest. The hallmark finding is paradoxical chest wall movement, where the flail segment moves opposite to the rest of the chest wall during respiration.",
+        "whyWrongByChoice": {
+          "A": "Simple rib fractures involve individual rib fractures without creating a free-floating segment. They do not cause paradoxical chest wall motion.",
+          "C": "Costochondritis is inflammation of the costochondral junctions causing localized chest pain reproducible with palpation, not traumatic rib fractures with paradoxical motion.",
+          "D": "A sternal fracture involves the sternum, not the lateral ribs. It does not create a paradoxically moving chest wall segment.",
+          "E": "Pulmonary contusion is a bruise of the lung parenchyma that causes opacification on imaging but does not produce paradoxical chest wall movement."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "flail-chest",
+        "rib-fractures",
+        "paradoxical-motion",
+        "trauma"
+      ]
+    },
+    {
+      "id": "r21-024",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 55-year-old man sustains multiple left-sided rib fractures after falling from a ladder. He is alert and hemodynamically stable but splints with breathing due to pain. His oxygen saturation is 94% on room air. Chest X-ray shows no pneumothorax or effusion. Which of the following is the most important initial management priority?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emergent surgical rib fixation"
+        },
+        {
+          "label": "B",
+          "text": "Immediate intubation and ventilation"
+        },
+        {
+          "label": "C",
+          "text": "Prophylactic chest tube placement"
+        },
+        {
+          "label": "D",
+          "text": "Tight chest wall wrapping"
+        },
+        {
+          "label": "E",
+          "text": "Multimodal pain control"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In stable patients with rib fractures, adequate multimodal pain control is the most important initial priority. Pain limits deep breathing and coughing, increasing the risk of atelectasis and pulmonary complications.",
+        "whyCorrect": "Pain from rib fractures limits the patient's ability to breathe deeply and cough, increasing risks of atelectasis and other pulmonary complications. Multimodal pain management, early mobilization, and coaching on deep breathing and coughing are the cornerstones of initial management.",
+        "whyWrongByChoice": {
+          "A": "Surgical fixation (SSRF with ORIF) is reserved for flail chest patients who fail conservative management or require mechanical ventilation, not for simple rib fractures in a stable patient.",
+          "B": "Intubation is reserved for patients with respiratory failure. This patient is alert with adequate oxygenation and needs pain control, not mechanical ventilation.",
+          "C": "Prophylactic chest tube placement is not indicated without evidence of pneumothorax or hemothorax. Unnecessary procedures carry their own risks.",
+          "D": "Chest wall binding restricts chest expansion and worsens ventilation, increasing the risk of atelectasis and respiratory complications. It is contraindicated."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rib-fractures",
+        "pain-management",
+        "atelectasis",
+        "trauma"
+      ]
+    },
+    {
+      "id": "r21-025",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 30-year-old man is stabbed in the left chest at the 6th intercostal space in the midaxillary line. He arrives at the emergency department with a blood pressure of 90/60 mmHg and heart rate of 125 bpm. A chest tube is placed and immediately drains 1,800 mL of blood. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Observation with serial chest X-rays"
+        },
+        {
+          "label": "B",
+          "text": "CT angiography of the chest"
+        },
+        {
+          "label": "C",
+          "text": "Emergent thoracotomy for hemorrhage control"
+        },
+        {
+          "label": "D",
+          "text": "Removal of chest tube with closure"
+        },
+        {
+          "label": "E",
+          "text": "Autotransfusion of collected blood only"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An initial chest tube output exceeding 1,500 mL constitutes a massive hemothorax requiring emergent thoracotomy for surgical hemorrhage control in a hemodynamically unstable patient.",
+        "whyCorrect": "A massive hemothorax is defined as initial chest tube output greater than 1,500 mL. In a hemodynamically unstable patient, this requires emergent thoracotomy to identify and control the bleeding source, which may be an intercostal vessel, internal mammary artery, or pulmonary vasculature.",
+        "whyWrongByChoice": {
+          "A": "Observation is inappropriate for a hemodynamically unstable patient with a massive hemothorax. This patient needs immediate surgical intervention to control the hemorrhage.",
+          "B": "CT angiography would delay definitive treatment in a hemodynamically unstable patient with active hemorrhage requiring emergent surgical intervention.",
+          "D": "Removing the chest tube would cause re-accumulation of blood in the pleural space, worsening respiratory compromise. The source of bleeding must be addressed surgically.",
+          "E": "While autotransfusion may be a useful adjunct, it does not address the ongoing hemorrhage. The primary need is surgical hemorrhage control."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemothorax",
+        "massive",
+        "thoracotomy",
+        "penetrating-trauma"
+      ]
+    },
+    {
+      "id": "r21-026",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 28-year-old woman is involved in a high-speed motor vehicle collision and intubated in the field. Chest X-ray on arrival shows diffuse opacification of the left lung without pleural effusion and left-sided rib fractures. Over the next 24 hours, her oxygenation progressively worsens despite ventilatory support. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "C",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary contusion"
+        },
+        {
+          "label": "E",
+          "text": "Aortic transection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pulmonary contusion is a bruise of the lung parenchyma from blunt trauma, appearing as opacification on chest X-ray. It characteristically worsens over 24-48 hours as inflammation progresses.",
+        "whyCorrect": "Pulmonary contusion results from blunt chest trauma causing hemorrhage and edema within the lung parenchyma. CXR shows opacification at the site of injury. The pathophysiology worsens over 24-48 hours as inflammatory processes progress, causing worsening V/Q mismatch and hypoxemia.",
+        "whyWrongByChoice": {
+          "A": "Tension pneumothorax would show absent lung markings, mediastinal shift, and hemodynamic instability, not diffuse lung opacification.",
+          "B": "Pulmonary embolism causes acute hypoxemia but does not produce diffuse lung opacification on chest X-ray. It presents with clear lung fields or wedge-shaped infarcts.",
+          "C": "Lobar pneumonia would be unusual immediately after trauma. The opacification corresponds to the traumatic injury site and rib fractures, consistent with contusion.",
+          "E": "Aortic transection presents with a widened mediastinum on chest X-ray and hemodynamic instability, not diffuse lung opacification."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pulmonary-contusion",
+        "blunt-trauma",
+        "chest-xray",
+        "hypoxemia"
+      ]
+    },
+    {
+      "id": "r21-027",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 40-year-old man is brought to the emergency department after a motorcycle crash. Chest X-ray shows a nasogastric tube coiling upward into the left hemithorax. Loops of bowel are visible above the expected level of the left hemidiaphragm. The patient is hemodynamically stable but tachypneic. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left hemothorax"
+        },
+        {
+          "label": "B",
+          "text": "Left-sided pleural effusion"
+        },
+        {
+          "label": "C",
+          "text": "Traumatic diaphragmatic rupture"
+        },
+        {
+          "label": "D",
+          "text": "Left lower lobe atelectasis"
+        },
+        {
+          "label": "E",
+          "text": "Esophageal perforation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A nasogastric tube coiling into the left hemithorax and bowel loops above the diaphragm after trauma indicate herniation of abdominal contents through a diaphragmatic tear, confirming traumatic diaphragmatic rupture.",
+        "whyCorrect": "The chest X-ray shows the stomach (followed by the NG tube) and bowel loops herniated into the left hemithorax through a diaphragmatic defect. The negative intrathoracic pressure pulls abdominal contents upward through the tear. Left-sided injuries are more common because the liver protects the right hemidiaphragm.",
+        "whyWrongByChoice": {
+          "A": "A hemothorax would show a homogeneous fluid collection in the dependent portion of the chest, not bowel loops and a displaced NG tube in the thorax.",
+          "B": "A pleural effusion would show a meniscus sign on upright X-ray, not loops of bowel and an NG tube in the thorax.",
+          "D": "Atelectasis would show opacification with volume loss and mediastinal shift toward the affected side, not bowel loops in the thorax.",
+          "E": "Esophageal perforation can cause pneumomediastinum and mediastinitis but would not cause bowel loops to appear in the left hemithorax."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diaphragmatic-rupture",
+        "herniation",
+        "trauma",
+        "chest-xray"
+      ]
+    },
+    {
+      "id": "r21-028",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 35-year-old woman presents with sharp, stabbing chest pain that worsens with deep inspiration and coughing. She recently recovered from a viral upper respiratory infection. Auscultation reveals a creaking, rubbing sound during both inspiration and expiration that disappears when she holds her breath. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pericarditis"
+        },
+        {
+          "label": "B",
+          "text": "Costochondritis"
+        },
+        {
+          "label": "C",
+          "text": "Pneumothorax"
+        },
+        {
+          "label": "D",
+          "text": "Pleuritis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary embolism"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sharp chest pain worsening with inspiration, a pleural friction rub (creaking sound during inspiration and expiration that ceases with breath holding), and recent viral infection are classic for pleuritis (pleural inflammation).",
+        "whyCorrect": "Pleuritis presents with sharp, pleuritic chest pain and a pleural friction rub. The friction rub is distinguished from a pericardial friction rub by its cessation during breath holding (pericardial rubs continue). Viral infections are a common cause of pleuritis.",
+        "whyWrongByChoice": {
+          "A": "Pericarditis can produce a friction rub, but a pericardial friction rub continues even when the patient holds their breath, since it is related to cardiac motion, not respiratory motion.",
+          "B": "Costochondritis causes reproducible chest wall tenderness with palpation. It does not produce a friction rub on auscultation.",
+          "C": "Pneumothorax causes sudden pleuritic chest pain and decreased breath sounds on the affected side, not a friction rub.",
+          "E": "Pulmonary embolism causes acute dyspnea and pleuritic pain but does not typically produce a pleural friction rub on auscultation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pleuritis",
+        "friction-rub",
+        "pleuritic-chest-pain",
+        "viral"
+      ]
+    },
+    {
+      "id": "r21-029",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "Three days after an esophagectomy, a 58-year-old man develops a right-sided pleural effusion with progressive dyspnea. Thoracentesis yields milky white fluid. Laboratory analysis shows triglycerides of 180 mg/dL and a lymphocyte-predominant cell count exceeding 80%. Which of the following is the most appropriate initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emergent thoracic duct ligation"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous antibiotics and drainage"
+        },
+        {
+          "label": "C",
+          "text": "Chest tube and low-fat MCT diet"
+        },
+        {
+          "label": "D",
+          "text": "Systemic anticoagulation therapy"
+        },
+        {
+          "label": "E",
+          "text": "Pleurodesis with talc instillation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Milky fluid with elevated triglycerides (>110 mg/dL) and lymphocyte predominance after esophagectomy confirms chylothorax from thoracic duct injury. Initial management is conservative: chest tube drainage and dietary modification with medium-chain triglycerides.",
+        "whyCorrect": "Chylothorax management begins conservatively with chest tube drainage and nutritional support using a low-fat diet containing medium-chain triglycerides (which absorb into intestinal capillaries rather than lymphatics). This reduces lymphatic flow and allows approximately 50% of chylothoraxes to heal.",
+        "whyWrongByChoice": {
+          "A": "Thoracic duct ligation is reserved for cases that fail conservative management after 2-3 weeks. Initial management should be conservative.",
+          "B": "This is a chylothorax, not an empyema. Antibiotics are not indicated. The milky fluid with high triglycerides and lymphocytes is chyle, not infected fluid.",
+          "D": "Anticoagulation has no role in chylothorax management and could worsen any surgical bleeding.",
+          "E": "Pleurodesis may be considered if conservative measures fail but is not the first-line treatment for post-surgical chylothorax."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chylothorax",
+        "thoracic-duct",
+        "medium-chain-triglycerides",
+        "management"
+      ]
+    },
+    {
+      "id": "r21-030",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 50-year-old man develops severe chest pain, subcutaneous emphysema in the neck, and fever 6 hours after upper endoscopy with dilation of an esophageal stricture. He becomes increasingly tachycardic and hypotensive. Chest X-ray shows pneumomediastinum. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myocardial infarction"
+        },
+        {
+          "label": "B",
+          "text": "Esophageal perforation"
+        },
+        {
+          "label": "C",
+          "text": "Spontaneous pneumothorax"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "Acute pancreatitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Severe chest pain, subcutaneous emphysema, fever, and hemodynamic instability after esophageal instrumentation indicate esophageal perforation with resultant mediastinitis, a surgical emergency.",
+        "whyCorrect": "Esophageal perforation is a known complication of endoscopic dilation. Air escaping from the esophageal breach into the mediastinum causes pneumomediastinum and subcutaneous emphysema. The contamination of the mediastinum with esophageal contents leads to mediastinitis, which can rapidly progress to septic shock.",
+        "whyWrongByChoice": {
+          "A": "MI causes chest pain and hemodynamic instability but does not cause subcutaneous emphysema or fever acutely. The temporal relationship to endoscopy points to esophageal perforation.",
+          "C": "Spontaneous pneumothorax could cause chest pain and subcutaneous emphysema but would not cause fever, and the temporal relationship to endoscopy strongly suggests esophageal perforation.",
+          "D": "Pulmonary embolism causes acute dyspnea and chest pain but does not produce subcutaneous emphysema or fever in this timeframe.",
+          "E": "Acute pancreatitis causes abdominal pain, not subcutaneous emphysema. While it can be a rare complication of ERCP, this presentation is classic for esophageal perforation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mediastinitis",
+        "esophageal-perforation",
+        "subcutaneous-emphysema",
+        "endoscopy"
+      ]
+    },
+    {
+      "id": "r21-031",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 22-year-old man sustains a single stab wound to the left anterior chest just medial to the nipple. He arrives at the emergency department with a blood pressure of 70/40 mmHg, heart rate of 140 bpm, jugular venous distension, and muffled heart sounds. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Massive hemothorax"
+        },
+        {
+          "label": "C",
+          "text": "Aortic transection"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac tamponade"
+        },
+        {
+          "label": "E",
+          "text": "Flail chest"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A stab wound medial to the left nipple with hypotension, JVD, and muffled heart sounds (Beck triad) is classic for cardiac tamponade from penetrating cardiac injury with a small pericardial defect.",
+        "whyCorrect": "Penetrating cardiac injury is the most lethal mediastinal injury. When the pericardial defect is small, blood accumulates in the pericardial sac causing tamponade. Beck triad (hypotension, JVD, muffled heart sounds) confirms the diagnosis. The wound location medial to the nipple places it over the cardiac silhouette.",
+        "whyWrongByChoice": {
+          "A": "Tension pneumothorax causes JVD and hypotension but also produces absent breath sounds, tracheal deviation, and hyperresonance, not muffled heart sounds.",
+          "B": "Massive hemothorax causes hypotension and decreased breath sounds but not JVD and muffled heart sounds together. Blood collects in the pleural space, not the pericardium.",
+          "C": "Aortic transection typically occurs from deceleration injury in blunt trauma, not penetrating stab wounds. It presents with a widened mediastinum.",
+          "E": "Flail chest requires multiple rib fractures from blunt trauma, not a single stab wound. It presents with paradoxical chest wall motion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardiac-tamponade",
+        "Beck-triad",
+        "penetrating-trauma",
+        "cardiac-injury"
+      ]
+    },
+    {
+      "id": "r21-032",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 60-year-old man with severe ARDS from sepsis is mechanically ventilated with high airway pressures due to poor lung compliance. He suddenly develops worsening hypoxemia, hypotension, and absent breath sounds on the right side with tracheal deviation to the left. Which of the following is the most likely complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucus plugging of right bronchus"
+        },
+        {
+          "label": "B",
+          "text": "Right-sided pulmonary embolism"
+        },
+        {
+          "label": "C",
+          "text": "Tension pneumothorax from barotrauma"
+        },
+        {
+          "label": "D",
+          "text": "Right lower lobe pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac tamponade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Patients with fibrotic, noncompliant lungs (as in ARDS) ventilated with high pressures are at high risk for pulmonary barotrauma. Sudden hypoxemia, hypotension, and absent breath sounds indicate tension pneumothorax from alveolar rupture.",
+        "whyCorrect": "Pulmonary barotrauma occurs when high ventilatory pressures cause alveolar overdistension and rupture in noncompliant lungs. Air escapes into the pleural space, causing pneumothorax that can progress to tension physiology with mediastinal shift, hypotension, and absent breath sounds.",
+        "whyWrongByChoice": {
+          "A": "Mucus plugging causes atelectasis with decreased breath sounds but would not cause sudden hypotension. It develops gradually and does not cause tension physiology.",
+          "B": "Pulmonary embolism causes acute hypoxemia but does not produce absent breath sounds. Breath sounds would be preserved in PE.",
+          "D": "Pneumonia develops over hours to days with fever, productive cough, and gradually worsening oxygenation, not acute hemodynamic collapse.",
+          "E": "Cardiac tamponade produces muffled heart sounds and JVD, not absent breath sounds on one side. It is not caused by mechanical ventilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "barotrauma",
+        "pneumothorax",
+        "ARDS",
+        "mechanical-ventilation"
+      ]
+    },
+    {
+      "id": "r21-033",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 19-year-old competitive swimmer is found unconscious in the pool during a breath-hold training session. Witnesses report that he took several forceful deep breaths before submerging. He is resuscitated and intubated. Which of the following best explains the mechanism of his loss of consciousness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac arrhythmia from cold immersion"
+        },
+        {
+          "label": "B",
+          "text": "Aspiration causing acute laryngospasm"
+        },
+        {
+          "label": "C",
+          "text": "Nitrogen narcosis from prolonged submersion"
+        },
+        {
+          "label": "D",
+          "text": "Hyperventilation-induced hypoxia"
+        },
+        {
+          "label": "E",
+          "text": "Seizure disorder triggered by exercise"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Shallow water blackout occurs when pre-dive hyperventilation lowers CO2 levels, delaying the urge to breathe. Oxygen continues to fall during breath-holding, reaching critically low levels and causing unconsciousness before the diver feels the need to surface.",
+        "whyCorrect": "Hyperventilation before submersion lowers arterial CO2 (the primary driver of respiratory urge). During breath-holding, O2 continues to be consumed while the reduced CO2 delays the breathing stimulus. The diver loses consciousness from hypoxia before feeling the urge to breathe and surface.",
+        "whyWrongByChoice": {
+          "A": "Cold water immersion can trigger vagal responses, but this mechanism does not explain the classic scenario of hyperventilation before submersion in a pool setting.",
+          "B": "Laryngospasm is a reflex that occurs during drowning but is not the primary mechanism. The initial event was loss of consciousness from hypoxia due to shallow water blackout.",
+          "C": "Nitrogen narcosis occurs at depths greater than 30 meters in scuba diving due to compressed nitrogen. It does not occur during breath-hold swimming in a pool.",
+          "E": "While seizures are in the differential for underwater loss of consciousness, the history of deliberate hyperventilation before submersion is classic for shallow water blackout."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shallow-water-blackout",
+        "hyperventilation",
+        "drowning",
+        "hypoxia"
+      ]
+    },
+    {
+      "id": "r21-034",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 42-year-old man sustains blunt chest trauma in a motor vehicle collision. A chest tube is placed for a left hemothorax and drains 800 mL of blood initially. Over the next 4 hours, the chest tube consistently drains 250 mL per hour. He is receiving blood transfusions but remains tachycardic. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue observation and transfuse blood"
+        },
+        {
+          "label": "B",
+          "text": "Remove chest tube and apply dressing"
+        },
+        {
+          "label": "C",
+          "text": "Administer tranexamic acid and observe"
+        },
+        {
+          "label": "D",
+          "text": "Place a second chest tube"
+        },
+        {
+          "label": "E",
+          "text": "Surgical exploration for hemostasis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Persistent chest tube output exceeding 200 mL/hour for 2-4 hours indicates ongoing hemorrhage that requires surgical exploration for hemostasis, either by VATS or thoracotomy.",
+        "whyCorrect": "Indications for surgical intervention in hemothorax include massive initial output (>1,500 mL) or persistent heavy bleeding (>200 mL/hour for 2-4 hours). This patient has persistent output of 250 mL/hour for 4 hours, requiring surgical exploration.",
+        "whyWrongByChoice": {
+          "A": "Continued observation with ongoing hemorrhage at 250 mL/hour would lead to hemodynamic collapse. The rate of bleeding exceeds the threshold for surgical intervention.",
+          "B": "Removing the chest tube would allow blood to reaccumulate in the pleural space, causing respiratory compromise. The source of bleeding must be addressed.",
+          "C": "While tranexamic acid may have a role in trauma resuscitation, it would not adequately control a major vascular injury bleeding at this rate.",
+          "D": "A second chest tube would not address the underlying bleeding source. The patient needs surgical exploration for hemorrhage control."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemothorax",
+        "persistent-bleeding",
+        "surgical-exploration",
+        "trauma"
+      ]
+    },
+    {
+      "id": "r21-035",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 48-year-old woman presents to the emergency department with localized anterior chest pain after lifting heavy boxes. The pain is reproducible with palpation of the left 3rd and 4th costochondral junctions. There is no dyspnea, and vital signs are normal. ECG and troponin levels are both normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute coronary syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "C",
+          "text": "Costochondritis"
+        },
+        {
+          "label": "D",
+          "text": "Rib fracture"
+        },
+        {
+          "label": "E",
+          "text": "Pleuritis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Costochondritis is inflammation of the cartilaginous joints between ribs and sternum, causing localized chest pain reproducible with palpation. Normal ECG and troponin exclude cardiac causes.",
+        "whyCorrect": "Costochondritis causes localized chest pain at the costochondral junctions that is typically reproducible with palpation and worsens with movement. It mimics cardiac pain but is distinguished by the reproducibility on exam and normal cardiac workup. It is often self-limiting and managed with analgesics.",
+        "whyWrongByChoice": {
+          "A": "Acute coronary syndrome would present with chest pain that is not reproducible with palpation, and troponin and/or ECG would typically be abnormal. This patient's workup is normal.",
+          "B": "Pulmonary embolism causes acute dyspnea and pleuritic chest pain but does not produce reproducible tenderness at the costochondral junctions.",
+          "D": "Rib fractures typically follow significant trauma and are tender at the fracture site (usually along the rib shaft), not specifically at the costochondral junction.",
+          "E": "Pleuritis causes sharp pain that worsens with inspiration and may produce a friction rub, not focal tenderness at the costochondral junctions on palpation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "costochondritis",
+        "chest-pain",
+        "musculoskeletal",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "r21-036",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A chest tube is being inserted for a traumatic hemopneumothorax. The surgeon identifies the anatomic landmarks for the Triangle of Safety. Which of the following correctly describes the boundaries of this safe zone for chest tube placement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mid-clavicular line at second interspace"
+        },
+        {
+          "label": "B",
+          "text": "Below the scapular angle near spine"
+        },
+        {
+          "label": "C",
+          "text": "Medial to mid-clavicular line at fifth space"
+        },
+        {
+          "label": "D",
+          "text": "Anterior to latissimus, posterior to pectoralis, above nipple"
+        },
+        {
+          "label": "E",
+          "text": "Within the supraclavicular fossa"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Triangle of Safety for chest tube insertion is defined as anterior to the latissimus dorsi, posterior to the pectoralis major, and above the level of the nipple (or inframammary crease), typically at the 5th intercostal space at the anterior axillary line.",
+        "whyCorrect": "The Triangle of Safety is the standard anatomic landmark for chest tube placement. Its boundaries (anterior to latissimus dorsi, posterior to pectoralis major, above the nipple line) ensure safe access to the pleural space while minimizing risk of injuring abdominal organs through the diaphragm.",
+        "whyWrongByChoice": {
+          "A": "The 2nd intercostal space in the mid-clavicular line is used for needle decompression of tension pneumothorax, not for formal chest tube placement.",
+          "B": "Placement below the scapular angle near the spine risks injury to the thoracic aorta, esophagus, and spine. This is not a safe location for chest tube insertion.",
+          "C": "Medial placement risks injury to the internal mammary artery and heart. Chest tubes should be placed laterally within the Triangle of Safety.",
+          "E": "The supraclavicular fossa is above the pleural space and is not an appropriate site for chest tube placement."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chest-tube",
+        "Triangle-of-Safety",
+        "anatomy",
+        "procedure"
+      ]
+    },
+    {
+      "id": "r21-037",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 55-year-old man with ARDS has been on 100% FiO2 for 3 days. His oxygenation paradoxically worsens despite maximum ventilator settings. Chest X-ray shows new bilateral diffuse opacities and areas of atelectasis that were not present 2 days ago. Which of the following is the most likely cause of his deterioration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ventilator-associated pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricular heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen toxicity with resorptive atelectasis"
+        },
+        {
+          "label": "D",
+          "text": "Acute pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "New pleural effusion development"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Exposure to 100% oxygen for more than 24-48 hours causes oxygen toxicity through reactive oxygen species and resorptive atelectasis from loss of nitrogen stenting, paradoxically worsening oxygenation.",
+        "whyCorrect": "Prolonged exposure to 100% O2 causes oxidative stress from reactive oxygen species and resorptive atelectasis. Without nitrogen to keep alveoli open (nitrogen stenting), alveoli collapse as oxygen is fully absorbed. This can progress to ARDS-like injury. The goal is to maintain FiO2 below 60%.",
+        "whyWrongByChoice": {
+          "A": "Ventilator-associated pneumonia typically presents with fever, purulent secretions, and new focal infiltrate, not the diffuse pattern with atelectasis described after prolonged high FiO2.",
+          "B": "Left ventricular failure causes cardiogenic pulmonary edema with bilateral effusions and vascular congestion, but the context of prolonged 100% FiO2 makes oxygen toxicity more likely.",
+          "D": "PE causes acute hypoxemia but not the bilateral diffuse opacities with atelectasis pattern seen here. The temporal correlation with prolonged 100% FiO2 points to oxygen toxicity.",
+          "E": "Pleural effusions would show dependent fluid collections on X-ray, not diffuse opacities with atelectasis throughout both lungs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "oxygen-toxicity",
+        "resorptive-atelectasis",
+        "FiO2",
+        "ARDS"
+      ]
+    },
+    {
+      "id": "r21-038",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 38-year-old man presents with a left hemothorax after blunt trauma. A chest tube drains 400 mL of blood initially with minimal subsequent output. Two weeks later, he develops progressive dyspnea with decreased breath sounds on the left. CT shows a thick fibrous peel trapping the left lung. Which of the following complications has developed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Empyema"
+        },
+        {
+          "label": "B",
+          "text": "Fibrothorax"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent hemothorax"
+        },
+        {
+          "label": "D",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Chylothorax"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fibrothorax is dense scarring that traps the lung, developing from organized, clotted blood that was not adequately drained from the pleural space. It causes restrictive lung physiology and progressive dyspnea.",
+        "whyCorrect": "Fibrothorax develops when retained blood in the pleural space organizes and forms a thick fibrous peel (cortex) that entraps the lung, preventing full expansion. This is why significant hemothoraces warrant drainage to prevent this complication.",
+        "whyWrongByChoice": {
+          "A": "Empyema is an infected pleural collection that would present with fever, elevated WBC, and purulent drainage, not a thick fibrous peel on CT.",
+          "C": "Recurrent hemothorax would show new fluid collection on imaging, not a solid fibrous peel trapping the lung.",
+          "D": "Tension pneumothorax presents acutely with hemodynamic instability, not as progressive dyspnea over weeks with a fibrous peel.",
+          "E": "Chylothorax produces milky lymphatic fluid and is not associated with organized fibrous tissue encasing the lung."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fibrothorax",
+        "hemothorax",
+        "organized-clot",
+        "complication"
+      ]
+    },
+    {
+      "id": "r21-039",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 26-year-old man is stabbed in the left lower chest at the 8th intercostal space. He is hemodynamically stable with a small left hemothorax on chest X-ray. After chest tube placement, the surgical team is concerned about a possible diaphragmatic injury. Which of the following is the gold standard for diagnosing occult diaphragmatic injury in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT of chest and abdomen"
+        },
+        {
+          "label": "B",
+          "text": "Chest X-ray"
+        },
+        {
+          "label": "C",
+          "text": "Ultrasound of the diaphragm"
+        },
+        {
+          "label": "D",
+          "text": "Thoracoscopy or laparoscopy"
+        },
+        {
+          "label": "E",
+          "text": "MRI of the chest"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Surgical inspection by thoracoscopy or laparoscopy is the gold standard for evaluating diaphragmatic injury from penetrating wounds in the danger zone (between nipple line and umbilicus), as many small injuries are missed by CT.",
+        "whyCorrect": "Many diaphragmatic injuries from penetrating trauma are small and cannot be detected by CT imaging. The gold standard evaluation is direct surgical inspection via thoracoscopy or laparoscopy. This is especially important because untreated small injuries can gradually enlarge due to negative intrathoracic pressure, leading to delayed herniation.",
+        "whyWrongByChoice": {
+          "A": "CT can detect larger diaphragmatic injuries and herniation but misses many smaller penetrating injuries. It is not the gold standard.",
+          "B": "Chest X-ray may show findings suggesting diaphragmatic injury (e.g., herniated bowel) but misses most small injuries without herniation.",
+          "C": "Ultrasound has limited sensitivity for small diaphragmatic injuries and is not considered the gold standard.",
+          "E": "MRI is useful for some soft tissue evaluation but is not practical or standard for acute penetrating trauma evaluation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diaphragmatic-injury",
+        "thoracoscopy",
+        "laparoscopy",
+        "penetrating-trauma"
+      ]
+    },
+    {
+      "id": "r21-040",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 5-year-old boy is pulled from a swimming pool after being submerged for approximately 3 minutes. He is coughing, mildly tachypneic, with oxygen saturation of 93% on room air and scattered bilateral wheezes. After 8 hours of observation, he is completely asymptomatic with oxygen saturation of 99% on room air and normal lung exam. Which of the following is the most appropriate disposition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Admit to ICU for 48-hour monitoring"
+        },
+        {
+          "label": "B",
+          "text": "Observe 24 hours for delayed drowning"
+        },
+        {
+          "label": "C",
+          "text": "Discharge home with follow-up instructions"
+        },
+        {
+          "label": "D",
+          "text": "Admit for prophylactic antibiotic course"
+        },
+        {
+          "label": "E",
+          "text": "Intubate for airway protection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Near-drowning patients who remain asymptomatic, maintain normal oxygen saturation on room air, and have normal pulmonary exams after 8 hours of observation are safe for discharge. 'Delayed drowning' in asymptomatic patients is a myth.",
+        "whyCorrect": "If symptoms or complications from near-drowning are to develop, they do so within the first 8 hours. Patients who are asymptomatic with normal oxygen saturation and normal exams after 8 hours can be safely discharged. 'Dry drowning' or delayed deterioration in completely asymptomatic patients is not a real phenomenon.",
+        "whyWrongByChoice": {
+          "A": "ICU admission is unnecessary for a patient who is completely asymptomatic after 8 hours with normal vital signs and exam.",
+          "B": "The concept of 'delayed drowning' occurring after a patient has been completely asymptomatic through an 8-hour observation period is a myth. Additional observation is unnecessary.",
+          "D": "Prophylactic antibiotics are not recommended for near-drowning patients. Antibiotics should be reserved for documented infections.",
+          "E": "Intubation is not indicated for an asymptomatic patient with normal oxygen saturation and clear lungs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "near-drowning",
+        "observation",
+        "discharge",
+        "pediatric"
+      ]
+    },
+    {
+      "id": "r21-041",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 45-year-old man with flail chest after a motor vehicle collision is intubated for respiratory failure. Despite mechanical ventilation and multimodal pain management with epidural analgesia, he continues to have difficulty weaning from the ventilator after 5 days. Which of the following surgical interventions may speed his recovery?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thoracotomy with lung resection"
+        },
+        {
+          "label": "B",
+          "text": "Rib fixation with titanium plates"
+        },
+        {
+          "label": "C",
+          "text": "Pleurodesis"
+        },
+        {
+          "label": "D",
+          "text": "Diaphragmatic plication"
+        },
+        {
+          "label": "E",
+          "text": "Tracheostomy alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Surgical Stabilization of Rib Fractures (SSRF) using Open Reduction and Internal Fixation (ORIF) with titanium plates and screws can speed recovery in flail chest patients who require mechanical ventilation.",
+        "whyCorrect": "SSRF with ORIF involves operatively realigning fractured ribs and stabilizing them with titanium plates and screws. This restores chest wall integrity, reduces paradoxical motion, improves respiratory mechanics, and can facilitate weaning from mechanical ventilation.",
+        "whyWrongByChoice": {
+          "A": "Lung resection is not indicated for flail chest. The underlying lung parenchyma is not diseased; the problem is chest wall instability from multiple rib fractures.",
+          "C": "Pleurodesis obliterates the pleural space and is used for recurrent pleural effusions or pneumothorax, not for stabilizing rib fractures.",
+          "D": "Diaphragmatic plication is used for diaphragm paralysis, not for flail chest with rib fractures.",
+          "E": "Tracheostomy may be needed for prolonged ventilation but does not address the mechanical problem of the flail segment causing respiratory failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "flail-chest",
+        "SSRF",
+        "ORIF",
+        "rib-fractures"
+      ]
+    },
+    {
+      "id": "r21-042",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 52-year-old man develops a chylothorax 5 days after thoracic spine surgery. Conservative management with NPO status and total parenteral nutrition is initiated. The chest tube continues to drain 800 mL of chyle daily after 3 weeks. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue conservative management longer"
+        },
+        {
+          "label": "B",
+          "text": "Systemic chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Switch to a regular diet"
+        },
+        {
+          "label": "D",
+          "text": "Remove the chest tube"
+        },
+        {
+          "label": "E",
+          "text": "Thoracic duct ligation or pleurodesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When conservative management of chylothorax fails after 2-3 weeks, surgical intervention with thoracic duct ligation or pleurodesis is indicated.",
+        "whyCorrect": "Conservative measures (chest tube drainage, NPO/low-fat diet with MCTs) allow approximately 50% of chylothoraxes to heal. If output persists after 2-3 weeks, surgical intervention with thoracic duct ligation or pleurodesis is the next step to definitively stop the chyle leak.",
+        "whyWrongByChoice": {
+          "A": "Prolonged conservative management beyond 2-3 weeks is unlikely to succeed if there has been no improvement. Continued chyle loss leads to nutritional depletion and immunocompromise.",
+          "B": "Chemotherapy is used for malignant causes of chylothorax (e.g., lymphoma). This is a surgical chylothorax requiring mechanical intervention.",
+          "C": "Switching to a regular diet would increase lymphatic flow and worsen the chylothorax output.",
+          "D": "Removing the chest tube without resolving the chyle leak would cause re-accumulation of chylothorax with respiratory compromise."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chylothorax",
+        "thoracic-duct-ligation",
+        "pleurodesis",
+        "surgical-management"
+      ]
+    },
+    {
+      "id": "r21-043",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 33-year-old man has a chest X-ray after a motor vehicle collision that shows air outlining the mediastinal structures with a continuous diaphragm sign. He has mild substernal discomfort and crepitus in the neck. CT confirms pneumomediastinum without evidence of esophageal or tracheal injury. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emergent thoracotomy"
+        },
+        {
+          "label": "B",
+          "text": "Immediate esophageal stent placement"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral chest tube placement"
+        },
+        {
+          "label": "D",
+          "text": "Supportive care with monitoring"
+        },
+        {
+          "label": "E",
+          "text": "Broad-spectrum antibiotics for mediastinitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pneumomediastinum from alveolar rupture (without esophageal or tracheal injury) typically causes mild discomfort and subcutaneous emphysema but resolves without specific treatment. Supportive care and monitoring are appropriate.",
+        "whyCorrect": "Most pneumomediastinum results from alveolar rupture and is self-limiting. When CT confirms no esophageal or tracheal injury, the air will resorb spontaneously. The subcutaneous emphysema and discomfort resolve with supportive care.",
+        "whyWrongByChoice": {
+          "A": "Thoracotomy is not indicated for simple pneumomediastinum without evidence of esophageal or tracheal injury or ongoing hemodynamic compromise.",
+          "B": "Esophageal stent placement would be considered for esophageal perforation, which has been excluded by CT in this patient.",
+          "C": "Chest tubes are indicated for an associated pneumothorax but not for pneumomediastinum alone. There is no pneumothorax described.",
+          "E": "Antibiotics for mediastinitis are indicated when there is esophageal or tracheal breach causing contamination. Simple pneumomediastinum from alveolar rupture does not cause mediastinitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pneumomediastinum",
+        "alveolar-rupture",
+        "conservative-management",
+        "imaging"
+      ]
+    },
+    {
+      "id": "r21-044",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 28-year-old scuba diver ascends rapidly from 30 meters depth after running out of air. Upon surfacing, he develops acute chest pain, dyspnea, and hemoptysis. A chest X-ray reveals a left-sided pneumothorax and pneumomediastinum. Which of the following is the underlying mechanism of his injuries?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar overdistension"
+        },
+        {
+          "label": "B",
+          "text": "Dissolved nitrogen forming tissue bubbles"
+        },
+        {
+          "label": "C",
+          "text": "Hyperbaric oxygen toxicity to lungs"
+        },
+        {
+          "label": "D",
+          "text": "Saltwater aspiration during ascent"
+        },
+        {
+          "label": "E",
+          "text": "Nitrogen narcosis at depth"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pulmonary barotrauma during rapid ascent occurs because gas in the lungs expands as ambient pressure decreases (Boyle's law), causing alveolar overdistension and rupture. Air escapes into the pleural cavity (pneumothorax) and mediastinum (pneumomediastinum).",
+        "whyCorrect": "During rapid ascent, ambient pressure decreases, causing trapped gas in the lungs to expand. If the diver does not exhale adequately, alveolar overdistension and rupture occur, allowing air to escape into the interstitial spaces, pleural cavity, and mediastinum.",
+        "whyWrongByChoice": {
+          "B": "Decompression sickness involves dissolved nitrogen forming bubbles in blood and tissues, causing joint pain, neurological symptoms, and skin changes, not primarily pneumothorax from alveolar rupture.",
+          "C": "Oxygen toxicity occurs with prolonged exposure to high-pressure oxygen and affects the CNS (seizures) or lungs over time. It does not cause acute pneumothorax from rapid ascent.",
+          "D": "Aspiration would cause coughing and hypoxemia from fluid in the airways, not pneumothorax and pneumomediastinum from air leak.",
+          "E": "Nitrogen narcosis occurs at depth and causes impaired judgment and euphoria. It resolves with ascent and does not cause pneumothorax."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "barotrauma",
+        "scuba-diving",
+        "pneumothorax",
+        "rapid-ascent"
+      ]
+    },
     {
       "id": "r22-001",
       "topicId": "ards",
