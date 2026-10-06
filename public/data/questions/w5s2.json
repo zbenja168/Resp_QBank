@@ -126,7 +126,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "Group 3 PH includes lung diseases marked by hypoxemia (COPD, pulmonary fibrosis, OSA, hypoventilation, high altitude). Hypoxemia causes reflex pulmonary arteriolar vasoconstriction (pre-capillary), increasing PAP.",
-        "whyCorrect": "Group 3 PH includes lung diseases marked by hypoxemia: COPD, pulmonary fibrosis, obstructive sleep apnea, hypoventilation, and high altitude. The hypoxemia causes reflex pulmonary arteriolar vasoconstrictionâ€”a physiologic mechanism to redirect blood from underventilated to better-oxygenated areas. The net result is increased vascular resistance and elevated PAP.",
+        "whyCorrect": "Group 3 PH includes lung diseases marked by hypoxemia: COPD, pulmonary fibrosis, obstructive sleep apnea, hypoventilation, and high altitude. The hypoxemia causes reflex pulmonary arteriolar vasoconstriction—a physiologic mechanism to redirect blood from underventilated to better-oxygenated areas. The net result is increased vascular resistance and elevated PAP.",
         "whyWrongByChoice": {
           "A": "Group 1 (PAH) includes idiopathic, heritable, and secondary causes of intrinsic pulmonary arterial disease, not COPD.",
           "B": "Group 2 includes left heart failure and valvular disease causing post-capillary PH.",
@@ -315,7 +315,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "The three specific drug classes for PAH are: endothelin receptor antagonists (bosentan, ambrisentan), PDE5 inhibitors (sildenafil, tadalafil), and prostacyclin analogs (epoprostenol, treprostinil, iloprost).",
-        "whyCorrect": "The three specific medication classes for PAH are: (1) ERAs (bosentan, ambrisentan, macitentan)â€”block ET-1 signaling; (2) PDE5-I (sildenafil, tadalafil)â€”enhance NO-cGMP pathway; (3) Prostacyclin analogs (epoprostenol, treprostinil, iloprost)â€”activate IP receptor/increase cAMP. These are often used in combination.",
+        "whyCorrect": "The three specific medication classes for PAH are: (1) ERAs (bosentan, ambrisentan, macitentan)—block ET-1 signaling; (2) PDE5-I (sildenafil, tadalafil)—enhance NO-cGMP pathway; (3) Prostacyclin analogs (epoprostenol, treprostinil, iloprost)—activate IP receptor/increase cAMP. These are often used in combination.",
         "whyWrongByChoice": {
           "A": "ACE inhibitors, beta-blockers, and diuretics are used for left heart failure (Group 2 PH treatment), not specific PAH therapy.",
           "C": "CCBs, statins, and anticoagulants are not the specific PAH drug classes.",
@@ -596,7 +596,7 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Hypoxemia in lung diseases causes reflex pulmonary arteriolar vasoconstrictionâ€”a physiologic mechanism to redirect blood away from underventilated areas toward better-oxygenated regions. Chronic hypoxia leads to sustained vasoconstriction and elevated PAP.",
+        "summary": "Hypoxemia in lung diseases causes reflex pulmonary arteriolar vasoconstriction—a physiologic mechanism to redirect blood away from underventilated areas toward better-oxygenated regions. Chronic hypoxia leads to sustained vasoconstriction and elevated PAP.",
         "whyCorrect": "In Group 3 PH, hypoxemia from lung diseases (COPD, fibrosis, OSA) causes reflex pulmonary arteriolar vasoconstriction. This is a physiologic mechanism designed to guide blood away from underventilated areas toward regions with better oxygenation (ventilation-perfusion matching). When hypoxemia is chronic, sustained vasoconstriction leads to vascular remodeling and permanently elevated pulmonary arterial pressure.",
         "whyWrongByChoice": {
           "A": "Direct endothelial damage is more relevant to PAH (Group 1) pathology, not the hypoxia-driven mechanism of Group 3.",
@@ -644,7 +644,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Abrupt interruption of continuous IV epoprostenol can precipitate rebound pulmonary hypertension and rapid clinical decompensation. This is a critical safety concern requiring reliable delivery systems and patient education.",
-        "whyCorrect": "For severe PAH, abrupt interruption of continuous prostacyclin therapy (particularly IV epoprostenol) can precipitate rebound pulmonary hypertension and rapid clinical decompensation. This is a critical safety pointâ€”reliability of delivery systems and thorough patient education are essential to prevent treatment interruption.",
+        "whyCorrect": "For severe PAH, abrupt interruption of continuous prostacyclin therapy (particularly IV epoprostenol) can precipitate rebound pulmonary hypertension and rapid clinical decompensation. This is a critical safety point—reliability of delivery systems and thorough patient education are essential to prevent treatment interruption.",
         "whyWrongByChoice": {
           "A": "Hepatotoxicity is associated with ERAs (bosentan), not prostacyclin interruption.",
           "C": "Hypoglycemia and seizures are not associated with epoprostenol interruption.",
@@ -788,7 +788,7 @@
         "whyCorrect": "Prostacyclin analogs bind the IP (prostacyclin) receptor on pulmonary vascular smooth muscle, activating adenylate cyclase to increase cAMP (cyclic AMP). Increased cAMP lowers intracellular calcium, driving potent pulmonary vasodilation. This signaling also has antiproliferative effects on smooth muscle and inhibits platelet aggregation.",
         "whyWrongByChoice": {
           "A": "cGMP is the second messenger in the NO-PDE5 pathway, enhanced by PDE5 inhibitors. Prostacyclin uses cAMP.",
-          "C": "IP3 (inositol trisphosphate) is generated by phospholipase C signaling and increases intracellular calciumâ€”the opposite of prostacyclin's effect.",
+          "C": "IP3 (inositol trisphosphate) is generated by phospholipase C signaling and increases intracellular calcium—the opposite of prostacyclin's effect.",
           "D": "DAG (diacylglycerol) activates protein kinase C. This is not the prostacyclin signaling pathway.",
           "E": "Calmodulin is a calcium-binding protein, not a second messenger generated by IP receptor activation."
         }
@@ -832,7 +832,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "PDE5 inhibitors must not be combined with nitrates due to the risk of profound hypotension/syncope. Both agents enhance the NO-cGMP pathway, causing excessive vasodilation.",
-        "whyCorrect": "PDE5 inhibitors and nitrates both enhance the NO-cGMP pathwayâ€”PDE5 inhibitors prevent cGMP breakdown while nitrates directly increase NO, which stimulates cGMP production. Co-administration produces additive/synergistic vasodilation, leading to potentially life-threatening hypotension and syncope.",
+        "whyCorrect": "PDE5 inhibitors and nitrates both enhance the NO-cGMP pathway—PDE5 inhibitors prevent cGMP breakdown while nitrates directly increase NO, which stimulates cGMP production. Co-administration produces additive/synergistic vasodilation, leading to potentially life-threatening hypotension and syncope.",
         "whyWrongByChoice": {
           "A": "While beta-blockers can lower blood pressure, they are not specifically contraindicated with PDE5 inhibitors the way nitrates are.",
           "B": "ACE inhibitors do not specifically interact with the NO-cGMP pathway to cause the profound hypotension seen with nitrates.",
@@ -926,7 +926,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "For Groups 2-5, treatment targets the underlying cause. For Group 2 (left heart failure), treatment includes ACE inhibitors/ARBs, beta-blockers, and mineralocorticoid antagonists for the heart failure itself.",
-        "whyCorrect": "For Group 2 PH (secondary to left heart failure), treatment is aimed at the underlying causeâ€”heart failure management with ACE inhibitors/ARBs, beta-blockers, and mineralocorticoid inhibitors. The specific PAH drugs (ERAs, PDE5-I, prostacyclin analogs) are reserved for Group 1 PAH.",
+        "whyCorrect": "For Group 2 PH (secondary to left heart failure), treatment is aimed at the underlying cause—heart failure management with ACE inhibitors/ARBs, beta-blockers, and mineralocorticoid inhibitors. The specific PAH drugs (ERAs, PDE5-I, prostacyclin analogs) are reserved for Group 1 PAH.",
         "whyWrongByChoice": {
           "A": "ERAs, PDE5-I, and prostacyclin analogs are specifically for Group 1 PAH, not Group 2 PH from heart failure.",
           "C": "Antiparasitic therapy would be appropriate for schistosomiasis-related PAH, not left heart failure.",
@@ -2109,7 +2109,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Virchow's triad consists of hypercoagulability (increased coagulation factors), endothelial injury (surgery, catheterization), and stasis of blood flow (immobilization). These three factors increase DVT risk.",
-        "whyCorrect": "Virchow's triad describes the three factors predisposing to thrombus formation: (1) Hypercoagulabilityâ€”increased/activated coagulation factors from cancer, estrogen, pregnancy; (2) Endothelial injuryâ€”from surgery, catheterization, vasculitis; (3) Stasis of blood flowâ€”from prolonged immobilization, hospitalization, prolonged travel.",
+        "whyCorrect": "Virchow's triad describes the three factors predisposing to thrombus formation: (1) Hypercoagulability—increased/activated coagulation factors from cancer, estrogen, pregnancy; (2) Endothelial injury—from surgery, catheterization, vasculitis; (3) Stasis of blood flow—from prolonged immobilization, hospitalization, prolonged travel.",
         "whyWrongByChoice": {
           "A": "Fever, leukocytosis, tachycardia are signs of infection/inflammation (SIRS criteria), not Virchow's triad.",
           "C": "Hypertension, diabetes, obesity are cardiovascular risk factors but not specifically Virchow's triad.",
@@ -2202,8 +2202,8 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "PE causes hypoxemia, which triggers increased ventilation (tachypnea). This hyperventilation leads to excessive CO2 elimination (hypocarbia) and respiratory alkalosisâ€”a classic ABG finding in PE.",
-        "whyCorrect": "Hypoxemia from PE drives increased ventilationâ€”patients breathe faster (tachypnea) and often deeper, increasing minute ventilation. This hyperventilation causes excessive CO2 elimination (hypocarbia), producing respiratory alkalosis. This is the classic blood gas finding in PE. Hypercarbia is uncommon because ventilation remains effective.",
+        "summary": "PE causes hypoxemia, which triggers increased ventilation (tachypnea). This hyperventilation leads to excessive CO2 elimination (hypocarbia) and respiratory alkalosis—a classic ABG finding in PE.",
+        "whyCorrect": "Hypoxemia from PE drives increased ventilation—patients breathe faster (tachypnea) and often deeper, increasing minute ventilation. This hyperventilation causes excessive CO2 elimination (hypocarbia), producing respiratory alkalosis. This is the classic blood gas finding in PE. Hypercarbia is uncommon because ventilation remains effective.",
         "whyWrongByChoice": {
           "A": "Metabolic compensation for lactic acidosis would produce metabolic acidosis, not respiratory alkalosis.",
           "C": "CO2 production doesn't decrease simply from pulmonary hypoperfusion. The hyperventilation from hypoxia-driven tachypnea eliminates CO2 excessively.",
@@ -2344,9 +2344,9 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "A large PE blocks pulmonary blood flow, so the RV cannot pump blood forward to the left heart. This reduces LV preload, decreasing LV stroke volume and cardiac output, potentially causing obstructive shock.",
-        "whyCorrect": "When a large PE blocks a significant portion of the pulmonary vasculature, the right ventricle has trouble pumping blood forward past the obstruction. This reduces left ventricular preload (less blood reaches the left heart), decreasing LV stroke volume and cardiac output. This is obstructive shockâ€”the ventricles are healthy but cannot generate adequate forward flow.",
+        "whyCorrect": "When a large PE blocks a significant portion of the pulmonary vasculature, the right ventricle has trouble pumping blood forward past the obstruction. This reduces left ventricular preload (less blood reaches the left heart), decreasing LV stroke volume and cardiac output. This is obstructive shock—the ventricles are healthy but cannot generate adequate forward flow.",
         "whyWrongByChoice": {
-          "A": "The left ventricle itself is not failingâ€”it receives inadequate preload because blood cannot pass through the obstructed pulmonary circulation.",
+          "A": "The left ventricle itself is not failing—it receives inadequate preload because blood cannot pass through the obstructed pulmonary circulation.",
           "C": "Aortic valve obstruction would cause a different hemodynamic picture (aortic stenosis), not PE-related decreased output.",
           "D": "Coronary artery occlusion causes MI. While PE can cause RV strain, the decreased cardiac output is from reduced LV preload, not coronary occlusion.",
           "E": "Systemic vasodilation would cause distributive shock. PE causes obstructive shock from pulmonary vascular obstruction."
@@ -2393,7 +2393,7 @@
         "summary": "Estrogen increases coagulation factor levels in the blood (hypercoagulability component of Virchow's triad). Other hypercoagulability factors include cancer and pregnancy.",
         "whyCorrect": "Estrogen-only oral contraceptives, pregnancy, and estrogen replacement therapy increase coagulation factor levels in the blood, representing the hypercoagulability component of Virchow's triad. This increased procoagulant state raises the risk of venous thrombosis and subsequent PE.",
         "whyWrongByChoice": {
-          "A": "Endothelial injury is caused by surgery, catheterization, or vasculitisâ€”not estrogen use.",
+          "A": "Endothelial injury is caused by surgery, catheterization, or vasculitis—not estrogen use.",
           "B": "Venous stasis is caused by immobilization, not estrogen. Estrogen affects coagulation factors.",
           "D": "Increased fibrinolysis would actually protect against thrombosis. Estrogen promotes clotting, not fibrinolysis.",
           "E": "Estrogen increases coagulation factors, not platelet dysfunction."
@@ -2485,7 +2485,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Acute pulmonary infarction from PE characteristically produces a wedge-shaped hemorrhagic infarct, with the base at the pleural surface and the apex pointing toward the hilum (Hampton hump on CXR).",
-        "whyCorrect": "Pulmonary infarction from PE characteristically produces a wedge-shaped hemorrhagic infarct. The apex of the wedge points toward the occluded vessel and the base is at the pleural surface. On chest X-ray, this appears as a Hampton humpâ€”a wedge-shaped opacity based on the pleural surface.",
+        "whyCorrect": "Pulmonary infarction from PE characteristically produces a wedge-shaped hemorrhagic infarct. The apex of the wedge points toward the occluded vessel and the base is at the pleural surface. On chest X-ray, this appears as a Hampton hump—a wedge-shaped opacity based on the pleural surface.",
         "whyWrongByChoice": {
           "A": "Ground-glass opacities are characteristic of viral pneumonia (influenza, COVID-19), not PE infarction.",
           "C": "Central cavitary lesions are associated with TB, lung abscess, or SCC, not PE.",
@@ -2532,7 +2532,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Hemoptysis in PE occurs due to regional ischemia of the lung caused by arterial occlusion, leading to capillary leakage and rupture in the ischemic zone. Hemoptysis is a minority symptom in PE.",
-        "whyCorrect": "Hemoptysis in PE occurs because the embolic occlusion causes regional ischemia of the lung tissue, leading to capillary leakage and rupture in the ischemic area. However, hemoptysis occurs in the minority of PE patientsâ€”dyspnea and pleuritic chest pain are far more common presenting symptoms.",
+        "whyCorrect": "Hemoptysis in PE occurs because the embolic occlusion causes regional ischemia of the lung tissue, leading to capillary leakage and rupture in the ischemic area. However, hemoptysis occurs in the minority of PE patients—dyspnea and pleuritic chest pain are far more common presenting symptoms.",
         "whyWrongByChoice": {
           "A": "Bronchial arterial rupture from hypertension is not the mechanism of PE-related hemoptysis.",
           "C": "Tumor erosion into bronchial arteries causes hemoptysis in lung cancer, not PE.",
@@ -2813,11 +2813,11 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Prolonged immobilization (post-surgery, lower-leg casting, prolonged travel) causes venous stasisâ€”slowed blood flow in deep veinsâ€”which is one of the three components of Virchow's triad predisposing to DVT/PE.",
+        "summary": "Prolonged immobilization (post-surgery, lower-leg casting, prolonged travel) causes venous stasis—slowed blood flow in deep veins—which is one of the three components of Virchow's triad predisposing to DVT/PE.",
         "whyCorrect": "Venous blood flow is decreased by prolonged immobilization, including hospitalization post-surgery, lower-leg casting, or prolonged travel. This venous stasis is one of the three components of Virchow's triad (along with hypercoagulability and endothelial injury) that predisposes to DVT formation and subsequent PE.",
         "whyWrongByChoice": {
-          "A": "Hypercoagulability is increased by factors like cancer, estrogen, and pregnancyâ€”not specifically by immobilization.",
-          "B": "Endothelial injury is caused by surgery itself, catheterization, or vasculitisâ€”immobilization specifically causes stasis.",
+          "A": "Hypercoagulability is increased by factors like cancer, estrogen, and pregnancy—not specifically by immobilization.",
+          "B": "Endothelial injury is caused by surgery itself, catheterization, or vasculitis—immobilization specifically causes stasis.",
           "D": "Increased fibrinolysis would be protective against thrombosis, not a risk factor.",
           "E": "Decreased platelet aggregation would also be protective, not a DVT risk factor."
         }
@@ -2861,9 +2861,9 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Unlike other forms of hypoxemic lung disease, hypercarbia is uncommon in PE because ventilation remains effective. Patients typically hyperventilate in response to hypoxemia, actually producing hypocarbia and respiratory alkalosis.",
-        "whyCorrect": "Hypercarbia is very uncommon in PE because ventilation is still effectiveâ€”the lung parenchyma and airways are intact. The problem is perfusion (V/Q mismatch), not ventilation. Additionally, PE patients typically hyperventilate due to hypoxemia, which actually causes hypocarbia (low CO2) and respiratory alkalosis.",
+        "whyCorrect": "Hypercarbia is very uncommon in PE because ventilation is still effective—the lung parenchyma and airways are intact. The problem is perfusion (V/Q mismatch), not ventilation. Additionally, PE patients typically hyperventilate due to hypoxemia, which actually causes hypocarbia (low CO2) and respiratory alkalosis.",
         "whyWrongByChoice": {
-          "A": "PE patients can breatheâ€”ventilation is intact. The problem is perfusion of the lung, not ventilation.",
+          "A": "PE patients can breathe—ventilation is intact. The problem is perfusion of the lung, not ventilation.",
           "C": "Pulmonary emboli do not absorb CO2.",
           "D": "Dead space affects CO2 exchange locally but overall ventilation compensates, and patients hyperventilate.",
           "E": "Emboli do not selectively block CO2-rich areas. They obstruct vessels supplying specific lung segments regardless of CO2 content."
@@ -2908,7 +2908,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "The classic ECG finding in acute PE with right heart strain is the S1Q3T3 pattern (S wave in lead I, Q wave and inverted T wave in lead III), though this finding is neither sensitive nor specific.",
-        "whyCorrect": "The classic ECG finding in acute PE with right ventricular strain is the S1Q3T3 patternâ€”an S wave in lead I, Q wave in lead III, and inverted T wave in lead III. While this finding is classically taught, it is neither highly sensitive nor specific for PE. Other findings may include right axis deviation, T-wave inversions in right precordial leads, and sinus tachycardia.",
+        "whyCorrect": "The classic ECG finding in acute PE with right ventricular strain is the S1Q3T3 pattern—an S wave in lead I, Q wave in lead III, and inverted T wave in lead III. While this finding is classically taught, it is neither highly sensitive nor specific for PE. Other findings may include right axis deviation, T-wave inversions in right precordial leads, and sinus tachycardia.",
         "whyWrongByChoice": {
           "A": "ST elevation in V1-V4 suggests anterior STEMI, not PE. Though some RV strain from PE can show subtle ST changes.",
           "B": "LBBB is not a typical PE finding. Right bundle branch block (RBBB) can occur with RV strain from PE.",
@@ -4322,7 +4322,7 @@
           "A": "Dyspnea and hypoxemia is the first component of the classic fat embolism triad.",
           "B": "Neurologic deficits (confusion, seizures) are the second component.",
           "C": "Petechial rash on head/neck/trunk is the third component.",
-          "E": "DIC is NOT part of the fat embolism triadâ€”it is associated with amniotic fluid embolism."
+          "E": "DIC is NOT part of the fat embolism triad—it is associated with amniotic fluid embolism."
         }
       },
       "difficulty": "hard",
@@ -4787,7 +4787,7 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "No specific therapy exists for fat embolism. Management is supportiveâ€”oxygen, fluids, and monitoring. Fat emboli can resolve on their own with time, but severe cases may result in respiratory failure, shock, and death.",
+        "summary": "No specific therapy exists for fat embolism. Management is supportive—oxygen, fluids, and monitoring. Fat emboli can resolve on their own with time, but severe cases may result in respiratory failure, shock, and death.",
         "whyCorrect": "Management of fat embolism syndrome is supportive, including supplemental oxygen and IV fluids. No specific therapy exists. With time, fat emboli can resolve on their own, but severe cases may result in respiratory failure, shock, stroke, and death. Prevention through early fracture stabilization is important.",
         "whyWrongByChoice": {
           "A": "Surgical removal of fat from pulmonary arteries is not feasible or performed. Fat emboli are diffuse and cannot be surgically extracted.",
@@ -4881,13 +4881,13 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Decompression sickness is analogous to opening a pressurized soda canâ€”dissolved CO2 in soda comes out of solution as bubbles when pressure drops, just as dissolved nitrogen in blood forms bubbles during rapid ascent.",
+        "summary": "Decompression sickness is analogous to opening a pressurized soda can—dissolved CO2 in soda comes out of solution as bubbles when pressure drops, just as dissolved nitrogen in blood forms bubbles during rapid ascent.",
         "whyCorrect": "The effect is similar to opening a pressurized can of soda: dissolved CO2 in the soda is in equilibrium at high pressure. When the seal is cracked and pressure drops, the dissolved gas comes out of solution as bubbles, causing the fizz. Similarly, nitrogen dissolved in blood at depth comes out of solution as gas bubbles when the diver ascends and environmental pressure drops.",
         "whyWrongByChoice": {
           "A": "Ice melting involves a phase change (solid to liquid), not dissolved gas coming out of solution.",
           "C": "Boiling involves heating liquid to its boiling point, not pressure-related gas release.",
           "D": "Condensation is water vapor becoming liquid on a cold surface, not gas bubble formation.",
-          "E": "Salt dissolving is the reverse processâ€”a solid entering solution, not a dissolved substance coming out."
+          "E": "Salt dissolving is the reverse process—a solid entering solution, not a dissolved substance coming out."
         }
       },
       "difficulty": "medium",
@@ -4928,7 +4928,7 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Tumors commonly associated with tumor emboli are those with high propensity to invade blood vesselsâ€”hepatocellular carcinoma and renal cell carcinoma are the most notable examples.",
+        "summary": "Tumors commonly associated with tumor emboli are those with high propensity to invade blood vessels—hepatocellular carcinoma and renal cell carcinoma are the most notable examples.",
         "whyCorrect": "Tumor emboli most commonly occur with tumors that have a high propensity to invade blood vessels. Hepatocellular carcinoma and renal cell carcinoma are the cancers most commonly associated with tumor embolization. These tumors tend to grow into adjacent veins (hepatic vein, renal vein/IVC), from which fragments can break off and embolize to the lungs.",
         "whyWrongByChoice": {
           "A": "While breast and lung cancers metastasize frequently, they are not the most classically associated with tumor emboli.",

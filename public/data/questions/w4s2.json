@@ -35,7 +35,7 @@
         "whyCorrect": "The combination of immunosuppression (transplant recipient), subacute pneumonia, weakly acid-fast branching filamentous rods, and brain ring-enhancing lesions is classic for Nocardia. Nocardia spp. have mycolic acid in their cell wall (making them weakly acid-fast), form branching filaments that can mimic fungi, and commonly disseminate to the brain in immunocompromised patients.",
         "whyWrongByChoice": {
           "A": "M. tuberculosis is fully acid-fast (not weakly) and does not form branching filaments. While it can cause brain tuberculomas, the morphology described is characteristic of Nocardia.",
-          "B": "Aspergillus is a fungus with septate hyphae branching at 45Â° angles. While it can cause brain abscesses in immunocompromised patients, the weakly acid-fast staining and bacterial morphology point to Nocardia.",
+          "B": "Aspergillus is a fungus with septate hyphae branching at 45° angles. While it can cause brain abscesses in immunocompromised patients, the weakly acid-fast staining and bacterial morphology point to Nocardia.",
           "D": "Actinomyces israelii forms branching filaments but is anaerobic (not aerobic) and is NOT acid-fast. It causes cervicofacial actinomycosis with sulfur granules, not weakly acid-fast pulmonary disease.",
           "E": "Toxoplasma gondii causes brain ring-enhancing lesions in AIDS patients but is a protozoan, not a bacterium. It would not appear as branching rods on Gram stain."
         }
@@ -100,7 +100,7 @@
       "id": "r30-003",
       "topicId": "nocardia-ecoli-klebsiella-staph",
       "topicName": "Nocardia spp., E. coli, K. pneumoniae, and S. aureus",
-      "stem": "A 35-year-old man develops pneumonia one week after recovering from influenza. Sputum culture grows gram-positive cocci in clusters that are coagulase-positive and Î²-hemolytic. Which of the following best describes the epidemiologic context of this pneumonia?",
+      "stem": "A 35-year-old man develops pneumonia one week after recovering from influenza. Sputum culture grows gram-positive cocci in clusters that are coagulase-positive and β-hemolytic. Which of the following best describes the epidemiologic context of this pneumonia?",
       "choices": [
         {
           "label": "A",
@@ -125,8 +125,8 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "S. aureus (gram-positive cocci in clusters, coagulase-positive, Î²-hemolytic) is a classic cause of post-viral secondary bacterial pneumonia, often following influenza. 70-80% of S. aureus pneumonia cases are post-influenza.",
-        "whyCorrect": "S. aureus is a classic cause of post-viral secondary bacterial pneumonia, often following influenza. In fact, 70-80% of S. aureus pneumonia is post-influenza. S. pneumoniae and H. influenzae also commonly cause secondary bacterial pneumonia after viral infections. This patient developed pneumonia one week after influenza, and the coagulase-positive, Î²-hemolytic gram-positive cocci in clusters confirm S. aureus.",
+        "summary": "S. aureus (gram-positive cocci in clusters, coagulase-positive, β-hemolytic) is a classic cause of post-viral secondary bacterial pneumonia, often following influenza. 70-80% of S. aureus pneumonia cases are post-influenza.",
+        "whyCorrect": "S. aureus is a classic cause of post-viral secondary bacterial pneumonia, often following influenza. In fact, 70-80% of S. aureus pneumonia is post-influenza. S. pneumoniae and H. influenzae also commonly cause secondary bacterial pneumonia after viral infections. This patient developed pneumonia one week after influenza, and the coagulase-positive, β-hemolytic gram-positive cocci in clusters confirm S. aureus.",
         "whyWrongByChoice": {
           "A": "While S. aureus can rarely cause primary CAP (1-5% of cases), the timing after influenza makes post-viral secondary pneumonia the most likely context.",
           "C": "VAP occurs >48 hours after intubation. This patient is not ventilated; he developed pneumonia in the community after influenza.",
@@ -313,13 +313,13 @@
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "For MRSA pneumonia in hospitalized/ICU patients, vancomycin or linezolid are the agents of choice. MRSA is resistant to all Î²-lactams including nafcillin, cefazolin, and cephalosporins.",
-        "whyCorrect": "For suspected or confirmed MRSA pneumonia, vancomycin is the standard empiric choice. Linezolid (a 50S ribosomal subunit inhibitor) is an alternative. MRSA is resistant to methicillin and all Î²-lactam antibiotics, so anti-staphylococcal penicillins (nafcillin) and cephalosporins (cefazolin, ceftriaxone) are ineffective.",
+        "summary": "For MRSA pneumonia in hospitalized/ICU patients, vancomycin or linezolid are the agents of choice. MRSA is resistant to all β-lactams including nafcillin, cefazolin, and cephalosporins.",
+        "whyCorrect": "For suspected or confirmed MRSA pneumonia, vancomycin is the standard empiric choice. Linezolid (a 50S ribosomal subunit inhibitor) is an alternative. MRSA is resistant to methicillin and all β-lactam antibiotics, so anti-staphylococcal penicillins (nafcillin) and cephalosporins (cefazolin, ceftriaxone) are ineffective.",
         "whyWrongByChoice": {
-          "A": "Nafcillin is an anti-staphylococcal Î²-lactam used for MSSA (methicillin-sensitive S. aureus). MRSA is by definition resistant to methicillin and related Î²-lactams including nafcillin.",
+          "A": "Nafcillin is an anti-staphylococcal β-lactam used for MSSA (methicillin-sensitive S. aureus). MRSA is by definition resistant to methicillin and related β-lactams including nafcillin.",
           "B": "Cefazolin is a first-generation cephalosporin used for MSSA infections. MRSA is resistant to all cephalosporins.",
-          "C": "Amoxicillin-clavulanate is a Î²-lactam/Î²-lactamase inhibitor combination. MRSA resistance is due to altered PBPs (PBP2a), not Î²-lactamase, so clavulanate cannot overcome MRSA resistance.",
-          "E": "Ceftriaxone is a third-generation cephalosporin. Like all Î²-lactams, it is ineffective against MRSA."
+          "C": "Amoxicillin-clavulanate is a β-lactam/β-lactamase inhibitor combination. MRSA resistance is due to altered PBPs (PBP2a), not β-lactamase, so clavulanate cannot overcome MRSA resistance.",
+          "E": "Ceftriaxone is a third-generation cephalosporin. Like all β-lactams, it is ineffective against MRSA."
         }
       },
       "difficulty": "medium",
@@ -407,13 +407,13 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "ESBL-producing E. coli are resistant to most Î²-lactams including cephalosporins. Carbapenems like meropenem are preferred due to their stability against ESBL enzymes, broad-spectrum activity, and excellent tissue penetration.",
-        "whyCorrect": "Extended-spectrum Î²-lactamase (ESBL)-producing strains of E. coli hydrolyze most Î²-lactam antibiotics including cephalosporins. Carbapenems such as meropenem or imipenem are preferred because they are stable against ESBL enzymes and have broad-spectrum activity with excellent tissue penetration.",
+        "summary": "ESBL-producing E. coli are resistant to most β-lactams including cephalosporins. Carbapenems like meropenem are preferred due to their stability against ESBL enzymes, broad-spectrum activity, and excellent tissue penetration.",
+        "whyCorrect": "Extended-spectrum β-lactamase (ESBL)-producing strains of E. coli hydrolyze most β-lactam antibiotics including cephalosporins. Carbapenems such as meropenem or imipenem are preferred because they are stable against ESBL enzymes and have broad-spectrum activity with excellent tissue penetration.",
         "whyWrongByChoice": {
           "A": "Ceftriaxone is a third-generation cephalosporin that is hydrolyzed by ESBL enzymes. It would be ineffective against ESBL-producing E. coli.",
-          "B": "Ampicillin is a basic penicillin that is readily hydrolyzed by standard Î²-lactamases and ESBLs. It is ineffective here.",
+          "B": "Ampicillin is a basic penicillin that is readily hydrolyzed by standard β-lactamases and ESBLs. It is ineffective here.",
           "D": "Azithromycin is a macrolide with no reliable activity against enteric gram-negative bacteria like E. coli.",
-          "E": "While amoxicillin-clavulanate contains a Î²-lactamase inhibitor, ESBLs are not reliably inhibited by clavulanate in clinical settings, making this combination unreliable for serious ESBL infections."
+          "E": "While amoxicillin-clavulanate contains a β-lactamase inhibitor, ESBLs are not reliably inhibited by clavulanate in clinical settings, making this combination unreliable for serious ESBL infections."
         }
       },
       "difficulty": "hard",
@@ -597,7 +597,7 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Aspiration pneumonia from oral anaerobes (Peptostreptococcus, Prevotella, Fusobacterium, Bacteroides) characteristically produces extremely foul-smelling sputumâ€”the same bacteria that cause bad breath (halitosis).",
+        "summary": "Aspiration pneumonia from oral anaerobes (Peptostreptococcus, Prevotella, Fusobacterium, Bacteroides) characteristically produces extremely foul-smelling sputum—the same bacteria that cause bad breath (halitosis).",
         "whyCorrect": "The extremely foul-smelling sputum is characteristic of aspiration pneumonia caused by oral anaerobes. These include Peptostreptococcus, Prevotella, Fusobacterium, and Bacteroides species. The sputum has a pungent odor because these are the same bacteria that cause bad breath (halitosis). Most aspiration pneumonia infections are mixed (multiple species).",
         "whyWrongByChoice": {
           "A": "Atypical bacteria cause dry, nonproductive cough with mild symptoms. They do not produce foul-smelling sputum.",
@@ -644,11 +644,11 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "For confirmed MSSA infections, anti-staphylococcal Î²-lactams such as nafcillin or cefazolin are the preferred IV treatment. These are more effective against MSSA than vancomycin.",
-        "whyCorrect": "Methicillin-sensitive S. aureus (MSSA) is best treated with anti-staphylococcal Î²-lactams such as nafcillin or cefazolin (IV formulations). These agents have superior efficacy against MSSA compared to vancomycin, which should be reserved for MRSA or patients with Î²-lactam allergy.",
+        "summary": "For confirmed MSSA infections, anti-staphylococcal β-lactams such as nafcillin or cefazolin are the preferred IV treatment. These are more effective against MSSA than vancomycin.",
+        "whyCorrect": "Methicillin-sensitive S. aureus (MSSA) is best treated with anti-staphylococcal β-lactams such as nafcillin or cefazolin (IV formulations). These agents have superior efficacy against MSSA compared to vancomycin, which should be reserved for MRSA or patients with β-lactam allergy.",
         "whyWrongByChoice": {
-          "A": "Vancomycin is effective against MSSA but is not the preferred agent. Anti-staphylococcal Î²-lactams like nafcillin have superior outcomes for MSSA infections. Vancomycin is reserved for MRSA.",
-          "B": "Linezolid is used for MRSA infections. For MSSA, anti-staphylococcal Î²-lactams are preferred for their superior efficacy.",
+          "A": "Vancomycin is effective against MSSA but is not the preferred agent. Anti-staphylococcal β-lactams like nafcillin have superior outcomes for MSSA infections. Vancomycin is reserved for MRSA.",
+          "B": "Linezolid is used for MRSA infections. For MSSA, anti-staphylococcal β-lactams are preferred for their superior efficacy.",
           "D": "Daptomycin is used for serious MRSA infections but is inactivated by pulmonary surfactant, making it ineffective for pneumonia.",
           "E": "TMP-SMX can treat community-acquired MRSA skin infections but is not the optimal choice for MSSA pneumonia requiring IV therapy."
         }
@@ -789,7 +789,7 @@
         "whyCorrect": "S. aureus ferments mannitol on mannitol salt agar (MSA), turning the colonies and surrounding agar yellow due to acid production. MSA is both selective (7.5% NaCl selects for salt-tolerant staphylococci) and differential (mannitol fermentation distinguishes S. aureus from coagulase-negative staphylococci, which do not ferment mannitol).",
         "whyWrongByChoice": {
           "A": "MSA does not test for methicillin resistance. Methicillin resistance is determined by oxacillin/cefoxitin disk testing, MIC testing, or detection of mecA gene/PBP2a.",
-          "C": "MSA does not detect Î²-lactamase production. Î²-lactamase testing requires specific enzyme assays.",
+          "C": "MSA does not detect β-lactamase production. β-lactamase testing requires specific enzyme assays.",
           "D": "Yellow colonies on MSA indicate mannitol fermentation, which is characteristic of coagulase-POSITIVE S. aureus, not coagulase-negative species.",
           "E": "MSA does not test for vancomycin susceptibility. Vancomycin susceptibility is determined by MIC testing."
         }
@@ -974,7 +974,7 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Pulmonary nocardiosis presents as subacute or chronic pneumonia with fever, weight loss, productive cough (sometimes bloody), and cavitary or nodular lung lesions on imagingâ€”features that closely parallel tuberculosis.",
+        "summary": "Pulmonary nocardiosis presents as subacute or chronic pneumonia with fever, weight loss, productive cough (sometimes bloody), and cavitary or nodular lung lesions on imaging—features that closely parallel tuberculosis.",
         "whyCorrect": "Most cases of pulmonary nocardiosis present as subacute or chronic pneumonia with presentations that parallel tuberculosis: fever, weight loss, and cough (typically productive, sometimes with hemoptysis). On imaging, cavitary or nodular lung lesions may be present, further mimicking TB. Laboratory identification is necessary to distinguish the two.",
         "whyWrongByChoice": {
           "A": "Both nocardiosis and TB typically have a subacute or chronic course, not acute onset. Acute lobar consolidation is more typical of S. pneumoniae.",
@@ -1024,10 +1024,10 @@
         "summary": "While E. coli, K. pneumoniae, and S. aureus can cause VAP, Pseudomonas spp. is a more common cause of ventilator-associated pneumonia and is the most common cause of MDR VAP.",
         "whyCorrect": "K. pneumoniae and E. coli are strongly associated with immunocompromised patients and HAP, especially in patients on ventilators. However, Pseudomonas spp. is a more common cause of VAP. As discussed in the Pseudomonas brick, P. aeruginosa is the most common cause of multidrug-resistant VAP due to its intrinsic resistance, biofilm formation on endotracheal tubes, and hospital ubiquity.",
         "whyWrongByChoice": {
-          "A": "Post-influenza secondary pneumonia is most commonly caused by S. pneumoniae, S. aureus, and H. influenzaeâ€”not Pseudomonas.",
+          "A": "Post-influenza secondary pneumonia is most commonly caused by S. pneumoniae, S. aureus, and H. influenzae—not Pseudomonas.",
           "B": "Neonatal pneumonia is most commonly caused by E. coli and Group B Streptococcus, not Pseudomonas.",
           "D": "Aspiration pneumonia in alcoholics is most associated with K. pneumoniae and oral anaerobes, not Pseudomonas.",
-          "E": "Outpatient CAP is most commonly caused by S. pneumoniae, atypical bacteria, and respiratory virusesâ€”not Pseudomonas, which is primarily nosocomial."
+          "E": "Outpatient CAP is most commonly caused by S. pneumoniae, atypical bacteria, and respiratory viruses—not Pseudomonas, which is primarily nosocomial."
         }
       },
       "difficulty": "hard",
@@ -2364,8 +2364,8 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "B. anthracis forms characteristic 'Medusa head' colonies on blood agar. It is non-hemolytic (Î³-hemolytic), distinguishing it from B. cereus and other Bacillus species which are Î²-hemolytic and motile.",
-        "whyCorrect": "B. anthracis is identified as a large, facultative anaerobic, Gram-positive, non-hemolytic, spore-forming rod that forms characteristic 'Medusa head' colonies on blood agar. The Medusa head appearance is due to the irregular, wavy colony edges. B. anthracis is non-hemolytic (Î³-hemolytic) and nonmotile, distinguishing it from B. cereus (Î²-hemolytic, motile).",
+        "summary": "B. anthracis forms characteristic 'Medusa head' colonies on blood agar. It is non-hemolytic (γ-hemolytic), distinguishing it from B. cereus and other Bacillus species which are β-hemolytic and motile.",
+        "whyCorrect": "B. anthracis is identified as a large, facultative anaerobic, Gram-positive, non-hemolytic, spore-forming rod that forms characteristic 'Medusa head' colonies on blood agar. The Medusa head appearance is due to the irregular, wavy colony edges. B. anthracis is non-hemolytic (γ-hemolytic) and nonmotile, distinguishing it from B. cereus (β-hemolytic, motile).",
         "whyWrongByChoice": {
           "A": "Mucoid, blue-green pigmented colonies are characteristic of Pseudomonas aeruginosa (from pyocyanin), not B. anthracis.",
           "C": "Beta-hemolytic, golden-yellow colonies describe S. aureus, not B. anthracis. B. anthracis is specifically non-hemolytic.",
@@ -2462,7 +2462,7 @@
         "whyCorrect": "Doxycycline is first-line therapy for Q fever because C. burnetii localizes within acidic intracellular compartments (phagolysosomes), requiring agents with strong intracellular activity. Doxycycline is highly lipophilic, penetrates cells effectively, and accumulates within infected host cells. The preferred regimen combines doxycycline with hydroxychloroquine in non-pregnant individuals.",
         "whyWrongByChoice": {
           "A": "While fluoroquinolones have intracellular penetration, doxycycline (combined with hydroxychloroquine) is the established first-line regimen for Q fever.",
-          "B": "Amoxicillin is a Î²-lactam that does not achieve adequate intracellular concentrations to reach C. burnetii within phagolysosomes.",
+          "B": "Amoxicillin is a β-lactam that does not achieve adequate intracellular concentrations to reach C. burnetii within phagolysosomes.",
           "D": "Vancomycin is used for MRSA and serious gram-positive infections. It has no role in Q fever treatment.",
           "E": "Azithromycin has good intracellular penetration but doxycycline is the established first-line agent for Q fever."
         }
@@ -2496,7 +2496,7 @@
         },
         {
           "label": "D",
-          "text": "pXO1: Î²-lactamase; pXO2: capsule"
+          "text": "pXO1: β-lactamase; pXO2: capsule"
         },
         {
           "label": "E",
@@ -2506,11 +2506,11 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "pXO1 encodes the three anthrax toxin components (PA, EF, LF). pXO2 encodes the poly-D-glutamate capsule. Both plasmids are required for full virulence.",
-        "whyCorrect": "The pXO1 plasmid encodes protective antigen (PA), edema factor (EF), and lethal factor (LF)â€”the three components of anthrax toxin. The pXO2 plasmid encodes the poly-D-glutamate capsule. Both plasmids are essential for a strain of B. anthracis to be virulent. PCR can detect these plasmids to confirm pathogenic strains.",
+        "whyCorrect": "The pXO1 plasmid encodes protective antigen (PA), edema factor (EF), and lethal factor (LF)—the three components of anthrax toxin. The pXO2 plasmid encodes the poly-D-glutamate capsule. Both plasmids are essential for a strain of B. anthracis to be virulent. PCR can detect these plasmids to confirm pathogenic strains.",
         "whyWrongByChoice": {
           "A": "This reverses the plasmid assignments. pXO1 encodes the toxin genes, not the capsule. pXO2 encodes the capsule, not the toxin genes.",
           "C": "pXO1 does not encode spore coat proteins, and pXO2 does not encode motility genes. B. anthracis is actually nonmotile.",
-          "D": "pXO1 does not encode Î²-lactamase. It encodes the anthrax toxin components (PA, EF, LF).",
+          "D": "pXO1 does not encode β-lactamase. It encodes the anthrax toxin components (PA, EF, LF).",
           "E": "Neither plasmid encodes adhesins or siderophores. They encode toxin components (pXO1) and the capsule (pXO2)."
         }
       },
@@ -2953,7 +2953,7 @@
       "id": "r31-020",
       "topicId": "anthrax-qfever",
       "topicName": "B. anthracis and C. burnetii",
-      "stem": "B. anthracis is nonmotile and non-hemolytic. Which of the following Bacillus species is motile and Î²-hemolytic, and causes food poisoning rather than anthrax?",
+      "stem": "B. anthracis is nonmotile and non-hemolytic. Which of the following Bacillus species is motile and β-hemolytic, and causes food poisoning rather than anthrax?",
       "choices": [
         {
           "label": "A",
@@ -2978,8 +2978,8 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "B. cereus is motile and Î²-hemolytic (unlike B. anthracis which is nonmotile and non-hemolytic). B. cereus causes food poisoning through enterotoxins, not anthrax.",
-        "whyCorrect": "B. anthracis is nonmotile and non-hemolytic (Î³-hemolytic); all other Bacillus spp., including B. cereus, are motile and Î²-hemolytic. B. cereus is the second most clinically important Bacillus species, causing food poisoning through heat-stable and heat-labile enterotoxins. The motility and hemolysis pattern help distinguish B. cereus from B. anthracis in the laboratory.",
+        "summary": "B. cereus is motile and β-hemolytic (unlike B. anthracis which is nonmotile and non-hemolytic). B. cereus causes food poisoning through enterotoxins, not anthrax.",
+        "whyCorrect": "B. anthracis is nonmotile and non-hemolytic (γ-hemolytic); all other Bacillus spp., including B. cereus, are motile and β-hemolytic. B. cereus is the second most clinically important Bacillus species, causing food poisoning through heat-stable and heat-labile enterotoxins. The motility and hemolysis pattern help distinguish B. cereus from B. anthracis in the laboratory.",
         "whyWrongByChoice": {
           "A": "B. subtilis is a common environmental Bacillus but is not the primary species associated with food poisoning alongside B. anthracis as a key comparison organism.",
           "C": "B. megaterium is not a major human pathogen and is not the primary Bacillus species compared with B. anthracis.",
@@ -4201,7 +4201,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "The halo sign (nodular lesions with surrounding ground-glass opacity representing hemorrhage) on CT is a classic radiographic finding in invasive pulmonary aspergillosis, which most commonly occurs in neutropenic patients.",
-        "whyCorrect": "Invasive pulmonary aspergillosis (IPA) most often occurs in patients with prolonged neutropenia or hematologic malignancy. The 'halo sign' on CTâ€”nodular lesions with surrounding ground-glass opacities reflecting hemorrhage around fungal lesionsâ€”is a classic finding. As disease progresses, an 'air-crescent sign' may appear. A. fumigatus is the primary causative species.",
+        "whyCorrect": "Invasive pulmonary aspergillosis (IPA) most often occurs in patients with prolonged neutropenia or hematologic malignancy. The 'halo sign' on CT—nodular lesions with surrounding ground-glass opacities reflecting hemorrhage around fungal lesions—is a classic finding. As disease progresses, an 'air-crescent sign' may appear. A. fumigatus is the primary causative species.",
         "whyWrongByChoice": {
           "A": "P. jirovecii causes diffuse bilateral interstitial infiltrates and ground-glass opacities in HIV patients, not nodular lesions with halo sign in neutropenic patients.",
           "C": "Cryptococcus primarily causes meningitis in immunocompromised patients. Pulmonary involvement shows nodules or consolidation but not the classic halo sign.",
@@ -4248,10 +4248,10 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Rhinocerebral mucormycosis is the most frequent presentation of mucormycosis. DKA is the strongest risk factor. Mucorales possess ketone reductase and grow well in acidic, high-glucose environments. Biopsy shows broad, non-septate hyphae with right-angle (~90Â°) branching.",
-        "whyCorrect": "Rhinocerebral mucormycosis begins in the nasal turbinates/sinuses and can spread to the orbit and brain. DKA is the strongest risk factor because Mucorales possess ketone reductase and thrive in acidic, high-glucose environments. Acidosis increases free iron (decreasing transferrin binding), further promoting fungal growth. Biopsy shows broad, ribbon-like, non-septate hyphae with right-angle (~90Â°) branching.",
+        "summary": "Rhinocerebral mucormycosis is the most frequent presentation of mucormycosis. DKA is the strongest risk factor. Mucorales possess ketone reductase and grow well in acidic, high-glucose environments. Biopsy shows broad, non-septate hyphae with right-angle (~90°) branching.",
+        "whyCorrect": "Rhinocerebral mucormycosis begins in the nasal turbinates/sinuses and can spread to the orbit and brain. DKA is the strongest risk factor because Mucorales possess ketone reductase and thrive in acidic, high-glucose environments. Acidosis increases free iron (decreasing transferrin binding), further promoting fungal growth. Biopsy shows broad, ribbon-like, non-septate hyphae with right-angle (~90°) branching.",
         "whyWrongByChoice": {
-          "A": "Aspergillus hyphae are septate with acute-angle (~45Â°) branching, not the broad, non-septate, right-angle branching described here.",
+          "A": "Aspergillus hyphae are septate with acute-angle (~45°) branching, not the broad, non-septate, right-angle branching described here.",
           "C": "Nocardia forms gram-positive branching filaments that are weakly acid-fast. It does not produce the broad, non-septate hyphae described in this biopsy.",
           "D": "Cryptococcal meningitis presents with meningeal symptoms and is diagnosed by India ink stain or CSF antigen. It does not cause nasal necrosis with hyphal invasion.",
           "E": "PCP causes interstitial pneumonia in immunocompromised patients. It does not cause rhinocerebral disease with tissue necrosis."
@@ -4271,7 +4271,7 @@
       "id": "r32-004",
       "topicId": "invasive-fungal-infections",
       "topicName": "Invasive Fungal Infections",
-      "stem": "A 35-year-old man with AIDS (CD4 count 80 cells/mmÂ³) presents with progressive dyspnea and dry cough over 3 weeks. Chest X-ray shows bilateral interstitial infiltrates. BAL with silver stain reveals indented, helmet-shaped cysts. Which of the following is the most likely organism?",
+      "stem": "A 35-year-old man with AIDS (CD4 count 80 cells/mm³) presents with progressive dyspnea and dry cough over 3 weeks. Chest X-ray shows bilateral interstitial infiltrates. BAL with silver stain reveals indented, helmet-shaped cysts. Which of the following is the most likely organism?",
       "choices": [
         {
           "label": "A",
@@ -4297,9 +4297,9 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "P. jirovecii causes PCP in severely immunocompromised patients (CD4 <200). Silver stain of BAL reveals characteristic indented, helmet-shaped cysts. PCP presents with progressive dyspnea, dry cough, and bilateral interstitial infiltrates.",
-        "whyCorrect": "P. jirovecii causes Pneumocystis pneumonia (PCP) in severely immunocompromised patients, especially those with HIV/AIDS when CD4 count falls below 200 cells/mmÂ³. Classic presentation includes progressive dyspnea, nonproductive cough, and bilateral interstitial infiltrates on CXR. Silver stain (methenamine silver) reveals characteristic 'indented, helmet-shaped cysts.'",
+        "whyCorrect": "P. jirovecii causes Pneumocystis pneumonia (PCP) in severely immunocompromised patients, especially those with HIV/AIDS when CD4 count falls below 200 cells/mm³. Classic presentation includes progressive dyspnea, nonproductive cough, and bilateral interstitial infiltrates on CXR. Silver stain (methenamine silver) reveals characteristic 'indented, helmet-shaped cysts.'",
         "whyWrongByChoice": {
-          "A": "Aspergillus causes invasive disease in neutropenic patients, showing septate hyphae with acute-angle branching on biopsyâ€”not helmet-shaped cysts.",
+          "A": "Aspergillus causes invasive disease in neutropenic patients, showing septate hyphae with acute-angle branching on biopsy—not helmet-shaped cysts.",
           "B": "Mucor causes rhinocerebral or pulmonary disease with broad, non-septate hyphae, not helmet-shaped cysts.",
           "D": "TB shows acid-fast bacilli on staining, not helmet-shaped cysts. TB can occur at any CD4 count in HIV patients but presents differently.",
           "E": "S. pneumoniae causes acute bacterial pneumonia with lobar consolidation and gram-positive diplococci, not bilateral interstitial infiltrates with helmet-shaped cysts."
@@ -4370,7 +4370,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Î²-D-glucan"
+          "text": "β-D-glucan"
         },
         {
           "label": "B",
@@ -4394,7 +4394,7 @@
         "summary": "Galactomannan is a component of the Aspergillus cell wall that can be detected by antigen tests in blood or BAL to support a diagnosis of invasive aspergillosis.",
         "whyCorrect": "Galactomannan is a specific component of the Aspergillus cell wall. Antigen detection kits can detect galactomannan in blood or BAL fluid. While sensitivity and specificity have limitations, in the right clinical context, a positive galactomannan test provides a presumptive diagnosis of invasive aspergillosis. Importantly, Mucorales species do NOT possess galactomannan, so a negative result in a suspected fungal infection may suggest mucormycosis.",
         "whyWrongByChoice": {
-          "A": "Î²-D-glucan is found in the cell wall of most fungi (not just Aspergillus) and is therefore nonspecific. It can support a diagnosis of fungal infection generally but does not identify Aspergillus specifically.",
+          "A": "β-D-glucan is found in the cell wall of most fungi (not just Aspergillus) and is therefore nonspecific. It can support a diagnosis of fungal infection generally but does not identify Aspergillus specifically.",
           "C": "Ergosterol is a fungal membrane component targeted by antifungals (amphotericin B, azoles) but is not used as a diagnostic antigen test.",
           "D": "Chitin is a structural polysaccharide in fungal cell walls but is not used as a diagnostic antigen for aspergillosis.",
           "E": "Mannoprotein is a component of the Cryptococcus capsule, not an Aspergillus-specific antigen."
@@ -4558,34 +4558,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "500 cells/Î¼L"
+          "text": "500 cells/μL"
         },
         {
           "label": "B",
-          "text": "350 cells/Î¼L"
+          "text": "350 cells/μL"
         },
         {
           "label": "C",
-          "text": "200 cells/Î¼L"
+          "text": "200 cells/μL"
         },
         {
           "label": "D",
-          "text": "100 cells/Î¼L"
+          "text": "100 cells/μL"
         },
         {
           "label": "E",
-          "text": "50 cells/Î¼L"
+          "text": "50 cells/μL"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "TMP-SMX prophylaxis for PCP is recommended when CD4 T cell counts fall below 200 cells/Î¼L. This intervention has significantly reduced PCP incidence since the AIDS epidemic.",
-        "whyCorrect": "PCP prophylaxis with TMP-SMX is recommended when CD4 T cell counts fall below 200 cells/Î¼L. This threshold was established because PCP risk increases dramatically below this level. The widespread use of prophylaxis has significantly reduced PCP incidence since the early days of the AIDS epidemic.",
+        "summary": "TMP-SMX prophylaxis for PCP is recommended when CD4 T cell counts fall below 200 cells/μL. This intervention has significantly reduced PCP incidence since the AIDS epidemic.",
+        "whyCorrect": "PCP prophylaxis with TMP-SMX is recommended when CD4 T cell counts fall below 200 cells/μL. This threshold was established because PCP risk increases dramatically below this level. The widespread use of prophylaxis has significantly reduced PCP incidence since the early days of the AIDS epidemic.",
         "whyWrongByChoice": {
-          "A": "500 cells/Î¼L is not the threshold for PCP prophylaxis. Some opportunistic infections are considered at this level, but PCP prophylaxis begins at 200.",
-          "B": "350 cells/Î¼L was historically used as a threshold for initiating ART in some guidelines, but PCP prophylaxis specifically starts at 200.",
-          "D": "100 cells/Î¼L is the threshold for MAC prophylaxis, not PCP. PCP prophylaxis begins earlier, at 200.",
-          "E": "50 cells/Î¼L is associated with CMV retinitis risk. PCP prophylaxis should already be in place well before CD4 counts drop this low."
+          "A": "500 cells/μL is not the threshold for PCP prophylaxis. Some opportunistic infections are considered at this level, but PCP prophylaxis begins at 200.",
+          "B": "350 cells/μL was historically used as a threshold for initiating ART in some guidelines, but PCP prophylaxis specifically starts at 200.",
+          "D": "100 cells/μL is the threshold for MAC prophylaxis, not PCP. PCP prophylaxis begins earlier, at 200.",
+          "E": "50 cells/μL is associated with CMV retinitis risk. PCP prophylaxis should already be in place well before CD4 counts drop this low."
         }
       },
       "difficulty": "medium",
@@ -4648,7 +4648,7 @@
       "id": "r32-012",
       "topicId": "invasive-fungal-infections",
       "topicName": "Invasive Fungal Infections",
-      "stem": "A patient suspected of having a fungal infection has a negative galactomannan test AND a negative Î²-D-glucan test. Which of the following organisms is most consistent with these results?",
+      "stem": "A patient suspected of having a fungal infection has a negative galactomannan test AND a negative β-D-glucan test. Which of the following organisms is most consistent with these results?",
       "choices": [
         {
           "label": "A",
@@ -4673,13 +4673,13 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Mucorales species do NOT possess galactomannan or Î²-D-glucan in their cell walls. Both tests being negative in a suspected fungal infection should raise suspicion for mucormycosis.",
-        "whyCorrect": "Species of Mucorales do not possess galactomannan (an Aspergillus cell wall component) or Î²-D-glucan in their cell walls. Therefore, both the galactomannan and Î²-D-glucan tests are negative in mucormycosis. A negative result for both tests in a patient with suspected invasive fungal infection should raise the possibility of mucormycosis.",
+        "summary": "Mucorales species do NOT possess galactomannan or β-D-glucan in their cell walls. Both tests being negative in a suspected fungal infection should raise suspicion for mucormycosis.",
+        "whyCorrect": "Species of Mucorales do not possess galactomannan (an Aspergillus cell wall component) or β-D-glucan in their cell walls. Therefore, both the galactomannan and β-D-glucan tests are negative in mucormycosis. A negative result for both tests in a patient with suspected invasive fungal infection should raise the possibility of mucormycosis.",
         "whyWrongByChoice": {
           "A": "Aspergillus has galactomannan in its cell wall, so the galactomannan test would likely be positive in invasive aspergillosis.",
-          "B": "Candida has Î²-D-glucan in its cell wall, so the Î²-D-glucan test would likely be positive in invasive candidiasis.",
-          "D": "P. jirovecii has Î²-D-glucan in its cell wall, so the Î²-D-glucan test would be positive in PCP (though it is nonspecific).",
-          "E": "Histoplasma has Î²-D-glucan in its cell wall. Additionally, Histoplasma has its own urine antigen test."
+          "B": "Candida has β-D-glucan in its cell wall, so the β-D-glucan test would likely be positive in invasive candidiasis.",
+          "D": "P. jirovecii has β-D-glucan in its cell wall, so the β-D-glucan test would be positive in PCP (though it is nonspecific).",
+          "E": "Histoplasma has β-D-glucan in its cell wall. Additionally, Histoplasma has its own urine antigen test."
         }
       },
       "difficulty": "hard",
@@ -4721,7 +4721,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "In DKA, acidosis increases free (unbound) iron by decreasing transferrin binding. This elevated free iron enhances Mucorales proliferation. Mucorales also possess ketone reductase and grow well in acidic, high-glucose environments.",
-        "whyCorrect": "In diabetic ketoacidosis, acidosis decreases iron binding to transferrin, increasing free (unbound) iron levels in the serum. This elevated free iron enhances fungal proliferation. Additionally, Mucorales organisms possess ketone reductase and grow well in acidic, high-glucose environmentsâ€”all conditions present in DKAâ€”making it the strongest risk factor for mucormycosis.",
+        "whyCorrect": "In diabetic ketoacidosis, acidosis decreases iron binding to transferrin, increasing free (unbound) iron levels in the serum. This elevated free iron enhances fungal proliferation. Additionally, Mucorales organisms possess ketone reductase and grow well in acidic, high-glucose environments—all conditions present in DKA—making it the strongest risk factor for mucormycosis.",
         "whyWrongByChoice": {
           "A": "Acidosis does not activate sporulation genes. The mechanism is increased free iron and favorable growth conditions (high glucose, ketones, acid pH).",
           "C": "While DKA can impair neutrophil function, the primary mechanism promoting Mucorales growth is increased free iron from decreased transferrin binding in acidotic conditions.",
@@ -4794,11 +4794,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Aspergillus: non-septate, 90Â° branching; Mucorales: septate, 45Â° branching"
+          "text": "Aspergillus: non-septate, 90° branching; Mucorales: septate, 45° branching"
         },
         {
           "label": "B",
-          "text": "Aspergillus: septate, 45Â° branching; Mucorales: non-septate, 90Â° branching"
+          "text": "Aspergillus: septate, 45° branching; Mucorales: non-septate, 90° branching"
         },
         {
           "label": "C",
@@ -4815,10 +4815,10 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Aspergillus hyphae are septate with acute-angle (~45Â°) branching. Mucorales hyphae are broad, non-septate (ribbon-like) with right-angle (~90Â°) branching. This distinction is critical for diagnosis and treatment selection.",
-        "whyCorrect": "Aspergillus spp. hyphae are septate (with breaks/septa) and branch at acute angles (approximately 45Â°). Mucorales hyphae are broad, ribbon-like, non-septate (no septa) with irregular, right-angle branching (approximately 90Â°). This histologic distinction is critical because treatment differs significantly (voriconazole for Aspergillus vs. amphotericin B for Mucorales).",
+        "summary": "Aspergillus hyphae are septate with acute-angle (~45°) branching. Mucorales hyphae are broad, non-septate (ribbon-like) with right-angle (~90°) branching. This distinction is critical for diagnosis and treatment selection.",
+        "whyCorrect": "Aspergillus spp. hyphae are septate (with breaks/septa) and branch at acute angles (approximately 45°). Mucorales hyphae are broad, ribbon-like, non-septate (no septa) with irregular, right-angle branching (approximately 90°). This histologic distinction is critical because treatment differs significantly (voriconazole for Aspergillus vs. amphotericin B for Mucorales).",
         "whyWrongByChoice": {
-          "A": "This reverses the characteristics. Aspergillus is septate with 45Â° branching, and Mucorales is non-septate with 90Â° branching.",
+          "A": "This reverses the characteristics. Aspergillus is septate with 45° branching, and Mucorales is non-septate with 90° branching.",
           "C": "Both Aspergillus and Mucorales exist as hyphal (mold) forms. Neither produces yeast forms in tissue.",
           "D": "Neither Aspergillus nor Mucorales are encapsulated. Encapsulation is a feature of yeasts like Cryptococcus.",
           "E": "While Aspergillus species can produce pigmented colonies in culture, this is not the primary distinguishing histologic feature. The septation and branching angle are the key differentiators."
@@ -5011,7 +5011,7 @@
         "whyWrongByChoice": {
           "B": "While IgG may also be elevated in ABPA, the key distinguishing test for ABPA is elevated IgE. CPA is specifically diagnosed with IgG, not IgE.",
           "C": "IgM and IgA are not the standard antibody markers used to distinguish ABPA from CPA.",
-          "D": "Antibody tests are positive in both conditionsâ€”IgE in ABPA and IgG in CPA. They are negative/unreliable only in IPA.",
+          "D": "Antibody tests are positive in both conditions—IgE in ABPA and IgG in CPA. They are negative/unreliable only in IPA.",
           "E": "Galactomannan antigen testing is used for invasive aspergillosis, not for distinguishing ABPA from CPA."
         }
       },
@@ -5059,7 +5059,7 @@
         "whyWrongByChoice": {
           "A": "Voriconazole is first-line for invasive aspergillosis. P. jirovecii lacks ergosterol, making azole antifungals ineffective.",
           "B": "Amphotericin B targets ergosterol in fungal membranes. Since P. jirovecii lacks ergosterol, amphotericin B is ineffective.",
-          "D": "Caspofungin targets Î²-D-glucan synthesis. While P. jirovecii has Î²-D-glucan, echinocandins are not standard treatment for PCP.",
+          "D": "Caspofungin targets β-D-glucan synthesis. While P. jirovecii has β-D-glucan, echinocandins are not standard treatment for PCP.",
           "E": "Fluconazole targets ergosterol synthesis. Since P. jirovecii lacks ergosterol, fluconazole is ineffective."
         }
       },
@@ -5151,10 +5151,10 @@
         "summary": "PCR has excellent sensitivity for detecting P. jirovecii but cannot distinguish between environmental exposure/colonization and active infection. People are exposed to P. jirovecii daily and may have detectable DNA without disease. PCR is typically paired with other methods for confirmation.",
         "whyCorrect": "PCR has excellent sensitivity for detecting P. jirovecii DNA, but this is also its greatest weakness. People are exposed to P. jirovecii daily and breathe the fungus into their lungs. There is also evidence of pulmonary colonization. Because of this, PCR cannot distinguish between someone who simply breathed in the organism (exposure/colonization) and those with active infection. PCR is typically paired with staining or other diagnostic methods for confirmation.",
         "whyWrongByChoice": {
-          "A": "PCR can detect P. jirovecii DNA with excellent sensitivity. Detection is not the problemâ€”distinguishing colonization from disease is.",
+          "A": "PCR can detect P. jirovecii DNA with excellent sensitivity. Detection is not the problem—distinguishing colonization from disease is.",
           "C": "PCR can be performed on BAL fluid, induced sputum, or other respiratory specimens. Tissue biopsy is not required.",
           "D": "PCR for P. jirovecii is available at many clinical laboratories, not just reference labs.",
-          "E": "The opposite is trueâ€”PCR has excellent sensitivity but specificity is limited because it cannot differentiate colonization from infection."
+          "E": "The opposite is true—PCR has excellent sensitivity but specificity is limited because it cannot differentiate colonization from infection."
         }
       },
       "difficulty": "hard",
@@ -6323,8 +6323,8 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Coccidioides immitis causes Valley fever, endemic to the arid southwestern US (Arizona, California). In tissue at 37Â°C, it forms large spherules filled with endospores. Erythema nodosum is a common immune reaction to circulating fungal antigens.",
-        "whyCorrect": "Coccidioides is endemic to the arid desert regions of the southwestern US. Exposure to dry, dusty soil is a risk factor. In tissue at 37Â°C, Coccidioides forms large spherules filled with endospores rather than typical yeastâ€”a unique morphologic feature. Erythema nodosum (painful red nodules on shins) is a common immune-mediated reaction to circulating fungal antigens.",
+        "summary": "Coccidioides immitis causes Valley fever, endemic to the arid southwestern US (Arizona, California). In tissue at 37°C, it forms large spherules filled with endospores. Erythema nodosum is a common immune reaction to circulating fungal antigens.",
+        "whyCorrect": "Coccidioides is endemic to the arid desert regions of the southwestern US. Exposure to dry, dusty soil is a risk factor. In tissue at 37°C, Coccidioides forms large spherules filled with endospores rather than typical yeast—a unique morphologic feature. Erythema nodosum (painful red nodules on shins) is a common immune-mediated reaction to circulating fungal antigens.",
         "whyWrongByChoice": {
           "A": "Histoplasma shows small intracellular yeast with narrow-based budding, not spherules with endospores. It is endemic to the Ohio/Mississippi River valleys.",
           "B": "Blastomyces shows large yeast with broad-based budding, not spherules. It is endemic to the Great Lakes/eastern US.",
@@ -6346,7 +6346,7 @@
       "id": "r33-004",
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "stem": "An HIV-positive man with CD4 count of 50 cells/mmÂ³ presents with fever, headache, and nuchal rigidity. CSF analysis shows an encapsulated yeast. Which of the following staining methods historically was used to visualize this organism?",
+      "stem": "An HIV-positive man with CD4 count of 50 cells/mm³ presents with fever, headache, and nuchal rigidity. CSF analysis shows an encapsulated yeast. Which of the following staining methods historically was used to visualize this organism?",
       "choices": [
         {
           "label": "A",
@@ -6372,7 +6372,7 @@
       "correctAnswer": "C",
       "explanation": {
         "summary": "Cryptococcus neoformans has a prominent polysaccharide capsule that was historically visualized with India ink in CSF. India ink reveals a clear halo around the yeast cells. CrAg testing has largely replaced India ink.",
-        "whyCorrect": "Cryptococcus neoformans has a very large, prominent polysaccharide capsule. Historically, India ink was used to visualize this capsule in CSFâ€”the ink particles cannot penetrate the capsule, creating a clear halo around the yeast. However, India ink has largely been replaced by the more sensitive and specific Cryptococcal Antigen (CrAg) test for rapid diagnosis.",
+        "whyCorrect": "Cryptococcus neoformans has a very large, prominent polysaccharide capsule. Historically, India ink was used to visualize this capsule in CSF—the ink particles cannot penetrate the capsule, creating a clear halo around the yeast. However, India ink has largely been replaced by the more sensitive and specific Cryptococcal Antigen (CrAg) test for rapid diagnosis.",
         "whyWrongByChoice": {
           "A": "Ziehl-Neelsen stain is the acid-fast stain for mycobacteria (TB), not Cryptococcus.",
           "B": "Standard Gram stain does not reliably visualize Cryptococcus's capsule. India ink or CrAg testing is needed.",
@@ -6394,15 +6394,15 @@
       "id": "r33-005",
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "stem": "Histoplasma, Blastomyces, and Coccidioides are thermally dimorphic fungi. Which of the following correctly describes their morphology at body temperature (37Â°C) versus environmental temperature (25Â°C)?",
+      "stem": "Histoplasma, Blastomyces, and Coccidioides are thermally dimorphic fungi. Which of the following correctly describes their morphology at body temperature (37°C) versus environmental temperature (25°C)?",
       "choices": [
         {
           "label": "A",
-          "text": "Yeast at 25Â°C, mold at 37Â°C"
+          "text": "Yeast at 25°C, mold at 37°C"
         },
         {
           "label": "B",
-          "text": "Mold at 25Â°C, yeast at 37Â°C"
+          "text": "Mold at 25°C, yeast at 37°C"
         },
         {
           "label": "C",
@@ -6414,18 +6414,18 @@
         },
         {
           "label": "E",
-          "text": "Spores at 25Â°C, hyphae at 37Â°C"
+          "text": "Spores at 25°C, hyphae at 37°C"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Thermally dimorphic fungi follow the rule 'mold in the cold (25Â°C), yeast in the heat (37Â°C).' At environmental temperatures they grow as molds; at body temperature they convert to yeast (or spherules in Coccidioides).",
-        "whyCorrect": "Thermally dimorphic fungi follow the classic rule: 'mold in the cold (25Â°C), yeast in the heat (37Â°C).' At environmental temperatures, they grow in mold form; at body temperature, they convert to pathogenic yeast form (or spherules in the case of Coccidioides). This dimorphism is demonstrated in the lab by growing on Sabouraud agar at both temperatures.",
+        "summary": "Thermally dimorphic fungi follow the rule 'mold in the cold (25°C), yeast in the heat (37°C).' At environmental temperatures they grow as molds; at body temperature they convert to yeast (or spherules in Coccidioides).",
+        "whyCorrect": "Thermally dimorphic fungi follow the classic rule: 'mold in the cold (25°C), yeast in the heat (37°C).' At environmental temperatures, they grow in mold form; at body temperature, they convert to pathogenic yeast form (or spherules in the case of Coccidioides). This dimorphism is demonstrated in the lab by growing on Sabouraud agar at both temperatures.",
         "whyWrongByChoice": {
-          "A": "This reverses the relationship. Dimorphic fungi are molds at 25Â°C (environmental) and yeast at 37Â°C (body temperature).",
+          "A": "This reverses the relationship. Dimorphic fungi are molds at 25°C (environmental) and yeast at 37°C (body temperature).",
           "C": "Cryptococcus spp. exist as yeast at both temperatures, but the thermally dimorphic fungi (Histoplasma, Blastomyces, Coccidioides) convert between mold and yeast forms.",
           "D": "Aspergillus exists only as mold at both temperatures. The thermally dimorphic fungi convert to yeast at body temperature.",
-          "E": "While spores/conidia are produced at 25Â°C, the key dimorphism is between mold form (25Â°C) and yeast form (37Â°C)."
+          "E": "While spores/conidia are produced at 25°C, the key dimorphism is between mold form (25°C) and yeast form (37°C)."
         }
       },
       "difficulty": "medium",
@@ -6514,7 +6514,7 @@
       "correctAnswer": "E",
       "explanation": {
         "summary": "Paracoccidioides is a dimorphic fungus endemic to South and Central America. Its yeast form shows multiple narrow-based buds arranged circumferentially around a central mother cell, called the Captain's or Mariner's wheel. Oral mucosal ulcers are characteristic.",
-        "whyCorrect": "Paracoccidioides is endemic to South and Central America (especially Brazil), primarily affecting adult men. In chronic cases, mucosal involvement occurs in over 50% of cases, with the mouth being most frequently affected. The yeast form shows large, round cells with multiple buds arranged circumferentiallyâ€”the Captain's or Mariner's wheel appearance.",
+        "whyCorrect": "Paracoccidioides is endemic to South and Central America (especially Brazil), primarily affecting adult men. In chronic cases, mucosal involvement occurs in over 50% of cases, with the mouth being most frequently affected. The yeast form shows large, round cells with multiple buds arranged circumferentially—the Captain's or Mariner's wheel appearance.",
         "whyWrongByChoice": {
           "A": "Histoplasma shows small yeast with narrow-based budding (single buds, not multiple circumferential buds). It is endemic to the Ohio/Mississippi River valleys.",
           "B": "Blastomyces shows large yeast with broad-based budding (single bud), not the multiple circumferential buds of Paracoccidioides. Blastomyces skin lesions are verrucous, not oral ulcers.",
@@ -6591,7 +6591,7 @@
         },
         {
           "label": "B",
-          "text": "Î²-D-glucan assay"
+          "text": "β-D-glucan assay"
         },
         {
           "label": "C",
@@ -6612,7 +6612,7 @@
         "whyCorrect": "Histoplasma can be diagnosed by urine and serum galactomannan antigen detection. Both Histoplasma and Aspergillus spp. have galactomannan, so this test cannot distinguish between the two. However, in the right clinical context (endemic area exposure, risk factors), a positive galactomannan helps confirm Histoplasma infection.",
         "whyWrongByChoice": {
           "A": "CrAg test detects Cryptococcus capsular antigen in serum or CSF, not Histoplasma antigen.",
-          "B": "Î²-D-glucan is a nonspecific fungal marker found in most fungi. While it can support a fungal infection diagnosis, it does not specifically identify Histoplasma.",
+          "B": "β-D-glucan is a nonspecific fungal marker found in most fungi. While it can support a fungal infection diagnosis, it does not specifically identify Histoplasma.",
           "D": "India ink is used to visualize the Cryptococcus capsule in CSF, not for Histoplasma detection.",
           "E": "While PCR can detect fungal DNA, galactomannan antigen testing is the specific rapid antigen test for Histoplasma."
         }
@@ -6893,9 +6893,9 @@
         "summary": "Cryptococcus spp. are considered yeasts without a clear mold form and are thus not thermally dimorphic. All other listed fungi (Histoplasma, Blastomyces, Coccidioides, Paracoccidioides) are thermally dimorphic.",
         "whyCorrect": "Cryptococcus spp. exist only as yeast and do not have a mold form, making them the exception among the geographically defined mycoses. They are not thermally dimorphic. Histoplasma, Blastomyces, and Coccidioides all follow the 'mold in the cold, yeast in the heat' pattern.",
         "whyWrongByChoice": {
-          "A": "Histoplasma is thermally dimorphic: mold at 25Â°C with micro/macroconidia; yeast at 37Â°C with narrow-based budding.",
-          "B": "Blastomyces is thermally dimorphic: mold at 25Â°C with microconidia; yeast at 37Â°C with broad-based budding.",
-          "C": "Coccidioides is thermally dimorphic: mold at 25Â°C with arthroconidia; spherules with endospores at 37Â°C.",
+          "A": "Histoplasma is thermally dimorphic: mold at 25°C with micro/macroconidia; yeast at 37°C with narrow-based budding.",
+          "B": "Blastomyces is thermally dimorphic: mold at 25°C with microconidia; yeast at 37°C with broad-based budding.",
+          "C": "Coccidioides is thermally dimorphic: mold at 25°C with arthroconidia; spherules with endospores at 37°C.",
           "E": "Paracoccidioides is thermally dimorphic: mold in the environment; yeast with multiple buds (Captain's wheel) in tissue."
         }
       },
@@ -6938,7 +6938,7 @@
       "correctAnswer": "B",
       "explanation": {
         "summary": "Histoplasma infection can produce caseating granulomas, similar to M. tuberculosis. Both organisms cause intracellular infection in macrophages and stimulate Th1 cell-mediated immune responses that form granulomas.",
-        "whyCorrect": "Pathologic evaluation of histoplasmosis may demonstrate caseating granulomas, similar to tuberculosis. Both Histoplasma and M. tuberculosis are intracellular pathogens that replicate within macrophages and stimulate Th1/IFN-Î³-driven immune responses that form granulomas. The clinical presentation can also mimic TB with nodular infiltrates and cavitation.",
+        "whyCorrect": "Pathologic evaluation of histoplasmosis may demonstrate caseating granulomas, similar to tuberculosis. Both Histoplasma and M. tuberculosis are intracellular pathogens that replicate within macrophages and stimulate Th1/IFN-γ-driven immune responses that form granulomas. The clinical presentation can also mimic TB with nodular infiltrates and cavitation.",
         "whyWrongByChoice": {
           "A": "Sarcoidosis causes noncaseating granulomas (without central necrosis), not caseating granulomas like Histoplasma and TB.",
           "C": "Aspergillosis causes tissue invasion by hyphae and tissue necrosis but does not typically form the caseating granulomas seen with Histoplasma.",
@@ -7014,7 +7014,7 @@
         },
         {
           "label": "B",
-          "text": "Î²-D-glucan assay"
+          "text": "β-D-glucan assay"
         },
         {
           "label": "C",
@@ -7035,7 +7035,7 @@
         "whyCorrect": "The Cryptococcal Antigen (CrAg) test detects the polysaccharide capsular antigen of Cryptococcus in serum or CSF. It is very sensitive and has largely replaced India ink staining as the standard diagnostic method. CrAg can be detected even in severely immunocompromised patients who may have atypical presentations without classic meningeal signs.",
         "whyWrongByChoice": {
           "A": "Galactomannan antigen testing detects Aspergillus and Histoplasma antigens, not Cryptococcus.",
-          "B": "Î²-D-glucan is a nonspecific marker for most fungal infections. Cryptococcus does not possess significant amounts of Î²-D-glucan, making this test less useful.",
+          "B": "β-D-glucan is a nonspecific marker for most fungal infections. Cryptococcus does not possess significant amounts of β-D-glucan, making this test less useful.",
           "D": "Aspergillus-specific IgE is used for ABPA diagnosis, not Cryptococcus.",
           "E": "Histoplasma urine antigen detects Histoplasma galactomannan, not Cryptococcus."
         }
@@ -7109,7 +7109,7 @@
         },
         {
           "label": "B",
-          "text": "Th1 cell-mediated immunity with IFN-Î³"
+          "text": "Th1 cell-mediated immunity with IFN-γ"
         },
         {
           "label": "C",
@@ -7126,8 +7126,8 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Effective granuloma formation requires a strong Th1 cell-mediated immune response, especially IFN-Î³-activated macrophages. Immunocompromised patients (HIV/AIDS, corticosteroids, transplant) cannot mount this organized response.",
-        "whyCorrect": "Effective granuloma formation requires a strong Th1 cell-mediated immune response, especially IFN-Î³-activated macrophages. When patients are immunocompromised (advanced HIV/AIDS, corticosteroid use, transplant immunosuppression, chemotherapy), they cannot mount this organized response. Instead of granulomas, pathology shows diffuse organisms with minimal granulomatous inflammation.",
+        "summary": "Effective granuloma formation requires a strong Th1 cell-mediated immune response, especially IFN-γ-activated macrophages. Immunocompromised patients (HIV/AIDS, corticosteroids, transplant) cannot mount this organized response.",
+        "whyCorrect": "Effective granuloma formation requires a strong Th1 cell-mediated immune response, especially IFN-γ-activated macrophages. When patients are immunocompromised (advanced HIV/AIDS, corticosteroid use, transplant immunosuppression, chemotherapy), they cannot mount this organized response. Instead of granulomas, pathology shows diffuse organisms with minimal granulomatous inflammation.",
         "whyWrongByChoice": {
           "A": "Humoral immunity (antibodies) is not the primary driver of granuloma formation. Granulomas require T cell-mediated (Th1) immunity.",
           "C": "Complement activation aids in innate immune defense but does not drive granuloma formation, which requires adaptive Th1 responses.",

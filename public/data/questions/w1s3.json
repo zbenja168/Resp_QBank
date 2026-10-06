@@ -1891,7 +1891,7 @@
       "id": "r06-019",
       "topicId": "oxygen-co2-transport",
       "topicName": "Oxygen and Carbon Dioxide Transport",
-      "stem": "A physiology professor is teaching medical students about CO₂ transport. She explains that when bicarbonate (HCO₃⁻) is produced inside red blood cells and transported out into the plasma, another ion must move into the RBC to maintain electrical neutrality. This process is known as the chloride shift. Which ion enters the RBC?",
+      "stem": "A physiology professor is teaching medical students about CO₂ transport. She explains that when bicarbonate (HCO₃⁻) is produced inside red blood cells and transported out into the plasma, another ion must move into the RBC to maintain electrical neutrality. Which ion enters the RBC?",
       "choices": [
         {
           "label": "A",
@@ -3307,7 +3307,7 @@
       "id": "r07-005",
       "topicId": "respiratory-alkalosis",
       "topicName": "Respiratory Alkalosis",
-      "stem": "A 28-year-old woman with a history of recurrent panic attacks presents to the emergency department with acute-onset dyspnea, tachypnea, and perioral numbness that began during a confrontation with her landlord. Her respiratory rate is 30 breaths/min, SpO₂ is 100%, and PaO₂ is 110 mmHg on room air. An arterial blood gas confirms respiratory alkalosis. Which of the following conditions can cause respiratory alkalosis with a normal or elevated PaO₂?",
+      "stem": "A 28-year-old woman with a history of similar episodes during stressful situations presents to the emergency department with acute-onset dyspnea, tachypnea, and perioral numbness that began during a confrontation with her landlord. Her respiratory rate is 30 breaths/min, SpO₂ is 100%, and PaO₂ is 110 mmHg on room air. An arterial blood gas confirms respiratory alkalosis. Which of the following conditions can cause respiratory alkalosis with a normal or elevated PaO₂?",
       "choices": [
         {
           "label": "A",
