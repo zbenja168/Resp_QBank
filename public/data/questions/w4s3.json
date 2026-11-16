@@ -47,7 +47,8 @@
         "nucleus",
         "replication",
         "orthomyxovirus"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34-002",
@@ -95,7 +96,8 @@
         "steeple-sign",
         "barking-cough",
         "laryngotracheobronchitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34-003",
@@ -142,7 +144,8 @@
         "neuraminidase-inhibitor",
         "influenza",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34-004",
@@ -190,7 +193,8 @@
         "infant",
         "pneumonia",
         "winter"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34-005",
@@ -237,7 +241,8 @@
         "segmented-genome",
         "reassortment",
         "antigenic-shift"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34-006",
@@ -379,7 +384,8 @@
         "maternal",
         "pregnancy",
         "passive-immunity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34-009",
@@ -944,7 +950,8 @@
         "S-aureus",
         "post-influenza",
         "complication"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34-021",
@@ -1085,7 +1092,8 @@
         "influenza",
         "oseltamivir",
         "outpatient-management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34h-002",
@@ -1131,7 +1139,8 @@
         "RSV",
         "bronchiolitis",
         "pediatrics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34h-003",
@@ -1177,7 +1186,8 @@
         "parainfluenza",
         "croup",
         "taxonomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34h-004",
@@ -1223,7 +1233,8 @@
         "influenza",
         "virology",
         "antigenic-shift"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34h-005",
@@ -1269,7 +1280,8 @@
         "influenza",
         "secondary-bacterial-pneumonia",
         "S-aureus"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34h-006",
@@ -1315,7 +1327,8 @@
         "RSV",
         "vaccination",
         "pregnancy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34h-007",
@@ -1453,7 +1466,8 @@
         "influenza",
         "diagnosis",
         "RIDT-vs-PCR"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r34h-010",
@@ -2098,7 +2112,8 @@
         "pharyngoconjunctival-fever",
         "swimming-pool",
         "summer-camp"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35-002",
@@ -2145,7 +2160,8 @@
         "33-degrees",
         "upper-respiratory",
         "temperature"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35-003",
@@ -2239,7 +2255,8 @@
         "dsDNA",
         "non-enveloped",
         "taxonomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35-005",
@@ -2333,7 +2350,8 @@
         "picornaviridae",
         "ICAM-1",
         "taxonomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35-007",
@@ -2615,7 +2633,8 @@
         "military",
         "pneumonia",
         "vaccine"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35-013",
@@ -2662,7 +2681,8 @@
         "asthma-exacerbation",
         "wheezing",
         "children"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35-014",
@@ -2944,7 +2964,8 @@
         "hemorrhagic-cystitis",
         "hematuria",
         "dysuria"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35-020",
@@ -3131,7 +3152,8 @@
       "tags": [
         "adenovirus",
         "transmission"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35h-002",
@@ -3176,7 +3198,8 @@
       "tags": [
         "rhinovirus",
         "serotypes"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35h-003",
@@ -3221,7 +3244,8 @@
       "tags": [
         "rhinovirus",
         "tropism"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35h-004",
@@ -3266,7 +3290,8 @@
       "tags": [
         "adenovirus",
         "vaccine"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35h-005",
@@ -3311,7 +3336,8 @@
       "tags": [
         "rhinovirus",
         "asthma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35h-006",
@@ -3356,7 +3382,8 @@
       "tags": [
         "adenovirus",
         "hemorrhagic-cystitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35h-007",
@@ -3716,7 +3743,8 @@
       "tags": [
         "rhinovirus",
         "taxonomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r35h-015",
@@ -4123,7 +4151,8 @@
         "ACE2",
         "type-II-pneumocytes",
         "viral-entry"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36-002",
@@ -4170,7 +4199,8 @@
         "positive-ssRNA",
         "helical",
         "taxonomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36-003",
@@ -4217,7 +4247,8 @@
         "COVID-19",
         "oxygen-requirement",
         "anti-inflammatory"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36-004",
@@ -4264,7 +4295,8 @@
         "3CL-protease",
         "antiviral",
         "COVID-treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36-005",
@@ -4312,7 +4344,8 @@
         "mortality",
         "MERS",
         "SARS"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36-006",
@@ -4407,7 +4440,8 @@
         "RT-PCR",
         "COVID-diagnosis",
         "nasopharyngeal"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36-008",
@@ -4548,7 +4582,8 @@
         "RdRp",
         "RNA-polymerase",
         "nucleotide-analog"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36-011",
@@ -5159,7 +5194,8 @@
         "treatment",
         "hospitalized",
         "combination-therapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36h-002",
@@ -5205,7 +5241,8 @@
         "nirmatrelvir-ritonavir",
         "drug-interactions",
         "CYP3A4"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36h-003",
@@ -5389,7 +5426,8 @@
         "pathology",
         "surfactant",
         "type-II-pneumocytes"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36h-007",
@@ -5435,7 +5473,8 @@
         "tocilizumab",
         "IL-6",
         "immunomodulation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36h-008",
@@ -5573,7 +5612,8 @@
         "outpatient",
         "nirmatrelvir-ritonavir",
         "high-risk"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36h-011",
@@ -5665,7 +5705,8 @@
         "diagnosis",
         "PCR",
         "sensitivity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36h-013",
@@ -5757,7 +5798,8 @@
         "ACE2",
         "tropism",
         "multiorgan"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r36h-015",

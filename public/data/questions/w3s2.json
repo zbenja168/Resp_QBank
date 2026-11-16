@@ -47,7 +47,8 @@
         "transudate",
         "Light-criteria",
         "heart-failure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-002",
@@ -94,7 +95,8 @@
         "cirrhosis",
         "oncotic-pressure",
         "transudate"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-003",
@@ -141,7 +143,8 @@
         "empyema",
         "chest-tube",
         "parapneumonic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-004",
@@ -188,7 +191,8 @@
         "exudate",
         "Light-criteria",
         "malignancy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-005",
@@ -376,7 +380,8 @@
         "physical-exam",
         "chest-X-ray",
         "costophrenic-angle"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-009",
@@ -470,7 +475,8 @@
         "heart-failure",
         "diuresis",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-011",
@@ -1034,7 +1040,8 @@
         "right-heart-failure",
         "hydrostatic-pressure",
         "Starling-forces"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-023",
@@ -1081,7 +1088,8 @@
         "primary-spontaneous",
         "bleb",
         "young-male"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-024",
@@ -1128,7 +1136,8 @@
         "secondary-spontaneous",
         "COPD",
         "classification"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-025",
@@ -1175,7 +1184,8 @@
         "tension",
         "needle-decompression",
         "emergency"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-026",
@@ -1410,7 +1420,8 @@
         "iatrogenic",
         "central-line",
         "observation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-031",
@@ -1551,7 +1562,8 @@
         "tension",
         "obstructive-shock",
         "venous-return"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-034",
@@ -1645,7 +1657,8 @@
         "ultrasound",
         "lung-point",
         "M-mode"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-036",
@@ -1692,7 +1705,8 @@
         "smoking-cessation",
         "prevention",
         "risk-factor"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r20-037",
@@ -2115,7 +2129,8 @@
         "immunohistochemistry",
         "asbestos",
         "pleural-tumor"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-002",
@@ -2162,7 +2177,8 @@
         "asbestos",
         "smoking",
         "risk-factors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-003",
@@ -2209,7 +2225,8 @@
         "pleural-effusion",
         "asbestos",
         "firefighter"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-004",
@@ -2256,7 +2273,8 @@
         "treatment",
         "surgery",
         "epithelioid"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-005",
@@ -2350,7 +2368,8 @@
         "SVC-syndrome",
         "complications",
         "local-invasion"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-007",
@@ -2397,7 +2416,8 @@
         "pleural-plaques",
         "asbestos",
         "imaging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-008",
@@ -2961,7 +2981,8 @@
         "pathology",
         "local-invasion",
         "gross-appearance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-020",

@@ -47,7 +47,8 @@
         "ficks-law",
         "supplemental-oxygen",
         "pressure-gradient"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-024",
@@ -95,7 +96,8 @@
         "pulmonary-fibrosis",
         "membrane-thickness",
         "DLCO"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-025",
@@ -142,7 +144,8 @@
         "inspiration",
         "pressure-gradient",
         "boyles-law"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-026",
@@ -235,7 +238,8 @@
         "mucociliary-escalator",
         "cilia",
         "airway-defense"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-028",
@@ -282,7 +286,8 @@
         "ficks-law",
         "emphysema",
         "surface-area"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-029",
@@ -376,7 +381,8 @@
         "mucociliary-escalator",
         "smoking",
         "ciliary-dysfunction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-031",
@@ -423,7 +429,8 @@
         "alveolar-macrophages",
         "particle-clearance",
         "respiratory-zone"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-032",
@@ -1081,7 +1088,8 @@
         "pneumothorax",
         "transpulmonary-pressure",
         "lung-collapse"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-002",
@@ -1128,7 +1136,8 @@
         "transpulmonary-pressure",
         "intrapleural-pressure",
         "calculation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-003",
@@ -1223,7 +1232,8 @@
         "NRDS",
         "surface-tension",
         "atelectasis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-005",
@@ -1317,7 +1327,8 @@
         "laplaces-law",
         "surfactant",
         "alveolar-stability"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-007",
@@ -1552,7 +1563,8 @@
         "ventilation",
         "respiration",
         "definitions"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-012",
@@ -1693,7 +1705,8 @@
         "intrapleural-pressure",
         "transpulmonary-pressure",
         "inspiration"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-015",
@@ -1974,7 +1987,8 @@
         "lung-compliance",
         "pulmonary-fibrosis",
         "elastance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-021",
@@ -2116,7 +2130,8 @@
         "alveolar-ventilation",
         "dead-space",
         "calculation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-024",
@@ -2163,7 +2178,8 @@
         "PaCO2",
         "hypoventilation",
         "alveolar-ventilation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-025",
@@ -2210,7 +2226,8 @@
         "alveolar-ventilation",
         "breathing-pattern",
         "dead-space"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-026",
@@ -2304,7 +2321,8 @@
         "alveolar-dead-space",
         "pulmonary-embolism",
         "V/Q-mismatch"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-028",
@@ -2398,7 +2416,8 @@
         "high-altitude",
         "PiO2",
         "atmospheric-pressure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-030",
@@ -2445,7 +2464,8 @@
         "bohr-equation",
         "dead-space",
         "calculation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-031",
@@ -2819,7 +2839,8 @@
         "alveolar-gas-equation",
         "hypoventilation",
         "PAO2"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r04-039",
@@ -3151,7 +3172,8 @@
         "hypoxemia",
         "COPD",
         "gas-exchange"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-002",
@@ -3245,7 +3267,8 @@
         "perfusion-limited",
         "oxygen",
         "capillary-transit-time"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-004",
@@ -3292,7 +3315,8 @@
         "diffusion-limitation",
         "exercise-hypoxemia",
         "interstitial-lung-disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-005",
@@ -3433,7 +3457,8 @@
         "A-a-gradient",
         "hypoventilation",
         "hypoxemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-008",
@@ -3480,7 +3505,8 @@
         "respiratory-membrane",
         "diffusion",
         "membrane-thickness"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-009",
@@ -3527,7 +3553,8 @@
         "DLCO",
         "emphysema",
         "capillary-blood-volume"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-010",
@@ -4045,7 +4072,8 @@
         "ABG-interpretation",
         "respiratory-acidosis",
         "acid-base"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-021",

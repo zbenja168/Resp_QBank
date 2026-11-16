@@ -47,7 +47,8 @@
         "rib-fractures",
         "paradoxical-motion",
         "trauma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-024",
@@ -141,7 +142,8 @@
         "massive",
         "thoracotomy",
         "penetrating-trauma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-026",
@@ -188,7 +190,8 @@
         "blunt-trauma",
         "chest-xray",
         "hypoxemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-027",
@@ -235,7 +238,8 @@
         "herniation",
         "trauma",
         "chest-xray"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-028",
@@ -329,7 +333,8 @@
         "thoracic-duct",
         "medium-chain-triglycerides",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-030",
@@ -376,7 +381,8 @@
         "esophageal-perforation",
         "subcutaneous-emphysema",
         "endoscopy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-031",
@@ -705,7 +711,8 @@
         "resorptive-atelectasis",
         "FiO2",
         "ARDS"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r21-038",
@@ -1128,7 +1135,8 @@
         "histopathology",
         "hyaline-membranes",
         "diffuse-alveolar-damage"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-003",
@@ -1175,7 +1183,8 @@
         "permissive-hypercapnia",
         "low-tidal-volume-ventilation",
         "volutrauma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-004",
@@ -1316,7 +1325,8 @@
         "cardiogenic-vs-noncardiogenic",
         "PCWP",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-007",
@@ -1363,7 +1373,8 @@
         "pathophysiology",
         "endothelial-damage",
         "noncardiogenic-edema"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-008",
@@ -1457,7 +1468,8 @@
         "PEEP",
         "mechanical-ventilation",
         "oxygenation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-010",
@@ -1692,7 +1704,8 @@
         "intrapulmonary-shunt",
         "refractory-hypoxemia",
         "Aa-gradient"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-015",
@@ -1739,7 +1752,8 @@
         "chest-xray",
         "cardiogenic-vs-noncardiogenic",
         "radiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-016",
@@ -2115,7 +2129,8 @@
         "surfactant-deficiency",
         "prematurity",
         "presentation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-024",
@@ -2162,7 +2177,8 @@
         "chest-xray",
         "ground-glass",
         "air-bronchograms"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-025",
@@ -2209,7 +2225,8 @@
         "betamethasone",
         "antenatal-corticosteroids",
         "prevention"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-026",
@@ -2256,7 +2273,8 @@
         "type-2-pneumocytes",
         "surfactant",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-027",
@@ -2350,7 +2368,8 @@
         "surfactant-replacement",
         "surface-tension",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-029",
@@ -2726,7 +2745,8 @@
         "transient-tachypnea",
         "differential-diagnosis",
         "TTN"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-037",
@@ -3055,7 +3075,8 @@
         "lung-compliance",
         "work-of-breathing",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r22-044",
@@ -3149,7 +3170,8 @@
         "polysomnography",
         "diagnosis",
         "obesity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r23-002",
@@ -3196,7 +3218,8 @@
         "mechanism",
         "treatment",
         "OSA"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r23-003",
@@ -3290,7 +3313,8 @@
         "adenotonsillectomy",
         "treatment",
         "tonsillar-hypertrophy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r23-005",
@@ -3384,7 +3408,8 @@
         "brainstem-stroke",
         "diagnosis",
         "respiratory-effort"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r23-007",
@@ -3478,7 +3503,8 @@
         "resistant-hypertension",
         "secondary-hypertension",
         "complications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r23-009",
@@ -3619,7 +3645,8 @@
         "opioids",
         "central-respiratory-drive",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r23-012",
@@ -3995,7 +4022,8 @@
         "retrognathia",
         "anatomy",
         "risk-factors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r23-020",

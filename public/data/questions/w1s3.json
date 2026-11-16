@@ -47,7 +47,8 @@
         "pulmonary-circulation",
         "hemodynamics",
         "low-pressure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-024",
@@ -94,7 +95,8 @@
         "pulmonary-blood-flow",
         "gravity",
         "hydrostatic-pressure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-025",
@@ -188,7 +190,8 @@
         "HPV",
         "hypoxic-vasoconstriction",
         "COPD"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-027",
@@ -235,7 +238,8 @@
         "cor-pulmonale",
         "pulmonary-hypertension",
         "HPV"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-028",
@@ -283,7 +287,8 @@
         "distension",
         "exercise",
         "PVR"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-029",
@@ -331,7 +336,8 @@
         "lung-volume",
         "FRC",
         "U-shaped-curve"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-030",
@@ -425,7 +431,8 @@
         "pulmonary-edema",
         "cardiogenic",
         "hydrostatic-pressure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r05-032",
@@ -1084,7 +1091,8 @@
         "oxygen-content",
         "anemia",
         "CaO2"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-002",
@@ -1131,7 +1139,8 @@
         "CO2-transport",
         "bicarbonate",
         "carbonic-anhydrase"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-003",
@@ -1226,7 +1235,8 @@
         "right-shift",
         "bohr-effect",
         "exercise"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-005",
@@ -1273,7 +1283,8 @@
         "bohr-effect",
         "oxygen-unloading",
         "tissues"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-006",
@@ -1320,7 +1331,8 @@
         "haldane-effect",
         "CO2-release",
         "lungs"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-007",
@@ -1367,7 +1379,8 @@
         "CO-poisoning",
         "left-shift",
         "oxyhemoglobin-dissociation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-008",
@@ -1838,7 +1851,8 @@
         "CO2-pH",
         "henderson-hasselbalch",
         "respiratory-acidosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-018",
@@ -2121,7 +2135,8 @@
         "respiratory-acidosis",
         "opioid-overdose",
         "ABG"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-024",
@@ -2168,7 +2183,8 @@
         "respiratory-acidosis",
         "impaired-ventilation",
         "opioid-overdose"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-025",
@@ -2262,7 +2278,8 @@
         "acute-vs-chronic",
         "respiratory-acidosis",
         "renal-compensation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-027",
@@ -2309,7 +2326,8 @@
         "naloxone",
         "opioid-overdose",
         "respiratory-acidosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-028",
@@ -2403,7 +2421,8 @@
         "hypercapnia",
         "cerebral-vasodilation",
         "intracranial-pressure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-030",
@@ -2451,7 +2470,8 @@
         "COPD-exacerbation",
         "respiratory-acidosis",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r06-031",
@@ -3110,7 +3130,8 @@
         "COPD-exacerbation",
         "respiratory-acidosis",
         "ABG"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-001",
@@ -3158,7 +3179,8 @@
         "hyperventilation",
         "panic-attack",
         "ABG"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-002",
@@ -3206,7 +3228,8 @@
         "paresthesias",
         "ionized-calcium",
         "alkalemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-003",
@@ -3253,7 +3276,8 @@
         "respiratory-alkalosis",
         "renal-compensation",
         "bicarbonate-excretion"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-004",
@@ -3395,7 +3419,8 @@
         "aspirin-overdose",
         "respiratory-alkalosis",
         "salicylate"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-007",
@@ -3536,7 +3561,8 @@
         "pulmonary-embolism",
         "respiratory-alkalosis",
         "DVT"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-010",
@@ -3583,7 +3609,8 @@
         "respiratory-alkalosis",
         "management",
         "underlying-cause"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-011",
@@ -3677,7 +3704,8 @@
         "respiratory-alkalosis",
         "heart-failure",
         "hypoxemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-024",
@@ -4147,7 +4175,8 @@
         "CO-poisoning",
         "pulse-oximetry",
         "carboxyhemoglobin"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-013",
@@ -4194,7 +4223,8 @@
         "CO-poisoning",
         "left-shift",
         "oxygen-affinity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-014",
@@ -4241,7 +4271,8 @@
         "cyanide-poisoning",
         "cytochrome-c-oxidase",
         "electron-transport-chain"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-015",
@@ -4289,7 +4320,8 @@
         "lactic-acidosis",
         "mydriasis",
         "fire-victim"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-016",
@@ -4383,7 +4415,8 @@
         "CO-poisoning",
         "treatment",
         "100%-oxygen"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-018",
@@ -4430,7 +4463,8 @@
         "cyanide-treatment",
         "hydroxocobalamin",
         "cyanocobalamin"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-019",
@@ -4572,7 +4606,8 @@
         "nitroprusside",
         "cyanide-toxicity",
         "iatrogenic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-022",
@@ -4808,7 +4843,8 @@
         "CO-poisoning",
         "myoglobin",
         "myocardial-ischemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r07-033",

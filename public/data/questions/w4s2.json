@@ -47,7 +47,8 @@
         "ring-enhancing-lesions",
         "weakly-acid-fast",
         "transplant"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30-002",
@@ -94,7 +95,8 @@
         "currant-jelly-sputum",
         "aspiration",
         "alcohol-use"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30-003",
@@ -141,7 +143,8 @@
         "post-influenza",
         "secondary-pneumonia",
         "coagulase-positive"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30-004",
@@ -188,7 +191,8 @@
         "TMP-SMX",
         "treatment",
         "folate-synthesis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30-005",
@@ -235,7 +239,8 @@
         "supine",
         "right-upper-lobe",
         "gravity-dependent"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30-006",
@@ -282,7 +287,8 @@
         "EMB-agar",
         "metallic-green",
         "laboratory"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30-007",
@@ -329,7 +335,8 @@
         "vancomycin",
         "treatment",
         "pneumonia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30-008",
@@ -1084,7 +1091,8 @@
         "immunocompromised",
         "brain abscess",
         "virulence"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30h-002",
@@ -1176,7 +1184,8 @@
         "nocardia",
         "treatment",
         "CNS disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30h-004",
@@ -1268,7 +1277,8 @@
         "klebsiella",
         "capsule",
         "alcoholism"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30h-006",
@@ -1314,7 +1324,8 @@
         "aspiration",
         "klebsiella",
         "anatomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30h-007",
@@ -1360,7 +1371,8 @@
         "S. aureus",
         "MRSA",
         "post-influenza"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30h-008",
@@ -1406,7 +1418,8 @@
         "E. coli",
         "HAP",
         "lab identification"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30h-009",
@@ -1499,7 +1512,8 @@
         "S. aureus",
         "IV drug use",
         "septic emboli"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r30h-011",
@@ -2098,7 +2112,8 @@
         "black-eschar",
         "livestock",
         "B-anthracis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31-002",
@@ -2144,7 +2159,8 @@
         "inhalation-anthrax",
         "mediastinal-widening",
         "hemorrhagic-mediastinitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31-003",
@@ -2191,7 +2207,8 @@
         "anthrax-toxin",
         "AB-toxin",
         "binding-component"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31-004",
@@ -2239,7 +2256,8 @@
         "sheep-farmer",
         "hepatitis",
         "occupational"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31-005",
@@ -2380,7 +2398,8 @@
         "Medusa-head",
         "non-hemolytic",
         "colony-morphology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31-008",
@@ -2474,7 +2493,8 @@
         "doxycycline",
         "treatment",
         "intracellular"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31-010",
@@ -2616,7 +2636,8 @@
         "endocarditis",
         "culture-negative",
         "C-burnetii"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31-013",
@@ -3230,7 +3251,8 @@
         "inhalational-anthrax",
         "mediastinal-widening",
         "hemorrhagic-mediastinitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31h-004",
@@ -3277,7 +3299,8 @@
         "protective-antigen",
         "AB-toxin",
         "virulence-factors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31h-005",
@@ -3371,7 +3394,8 @@
         "laboratory-identification",
         "nonmotile",
         "non-hemolytic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31h-007",
@@ -3467,7 +3491,8 @@
         "livestock-exposure",
         "atypical-pneumonia",
         "hepatitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31h-009",
@@ -3513,7 +3538,8 @@
         "doxycycline",
         "Q-fever-treatment",
         "intracellular-pathogen"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31h-010",
@@ -3747,7 +3773,8 @@
         "C-burnetii",
         "small-cell-variant",
         "environmental-persistence"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31h-015",
@@ -4074,7 +4101,8 @@
         "MAPK",
         "protease",
         "anthrax-toxin-mechanism"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r31h-022",
@@ -4169,7 +4197,8 @@
         "asthma",
         "eosinophilia",
         "IgE"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32-002",
@@ -4217,7 +4246,8 @@
         "IPA",
         "neutropenia",
         "CT"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32-003",
@@ -4265,7 +4295,8 @@
         "non-septate",
         "right-angle",
         "rhinocerebral"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32-004",
@@ -4313,7 +4344,8 @@
         "helmet-shaped",
         "silver-stain",
         "AIDS"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32-005",
@@ -4454,7 +4486,8 @@
         "aspergillosis",
         "IPA",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32-008",
@@ -4501,7 +4534,8 @@
         "amphotericin-B",
         "surgical-debridement",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32-009",
@@ -5070,7 +5104,8 @@
         "TMP-SMX",
         "treatment",
         "folate-synthesis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32-021",
@@ -5211,7 +5246,8 @@
         "aspergillus",
         "neutropenia",
         "halo-sign"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32h-002",
@@ -5258,7 +5294,8 @@
         "mucormycosis",
         "DKA",
         "amphotericin"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32h-003",
@@ -5305,7 +5342,8 @@
         "pneumocystis",
         "HIV",
         "silver-stain"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32h-004",
@@ -5352,7 +5390,8 @@
         "ABPA",
         "hypersensitivity",
         "cystic-fibrosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32h-005",
@@ -5399,7 +5438,8 @@
         "aspergilloma",
         "cavity",
         "hemoptysis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32h-006",
@@ -5634,7 +5674,8 @@
         "PCP-prophylaxis",
         "HIV",
         "TMP-SMX"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32h-011",
@@ -5775,7 +5816,8 @@
         "IPA",
         "voriconazole",
         "neutropenia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r32h-014",
@@ -6245,7 +6287,8 @@
         "broad-based-budding",
         "Wisconsin",
         "dimorphic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33-002",
@@ -6292,7 +6335,8 @@
         "cave-explorer",
         "Ohio-Valley",
         "intracellular-yeast"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33-003",
@@ -6340,7 +6384,8 @@
         "spherules",
         "endospores",
         "Arizona"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33-004",
@@ -6435,7 +6480,8 @@
         "mold-cold-yeast-heat",
         "temperature",
         "morphology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33-006",
@@ -6906,7 +6952,8 @@
         "yeast-only",
         "not-dimorphic",
         "exception"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33-016",
@@ -7048,7 +7095,8 @@
         "CSF",
         "antigen-test",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33-019",
@@ -7237,7 +7285,8 @@
         "amphotericin-B",
         "flucytosine",
         "induction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33h-001",
@@ -7283,7 +7332,8 @@
         "histoplasma",
         "spelunker",
         "narrow-based-budding"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33h-002",
@@ -7375,7 +7425,8 @@
         "coccidioides",
         "spherules",
         "erythema-nodosum"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33h-004",
@@ -7559,7 +7610,8 @@
         "cryptococcus",
         "CrAg",
         "meningitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33h-008",
@@ -7742,7 +7794,8 @@
         "cryptococcus-gattii",
         "immunocompetent",
         "PNW"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33h-012",
@@ -7880,7 +7933,8 @@
         "histoplasma",
         "macroconidia",
         "mold"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33h-015",
@@ -7925,7 +7979,8 @@
       "tags": [
         "thermal-dimorphism",
         "cryptococcus"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33h-016",
@@ -8060,7 +8115,8 @@
       "tags": [
         "blastomycosis",
         "skin-dissemination"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r33h-019",

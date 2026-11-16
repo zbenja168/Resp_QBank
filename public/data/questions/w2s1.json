@@ -141,7 +141,8 @@
         "peripheral-chemoreceptors",
         "carotid-body",
         "hypoxemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-004",
@@ -188,7 +189,8 @@
         "COPD",
         "hypoxic-drive",
         "oxygen-therapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-005",
@@ -235,7 +237,8 @@
         "biot-breathing",
         "medulla",
         "opioid-intoxication"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-006",
@@ -329,7 +332,8 @@
         "high-altitude",
         "hyperventilation",
         "peripheral-chemoreceptors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-008",
@@ -376,7 +380,8 @@
         "hering-breuer",
         "stretch-receptors",
         "vagus-nerve"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-009",
@@ -518,7 +523,8 @@
         "pneumotaxic-center",
         "apneusis",
         "pons"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-012",
@@ -565,7 +571,8 @@
         "exercise",
         "feedforward",
         "anticipatory-response"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-013",
@@ -1082,7 +1089,8 @@
         "poiseuilles-law",
         "airway-resistance",
         "radius"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-017",
@@ -1224,7 +1232,8 @@
         "radial-traction",
         "dynamic-airway-collapse",
         "air-trapping"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-020",
@@ -1271,7 +1280,8 @@
         "FRC",
         "lung-mechanics",
         "equilibrium"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-021",
@@ -1318,7 +1328,8 @@
         "turbulent-flow",
         "laminar-flow",
         "airway-resistance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-022",
@@ -1365,7 +1376,8 @@
         "emphysema",
         "compliance",
         "elastic-recoil"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-023",
@@ -1507,7 +1519,8 @@
         "dynamic-airway-collapse",
         "equal-pressure-point",
         "forced-expiration"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-026",
@@ -1884,7 +1897,8 @@
         "laplaces-law",
         "surfactant",
         "alveolar-collapse"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r08-039",
@@ -2120,7 +2134,8 @@
         "obstructive",
         "FEV1/FVC",
         "COPD"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-002",
@@ -2214,7 +2229,8 @@
         "PFT",
         "restrictive",
         "pulmonary-fibrosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-004",
@@ -2356,7 +2372,8 @@
         "methacholine-challenge",
         "asthma",
         "bronchoprovocation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-007",
@@ -2404,7 +2421,8 @@
         "reversibility",
         "asthma",
         "bronchodilator"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-008",
@@ -2500,7 +2518,8 @@
         "RV",
         "TLC",
         "air-trapping"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-010",
@@ -2641,7 +2660,8 @@
         "residual-volume",
         "plethysmography",
         "gas-dilution"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-013",
@@ -2828,7 +2848,8 @@
         "PFT",
         "DLCO",
         "emphysema"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-017",
@@ -3205,7 +3226,8 @@
         "V/Q-ratio",
         "apex",
         "gravity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-025",
@@ -3252,7 +3274,8 @@
         "V/Q-ratio",
         "dead-space",
         "infinity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-026",
@@ -3394,7 +3417,8 @@
         "shunt",
         "refractory-hypoxemia",
         "pneumonia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-029",
@@ -3440,7 +3464,8 @@
         "physiology",
         "HPV",
         "V/Q-matching"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-030",
@@ -3581,7 +3606,8 @@
         "V/Q-distribution",
         "base",
         "gravity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-033",
@@ -3723,7 +3749,8 @@
         "base",
         "zone-3",
         "blood-gases"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-036",
@@ -4006,7 +4033,8 @@
         "pulmonary-embolism",
         "V/Q-mismatch",
         "oxygen-responsive"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r09-042",
@@ -4195,7 +4223,8 @@
         "A-a gradient",
         "COPD",
         "ABG"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-002",
@@ -4338,7 +4367,8 @@
         "alveolar gas equation",
         "calculation",
         "pneumonia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-005",
@@ -4386,7 +4416,8 @@
         "Eisenmenger",
         "supplemental oxygen",
         "refractory hypoxemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-006",
@@ -4481,7 +4512,8 @@
         "low FiO2",
         "A-a gradient",
         "normal gradient"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-008",
@@ -4528,7 +4560,8 @@
         "diffusion impairment",
         "pulmonary fibrosis",
         "exercise desaturation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-009",
@@ -4720,7 +4753,8 @@
         "pulmonary embolism",
         "supplemental oxygen",
         "SLE"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-013",
@@ -4815,7 +4849,8 @@
         "A-a gradient",
         "mechanisms",
         "classification"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-015",
@@ -4959,7 +4994,8 @@
         "opioid overdose",
         "naloxone",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-018",
@@ -5295,7 +5331,8 @@
         "CO2 narcosis",
         "encephalopathy",
         "physical exam"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-024",
@@ -5343,7 +5380,8 @@
         "oxygen-induced hypercapnia",
         "Haldane effect",
         "hypoxic drive"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-025",
@@ -5439,7 +5477,8 @@
         "acute",
         "ABG interpretation",
         "acid-base"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-027",
@@ -5487,7 +5526,8 @@
         "chronic respiratory acidosis",
         "bicarbonate",
         "acid-base"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-028",
@@ -5583,7 +5623,8 @@
         "CO2",
         "ventilatory drive",
         "CSF"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-030",
@@ -5727,7 +5768,8 @@
         "BiPAP",
         "non-invasive ventilation",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-033",
@@ -6063,7 +6105,8 @@
         "intubation",
         "COPD",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r10-040",

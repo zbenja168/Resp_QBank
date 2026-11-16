@@ -47,7 +47,8 @@
         "trachea",
         "metaplasia",
         "smoking"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-002",
@@ -187,7 +188,8 @@
         "bronchi",
         "cartilage",
         "smooth-muscle"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-005",
@@ -327,7 +329,8 @@
         "pleura",
         "mesothelial-cells",
         "pleural-effusion"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-008",
@@ -561,7 +564,8 @@
         "bronchi",
         "bronchioles",
         "asthma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-013",
@@ -608,7 +612,8 @@
         "type-2-pneumocytes",
         "surfactant",
         "neonatal-rds"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-014",
@@ -702,7 +707,8 @@
         "pharynx",
         "epithelium",
         "oropharynx"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-016",
@@ -749,7 +755,8 @@
         "type-1-pneumocytes",
         "alveoli",
         "gas-exchange"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-017",
@@ -1075,7 +1082,8 @@
         "corticosteroids",
         "surfactant",
         "preterm-birth"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-024",
@@ -1122,7 +1130,8 @@
         "canalicular-stage",
         "prematurity",
         "lung-development"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-025",
@@ -1169,7 +1178,8 @@
         "foregut",
         "lung-bud",
         "embryology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-026",
@@ -1215,7 +1225,8 @@
         "development",
         "tracheoesophageal-septum",
         "tracheoesophageal-fistula"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-027",
@@ -1355,7 +1366,8 @@
         "development",
         "pseudoglandular-stage",
         "airway-branching"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-030",
@@ -1589,7 +1601,8 @@
         "saccular-stage",
         "pneumocytes",
         "surfactant"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-035",
@@ -1777,7 +1790,8 @@
         "alveolarization",
         "alveolar-stage",
         "postnatal"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r01-039",
@@ -2106,7 +2120,8 @@
         "paranasal-sinuses",
         "middle-meatus",
         "sinusitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-002",
@@ -2153,7 +2168,8 @@
         "nasal-cavity",
         "epistaxis",
         "kiesselbach-plexus"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-003",
@@ -2201,7 +2217,8 @@
         "eustachian-tube",
         "otitis-media",
         "adenoids"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-004",
@@ -2248,7 +2265,8 @@
         "larynx",
         "recurrent-laryngeal-nerve",
         "vocal-cord-paralysis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-005",
@@ -2295,7 +2313,8 @@
         "laryngopharynx",
         "zenker-diverticulum",
         "pharyngeal-constrictors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-006",
@@ -2764,7 +2783,8 @@
         "larynx",
         "posterior-cricoarytenoid",
         "vocal-fold-abduction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-016",
@@ -2859,7 +2879,8 @@
         "soft-palate",
         "nasopharynx",
         "oropharynx"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-018",
@@ -3141,7 +3162,8 @@
         "anatomy",
         "right-main-bronchus",
         "foreign-body-aspiration"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-024",
@@ -3187,7 +3209,8 @@
         "anatomy",
         "bronchopulmonary-segment",
         "lung-surgery"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-025",
@@ -3235,7 +3258,8 @@
         "referred-pain",
         "phrenic-nerve",
         "C3-C4"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-026",
@@ -3329,7 +3353,8 @@
         "bronchial-circulation",
         "thoracic-aorta",
         "dual-blood-supply"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-028",
@@ -3423,7 +3448,8 @@
         "vagus-nerve",
         "parasympathetic",
         "bronchoconstriction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-030",
@@ -3470,7 +3496,8 @@
         "pleural-effusion",
         "costodiaphragmatic-recess",
         "chest-radiograph"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-031",
@@ -3610,7 +3637,8 @@
         "respiratory-bronchiole",
         "conducting-zone",
         "respiratory-zone"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r02-034",
@@ -4173,7 +4201,8 @@
         "diaphragm",
         "phrenic-nerve",
         "C3-C5"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-002",
@@ -4220,7 +4249,8 @@
         "diaphragm",
         "diaphragmatic-openings",
         "T8-T10-T12"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-003",
@@ -4267,7 +4297,8 @@
         "intercostal-space",
         "neurovascular-bundle",
         "thoracostomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-004",
@@ -4314,7 +4345,8 @@
         "accessory-muscles",
         "tripod-position",
         "respiratory-distress"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-005",
@@ -4455,7 +4487,8 @@
         "ribs",
         "true-ribs",
         "sternum"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-008",
@@ -4548,7 +4581,8 @@
         "abdominal-muscles",
         "forced-expiration",
         "accessory-muscles"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-010",
@@ -4595,7 +4629,8 @@
         "external-intercostals",
         "inspiration",
         "rib-elevation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r03-011",

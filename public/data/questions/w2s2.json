@@ -47,7 +47,8 @@
         "spirometry",
         "FEV1/FVC",
         "COPD"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-002",
@@ -94,7 +95,8 @@
         "spirometry",
         "pulmonary-fibrosis",
         "PFT"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-003",
@@ -141,7 +143,8 @@
         "atopy",
         "bronchoconstriction",
         "type-I-hypersensitivity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-004",
@@ -188,7 +191,8 @@
         "emphysema",
         "obstructive",
         "genetics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-005",
@@ -235,7 +239,8 @@
         "extrinsic",
         "kyphoscoliosis",
         "chest-wall"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-006",
@@ -329,7 +334,8 @@
         "obstructive",
         "signet-ring-sign",
         "CT"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-008",
@@ -376,7 +382,8 @@
         "air-trapping",
         "hyperinflation",
         "lung-volumes"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-009",
@@ -1175,7 +1182,8 @@
         "carboxyhemoglobin",
         "oxygen-dissociation",
         "smoking"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-026",
@@ -1223,7 +1231,8 @@
         "carcinogen",
         "lung-cancer",
         "smoking"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-027",
@@ -1317,7 +1326,8 @@
         "thromboangitis-obliterans",
         "smoking",
         "vasculitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-029",
@@ -1364,7 +1374,8 @@
         "smoking-cessation",
         "pharmacology",
         "partial-agonist"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-030",
@@ -1411,7 +1422,8 @@
         "VAPI",
         "EVALI",
         "lipid-pneumonia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-031",
@@ -1552,7 +1564,8 @@
         "CT-scan",
         "smoking",
         "prevention"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-034",
@@ -1599,7 +1612,8 @@
         "seizure",
         "smoking-cessation",
         "contraindication"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r11-035",
@@ -2117,7 +2131,8 @@
         "centriacinar",
         "smoking",
         "pathology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-002",
@@ -2165,7 +2180,8 @@
         "panacinar",
         "protease-antiprotease",
         "emphysema"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-003",
@@ -2213,7 +2229,8 @@
         "histology",
         "goblet-cell",
         "squamous-metaplasia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-004",
@@ -2261,7 +2278,8 @@
         "neutrophil-elastase",
         "protease-antiprotease",
         "pathogenesis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-005",
@@ -2405,7 +2423,8 @@
         "emphysema",
         "pneumothorax",
         "spontaneous"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-008",
@@ -2548,7 +2567,8 @@
         "cor-pulmonale",
         "pulmonary-hypertension",
         "hypoxic-vasoconstriction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-011",
@@ -2644,7 +2664,8 @@
         "V/Q-mismatch",
         "alveolar-ventilation",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-013",
@@ -2788,7 +2809,8 @@
         "complication",
         "CT-imaging",
         "signet-ring"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-016",
@@ -3315,7 +3337,8 @@
         "emphysema",
         "clinical-phenotype",
         "pursed-lip-breathing"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-027",
@@ -3363,7 +3386,8 @@
         "FEV1/FVC",
         "bronchodilator",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-028",
@@ -3459,7 +3483,8 @@
         "hypoxemia",
         "management",
         "home-oxygen"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-030",
@@ -3507,7 +3532,8 @@
         "mortality",
         "management",
         "prevention"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-031",
@@ -3555,7 +3581,8 @@
         "LAMA",
         "pharmacotherapy",
         "GOLD-guidelines"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-032",
@@ -3603,7 +3630,8 @@
         "acute-management",
         "oxygen-therapy",
         "antibiotics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-033",
@@ -3651,7 +3679,8 @@
         "hyperinflation",
         "radiology",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r12-034",
@@ -4322,7 +4351,8 @@
         "pathophysiology",
         "exercise-induced",
         "reversible obstruction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-002",
@@ -4370,7 +4400,8 @@
         "type I hypersensitivity",
         "IgE",
         "immunology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-003",
@@ -4466,7 +4497,8 @@
         "eosinophils",
         "Th2",
         "late phase"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-005",
@@ -4608,7 +4640,8 @@
         "galectin-10",
         "eosinophils",
         "histology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-008",
@@ -4703,7 +4736,8 @@
         "bronchodilator response",
         "FEV1",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-010",
@@ -4751,7 +4785,8 @@
         "bronchoprovocation",
         "airway hyperreactivity",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-011",
@@ -4893,7 +4928,8 @@
         "aspirin triad",
         "leukotrienes",
         "COX inhibition"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-014",
@@ -4987,7 +5023,8 @@
         "cough-variant",
         "pediatric",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-016",
@@ -5129,7 +5166,8 @@
         "GINA guidelines",
         "SABA use",
         "stepwise therapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-019",
@@ -5558,7 +5596,8 @@
         "asthma treatment",
         "anti-inflammatory",
         "mechanism of action"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-028",
@@ -5606,7 +5645,8 @@
         "oral candidiasis",
         "thrush",
         "prevention"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-029",
@@ -5844,7 +5884,8 @@
         "FDA black box",
         "adverse effects",
         "pediatric"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-034",
@@ -5892,7 +5933,8 @@
         "muscarinic antagonist",
         "COPD",
         "mechanism"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-035",
@@ -6129,7 +6171,8 @@
         "IL-5",
         "biologic",
         "eosinophilic asthma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-040",
@@ -6273,7 +6316,8 @@
         "eosinophils",
         "triple therapy",
         "exacerbation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-043",
@@ -6321,7 +6365,8 @@
         "adenylyl cyclase",
         "cAMP",
         "mechanism"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r13-044",

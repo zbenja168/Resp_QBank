@@ -47,7 +47,8 @@
         "nasal-polyps",
         "aspirin-sensitivity",
         "asthma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37-002",
@@ -94,7 +95,8 @@
         "epistaxis",
         "adolescent-male",
         "pterygopalatine-fossa"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37-003",
@@ -141,7 +143,8 @@
         "HPV",
         "inverted-type",
         "malignant-transformation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37-004",
@@ -187,7 +190,8 @@
         "nasal-polyps",
         "intranasal-corticosteroids",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37-005",
@@ -234,7 +238,8 @@
         "biopsy",
         "hemorrhage",
         "vascular-tumor"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37-006",
@@ -281,7 +286,8 @@
         "malignant-transformation",
         "10-percent",
         "surveillance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37-007",
@@ -469,7 +475,8 @@
         "nasal-polyps",
         "differential",
         "unilateral"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37-011",
@@ -1080,7 +1087,8 @@
       "tags": [
         "polyps",
         "Samter"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37h-002",
@@ -1126,7 +1134,8 @@
       "tags": [
         "JNA",
         "biopsy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37h-003",
@@ -1172,7 +1181,8 @@
       "tags": [
         "papilloma",
         "malignant"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37h-004",
@@ -1218,7 +1228,8 @@
       "tags": [
         "polyps",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37h-005",
@@ -1402,7 +1413,8 @@
       "tags": [
         "JNA",
         "surgery"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37h-009",
@@ -1494,7 +1506,8 @@
       "tags": [
         "papilloma",
         "exam"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37h-011",
@@ -1586,7 +1599,8 @@
       "tags": [
         "JNA",
         "pathogenesis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r37h-013",
@@ -2093,7 +2107,8 @@
         "scaphoid-abdomen",
         "bowel-sounds",
         "neonatal"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38-002",
@@ -2140,7 +2155,8 @@
         "obligate-nose-breather",
         "cyanosis",
         "crying"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38-003",
@@ -2234,7 +2250,8 @@
         "maxillary-prominence",
         "medial-nasal",
         "embryology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38-005",
@@ -2375,7 +2392,8 @@
         "polyhydramnios",
         "esophageal-atresia",
         "fetal-swallowing"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38-008",
@@ -2422,7 +2440,8 @@
         "pleuroperitoneal-membrane",
         "CDH",
         "posterolateral"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38-009",
@@ -2469,7 +2488,8 @@
         "renal-agenesis",
         "oligohydramnios",
         "pulmonary-hypoplasia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38-010",
@@ -2892,7 +2912,8 @@
         "NG-tube",
         "gastric-air-bubble",
         "chest-xray"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38-019",
@@ -3125,7 +3146,8 @@
       "tags": [
         "CDH",
         "neonatal resuscitation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38h-002",
@@ -3170,7 +3192,8 @@
       "tags": [
         "choanal atresia",
         "embryology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38h-003",
@@ -3215,7 +3238,8 @@
       "tags": [
         "TEF",
         "esophageal atresia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38h-004",
@@ -3260,7 +3284,8 @@
       "tags": [
         "Potter sequence",
         "pulmonary hypoplasia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38h-005",
@@ -3485,7 +3510,8 @@
       "tags": [
         "bronchogenic cyst",
         "embryology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38h-010",
@@ -3710,7 +3736,8 @@
       "tags": [
         "embryology",
         "Bochdalek"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38h-015",
@@ -3845,7 +3872,8 @@
       "tags": [
         "cleft lip",
         "embryology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r38h-018",
@@ -4117,7 +4145,8 @@
         "LDCT",
         "20-pack-year",
         "guidelines"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39-002",
@@ -4211,7 +4240,8 @@
         "facial-swelling",
         "tumor-compression",
         "complication"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39-004",
@@ -4258,7 +4288,8 @@
         "SIADH",
         "hyponatremia",
         "paraneoplastic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39-005",
@@ -4353,7 +4384,8 @@
         "adenocarcinoma",
         "targeted-therapy",
         "mutations"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39-007",
@@ -4542,7 +4574,8 @@
         "hypercalcemia",
         "squamous-cell",
         "paraneoplastic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39-011",
@@ -4825,7 +4858,8 @@
         "SCLC",
         "paraneoplastic",
         "proximal-weakness"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39-017",
@@ -4967,7 +5001,8 @@
         "smoking",
         "synergistic",
         "risk-factor"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39-020",
@@ -5153,7 +5188,8 @@
       "imageRef": null,
       "tags": [
         "screening"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39h-002",
@@ -5417,7 +5453,8 @@
       "imageRef": null,
       "tags": [
         "Pancoast"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39h-008",
@@ -5461,7 +5498,8 @@
       "imageRef": null,
       "tags": [
         "paraneoplastic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39h-009",
@@ -5505,7 +5543,8 @@
       "imageRef": null,
       "tags": [
         "paraneoplastic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39h-010",
@@ -5549,7 +5588,8 @@
       "imageRef": null,
       "tags": [
         "paraneoplastic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39h-011",
@@ -5593,7 +5633,8 @@
       "imageRef": null,
       "tags": [
         "genetics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39h-012",
@@ -5681,7 +5722,8 @@
       "imageRef": null,
       "tags": [
         "risk"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r39h-014",
@@ -6124,7 +6166,8 @@
         "SCC",
         "keratin-pearls",
         "smoking"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40-002",
@@ -6171,7 +6214,8 @@
         "EBV",
         "risk-factor",
         "association"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40-003",
@@ -6218,7 +6262,8 @@
         "small-round-blue-cells",
         "Homer-Wright",
         "rosettes"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40-004",
@@ -6266,7 +6311,8 @@
         "p53",
         "pRb",
         "tumor-suppressors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40-005",
@@ -6313,7 +6359,8 @@
         "radiation",
         "cisplatin-gemcitabine",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40-006",
@@ -6501,7 +6548,8 @@
         "neck-mass",
         "cervical-lymph-node",
         "presentation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40-010",
@@ -6877,7 +6925,8 @@
         "DNA-crosslinking",
         "alkylating",
         "chemotherapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40-018",
@@ -7158,7 +7207,8 @@
       "tags": [
         "olfactory-neuroblastoma",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40h-002",
@@ -7338,7 +7388,8 @@
       "tags": [
         "olfactory-neuroblastoma",
         "histology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40h-006",
@@ -7383,7 +7434,8 @@
       "tags": [
         "nasopharyngeal-carcinoma",
         "EBV"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40h-007",
@@ -7473,7 +7525,8 @@
       "tags": [
         "nasopharyngeal-carcinoma",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40h-009",
@@ -7563,7 +7616,8 @@
       "tags": [
         "laryngeal-cancer",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40h-011",
@@ -7653,7 +7707,8 @@
       "tags": [
         "laryngeal-cancer",
         "HPV"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40h-013",
@@ -7788,7 +7843,8 @@
       "tags": [
         "laryngeal-cancer",
         "chemotherapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r40h-016",
@@ -8151,7 +8207,8 @@
         "hyponatremia",
         "ADH",
         "paraneoplastic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41-002",
@@ -8198,7 +8255,8 @@
         "salt-and-pepper",
         "scant-cytoplasm",
         "histology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41-003",
@@ -8339,7 +8397,8 @@
         "cisplatin-etoposide",
         "chemotherapy",
         "topoisomerase-II"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41-006",
@@ -8386,7 +8445,8 @@
         "chromogranin",
         "synaptophysin",
         "neuroendocrine-markers"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41-007",
@@ -8482,7 +8542,8 @@
         "central-mass",
         "perihilar",
         "imaging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41-009",
@@ -8529,7 +8590,8 @@
         "calcium-channels",
         "autoantibodies",
         "SCLC"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41-010",
@@ -9096,7 +9158,8 @@
         "neuroendocrine-cells",
         "cell-of-origin",
         "bronchial"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41-022",
@@ -9188,7 +9251,8 @@
       "tags": [
         "SIADH",
         "paraneoplastic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41h-002",
@@ -9233,7 +9297,8 @@
       "tags": [
         "histology",
         "neuroendocrine"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41h-003",
@@ -9278,7 +9343,8 @@
       "tags": [
         "Cushing",
         "ACTH"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41h-004",
@@ -9323,7 +9389,8 @@
       "tags": [
         "LEMS",
         "paraneoplastic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41h-005",
@@ -9368,7 +9435,8 @@
       "tags": [
         "treatment",
         "chemotherapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41h-006",
@@ -9592,7 +9660,8 @@
       "imageRef": null,
       "tags": [
         "immunohistochemistry"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41h-011",
@@ -9681,7 +9750,8 @@
       "tags": [
         "pharmacology",
         "etoposide"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r41h-013",
@@ -10174,7 +10244,8 @@
       "tags": [
         "squamous",
         "hypercalcemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42h-002",
@@ -10219,7 +10290,8 @@
       "tags": [
         "EGFR",
         "osimertinib"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42h-003",
@@ -10264,7 +10336,8 @@
       "tags": [
         "ALK",
         "alectinib"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42h-004",
@@ -10309,7 +10382,8 @@
       "tags": [
         "IHC",
         "TTF-1"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42h-005",
@@ -10758,7 +10832,8 @@
       "tags": [
         "cisplatin",
         "toxicity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42h-015",
@@ -11028,7 +11103,8 @@
       "tags": [
         "local",
         "complications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42h-021",
@@ -11165,7 +11241,8 @@
         "keratin-pearls",
         "central",
         "hypercalcemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42-002",
@@ -11212,7 +11289,8 @@
         "nonsmokers",
         "most-common",
         "NSCLC"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42-003",
@@ -11259,7 +11337,8 @@
         "large-cell",
         "peripheral",
         "location"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42-004",
@@ -11306,7 +11385,8 @@
         "osimertinib",
         "targeted-therapy",
         "adenocarcinoma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42-005",
@@ -11401,7 +11481,8 @@
         "TTF-1",
         "Napsin-A",
         "immunohistochemistry"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42-007",
@@ -11918,7 +11999,8 @@
         "PD-1",
         "checkpoint-inhibitor",
         "immunotherapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42-018",
@@ -12059,7 +12141,8 @@
         "SCC",
         "tumor-suppressor",
         "most-common"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r42-021",

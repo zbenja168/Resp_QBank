@@ -47,7 +47,8 @@
         "lobar-pneumonia",
         "chest-xray",
         "consolidation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24-002",
@@ -94,7 +95,8 @@
         "mycoplasma",
         "interstitial-pneumonia",
         "young-adult"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24-003",
@@ -141,7 +143,8 @@
         "hospital-acquired",
         "nosocomial",
         "HAP"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24-004",
@@ -375,7 +378,8 @@
         "CAP",
         "lobar-pneumonia",
         "elderly"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24-009",
@@ -563,7 +567,8 @@
         "tactile-fremitus",
         "consolidation",
         "lung-exam"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24-013",
@@ -610,7 +615,8 @@
         "ceftriaxone",
         "azithromycin",
         "empiric-therapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24-014",
@@ -657,7 +663,8 @@
         "pleural-effusion",
         "chest-tube",
         "pneumonia-complications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24-015",
@@ -1129,7 +1136,8 @@
         "empiric-antibiotics",
         "MRSA",
         "Pseudomonas"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24h-003",
@@ -1176,7 +1184,8 @@
         "pneumonia-complications",
         "cavitary-lesion",
         "imaging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24h-004",
@@ -1223,7 +1232,8 @@
         "atypical",
         "viral-pneumonia",
         "CXR-patterns"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24h-005",
@@ -1364,7 +1374,8 @@
         "physical-exam",
         "tactile-fremitus",
         "percussion"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24h-008",
@@ -1505,7 +1516,8 @@
         "nosocomial",
         "pneumonia-classification",
         "48-hour-rule"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24h-011",
@@ -1833,7 +1845,8 @@
         "lobar-pneumonia",
         "pathogenesis",
         "histology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24h-018",
@@ -1880,7 +1893,8 @@
         "gram-stain",
         "vaccination",
         "elderly-susceptibility"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r24h-019",
@@ -2211,7 +2225,8 @@
         "Hib",
         "thumbprint-sign",
         "pediatric"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25-004",
@@ -2259,7 +2274,8 @@
         "factor-V",
         "factor-X",
         "laboratory"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25-005",
@@ -2306,7 +2322,8 @@
         "COPD-exacerbation",
         "gram-negative-diplococcus",
         "beta-lactamase"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25-006",
@@ -2354,7 +2371,8 @@
         "T-cell-dependent",
         "immunology",
         "s-pneumoniae"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25-007",
@@ -2449,7 +2467,8 @@
         "asplenia",
         "sickle-cell",
         "invasive-disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25-009",
@@ -2545,7 +2564,8 @@
         "intrapartum-prophylaxis",
         "neonatal",
         "pregnancy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25-011",
@@ -2973,7 +2993,8 @@
         "beta-lactamase-inhibitor",
         "treatment",
         "COPD"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25-020",
@@ -3210,7 +3231,8 @@
         "H-influenzae",
         "airway-emergency",
         "thumbprint-sign"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25h-003",
@@ -3258,7 +3280,8 @@
         "CAMP-test",
         "neonatal-infection",
         "lab-identification"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25h-004",
@@ -3305,7 +3328,8 @@
         "chocolate-agar",
         "growth-factors",
         "microbiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25h-005",
@@ -3352,7 +3376,8 @@
         "COPD-exacerbation",
         "gram-negative-diplococci",
         "lab-identification"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25h-006",
@@ -3493,7 +3518,8 @@
         "encapsulated-bacteria",
         "capsule",
         "sickle-cell"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25h-009",
@@ -3682,7 +3708,8 @@
         "bile-soluble",
         "alpha-hemolytic",
         "lab-ID"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25h-013",
@@ -3777,7 +3804,8 @@
         "COPD-exacerbation",
         "beta-lactamase-inhibitor",
         "empiric-therapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r25h-015",
@@ -4201,7 +4229,8 @@
         "exotoxin-A",
         "EF-2",
         "virulence-factors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26-002",
@@ -4249,7 +4278,8 @@
         "biofilm",
         "cystic-fibrosis",
         "mucoid"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26-003",
@@ -4296,7 +4326,8 @@
         "pseudomonas",
         "bacteremia",
         "skin-lesions"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26-004",
@@ -4438,7 +4469,8 @@
         "coccobacillus",
         "VAP",
         "laboratory"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26-007",
@@ -4817,7 +4849,8 @@
         "pyocyanin",
         "pyoverdine",
         "laboratory"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26-015",
@@ -4911,7 +4944,8 @@
         "cystic-fibrosis",
         "CGD",
         "immunocompromise"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26-017",
@@ -5243,7 +5277,8 @@
         "alginate",
         "biofilm",
         "virulence-factors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26h-002",
@@ -5434,7 +5469,8 @@
         "phospholipase-C",
         "neutropenia",
         "virulence-factors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26h-006",
@@ -5482,7 +5518,8 @@
         "sulbactam",
         "oxidase-test",
         "lab-differentiation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26h-007",
@@ -5578,7 +5615,8 @@
         "diphtheria-toxin",
         "ADP-ribosylation",
         "molecular-mechanism"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26h-009",
@@ -5674,7 +5712,8 @@
         "NADPH-oxidase",
         "catalase-positive",
         "necrotizing-pneumonia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26h-011",
@@ -6106,7 +6145,8 @@
         "cytotoxic",
         "burn-wound",
         "nosocomial"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r26h-020",
@@ -6297,7 +6337,8 @@
         "atypical-pneumonia",
         "walking-pneumonia",
         "school-outbreak"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27-002",
@@ -6344,7 +6385,8 @@
         "legionnaires-disease",
         "hyponatremia",
         "GI-symptoms"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27-003",
@@ -6391,7 +6433,8 @@
         "no-peptidoglycan",
         "beta-lactam-resistance",
         "cell-wall"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27-004",
@@ -6438,7 +6481,8 @@
         "urine-antigen",
         "serotype-1",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27-005",
@@ -6626,7 +6670,8 @@
         "phagosome-lysosome",
         "intracellular",
         "macrophage"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27-009",
@@ -6864,7 +6909,8 @@
         "zoonotic",
         "parrot",
         "bird-exposure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27-014",
@@ -7005,7 +7051,8 @@
         "Stevens-Johnson",
         "dermatologic",
         "disseminated"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27-017",
@@ -7337,7 +7384,8 @@
         "peptidoglycan",
         "walking-pneumonia",
         "treatment-failure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27h-002",
@@ -7624,7 +7672,8 @@
         "intracellular-survival",
         "macrophages",
         "virulence"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27h-008",
@@ -7672,7 +7721,8 @@
         "zoonotic",
         "bird-exposure",
         "atypical-pneumonia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27h-009",
@@ -7816,7 +7866,8 @@
         "no-person-to-person",
         "outbreak",
         "epidemiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27h-012",
@@ -7864,7 +7915,8 @@
         "extrapulmonary",
         "targetoid-lesions",
         "mucosal-erosions"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27h-013",
@@ -7960,7 +8012,8 @@
         "diagnosis",
         "rapid-testing",
         "serotype-1"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27h-015",
@@ -8152,7 +8205,8 @@
         "peptidoglycan",
         "atypical-bacteria",
         "microbiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r27h-019",
@@ -8392,7 +8446,8 @@
         "ziehl-neelsen",
         "acid-fast",
         "staining"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28-002",
@@ -8486,7 +8541,8 @@
         "environmental-reservoir",
         "HIV",
         "tuberculosis-comparison"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28-004",
@@ -8533,7 +8589,8 @@
         "phagosome-lysosome",
         "intracellular-survival",
         "macrophage"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28-005",
@@ -8627,7 +8684,8 @@
         "tuberculosis",
         "pathology",
         "necrosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28-007",
@@ -8722,7 +8780,8 @@
         "PPD",
         "latent-TB",
         "screening"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28-009",
@@ -8816,7 +8875,8 @@
         "HIV",
         "CD4-count",
         "disseminated-disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28-011",
@@ -8958,7 +9018,8 @@
         "upper-lobes",
         "cavitary",
         "chest-imaging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28-014",
@@ -9426,7 +9487,8 @@
         "tuberculosis",
         "virulence",
         "macrophage"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28h-002",
@@ -9472,7 +9534,8 @@
         "latent-TB",
         "BCG",
         "IGRA"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28h-003",
@@ -9518,7 +9581,8 @@
         "reactivation",
         "immunosuppression",
         "Th1"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28h-004",
@@ -9702,7 +9766,8 @@
         "cord-factor",
         "virulence",
         "colony-morphology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28h-008",
@@ -9748,7 +9813,8 @@
         "PPD",
         "hypersensitivity",
         "type-IV"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28h-009",
@@ -9978,7 +10044,8 @@
         "Ghon-complex",
         "primary-TB",
         "imaging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28h-014",
@@ -10116,7 +10183,8 @@
         "acid-fast",
         "mycolic-acid",
         "staining"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r28h-017",
@@ -10439,7 +10507,8 @@
         "active-TB",
         "treatment",
         "four-drug"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29-002",
@@ -10534,7 +10603,8 @@
         "peripheral-neuropathy",
         "vitamin-B6",
         "adverse-effects"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29-004",
@@ -10581,7 +10651,8 @@
         "CYP450",
         "drug-interactions",
         "oral-contraceptives"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29-005",
@@ -10628,7 +10699,8 @@
         "optic-neuritis",
         "color-vision",
         "adverse-effects"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29-006",
@@ -10722,7 +10794,8 @@
         "RNA-polymerase",
         "mechanism",
         "tuberculosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29-008",
@@ -10815,7 +10888,8 @@
         "latent-TB",
         "rifampin",
         "treatment-regimen"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29-010",
@@ -10862,7 +10936,8 @@
         "azithromycin",
         "macrolide",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29-011",
@@ -11472,7 +11547,8 @@
         "isoniazid",
         "peripheral-neuropathy",
         "pyridoxine"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29h-002",
@@ -11518,7 +11594,8 @@
         "rifampin",
         "CYP-induction",
         "drug-interactions"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29h-003",
@@ -11610,7 +11687,8 @@
         "ethambutol",
         "optic-neuritis",
         "renal-dosing"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29h-005",
@@ -11702,7 +11780,8 @@
         "MAC",
         "rifabutin",
         "HIV"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29h-007",
@@ -12025,7 +12104,8 @@
         "active-TB",
         "RIPE",
         "regimen"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29h-014",
@@ -12301,7 +12381,8 @@
         "ethambutol",
         "mechanism",
         "resistance-prevention"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r29h-020",
@@ -12439,7 +12520,8 @@
         "active-TB",
         "phases",
         "regimen"
-      ]
+      ],
+      "hy": true
     }
   ]
 }

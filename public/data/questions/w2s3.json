@@ -47,7 +47,8 @@
         "CT-findings",
         "signet-ring-sign",
         "radiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-002",
@@ -94,7 +95,8 @@
         "Kartagener-syndrome",
         "primary-ciliary-dyskinesia",
         "dynein"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-003",
@@ -188,7 +190,8 @@
         "Pseudomonas",
         "antibiotics",
         "exacerbation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-005",
@@ -235,7 +238,8 @@
         "pulmonary-function-tests",
         "obstructive-pattern",
         "spirometry"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-006",
@@ -518,7 +522,8 @@
         "Aspergillus",
         "IgE",
         "eosinophilia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-012",
@@ -612,7 +617,8 @@
         "pathophysiology",
         "vicious-cycle",
         "mucus-clearance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-014",
@@ -941,7 +947,8 @@
         "H-influenzae",
         "microbiology",
         "non-CF"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-021",
@@ -1082,7 +1089,8 @@
         "meconium-ileus",
         "neonate",
         "bowel-obstruction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-024",
@@ -1223,7 +1231,8 @@
         "infertility",
         "vas-deferens",
         "CBAVD"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-027",
@@ -1270,7 +1279,8 @@
         "pancreatic-insufficiency",
         "steatorrhea",
         "fat-soluble-vitamins"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-028",
@@ -1317,7 +1327,8 @@
         "deltaF508",
         "protein-misfolding",
         "endoplasmic-reticulum"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-029",
@@ -1364,7 +1375,8 @@
         "CFRD",
         "diabetes",
         "pancreatic-fibrosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-030",
@@ -1411,7 +1423,8 @@
         "sweat-chloride-test",
         "newborn-screening",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-031",
@@ -1694,7 +1707,8 @@
         "S-aureus",
         "Pseudomonas",
         "microbiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r14-037",
@@ -2119,7 +2133,8 @@
         "correctors",
         "Trikafta",
         "pharmacology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-002",
@@ -2166,7 +2181,8 @@
         "inhaled-antibiotics",
         "tobramycin",
         "Pseudomonas"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-003",
@@ -2213,7 +2229,8 @@
         "CFRD",
         "diabetes",
         "insulin"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-004",
@@ -2260,7 +2277,8 @@
         "dornase-alfa",
         "DNase",
         "airway-clearance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-005",
@@ -2401,7 +2419,8 @@
         "azithromycin",
         "anti-inflammatory",
         "Pseudomonas"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-008",
@@ -2543,7 +2562,8 @@
         "potentiator",
         "G551D",
         "pharmacology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-011",
@@ -2778,7 +2798,8 @@
         "nutrition",
         "fat-soluble-vitamins",
         "high-calorie-diet"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-016",
@@ -3156,7 +3177,8 @@
         "GAS",
         "strep-throat",
         "Centor-criteria"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-024",
@@ -3204,7 +3226,8 @@
         "RADT",
         "throat-culture",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-025",
@@ -3298,7 +3321,8 @@
         "airway-emergency",
         "intubation",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-027",
@@ -3392,7 +3416,8 @@
         "EBV",
         "mononucleosis",
         "heterophile-test"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-029",
@@ -3440,7 +3465,8 @@
         "rheumatic-fever",
         "complications",
         "antibiotics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-030",
@@ -3487,7 +3513,8 @@
         "racemic-epinephrine",
         "management",
         "respiratory-distress"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-031",
@@ -3675,7 +3702,8 @@
         "parainfluenza",
         "barking-cough",
         "pediatrics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r15-035",
@@ -4243,7 +4271,8 @@
         "EF-2",
         "ADP-ribosylation",
         "pseudomembrane"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-003",
@@ -4291,7 +4320,8 @@
         "transmission",
         "infant",
         "apnea"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-004",
@@ -4338,7 +4368,8 @@
         "potassium-tellurite-agar",
         "culture-media",
         "microbiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-005",
@@ -4432,7 +4463,8 @@
         "microbiology",
         "obligate-aerobe",
         "Bordet-Gengou"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-007",
@@ -4762,7 +4794,8 @@
         "adenylate-cyclase-toxin",
         "cAMP",
         "phagocytosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-014",
@@ -4809,7 +4842,8 @@
         "cutaneous-diphtheria",
         "azithromycin",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-015",
@@ -4951,7 +4985,8 @@
         "Gi-protein",
         "ADP-ribosylation",
         "cAMP"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-018",
@@ -5233,7 +5268,8 @@
         "amoxicillin-clavulanate",
         "double-sickening",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-024",
@@ -5280,7 +5316,8 @@
         "type-I-hypersensitivity",
         "IgE",
         "mast-cell"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-025",
@@ -5327,7 +5364,8 @@
         "fungal-sinusitis",
         "diabetes",
         "invasive-infection"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-026",
@@ -5468,7 +5506,8 @@
         "oxymetazoline",
         "rebound-congestion",
         "decongestant"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-029",
@@ -5515,7 +5554,8 @@
         "classification",
         "CT-findings",
         "mucosal-thickening"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-030",
@@ -5609,7 +5649,8 @@
         "intranasal-corticosteroids",
         "first-line",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-032",
@@ -6126,7 +6167,8 @@
         "CT-findings",
         "sinus-opacification",
         "imaging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "r16-043",
