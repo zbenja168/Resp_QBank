@@ -12,6 +12,7 @@ import { BrandBadge } from './components/Brand';
 import { track } from './utils/track';
 import { restoreSkin } from './utils/skin';
 
+import { SiteHeader } from './components/SiteHeader';
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
 
 function AppShell() {
@@ -167,6 +168,7 @@ export default function App() {
   return (
     <>
       <BrandBadge />
+      <SiteHeader />
       <AppShell />
     </>
   );
