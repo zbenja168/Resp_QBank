@@ -3088,6 +3088,53 @@
       ]
     },
     {
+      "id": "repic-361",
+      "topicId": "pulmonary-embolism",
+      "topicName": "Pulmonary Embolism",
+      "stem": "A 58-year-old woman has sudden pleuritic chest pain and tachypnea 10 days after hip surgery. This contrast-enhanced CT of the chest is obtained; the arrows mark the abnormality. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pulmonary embolism"
+        },
+        {
+          "label": "B",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "C",
+          "text": "Lung abscess"
+        },
+        {
+          "label": "D",
+          "text": "Mediastinal lymphadenopathy"
+        },
+        {
+          "label": "E",
+          "text": "Pericardial effusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
+        "whyCorrect": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
+        "whyWrongByChoice": {
+          "B": "Aortic dissection shows an intimal flap separating true and false lumens in the aorta, not filling defects within the pulmonary arteries.",
+          "C": "A lung abscess is a cavitary parenchymal lesion, often with an air-fluid level, rather than a filling defect inside contrast-filled pulmonary arteries.",
+          "D": "Enlarged lymph nodes are soft-tissue masses outside the vessels in the mediastinum or hila; they may compress but do not fill the arterial lumen.",
+          "E": "Pericardial effusion appears as fluid density surrounding the heart within the pericardial sac, not as defects within the central pulmonary arteries."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-361_Brick Exchange - Respiratory Alkalosis_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
       "id": "r44h-001",
       "topicId": "pulmonary-embolism-hard",
       "topicName": "Pulmonary Embolism (Advanced)",

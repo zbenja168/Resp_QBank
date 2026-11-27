@@ -1045,6 +1045,53 @@
       ]
     },
     {
+      "id": "repic-542",
+      "topicId": "obstructive-restrictive-foundations",
+      "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+      "stem": "A 66-year-old man with a 3-month history of cough and weight loss has the hand finding shown. This finding is most commonly associated with which category of disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute viral upper respiratory infection"
+        },
+        {
+          "label": "B",
+          "text": "Carpal tunnel syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Chronic hypoxemic pulmonary disease"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia alone"
+        },
+        {
+          "label": "E",
+          "text": "Osteoarthritis of the hands"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis.",
+        "whyCorrect": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis.",
+        "whyWrongByChoice": {
+          "A": "Acute viral upper respiratory infections are brief and self-limited, far too short to produce chronic soft-tissue proliferation of the nail bed.",
+          "B": "Carpal tunnel syndrome causes median nerve numbness and thenar atrophy, not changes in the distal phalanges or nails.",
+          "D": "Iron deficiency causes spoon-shaped nails (koilonychia), not clubbing with loss of the Lovibond angle.",
+          "E": "Osteoarthritis produces bony Heberden and Bouchard nodes at the interphalangeal joints, not bulbous fingertip enlargement with loss of the nail angle."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-542_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
       "id": "r11-023",
       "topicId": "tobacco-smoking",
       "topicName": "Tobacco Smoking",
@@ -3244,6 +3291,100 @@
       ]
     },
     {
+      "id": "repic-458",
+      "topicId": "copd-pathophysiology",
+      "topicName": "COPD: Pathophysiology",
+      "stem": "This bronchial biopsy is from a 55-year-old man who has smoked two packs of cigarettes daily for 30 years. What change is shown at the arrow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaplasia"
+        },
+        {
+          "label": "B",
+          "text": "Epithelial hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Goblet cell hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "High-grade dysplasia"
+        },
+        {
+          "label": "E",
+          "text": "Squamous metaplasia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
+        "whyCorrect": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
+        "whyWrongByChoice": {
+          "A": "Anaplasia is the complete loss of differentiation seen in malignant tumors, not an adaptive change to a mature cell type.",
+          "B": "Hypertrophy is enlargement of existing cells without changing cell type; here the columnar epithelium has been replaced by a different type.",
+          "C": "Goblet cell hyperplasia increases mucus-secreting cells within the columnar epithelium; the epithelium shown is flat and stratified.",
+          "D": "Dysplasia implies disordered maturation with nuclear atypia and loss of polarity; orderly stratified squamous replacement is metaplasia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-458_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p8_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-489",
+      "topicId": "copd-pathophysiology",
+      "topicName": "COPD: Pathophysiology",
+      "stem": "These two lung sections are shown at the same magnification; panel B is normal lung for comparison. A 64-year-old long-time smoker has progressive dyspnea and hyperinflated lungs. What does panel A show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Organizing pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary alveolar proteinosis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary edema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Panel A shows permanently enlarged airspaces with destroyed, thinned septa compared with the normal alveolar architecture in panel B. This is emphysema: enlargement of airspaces distal to the terminal bronchiole with alveolar wall destruction, which reduces gas-exchange surface area.",
+        "whyCorrect": "Panel A shows permanently enlarged airspaces with destroyed, thinned septa compared with the normal alveolar architecture in panel B. This is emphysema: enlargement of airspaces distal to the terminal bronchiole with alveolar wall destruction, which reduces gas-exchange surface area.",
+        "whyWrongByChoice": {
+          "A": "Diffuse alveolar hemorrhage fills alveoli with red cells and hemosiderin-laden macrophages, without destruction of septa.",
+          "C": "Organizing pneumonia shows plugs of loose fibroblastic tissue (Masson bodies) within airspaces, not enlarged empty airspaces.",
+          "D": "Alveolar proteinosis fills alveoli with PAS-positive granular surfactant material, preserving the alveolar architecture.",
+          "E": "Pulmonary edema fills alveoli with pink proteinaceous fluid while septa remain intact, rather than enlarging airspaces with destroyed walls."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-489_Brick Exchange - Hypercapnia_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
       "id": "r12-025",
       "topicId": "copd-clinical",
       "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
@@ -4305,6 +4446,53 @@
         "alveolar-destruction",
         "pathophysiology"
       ]
+    },
+    {
+      "id": "repic-232",
+      "topicId": "copd-clinical",
+      "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+      "stem": "A 67-year-old man with a 50-pack-year smoking history has progressive exertional dyspnea. His PA chest radiograph is shown. These findings are most typical of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiogenic pulmonary edema"
+        },
+        {
+          "label": "B",
+          "text": "COPD with emphysematous hyperinflation"
+        },
+        {
+          "label": "C",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
+        "whyCorrect": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
+        "whyWrongByChoice": {
+          "A": "Cardiogenic edema shows cardiomegaly, vascular redistribution, interstitial lines, and effusions, not hyperlucent lungs with a narrow heart.",
+          "C": "A large pleural effusion causes a dense opacity with a meniscus, blunting costophrenic angles, rather than hyperlucency.",
+          "D": "Lobar pneumonia shows a dense lobar consolidation with air bronchograms, not bilateral hyperinflation and flattened diaphragms.",
+          "E": "Tension pneumothorax shows a unilateral lucent hemithorax without lung markings and mediastinal shift away from the affected side."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-232_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p12_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
     },
     {
       "id": "r13-001",
@@ -5550,6 +5738,53 @@
         "silent chest",
         "systemic corticosteroids"
       ]
+    },
+    {
+      "id": "repic-440",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "This H&E section of a bronchus is from a 24-year-old woman who died during a prolonged episode of severe wheezing. The arrows mark key features. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asthma"
+        },
+        {
+          "label": "B",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic bronchitis"
+        },
+        {
+          "label": "D",
+          "text": "Emphysema"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary tuberculosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
+        "whyCorrect": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
+        "whyWrongByChoice": {
+          "B": "Bronchiectasis shows permanently dilated bronchi with destroyed walls and purulent mucus, not hypertrophied smooth muscle with eosinophilic infiltrates.",
+          "C": "Chronic bronchitis shows submucosal gland hypertrophy (raised Reid index) with neutrophil-predominant inflammation, not eosinophil-rich infiltrates and basement membrane thickening.",
+          "D": "Emphysema destroys alveolar walls distal to the terminal bronchiole; it does not remodel the bronchial wall with a thick basement membrane.",
+          "E": "Tuberculosis forms caseating granulomas with epithelioid macrophages and Langhans giant cells, not eosinophilic airway remodeling."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-440_Brick Exchange - Asthma_p12_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
     },
     {
       "id": "r13-027",

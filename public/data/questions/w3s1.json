@@ -3129,6 +3129,147 @@
       ]
     },
     {
+      "id": "repic-152",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "These H&E sections are from a lung biopsy of a 68-year-old man with progressive dyspnea and bibasilar crackles; the arrow marks a key feature. Which histologic pattern is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse alveolar damage"
+        },
+        {
+          "label": "B",
+          "text": "Nonspecific interstitial pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Organizing pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory bronchiolitis"
+        },
+        {
+          "label": "E",
+          "text": "Usual interstitial pneumonia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Spatially heterogeneous fibrosis with microscopic honeycombing defines the UIP pattern of IPF. NSIP is uniform, DAD shows hyaline membranes, and organizing pneumonia shows intraluminal fibroblastic plugs.",
+        "whyCorrect": "Spatially heterogeneous fibrosis with microscopic honeycombing defines the UIP pattern of IPF. NSIP is uniform, DAD shows hyaline membranes, and organizing pneumonia shows intraluminal fibroblastic plugs.",
+        "whyWrongByChoice": {
+          "A": "Diffuse alveolar damage shows hyaline membranes lining alveoli in the acute phase, not chronic patchy collagen with honeycombing.",
+          "B": "NSIP shows uniform, temporally homogeneous interstitial inflammation or fibrosis, without honeycomb cysts and patchy heterogeneity.",
+          "C": "Organizing pneumonia shows intraluminal plugs of loose fibroblastic tissue (Masson bodies), with preserved architecture.",
+          "D": "Respiratory bronchiolitis shows pigmented smoker's macrophages in respiratory bronchioles, without dense fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-152_Brick Exchange - Idiopathic Pulmonary Fibrosis_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-306",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "A 70-year-old man has 2 years of progressive dyspnea, dry cough, and bibasilar 'velcro' crackles. His high-resolution chest CT is shown. This imaging pattern is most specific for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Centrilobular emphysema"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Ground-glass-only hypersensitivity pneumonitis"
+        },
+        {
+          "label": "D",
+          "text": "Lymphangitic carcinomatosis"
+        },
+        {
+          "label": "E",
+          "text": "Usual interstitial pneumonia (UIP) pattern"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis defines the UIP pattern, the radiologic hallmark of idiopathic pulmonary fibrosis and other fibrotic interstitial lung diseases.",
+        "whyCorrect": "Subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis defines the UIP pattern, the radiologic hallmark of idiopathic pulmonary fibrosis and other fibrotic interstitial lung diseases.",
+        "whyWrongByChoice": {
+          "A": "Centrilobular emphysema shows upper-lobe low-attenuation areas without walls, not basal reticulation with clustered thick-walled cysts.",
+          "B": "Diffuse alveolar hemorrhage causes patchy or diffuse ground-glass and consolidation without fibrotic honeycombing.",
+          "C": "Ground-glass opacity alone reflects active inflammation without fibrosis; honeycombing indicates established fibrotic disease of the UIP type.",
+          "D": "Lymphangitic carcinomatosis causes nodular, beaded interlobular septal thickening, often with effusions, rather than subpleural honeycombing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-306_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-493",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "This cut surface of a lung is from a 72-year-old man who died of progressive restrictive lung disease. What is this end-stage gross finding called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cavitary tuberculosis"
+        },
+        {
+          "label": "B",
+          "text": "Cystic bronchiectasis"
+        },
+        {
+          "label": "C",
+          "text": "Emphysematous bullae"
+        },
+        {
+          "label": "D",
+          "text": "Honeycomb lung"
+        },
+        {
+          "label": "E",
+          "text": "Multiple lung abscesses"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling.",
+        "whyCorrect": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling.",
+        "whyWrongByChoice": {
+          "A": "Cavitary tuberculosis creates localized apical cavities with caseous necrosis rather than diffuse fibrous walls around many cysts.",
+          "B": "Cystic bronchiectasis shows dilated bronchi in continuity with the airway tree, often containing pus, rather than diffuse fibrosis.",
+          "C": "Bullae are thin-walled, air-filled spaces larger than 1 cm from emphysema, not cysts enclosed by dense fibrous tissue.",
+          "E": "Abscesses are discrete cavities filled with pus and necrotic debris, not uniform cysts set within dense fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-493_Brick Exchange - Idiopathic Pulmonary Fibrosis_p6_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
       "id": "r18-023",
       "topicId": "pneumoconioses",
       "topicName": "Pneumoconioses",
@@ -4262,6 +4403,100 @@
         "hemosiderin",
         "histology"
       ]
+    },
+    {
+      "id": "repic-164",
+      "topicId": "pneumoconioses",
+      "topicName": "Pneumoconioses",
+      "stem": "This lung biopsy (left, H&E; right, polarized view) is from a 58-year-old sandblaster with progressive dyspnea. What is the lesion on the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchogenic carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Caseating tuberculous granuloma"
+        },
+        {
+          "label": "C",
+          "text": "Hamartoma"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatoid (Caplan) nodule"
+        },
+        {
+          "label": "E",
+          "text": "Silicotic nodule"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The silicotic nodule is characterized by concentric ('onion-skin') layers of hyalinized collagen. Polarized light reveals birefringent silica particles within it. These nodules coalesce over time and can progress to massive fibrosis.",
+        "whyCorrect": "The silicotic nodule is characterized by concentric ('onion-skin') layers of hyalinized collagen. Polarized light reveals birefringent silica particles within it. These nodules coalesce over time and can progress to massive fibrosis.",
+        "whyWrongByChoice": {
+          "A": "Bronchogenic carcinoma shows infiltrating malignant epithelial cells rather than an acellular whorl of hyalinized collagen.",
+          "B": "TB granulomas have central caseous necrosis surrounded by epithelioid histiocytes and Langhans giant cells, not layered collagen.",
+          "C": "A hamartoma contains a disorganized mix of cartilage, fat, and smooth muscle, often with popcorn calcification, not whorled collagen.",
+          "D": "Caplan nodules occur in pneumoconiosis with rheumatoid arthritis and have central necrosis with palisading histiocytes, not purely concentric hyalinized collagen."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-164_Brick Exchange - Pneumoconioses_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-165",
+      "topicId": "pneumoconioses",
+      "topicName": "Pneumoconioses",
+      "stem": "This lung biopsy is from a 70-year-old retired shipyard worker with progressive dyspnea. What are the golden-brown rod-shaped structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asbestos bodies"
+        },
+        {
+          "label": "B",
+          "text": "Charcot-Leyden crystals"
+        },
+        {
+          "label": "C",
+          "text": "Curschmann spirals"
+        },
+        {
+          "label": "D",
+          "text": "Psammoma bodies"
+        },
+        {
+          "label": "E",
+          "text": "Schaumann bodies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Asbestos bodies are ferruginous bodies: thin asbestos fibers coated with an iron-containing proteinaceous material, producing golden-brown beaded rods with knobbed ends. Their presence indicates significant asbestos exposure.",
+        "whyCorrect": "Asbestos bodies are ferruginous bodies: thin asbestos fibers coated with an iron-containing proteinaceous material, producing golden-brown beaded rods with knobbed ends. Their presence indicates significant asbestos exposure.",
+        "whyWrongByChoice": {
+          "B": "Charcot-Leyden crystals are slender, bipyramidal crystals from eosinophil galectin-10 in asthma.",
+          "C": "Curschmann spirals are coiled mucus casts from small bronchioles in asthma, not iron-coated beaded rods.",
+          "D": "Psammoma bodies are round, concentrically laminated calcifications in papillary tumors like thyroid and ovarian carcinoma.",
+          "E": "Schaumann bodies are laminated calcium-protein concretions inside giant cells in sarcoidosis, round rather than dumbbell-shaped."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-165_Brick Exchange - Pneumoconioses_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
     },
     {
       "id": "r19-001",
@@ -6345,6 +6580,100 @@
         "treatment",
         "biologic"
       ]
+    },
+    {
+      "id": "repic-105",
+      "topicId": "autoimmune-respiratory",
+      "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+      "stem": "A 25-year-old man has hemoptysis and acute kidney injury with hematuria. A lung biopsy is shown. What process is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar proteinosis"
+        },
+        {
+          "label": "B",
+          "text": "Bronchopneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "D",
+          "text": "Emphysematous airspace enlargement"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary edema (transudate)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Filling of intact alveoli with red blood cells indicates alveolar hemorrhage, a manifestation of pulmonary capillaritis seen in autoimmune conditions such as anti-GBM disease and ANCA-associated vasculitis.",
+        "whyCorrect": "Filling of intact alveoli with red blood cells indicates alveolar hemorrhage, a manifestation of pulmonary capillaritis seen in autoimmune conditions such as anti-GBM disease and ANCA-associated vasculitis.",
+        "whyWrongByChoice": {
+          "A": "Alveolar proteinosis fills alveoli with granular, PAS-positive pink material, not red blood cells.",
+          "B": "Bronchopneumonia fills airspaces with neutrophils, centered on bronchioles, rather than red cells.",
+          "D": "Emphysema leaves enlarged, empty airspaces with destroyed septa, while here the septa are intact and the spaces are filled.",
+          "E": "Transudative edema fills alveoli with pale, homogeneous pink fluid with few cells, not packed erythrocytes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-105_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p3_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-222",
+      "topicId": "autoimmune-respiratory",
+      "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+      "stem": "A 23-year-old man has hemoptysis and rapidly rising creatinine. Direct immunofluorescence of his renal biopsy, stained for IgG, is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-glomerular basement membrane disease"
+        },
+        {
+          "label": "B",
+          "text": "IgA nephropathy"
+        },
+        {
+          "label": "C",
+          "text": "Membranous nephropathy"
+        },
+        {
+          "label": "D",
+          "text": "Minimal change disease"
+        },
+        {
+          "label": "E",
+          "text": "Post-streptococcal glomerulonephritis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A continuous linear IF pattern reflects antibodies bound uniformly to the GBM (anti-collagen IV), the defining feature of anti-GBM disease, which also targets the alveolar basement membrane to cause pulmonary hemorrhage.",
+        "whyCorrect": "A continuous linear IF pattern reflects antibodies bound uniformly to the GBM (anti-collagen IV), the defining feature of anti-GBM disease, which also targets the alveolar basement membrane to cause pulmonary hemorrhage.",
+        "whyWrongByChoice": {
+          "B": "IgA nephropathy shows mesangial IgA deposits, not linear staining along the GBM.",
+          "C": "Membranous nephropathy shows fine granular subepithelial IgG deposits along the capillary loops and presents with nephrotic syndrome.",
+          "D": "Minimal change disease is negative on immunofluorescence, with only podocyte effacement on electron microscopy.",
+          "E": "Post-streptococcal GN shows coarse, granular lumpy-bumpy deposits with subepithelial humps, not a smooth linear pattern, and does not cause lung hemorrhage."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-222_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p6_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
     }
   ]
 }

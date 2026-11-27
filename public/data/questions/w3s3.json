@@ -1044,6 +1044,53 @@
       ]
     },
     {
+      "id": "repic-389",
+      "topicId": "traumatic-chest-disorders",
+      "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "A 30-year-old man has dyspnea after a high-speed motor vehicle collision. His chest radiograph and coronal CT are shown. What injury do they indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hiatal hernia from chronic reflux"
+        },
+        {
+          "label": "B",
+          "text": "Lobar collapse"
+        },
+        {
+          "label": "C",
+          "text": "Loculated empyema"
+        },
+        {
+          "label": "D",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Traumatic diaphragmatic rupture"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair.",
+        "whyCorrect": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair.",
+        "whyWrongByChoice": {
+          "A": "A hiatal hernia moves the stomach through the esophageal hiatus in the midline, without loss of the diaphragmatic contour after trauma.",
+          "B": "Lobar collapse shows dense lung with volume loss, not abdominal viscera above a disrupted diaphragm.",
+          "C": "A loculated empyema is a lenticular fluid collection with an enhancing pleural rind, not herniated bowel.",
+          "D": "Tension pneumothorax produces a hyperlucent hemithorax with mediastinal shift, not bowel in the chest."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-389_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p5_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
       "id": "r22-001",
       "topicId": "ards",
       "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
@@ -2085,6 +2132,53 @@
       ]
     },
     {
+      "id": "repic-405",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 45-year-old man develops severe hypoxemia and bilateral infiltrates 2 days after aspiration pneumonia and dies despite ventilation. A lung section is shown; the arrow marks a key feature. What underlying process does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchopneumonia with abscess"
+        },
+        {
+          "label": "B",
+          "text": "Caseating granulomatous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse alveolar damage"
+        },
+        {
+          "label": "D",
+          "text": "Emphysematous airspace destruction"
+        },
+        {
+          "label": "E",
+          "text": "Usual interstitial pneumonia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
+        "whyCorrect": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
+        "whyWrongByChoice": {
+          "A": "Bronchopneumonia is a patchy neutrophilic exudate centered on bronchioles; abscesses show liquefactive necrosis, not diffuse damage.",
+          "B": "Caseating granulomas are nodules of epithelioid histiocytes with central necrosis, as in TB, not diffuse septal widening with hemorrhage.",
+          "D": "Emphysema destroys and thins alveolar walls, enlarging airspaces, rather than widening septa with exudate.",
+          "E": "UIP is a chronic, patchy fibrosis with honeycombing and fibroblastic foci, not an acute exudative injury."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-405_Brick Exchange - Acute Respiratory Distress Syndrome_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
       "id": "r22-023",
       "topicId": "neonatal-rds",
       "topicName": "Neonatal Respiratory Distress Syndrome",
@@ -3124,6 +3218,100 @@
         "timing",
         "prevention"
       ]
+    },
+    {
+      "id": "repic-324",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A newborn delivered at 29 weeks' gestation develops grunting, nasal flaring, and retractions within hours of birth and is intubated. The chest radiograph is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A normal neonatal chest"
+        },
+        {
+          "label": "B",
+          "text": "Congenital diaphragmatic hernia"
+        },
+        {
+          "label": "C",
+          "text": "Meconium aspiration with hyperinflation"
+        },
+        {
+          "label": "D",
+          "text": "Neonatal respiratory distress syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Diffuse ground-glass opacity with air bronchograms and underinflated lungs in a preterm infant is the classic surfactant-deficiency (RDS) pattern.",
+        "whyCorrect": "Diffuse ground-glass opacity with air bronchograms and underinflated lungs in a preterm infant is the classic surfactant-deficiency (RDS) pattern.",
+        "whyWrongByChoice": {
+          "A": "A normal neonatal chest has clear lungs with normal volumes and no diffuse ground-glass opacity.",
+          "B": "Congenital diaphragmatic hernia shows bowel loops in the chest, usually left-sided, with mediastinal shift.",
+          "C": "Meconium aspiration affects term or post-term infants and shows patchy, coarse opacities with hyperinflation, not low volumes.",
+          "E": "Tension pneumothorax shows a hyperlucent hemithorax with mediastinal shift, not bilateral ground-glass."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-324_Brick Exchange - Neonatal Respiratory Distress Syndrome_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-535",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "This lung section is from a neonate born at 28 weeks' gestation who died of progressive respiratory distress. What are the pink structures lining the airspaces (arrow)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "B",
+          "text": "Bronchial cartilage plates"
+        },
+        {
+          "label": "C",
+          "text": "Granulomas"
+        },
+        {
+          "label": "D",
+          "text": "Hyaline membranes"
+        },
+        {
+          "label": "E",
+          "text": "Psammoma bodies"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS.",
+        "whyCorrect": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS.",
+        "whyWrongByChoice": {
+          "A": "Amyloid forms amorphous extracellular deposits with apple-green birefringence on Congo red, not linear ductal membranes in neonates.",
+          "B": "Bronchial cartilage plates are basophilic hyaline cartilage in larger airway walls, not eosinophilic linings of alveolar ducts.",
+          "C": "Granulomas are nodular collections of epithelioid macrophages, not thin linear membranes.",
+          "E": "Psammoma bodies are concentric laminated calcifications in papillary tumors, not membranes lining alveolar ducts."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-535_Brick Exchange - Neonatal Respiratory Distress Syndrome_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
     },
     {
       "id": "r23-001",

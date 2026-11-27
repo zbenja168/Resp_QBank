@@ -5221,6 +5221,53 @@
         "nitrite-thiosulfate",
         "methemoglobin"
       ]
+    },
+    {
+      "id": "repic-857",
+      "topicId": "co-cn-poisoning",
+      "topicName": "Carbon Monoxide and Cyanide Poisoning",
+      "stem": "This graph compares blood oxygen content curves for normal blood, anemia (Hb 7 g/dL), and blood with 50% carboxyhemoglobin. Compared with normal blood, how does carbon monoxide (dashed curve) affect oxygen transport?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CO both lowers total O2-carrying capacity and left-shifts the dissociation curve"
+        },
+        {
+          "label": "B",
+          "text": "CO increases oxygen content but right-shifts the curve, improving delivery"
+        },
+        {
+          "label": "C",
+          "text": "CO lowers content but right-shifts the curve, aiding unloading"
+        },
+        {
+          "label": "D",
+          "text": "CO only lowers dissolved oxygen without affecting hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "CO raises the P50 so tissues extract more oxygen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carbon monoxide binds hemoglobin with high affinity, reducing available O2 binding sites (lower content) and simultaneously left-shifting the curve for the remaining sites, so oxygen is held more tightly and released poorly at tissues, causing profound hypoxia despite a 'normal' PaO2.",
+        "whyCorrect": "Carbon monoxide binds hemoglobin with high affinity, reducing available O2 binding sites (lower content) and simultaneously left-shifting the curve for the remaining sites, so oxygen is held more tightly and released poorly at tissues, causing profound hypoxia despite a 'normal' PaO2.",
+        "whyWrongByChoice": {
+          "B": "CO lowers, not raises, oxygen content by occupying heme sites, and it shifts the remaining curve left, which impairs rather than improves delivery.",
+          "C": "The reduced content is correct, but the shift is to the left, not the right, so unloading at tissues is hindered rather than aided.",
+          "D": "Dissolved O2 depends on PaO2, which stays normal in CO poisoning; the harm comes from CO occupying hemoglobin binding sites.",
+          "E": "CO lowers the P50 (left shift), increasing hemoglobin's affinity for the remaining O2, so tissues extract less oxygen, not more."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-857_Brick Exchange - Respiratory_ Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning_p8_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
     }
   ]
 }

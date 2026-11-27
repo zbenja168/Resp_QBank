@@ -116,9 +116,9 @@
         {
           "id": "co-cn-poisoning",
           "name": "Carbon Monoxide and Cyanide Poisoning",
-          "questionCount": 23,
-          "hyCount": 8,
-          "hyCoreCount": 8
+          "questionCount": 24,
+          "hyCount": 9,
+          "hyCoreCount": 9
         }
       ],
       "week": 1,
@@ -183,9 +183,9 @@
         {
           "id": "obstructive-restrictive-foundations",
           "name": "Obstructive and Restrictive Lung Diseases: Foundations",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 23,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "tobacco-smoking",
@@ -197,23 +197,23 @@
         {
           "id": "copd-pathophysiology",
           "name": "COPD: Pathophysiology",
-          "questionCount": 24,
-          "hyCount": 8,
-          "hyCoreCount": 8
+          "questionCount": 26,
+          "hyCount": 10,
+          "hyCoreCount": 10
         },
         {
           "id": "copd-clinical",
           "name": "COPD: Clinical Presentation, Diagnosis, and Management",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 23,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "asthma",
           "name": "Asthma",
-          "questionCount": 26,
-          "hyCount": 9,
-          "hyCoreCount": 9
+          "questionCount": 27,
+          "hyCount": 10,
+          "hyCoreCount": 10
         },
         {
           "id": "treatment-asthma-copd",
@@ -234,9 +234,9 @@
         {
           "id": "bronchiectasis",
           "name": "Bronchiectasis",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 24,
+          "hyCount": 9,
+          "hyCoreCount": 9
         },
         {
           "id": "cystic-fibrosis-1",
@@ -255,16 +255,16 @@
         {
           "id": "inflammatory-pharynx-larynx-trachea",
           "name": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 23,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "pertussis-diphtheria",
           "name": "B. pertussis and C. diphtheriae",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 25,
+          "hyCount": 10,
+          "hyCoreCount": 10
         },
         {
           "id": "inflammatory-nasal-sinuses",
@@ -299,16 +299,16 @@
         {
           "id": "idiopathic-pulmonary-fibrosis",
           "name": "Idiopathic Pulmonary Fibrosis",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 25,
+          "hyCount": 10,
+          "hyCoreCount": 10
         },
         {
           "id": "pneumoconioses",
           "name": "Pneumoconioses",
-          "questionCount": 24,
-          "hyCount": 8,
-          "hyCoreCount": 8
+          "questionCount": 26,
+          "hyCount": 10,
+          "hyCoreCount": 10
         },
         {
           "id": "sarcoidosis",
@@ -320,9 +320,9 @@
         {
           "id": "autoimmune-respiratory",
           "name": "Autoimmune Diseases with Respiratory Manifestations",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 24,
+          "hyCount": 9,
+          "hyCoreCount": 9
         }
       ],
       "week": 3,
@@ -336,9 +336,9 @@
         {
           "id": "pleural-effusion",
           "name": "Pleural Effusion",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 24,
+          "hyCount": 9,
+          "hyCoreCount": 9
         },
         {
           "id": "pneumothorax",
@@ -350,9 +350,9 @@
         {
           "id": "mesothelioma",
           "name": "Mesothelioma",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 25,
+          "hyCount": 10,
+          "hyCoreCount": 10
         }
       ],
       "week": 3,
@@ -366,23 +366,23 @@
         {
           "id": "traumatic-chest-disorders",
           "name": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 23,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "ards",
           "name": "Acute Respiratory Distress Syndrome (ARDS)",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 23,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "neonatal-rds",
           "name": "Neonatal Respiratory Distress Syndrome",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 24,
+          "hyCount": 9,
+          "hyCoreCount": 9
         },
         {
           "id": "sleep-apnea",
@@ -719,9 +719,9 @@
         {
           "id": "pulmonary-embolism",
           "name": "Pulmonary Embolism",
-          "questionCount": 22,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 23,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "pulmonary-embolism-hard",
@@ -747,55 +747,6 @@
       ],
       "week": 5,
       "weekName": "Week 5",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "pictures",
-      "name": "Pictures by week",
-      "topics": [
-        {
-          "id": "pictures-w1",
-          "name": "Week 1 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 1,
-          "extraCount": 0,
-          "questionCount": 1,
-          "hyCount": 1,
-          "hyCoreCount": 1
-        },
-        {
-          "id": "pictures-w2",
-          "name": "Week 2 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 11,
-          "extraCount": 0,
-          "questionCount": 11,
-          "hyCount": 11,
-          "hyCoreCount": 11
-        },
-        {
-          "id": "pictures-w3",
-          "name": "Week 3 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 16,
-          "extraCount": 0,
-          "questionCount": 16,
-          "hyCount": 16,
-          "hyCoreCount": 16
-        },
-        {
-          "id": "pictures-w5",
-          "name": "Week 5 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 1,
-          "extraCount": 0,
-          "questionCount": 1,
-          "hyCount": 1,
-          "hyCoreCount": 1
-        }
-      ],
-      "week": 6,
-      "weekName": "Picture questions",
       "weekSubtitle": ""
     }
   ],

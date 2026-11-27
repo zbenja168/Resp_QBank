@@ -1045,6 +1045,100 @@
       ]
     },
     {
+      "id": "repic-224",
+      "topicId": "bronchiectasis",
+      "topicName": "Bronchiectasis",
+      "stem": "A 52-year-old woman has a chronic cough productive of large volumes of foul sputum and recurrent pneumonias. Her chest CT is shown (arrows). What condition does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "B",
+          "text": "Centrilobular emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Lung abscess"
+        },
+        {
+          "label": "D",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary embolism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clusters of abnormally dilated bronchi forming cystic and string-of-beads patterns on HRCT are diagnostic of bronchiectasis, reflecting irreversible bronchial wall destruction.",
+        "whyCorrect": "Clusters of abnormally dilated bronchi forming cystic and string-of-beads patterns on HRCT are diagnostic of bronchiectasis, reflecting irreversible bronchial wall destruction.",
+        "whyWrongByChoice": {
+          "B": "Centrilobular emphysema shows low-attenuation areas without visible walls around a central artery, not thick-walled dilated bronchi.",
+          "C": "A lung abscess is a single thick-walled cavity, often with an air-fluid level, rather than a cluster of dilated tubular airways.",
+          "D": "A pleural effusion is dependent fluid density in the pleural space outside the lung, not within clustered airways.",
+          "E": "Pulmonary embolism is seen as filling defects within contrast-enhanced pulmonary arteries, not as cystic airway changes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-224_Brick Exchange - Bronchiectasis_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-471",
+      "topicId": "bronchiectasis",
+      "topicName": "Bronchiectasis",
+      "stem": "This lung was removed at transplant from a 22-year-old with lifelong recurrent Pseudomonas infections and pancreatic insufficiency. What structural airway disease is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Emphysema"
+        },
+        {
+          "label": "D",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary infarction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Recurrent infection and mucus plugging in CF cause permanent, abnormal dilation of bronchi, seen grossly as the enlarged, pus-filled cystic airway spaces characteristic of bronchiectasis.",
+        "whyCorrect": "Recurrent infection and mucus plugging in CF cause permanent, abnormal dilation of bronchi, seen grossly as the enlarged, pus-filled cystic airway spaces characteristic of bronchiectasis.",
+        "whyWrongByChoice": {
+          "B": "Alveolar hemorrhage gives a diffusely red, blood-filled parenchyma without dilated, pus-filled cystic airways.",
+          "C": "Emphysema enlarges thin-walled distal airspaces and is not filled with purulent material from dilated bronchi.",
+          "D": "Lobar pneumonia consolidates a lobe uniformly without permanent dilation of the bronchi.",
+          "E": "A pulmonary infarct is a wedge-shaped hemorrhagic area based on the pleura, not diffuse dilated cystic airways."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-471_Brick Exchange - Cystic Fibrosis (1 of 2)_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
       "id": "r14-023",
       "topicId": "cystic-fibrosis-1",
       "topicName": "Cystic Fibrosis (Part 1)",
@@ -4178,6 +4272,53 @@
       ]
     },
     {
+      "id": "repic-303",
+      "topicId": "inflammatory-pharynx-larynx-trachea",
+      "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+      "stem": "A 4-year-old unvaccinated child has fever, drooling, and muffled voice. Lateral neck radiographs are shown (left, a normal child for comparison; right, this patient). What is the most likely diagnosis and cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute epiglottitis - Haemophilus influenzae type b"
+        },
+        {
+          "label": "B",
+          "text": "Aspirated foreign body"
+        },
+        {
+          "label": "C",
+          "text": "Croup (steeple sign) - parainfluenza virus"
+        },
+        {
+          "label": "D",
+          "text": "Peritonsillar abscess - anaerobes"
+        },
+        {
+          "label": "E",
+          "text": "Retropharyngeal abscess - Streptococcus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 'thumbprint sign' on a lateral neck film is a swollen epiglottis, characteristic of acute epiglottitis, classically caused by Haemophilus influenzae type b (now less common with Hib vaccination). It is an airway emergency.",
+        "whyCorrect": "The 'thumbprint sign' on a lateral neck film is a swollen epiglottis, characteristic of acute epiglottitis, classically caused by Haemophilus influenzae type b (now less common with Hib vaccination). It is an airway emergency.",
+        "whyWrongByChoice": {
+          "B": "A radiopaque foreign body appears as a discrete dense object in the airway or esophagus, not as a swollen epiglottis.",
+          "C": "Croup's steeple sign is subglottic tracheal narrowing on a frontal film; the epiglottis is normal.",
+          "D": "Peritonsillar abscess is diagnosed clinically by uvular deviation and trismus; it does not produce a thumb sign on a lateral neck film.",
+          "E": "Retropharyngeal abscess widens the prevertebral soft tissues on the lateral film rather than enlarging the epiglottis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-303_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p15_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
       "id": "r16-001",
       "topicId": "pertussis-diphtheria",
       "topicName": "B. pertussis and C. diphtheriae",
@@ -5222,6 +5363,147 @@
         "toxin-absorption",
         "complication"
       ]
+    },
+    {
+      "id": "repic-169",
+      "topicId": "pertussis-diphtheria",
+      "topicName": "B. pertussis and C. diphtheriae",
+      "stem": "A 6-year-old unvaccinated child has sore throat, fever, and a gray membrane over the tonsils. A Gram stain of the throat swab is shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": "B",
+          "text": "Bacillus anthracis"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium tetani"
+        },
+        {
+          "label": "D",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "E",
+          "text": "Listeria monocytogenes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria.",
+        "whyCorrect": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria.",
+        "whyWrongByChoice": {
+          "A": "Actinomyces is a Gram-positive branching filamentous rod forming sulfur granules, not club-shaped rods in Chinese-letter clusters.",
+          "B": "Bacillus anthracis forms large boxcar-shaped Gram-positive rods in long chains (bamboo-stick appearance).",
+          "C": "Clostridium tetani is a Gram-positive rod with a terminal spore giving a drumstick or tennis-racket shape.",
+          "E": "Listeria is a short Gram-positive rod with tumbling motility, without club shapes or V/Y palisades."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-169_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p2_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-170",
+      "topicId": "pertussis-diphtheria",
+      "topicName": "B. pertussis and C. diphtheriae",
+      "stem": "A throat-swab isolate from a child with a gray adherent pharyngeal membrane is stained with a special stain, shown here. What are the dark structures at the ends of the rods?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capsular polysaccharide deposits"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular glycogen vacuoles"
+        },
+        {
+          "label": "C",
+          "text": "Metachromatic (volutin) granules of stored polyphosphate"
+        },
+        {
+          "label": "D",
+          "text": "Sulfur granules of actinomycotic colonies"
+        },
+        {
+          "label": "E",
+          "text": "Terminal endospores resistant to heat"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification.",
+        "whyCorrect": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification.",
+        "whyWrongByChoice": {
+          "A": "Capsules appear as clear halos around organisms with negative staining or quellung, not as dark polar granules.",
+          "B": "Glycogen does not stain as metachromatic polar granules, and C. diphtheriae is identified by its polyphosphate stores.",
+          "D": "Sulfur granules are macroscopic yellow colonies of Actinomyces found in draining pus, not intracellular polar granules.",
+          "E": "Corynebacterium does not form spores; terminal endospores are features of Clostridium and Bacillus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-170_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-551",
+      "topicId": "pertussis-diphtheria",
+      "topicName": "B. pertussis and C. diphtheriae",
+      "stem": "An unvaccinated 9-year-old has sore throat, low-grade fever, and cervical lymphadenopathy. His oropharynx is shown. What is this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aphthous ulcer"
+        },
+        {
+          "label": "B",
+          "text": "Diphtheritic pseudomembrane"
+        },
+        {
+          "label": "C",
+          "text": "Herpetic gingivostomatitis"
+        },
+        {
+          "label": "D",
+          "text": "Leukoplakia"
+        },
+        {
+          "label": "E",
+          "text": "Oral candidiasis (thrush)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria.",
+        "whyCorrect": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria.",
+        "whyWrongByChoice": {
+          "A": "Aphthous ulcers are small, shallow, painful ulcers with a gray-yellow base and red halo, not a confluent bleeding pharyngeal membrane.",
+          "C": "Herpetic gingivostomatitis causes painful clustered vesicles and ulcers on the gums and lips, not an adherent gray membrane.",
+          "D": "Leukoplakia is a white patch on oral mucosa that cannot be scraped off, usually on the tongue or buccal mucosa, and is premalignant rather than infectious.",
+          "E": "Thrush forms creamy white plaques that scrape off easily, leaving a red base, rather than a tough gray membrane."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-551_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p4_2.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "cardiopulm-picqbank"
     },
     {
       "id": "r16-023",
