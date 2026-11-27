@@ -748,7 +748,56 @@
       "week": 5,
       "weekName": "Week 5",
       "weekSubtitle": ""
+    },
+    {
+      "id": "pictures",
+      "name": "Pictures by week",
+      "topics": [
+        {
+          "id": "pictures-w1",
+          "name": "Week 1 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 1,
+          "extraCount": 0,
+          "questionCount": 1,
+          "hyCount": 1,
+          "hyCoreCount": 1
+        },
+        {
+          "id": "pictures-w2",
+          "name": "Week 2 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 11,
+          "extraCount": 0,
+          "questionCount": 11,
+          "hyCount": 11,
+          "hyCoreCount": 11
+        },
+        {
+          "id": "pictures-w3",
+          "name": "Week 3 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 16,
+          "extraCount": 0,
+          "questionCount": 16,
+          "hyCount": 16,
+          "hyCoreCount": 16
+        },
+        {
+          "id": "pictures-w5",
+          "name": "Week 5 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 1,
+          "extraCount": 0,
+          "questionCount": 1,
+          "hyCount": 1,
+          "hyCoreCount": 1
+        }
+      ],
+      "week": 6,
+      "weekName": "Picture questions",
+      "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 1968
+  "totalQuestions": 1997
 }

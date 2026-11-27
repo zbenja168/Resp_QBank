@@ -1,0 +1,1427 @@
+{
+  "categoryId": "pictures",
+  "categoryName": "Pictures by week",
+  "questions": [
+    {
+      "id": "repic-857",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This graph compares blood oxygen content curves for normal blood, anemia (Hb 7 g/dL), and blood with 50% carboxyhemoglobin. Compared with normal blood, how does carbon monoxide (dashed curve) affect oxygen transport?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CO both lowers total O2-carrying capacity and left-shifts the dissociation curve"
+        },
+        {
+          "label": "B",
+          "text": "CO increases oxygen content but right-shifts the curve, improving delivery"
+        },
+        {
+          "label": "C",
+          "text": "CO lowers content but right-shifts the curve, aiding unloading"
+        },
+        {
+          "label": "D",
+          "text": "CO only lowers dissolved oxygen without affecting hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "CO raises the P50 so tissues extract more oxygen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carbon monoxide binds hemoglobin with high affinity, reducing available O2 binding sites (lower content) and simultaneously left-shifting the curve for the remaining sites, so oxygen is held more tightly and released poorly at tissues, causing profound hypoxia despite a 'normal' PaO2.",
+        "whyCorrect": "Carbon monoxide binds hemoglobin with high affinity, reducing available O2 binding sites (lower content) and simultaneously left-shifting the curve for the remaining sites, so oxygen is held more tightly and released poorly at tissues, causing profound hypoxia despite a 'normal' PaO2.",
+        "whyWrongByChoice": {
+          "B": "CO lowers, not raises, oxygen content by occupying heme sites, and it shifts the remaining curve left, which impairs rather than improves delivery.",
+          "C": "The reduced content is correct, but the shift is to the left, not the right, so unloading at tissues is hindered rather than aided.",
+          "D": "Dissolved O2 depends on PaO2, which stays normal in CO poisoning; the harm comes from CO occupying hemoglobin binding sites.",
+          "E": "CO lowers the P50 (left shift), increasing hemoglobin's affinity for the remaining O2, so tissues extract less oxygen, not more."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-857_Brick Exchange - Respiratory_ Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning_p8_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Carbon Monoxide and Cyanide Poisoning",
+      "lectureTopicId": "co-cn-poisoning",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-542",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A 66-year-old man with a 3-month history of cough and weight loss has the hand finding shown. This finding is most commonly associated with which category of disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute viral upper respiratory infection"
+        },
+        {
+          "label": "B",
+          "text": "Carpal tunnel syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Chronic hypoxemic pulmonary disease"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia alone"
+        },
+        {
+          "label": "E",
+          "text": "Osteoarthritis of the hands"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis.",
+        "whyCorrect": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis.",
+        "whyWrongByChoice": {
+          "A": "Acute viral upper respiratory infections are brief and self-limited, far too short to produce chronic soft-tissue proliferation of the nail bed.",
+          "B": "Carpal tunnel syndrome causes median nerve numbness and thenar atrophy, not changes in the distal phalanges or nails.",
+          "D": "Iron deficiency causes spoon-shaped nails (koilonychia), not clubbing with loss of the Lovibond angle.",
+          "E": "Osteoarthritis produces bony Heberden and Bouchard nodes at the interphalangeal joints, not bulbous fingertip enlargement with loss of the nail angle."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-542_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Obstructive and Restrictive Lung Diseases: Foundations",
+      "lectureTopicId": "obstructive-restrictive-foundations",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-458",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This bronchial biopsy is from a 55-year-old man who has smoked two packs of cigarettes daily for 30 years. What change is shown at the arrow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaplasia"
+        },
+        {
+          "label": "B",
+          "text": "Epithelial hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Goblet cell hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "High-grade dysplasia"
+        },
+        {
+          "label": "E",
+          "text": "Squamous metaplasia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
+        "whyCorrect": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
+        "whyWrongByChoice": {
+          "A": "Anaplasia is the complete loss of differentiation seen in malignant tumors, not an adaptive change to a mature cell type.",
+          "B": "Hypertrophy is enlargement of existing cells without changing cell type; here the columnar epithelium has been replaced by a different type.",
+          "C": "Goblet cell hyperplasia increases mucus-secreting cells within the columnar epithelium; the epithelium shown is flat and stratified.",
+          "D": "Dysplasia implies disordered maturation with nuclear atypia and loss of polarity; orderly stratified squamous replacement is metaplasia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-458_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p8_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "COPD: Pathophysiology",
+      "lectureTopicId": "copd-pathophysiology",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-489",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "These two lung sections are shown at the same magnification; panel B is normal lung for comparison. A 64-year-old long-time smoker has progressive dyspnea and hyperinflated lungs. What does panel A show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Organizing pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary alveolar proteinosis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary edema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Panel A shows permanently enlarged airspaces with destroyed, thinned septa compared with the normal alveolar architecture in panel B. This is emphysema: enlargement of airspaces distal to the terminal bronchiole with alveolar wall destruction, which reduces gas-exchange surface area.",
+        "whyCorrect": "Panel A shows permanently enlarged airspaces with destroyed, thinned septa compared with the normal alveolar architecture in panel B. This is emphysema: enlargement of airspaces distal to the terminal bronchiole with alveolar wall destruction, which reduces gas-exchange surface area.",
+        "whyWrongByChoice": {
+          "A": "Diffuse alveolar hemorrhage fills alveoli with red cells and hemosiderin-laden macrophages, without destruction of septa.",
+          "C": "Organizing pneumonia shows plugs of loose fibroblastic tissue (Masson bodies) within airspaces, not enlarged empty airspaces.",
+          "D": "Alveolar proteinosis fills alveoli with PAS-positive granular surfactant material, preserving the alveolar architecture.",
+          "E": "Pulmonary edema fills alveoli with pink proteinaceous fluid while septa remain intact, rather than enlarging airspaces with destroyed walls."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-489_Brick Exchange - Hypercapnia_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "COPD: Pathophysiology",
+      "lectureTopicId": "copd-pathophysiology",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-232",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A 67-year-old man with a 50-pack-year smoking history has progressive exertional dyspnea. His PA chest radiograph is shown. These findings are most typical of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiogenic pulmonary edema"
+        },
+        {
+          "label": "B",
+          "text": "COPD with emphysematous hyperinflation"
+        },
+        {
+          "label": "C",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
+        "whyCorrect": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
+        "whyWrongByChoice": {
+          "A": "Cardiogenic edema shows cardiomegaly, vascular redistribution, interstitial lines, and effusions, not hyperlucent lungs with a narrow heart.",
+          "C": "A large pleural effusion causes a dense opacity with a meniscus, blunting costophrenic angles, rather than hyperlucency.",
+          "D": "Lobar pneumonia shows a dense lobar consolidation with air bronchograms, not bilateral hyperinflation and flattened diaphragms.",
+          "E": "Tension pneumothorax shows a unilateral lucent hemithorax without lung markings and mediastinal shift away from the affected side."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-232_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p12_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "COPD: Clinical Presentation, Diagnosis, and Management",
+      "lectureTopicId": "copd-clinical",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-440",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This H&E section of a bronchus is from a 24-year-old woman who died during a prolonged episode of severe wheezing. The arrows mark key features. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asthma"
+        },
+        {
+          "label": "B",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic bronchitis"
+        },
+        {
+          "label": "D",
+          "text": "Emphysema"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary tuberculosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
+        "whyCorrect": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
+        "whyWrongByChoice": {
+          "B": "Bronchiectasis shows permanently dilated bronchi with destroyed walls and purulent mucus, not hypertrophied smooth muscle with eosinophilic infiltrates.",
+          "C": "Chronic bronchitis shows submucosal gland hypertrophy (raised Reid index) with neutrophil-predominant inflammation, not eosinophil-rich infiltrates and basement membrane thickening.",
+          "D": "Emphysema destroys alveolar walls distal to the terminal bronchiole; it does not remodel the bronchial wall with a thick basement membrane.",
+          "E": "Tuberculosis forms caseating granulomas with epithelioid macrophages and Langhans giant cells, not eosinophilic airway remodeling."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-440_Brick Exchange - Asthma_p12_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Asthma",
+      "lectureTopicId": "asthma",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-224",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A 52-year-old woman has a chronic cough productive of large volumes of foul sputum and recurrent pneumonias. Her chest CT is shown (arrows). What condition does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "B",
+          "text": "Centrilobular emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Lung abscess"
+        },
+        {
+          "label": "D",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary embolism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clusters of abnormally dilated bronchi forming cystic and string-of-beads patterns on HRCT are diagnostic of bronchiectasis, reflecting irreversible bronchial wall destruction.",
+        "whyCorrect": "Clusters of abnormally dilated bronchi forming cystic and string-of-beads patterns on HRCT are diagnostic of bronchiectasis, reflecting irreversible bronchial wall destruction.",
+        "whyWrongByChoice": {
+          "B": "Centrilobular emphysema shows low-attenuation areas without visible walls around a central artery, not thick-walled dilated bronchi.",
+          "C": "A lung abscess is a single thick-walled cavity, often with an air-fluid level, rather than a cluster of dilated tubular airways.",
+          "D": "A pleural effusion is dependent fluid density in the pleural space outside the lung, not within clustered airways.",
+          "E": "Pulmonary embolism is seen as filling defects within contrast-enhanced pulmonary arteries, not as cystic airway changes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-224_Brick Exchange - Bronchiectasis_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Bronchiectasis",
+      "lectureTopicId": "bronchiectasis",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-471",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This lung was removed at transplant from a 22-year-old with lifelong recurrent Pseudomonas infections and pancreatic insufficiency. What structural airway disease is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Emphysema"
+        },
+        {
+          "label": "D",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary infarction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Recurrent infection and mucus plugging in CF cause permanent, abnormal dilation of bronchi, seen grossly as the enlarged, pus-filled cystic airway spaces characteristic of bronchiectasis.",
+        "whyCorrect": "Recurrent infection and mucus plugging in CF cause permanent, abnormal dilation of bronchi, seen grossly as the enlarged, pus-filled cystic airway spaces characteristic of bronchiectasis.",
+        "whyWrongByChoice": {
+          "B": "Alveolar hemorrhage gives a diffusely red, blood-filled parenchyma without dilated, pus-filled cystic airways.",
+          "C": "Emphysema enlarges thin-walled distal airspaces and is not filled with purulent material from dilated bronchi.",
+          "D": "Lobar pneumonia consolidates a lobe uniformly without permanent dilation of the bronchi.",
+          "E": "A pulmonary infarct is a wedge-shaped hemorrhagic area based on the pleura, not diffuse dilated cystic airways."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-471_Brick Exchange - Cystic Fibrosis (1 of 2)_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Bronchiectasis",
+      "lectureTopicId": "bronchiectasis",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-303",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A 4-year-old unvaccinated child has fever, drooling, and muffled voice. Lateral neck radiographs are shown (left, a normal child for comparison; right, this patient). What is the most likely diagnosis and cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute epiglottitis - Haemophilus influenzae type b"
+        },
+        {
+          "label": "B",
+          "text": "Aspirated foreign body"
+        },
+        {
+          "label": "C",
+          "text": "Croup (steeple sign) - parainfluenza virus"
+        },
+        {
+          "label": "D",
+          "text": "Peritonsillar abscess - anaerobes"
+        },
+        {
+          "label": "E",
+          "text": "Retropharyngeal abscess - Streptococcus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 'thumbprint sign' on a lateral neck film is a swollen epiglottis, characteristic of acute epiglottitis, classically caused by Haemophilus influenzae type b (now less common with Hib vaccination). It is an airway emergency.",
+        "whyCorrect": "The 'thumbprint sign' on a lateral neck film is a swollen epiglottis, characteristic of acute epiglottitis, classically caused by Haemophilus influenzae type b (now less common with Hib vaccination). It is an airway emergency.",
+        "whyWrongByChoice": {
+          "B": "A radiopaque foreign body appears as a discrete dense object in the airway or esophagus, not as a swollen epiglottis.",
+          "C": "Croup's steeple sign is subglottic tracheal narrowing on a frontal film; the epiglottis is normal.",
+          "D": "Peritonsillar abscess is diagnosed clinically by uvular deviation and trismus; it does not produce a thumb sign on a lateral neck film.",
+          "E": "Retropharyngeal abscess widens the prevertebral soft tissues on the lateral film rather than enlarging the epiglottis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-303_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p15_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+      "lectureTopicId": "inflammatory-pharynx-larynx-trachea",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-169",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A 6-year-old unvaccinated child has sore throat, fever, and a gray membrane over the tonsils. A Gram stain of the throat swab is shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": "B",
+          "text": "Bacillus anthracis"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium tetani"
+        },
+        {
+          "label": "D",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "E",
+          "text": "Listeria monocytogenes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria.",
+        "whyCorrect": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria.",
+        "whyWrongByChoice": {
+          "A": "Actinomyces is a Gram-positive branching filamentous rod forming sulfur granules, not club-shaped rods in Chinese-letter clusters.",
+          "B": "Bacillus anthracis forms large boxcar-shaped Gram-positive rods in long chains (bamboo-stick appearance).",
+          "C": "Clostridium tetani is a Gram-positive rod with a terminal spore giving a drumstick or tennis-racket shape.",
+          "E": "Listeria is a short Gram-positive rod with tumbling motility, without club shapes or V/Y palisades."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-169_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p2_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "B. pertussis and C. diphtheriae",
+      "lectureTopicId": "pertussis-diphtheria",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-170",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A throat-swab isolate from a child with a gray adherent pharyngeal membrane is stained with a special stain, shown here. What are the dark structures at the ends of the rods?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capsular polysaccharide deposits"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular glycogen vacuoles"
+        },
+        {
+          "label": "C",
+          "text": "Metachromatic (volutin) granules of stored polyphosphate"
+        },
+        {
+          "label": "D",
+          "text": "Sulfur granules of actinomycotic colonies"
+        },
+        {
+          "label": "E",
+          "text": "Terminal endospores resistant to heat"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification.",
+        "whyCorrect": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification.",
+        "whyWrongByChoice": {
+          "A": "Capsules appear as clear halos around organisms with negative staining or quellung, not as dark polar granules.",
+          "B": "Glycogen does not stain as metachromatic polar granules, and C. diphtheriae is identified by its polyphosphate stores.",
+          "D": "Sulfur granules are macroscopic yellow colonies of Actinomyces found in draining pus, not intracellular polar granules.",
+          "E": "Corynebacterium does not form spores; terminal endospores are features of Clostridium and Bacillus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-170_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "B. pertussis and C. diphtheriae",
+      "lectureTopicId": "pertussis-diphtheria",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-551",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "An unvaccinated 9-year-old has sore throat, low-grade fever, and cervical lymphadenopathy. His oropharynx is shown. What is this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aphthous ulcer"
+        },
+        {
+          "label": "B",
+          "text": "Diphtheritic pseudomembrane"
+        },
+        {
+          "label": "C",
+          "text": "Herpetic gingivostomatitis"
+        },
+        {
+          "label": "D",
+          "text": "Leukoplakia"
+        },
+        {
+          "label": "E",
+          "text": "Oral candidiasis (thrush)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria.",
+        "whyCorrect": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria.",
+        "whyWrongByChoice": {
+          "A": "Aphthous ulcers are small, shallow, painful ulcers with a gray-yellow base and red halo, not a confluent bleeding pharyngeal membrane.",
+          "C": "Herpetic gingivostomatitis causes painful clustered vesicles and ulcers on the gums and lips, not an adherent gray membrane.",
+          "D": "Leukoplakia is a white patch on oral mucosa that cannot be scraped off, usually on the tongue or buccal mucosa, and is premalignant rather than infectious.",
+          "E": "Thrush forms creamy white plaques that scrape off easily, leaving a red base, rather than a tough gray membrane."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-551_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p4_2.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "B. pertussis and C. diphtheriae",
+      "lectureTopicId": "pertussis-diphtheria",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-152",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "These H&E sections are from a lung biopsy of a 68-year-old man with progressive dyspnea and bibasilar crackles; the arrow marks a key feature. Which histologic pattern is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse alveolar damage"
+        },
+        {
+          "label": "B",
+          "text": "Nonspecific interstitial pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Organizing pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory bronchiolitis"
+        },
+        {
+          "label": "E",
+          "text": "Usual interstitial pneumonia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Spatially heterogeneous fibrosis with microscopic honeycombing defines the UIP pattern of IPF. NSIP is uniform, DAD shows hyaline membranes, and organizing pneumonia shows intraluminal fibroblastic plugs.",
+        "whyCorrect": "Spatially heterogeneous fibrosis with microscopic honeycombing defines the UIP pattern of IPF. NSIP is uniform, DAD shows hyaline membranes, and organizing pneumonia shows intraluminal fibroblastic plugs.",
+        "whyWrongByChoice": {
+          "A": "Diffuse alveolar damage shows hyaline membranes lining alveoli in the acute phase, not chronic patchy collagen with honeycombing.",
+          "B": "NSIP shows uniform, temporally homogeneous interstitial inflammation or fibrosis, without honeycomb cysts and patchy heterogeneity.",
+          "C": "Organizing pneumonia shows intraluminal plugs of loose fibroblastic tissue (Masson bodies), with preserved architecture.",
+          "D": "Respiratory bronchiolitis shows pigmented smoker's macrophages in respiratory bronchioles, without dense fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-152_Brick Exchange - Idiopathic Pulmonary Fibrosis_p9_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Idiopathic Pulmonary Fibrosis",
+      "lectureTopicId": "idiopathic-pulmonary-fibrosis",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-306",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 70-year-old man has 2 years of progressive dyspnea, dry cough, and bibasilar 'velcro' crackles. His high-resolution chest CT is shown. This imaging pattern is most specific for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Centrilobular emphysema"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Ground-glass-only hypersensitivity pneumonitis"
+        },
+        {
+          "label": "D",
+          "text": "Lymphangitic carcinomatosis"
+        },
+        {
+          "label": "E",
+          "text": "Usual interstitial pneumonia (UIP) pattern"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis defines the UIP pattern, the radiologic hallmark of idiopathic pulmonary fibrosis and other fibrotic interstitial lung diseases.",
+        "whyCorrect": "Subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis defines the UIP pattern, the radiologic hallmark of idiopathic pulmonary fibrosis and other fibrotic interstitial lung diseases.",
+        "whyWrongByChoice": {
+          "A": "Centrilobular emphysema shows upper-lobe low-attenuation areas without walls, not basal reticulation with clustered thick-walled cysts.",
+          "B": "Diffuse alveolar hemorrhage causes patchy or diffuse ground-glass and consolidation without fibrotic honeycombing.",
+          "C": "Ground-glass opacity alone reflects active inflammation without fibrosis; honeycombing indicates established fibrotic disease of the UIP type.",
+          "D": "Lymphangitic carcinomatosis causes nodular, beaded interlobular septal thickening, often with effusions, rather than subpleural honeycombing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-306_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Idiopathic Pulmonary Fibrosis",
+      "lectureTopicId": "idiopathic-pulmonary-fibrosis",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-493",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This cut surface of a lung is from a 72-year-old man who died of progressive restrictive lung disease. What is this end-stage gross finding called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cavitary tuberculosis"
+        },
+        {
+          "label": "B",
+          "text": "Cystic bronchiectasis"
+        },
+        {
+          "label": "C",
+          "text": "Emphysematous bullae"
+        },
+        {
+          "label": "D",
+          "text": "Honeycomb lung"
+        },
+        {
+          "label": "E",
+          "text": "Multiple lung abscesses"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling.",
+        "whyCorrect": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling.",
+        "whyWrongByChoice": {
+          "A": "Cavitary tuberculosis creates localized apical cavities with caseous necrosis rather than diffuse fibrous walls around many cysts.",
+          "B": "Cystic bronchiectasis shows dilated bronchi in continuity with the airway tree, often containing pus, rather than diffuse fibrosis.",
+          "C": "Bullae are thin-walled, air-filled spaces larger than 1 cm from emphysema, not cysts enclosed by dense fibrous tissue.",
+          "E": "Abscesses are discrete cavities filled with pus and necrotic debris, not uniform cysts set within dense fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-493_Brick Exchange - Idiopathic Pulmonary Fibrosis_p6_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Idiopathic Pulmonary Fibrosis",
+      "lectureTopicId": "idiopathic-pulmonary-fibrosis",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-164",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This lung biopsy (left, H&E; right, polarized view) is from a 58-year-old sandblaster with progressive dyspnea. What is the lesion on the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchogenic carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Caseating tuberculous granuloma"
+        },
+        {
+          "label": "C",
+          "text": "Hamartoma"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatoid (Caplan) nodule"
+        },
+        {
+          "label": "E",
+          "text": "Silicotic nodule"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The silicotic nodule is characterized by concentric ('onion-skin') layers of hyalinized collagen. Polarized light reveals birefringent silica particles within it. These nodules coalesce over time and can progress to massive fibrosis.",
+        "whyCorrect": "The silicotic nodule is characterized by concentric ('onion-skin') layers of hyalinized collagen. Polarized light reveals birefringent silica particles within it. These nodules coalesce over time and can progress to massive fibrosis.",
+        "whyWrongByChoice": {
+          "A": "Bronchogenic carcinoma shows infiltrating malignant epithelial cells rather than an acellular whorl of hyalinized collagen.",
+          "B": "TB granulomas have central caseous necrosis surrounded by epithelioid histiocytes and Langhans giant cells, not layered collagen.",
+          "C": "A hamartoma contains a disorganized mix of cartilage, fat, and smooth muscle, often with popcorn calcification, not whorled collagen.",
+          "D": "Caplan nodules occur in pneumoconiosis with rheumatoid arthritis and have central necrosis with palisading histiocytes, not purely concentric hyalinized collagen."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-164_Brick Exchange - Pneumoconioses_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pneumoconioses",
+      "lectureTopicId": "pneumoconioses",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-165",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This lung biopsy is from a 70-year-old retired shipyard worker with progressive dyspnea. What are the golden-brown rod-shaped structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asbestos bodies"
+        },
+        {
+          "label": "B",
+          "text": "Charcot-Leyden crystals"
+        },
+        {
+          "label": "C",
+          "text": "Curschmann spirals"
+        },
+        {
+          "label": "D",
+          "text": "Psammoma bodies"
+        },
+        {
+          "label": "E",
+          "text": "Schaumann bodies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Asbestos bodies are ferruginous bodies: thin asbestos fibers coated with an iron-containing proteinaceous material, producing golden-brown beaded rods with knobbed ends. Their presence indicates significant asbestos exposure.",
+        "whyCorrect": "Asbestos bodies are ferruginous bodies: thin asbestos fibers coated with an iron-containing proteinaceous material, producing golden-brown beaded rods with knobbed ends. Their presence indicates significant asbestos exposure.",
+        "whyWrongByChoice": {
+          "B": "Charcot-Leyden crystals are slender, bipyramidal crystals from eosinophil galectin-10 in asthma.",
+          "C": "Curschmann spirals are coiled mucus casts from small bronchioles in asthma, not iron-coated beaded rods.",
+          "D": "Psammoma bodies are round, concentrically laminated calcifications in papillary tumors like thyroid and ovarian carcinoma.",
+          "E": "Schaumann bodies are laminated calcium-protein concretions inside giant cells in sarcoidosis, round rather than dumbbell-shaped."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-165_Brick Exchange - Pneumoconioses_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pneumoconioses",
+      "lectureTopicId": "pneumoconioses",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-105",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 25-year-old man has hemoptysis and acute kidney injury with hematuria. A lung biopsy is shown. What process is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar proteinosis"
+        },
+        {
+          "label": "B",
+          "text": "Bronchopneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "D",
+          "text": "Emphysematous airspace enlargement"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary edema (transudate)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Filling of intact alveoli with red blood cells indicates alveolar hemorrhage, a manifestation of pulmonary capillaritis seen in autoimmune conditions such as anti-GBM disease and ANCA-associated vasculitis.",
+        "whyCorrect": "Filling of intact alveoli with red blood cells indicates alveolar hemorrhage, a manifestation of pulmonary capillaritis seen in autoimmune conditions such as anti-GBM disease and ANCA-associated vasculitis.",
+        "whyWrongByChoice": {
+          "A": "Alveolar proteinosis fills alveoli with granular, PAS-positive pink material, not red blood cells.",
+          "B": "Bronchopneumonia fills airspaces with neutrophils, centered on bronchioles, rather than red cells.",
+          "D": "Emphysema leaves enlarged, empty airspaces with destroyed septa, while here the septa are intact and the spaces are filled.",
+          "E": "Transudative edema fills alveoli with pale, homogeneous pink fluid with few cells, not packed erythrocytes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-105_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p3_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Autoimmune Diseases with Respiratory Manifestations",
+      "lectureTopicId": "autoimmune-respiratory",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-222",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 23-year-old man has hemoptysis and rapidly rising creatinine. Direct immunofluorescence of his renal biopsy, stained for IgG, is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-glomerular basement membrane disease"
+        },
+        {
+          "label": "B",
+          "text": "IgA nephropathy"
+        },
+        {
+          "label": "C",
+          "text": "Membranous nephropathy"
+        },
+        {
+          "label": "D",
+          "text": "Minimal change disease"
+        },
+        {
+          "label": "E",
+          "text": "Post-streptococcal glomerulonephritis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A continuous linear IF pattern reflects antibodies bound uniformly to the GBM (anti-collagen IV), the defining feature of anti-GBM disease, which also targets the alveolar basement membrane to cause pulmonary hemorrhage.",
+        "whyCorrect": "A continuous linear IF pattern reflects antibodies bound uniformly to the GBM (anti-collagen IV), the defining feature of anti-GBM disease, which also targets the alveolar basement membrane to cause pulmonary hemorrhage.",
+        "whyWrongByChoice": {
+          "B": "IgA nephropathy shows mesangial IgA deposits, not linear staining along the GBM.",
+          "C": "Membranous nephropathy shows fine granular subepithelial IgG deposits along the capillary loops and presents with nephrotic syndrome.",
+          "D": "Minimal change disease is negative on immunofluorescence, with only podocyte effacement on electron microscopy.",
+          "E": "Post-streptococcal GN shows coarse, granular lumpy-bumpy deposits with subepithelial humps, not a smooth linear pattern, and does not cause lung hemorrhage."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-222_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p6_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Autoimmune Diseases with Respiratory Manifestations",
+      "lectureTopicId": "autoimmune-respiratory",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-189",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 68-year-old man has dyspnea and dullness to percussion at the right lung base. His chest radiographs before and after treatment are shown; the arrow marks the abnormality. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiomegaly"
+        },
+        {
+          "label": "B",
+          "text": "Lobar pneumonia consolidation"
+        },
+        {
+          "label": "C",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fluid in the pleural space (pleural effusion) is dense and layers dependently, producing a white opacity that blunts the costophrenic angle. Drainage or treatment restores the normal dark, air-filled lung seen post-treatment.",
+        "whyCorrect": "Fluid in the pleural space (pleural effusion) is dense and layers dependently, producing a white opacity that blunts the costophrenic angle. Drainage or treatment restores the normal dark, air-filled lung seen post-treatment.",
+        "whyWrongByChoice": {
+          "A": "Cardiomegaly enlarges the central cardiac silhouette and does not blunt one costophrenic angle.",
+          "B": "Lobar consolidation follows lobar anatomy with air bronchograms and does not characteristically blunt the costophrenic angle with a meniscus.",
+          "D": "Fibrosis produces bilateral reticular opacities and volume loss, not a homogeneous dependent opacity that clears with treatment.",
+          "E": "Tension pneumothorax shows an abnormally dark hemithorax without lung markings, not a white opacity."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-189_Brick Exchange - Anatomy of the Lower Respiratory Tract_p22_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pleural Effusion",
+      "lectureTopicId": "pleural-effusion",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-244",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 70-year-old man with heart failure has worsening dyspnea. PA and lateral chest radiographs are shown; the arrow on the lateral film marks the finding of interest. What does this finding indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiomegaly"
+        },
+        {
+          "label": "B",
+          "text": "Hiatal hernia"
+        },
+        {
+          "label": "C",
+          "text": "Lobar pneumonia consolidation"
+        },
+        {
+          "label": "D",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "E",
+          "text": "Pneumothorax"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Blunting of the normally sharp costophrenic angle with a meniscus of dependent fluid on PA and lateral films is the classic radiographic sign of a pleural effusion.",
+        "whyCorrect": "Blunting of the normally sharp costophrenic angle with a meniscus of dependent fluid on PA and lateral films is the classic radiographic sign of a pleural effusion.",
+        "whyWrongByChoice": {
+          "A": "Cardiomegaly widens the cardiac silhouette beyond half the thoracic width without blunting the costophrenic angles.",
+          "B": "A hiatal hernia appears as a retrocardiac mass, often with an air-fluid level, behind the heart rather than at the lateral costophrenic angle.",
+          "C": "Lobar pneumonia appears as dense consolidation with air bronchograms within a lobe, not dependent fluid with a meniscus at the costophrenic angle.",
+          "E": "Pneumothorax shows a thin visceral pleural line with absent lung markings beyond it; free air rises and does not form a dependent meniscus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-244_Brick Exchange - Diagnosis by Cardiovascular Imaging_p10_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pleural Effusion",
+      "lectureTopicId": "pleural-effusion",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-317",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 68-year-old retired pipefitter has chest pain, weight loss, and dyspnea. A coronal chest CT is shown (arrows and circle). What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emphysematous bulla"
+        },
+        {
+          "label": "B",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Malignant pleural mesothelioma"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoidosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nodular, circumferential pleural thickening that encases the lung with effusion is the classic CT appearance of malignant mesothelioma, strongly associated with asbestos exposure.",
+        "whyCorrect": "Nodular, circumferential pleural thickening that encases the lung with effusion is the classic CT appearance of malignant mesothelioma, strongly associated with asbestos exposure.",
+        "whyWrongByChoice": {
+          "A": "A bulla is a thin-walled air space larger than 1 cm, lucent rather than soft-tissue dense.",
+          "B": "Lobar pneumonia consolidates lung parenchyma with air bronchograms rather than encasing the lung in nodular pleural thickening.",
+          "D": "Pulmonary embolism is a filling defect within the pulmonary arteries, not a rind of soft tissue encasing the pleura.",
+          "E": "Sarcoidosis shows hilar adenopathy and perilymphatic nodules; circumferential pleural rind is not typical."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-317_Brick Exchange - Mesothelioma_p12_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Mesothelioma",
+      "lectureTopicId": "mesothelioma",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-523",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "These circled lesions were found on the parietal pleura at autopsy of a 75-year-old retired insulation worker. They are a hallmark of remote exposure to which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asbestos"
+        },
+        {
+          "label": "B",
+          "text": "Cigarette smoke"
+        },
+        {
+          "label": "C",
+          "text": "Coal dust"
+        },
+        {
+          "label": "D",
+          "text": "Radiation therapy"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculosis infection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Discrete, ivory-white collagenous plaques on the parietal and diaphragmatic pleura are the classic gross marker of prior asbestos exposure.",
+        "whyCorrect": "Discrete, ivory-white collagenous plaques on the parietal and diaphragmatic pleura are the classic gross marker of prior asbestos exposure.",
+        "whyWrongByChoice": {
+          "B": "Cigarette smoke damages airways and parenchyma but does not cause parietal pleural plaques.",
+          "C": "Coal dust produces anthracotic macules and nodules in the lung, not white fibrous pleural plaques.",
+          "D": "Radiation can cause pleural thickening and fibrosis, but discrete pearly-white plaques on the parietal pleura are the signature of asbestos.",
+          "E": "Tuberculosis can cause diffuse pleural thickening or calcification after effusion or empyema, typically unilateral and not discrete plaques."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-523_Brick Exchange - Mesothelioma_p5_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Mesothelioma",
+      "lectureTopicId": "mesothelioma",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-524",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This cross-sectioned lung is from a 72-year-old former shipyard worker with progressive dyspnea and chest pain. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchogenic adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Malignant mesothelioma"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary infarct"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoidosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A rind of tumor encasing the entire lung and encroaching on fissures is the characteristic gross appearance of diffuse malignant pleural mesothelioma.",
+        "whyCorrect": "A rind of tumor encasing the entire lung and encroaching on fissures is the characteristic gross appearance of diffuse malignant pleural mesothelioma.",
+        "whyWrongByChoice": {
+          "A": "Bronchogenic adenocarcinoma usually forms a discrete peripheral mass rather than a diffuse rind encasing the entire lung.",
+          "B": "Lobar pneumonia consolidates a lobe without a thick, firm pleural-based tumor encasing it.",
+          "D": "A pulmonary infarct is a wedge-shaped, hemorrhagic, pleural-based lesion, not a circumferential sheath.",
+          "E": "Sarcoidosis produces small nodules and hilar adenopathy, not a thick tumor rind around the lung."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-524_Brick Exchange - Mesothelioma_p8_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Mesothelioma",
+      "lectureTopicId": "mesothelioma",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-389",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 30-year-old man has dyspnea after a high-speed motor vehicle collision. His chest radiograph and coronal CT are shown. What injury do they indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hiatal hernia from chronic reflux"
+        },
+        {
+          "label": "B",
+          "text": "Lobar collapse"
+        },
+        {
+          "label": "C",
+          "text": "Loculated empyema"
+        },
+        {
+          "label": "D",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Traumatic diaphragmatic rupture"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair.",
+        "whyCorrect": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair.",
+        "whyWrongByChoice": {
+          "A": "A hiatal hernia moves the stomach through the esophageal hiatus in the midline, without loss of the diaphragmatic contour after trauma.",
+          "B": "Lobar collapse shows dense lung with volume loss, not abdominal viscera above a disrupted diaphragm.",
+          "C": "A loculated empyema is a lenticular fluid collection with an enhancing pleural rind, not herniated bowel.",
+          "D": "Tension pneumothorax produces a hyperlucent hemithorax with mediastinal shift, not bowel in the chest."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-389_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p5_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "lectureTopicId": "traumatic-chest-disorders",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-405",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 45-year-old man develops severe hypoxemia and bilateral infiltrates 2 days after aspiration pneumonia and dies despite ventilation. A lung section is shown; the arrow marks a key feature. What underlying process does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchopneumonia with abscess"
+        },
+        {
+          "label": "B",
+          "text": "Caseating granulomatous inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse alveolar damage"
+        },
+        {
+          "label": "D",
+          "text": "Emphysematous airspace destruction"
+        },
+        {
+          "label": "E",
+          "text": "Usual interstitial pneumonia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
+        "whyCorrect": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
+        "whyWrongByChoice": {
+          "A": "Bronchopneumonia is a patchy neutrophilic exudate centered on bronchioles; abscesses show liquefactive necrosis, not diffuse damage.",
+          "B": "Caseating granulomas are nodules of epithelioid histiocytes with central necrosis, as in TB, not diffuse septal widening with hemorrhage.",
+          "D": "Emphysema destroys and thins alveolar walls, enlarging airspaces, rather than widening septa with exudate.",
+          "E": "UIP is a chronic, patchy fibrosis with honeycombing and fibroblastic foci, not an acute exudative injury."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-405_Brick Exchange - Acute Respiratory Distress Syndrome_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Acute Respiratory Distress Syndrome (ARDS)",
+      "lectureTopicId": "ards",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-324",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A newborn delivered at 29 weeks' gestation develops grunting, nasal flaring, and retractions within hours of birth and is intubated. The chest radiograph is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A normal neonatal chest"
+        },
+        {
+          "label": "B",
+          "text": "Congenital diaphragmatic hernia"
+        },
+        {
+          "label": "C",
+          "text": "Meconium aspiration with hyperinflation"
+        },
+        {
+          "label": "D",
+          "text": "Neonatal respiratory distress syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Diffuse ground-glass opacity with air bronchograms and underinflated lungs in a preterm infant is the classic surfactant-deficiency (RDS) pattern.",
+        "whyCorrect": "Diffuse ground-glass opacity with air bronchograms and underinflated lungs in a preterm infant is the classic surfactant-deficiency (RDS) pattern.",
+        "whyWrongByChoice": {
+          "A": "A normal neonatal chest has clear lungs with normal volumes and no diffuse ground-glass opacity.",
+          "B": "Congenital diaphragmatic hernia shows bowel loops in the chest, usually left-sided, with mediastinal shift.",
+          "C": "Meconium aspiration affects term or post-term infants and shows patchy, coarse opacities with hyperinflation, not low volumes.",
+          "E": "Tension pneumothorax shows a hyperlucent hemithorax with mediastinal shift, not bilateral ground-glass."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-324_Brick Exchange - Neonatal Respiratory Distress Syndrome_p13_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Neonatal Respiratory Distress Syndrome",
+      "lectureTopicId": "neonatal-rds",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-535",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "This lung section is from a neonate born at 28 weeks' gestation who died of progressive respiratory distress. What are the pink structures lining the airspaces (arrow)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "B",
+          "text": "Bronchial cartilage plates"
+        },
+        {
+          "label": "C",
+          "text": "Granulomas"
+        },
+        {
+          "label": "D",
+          "text": "Hyaline membranes"
+        },
+        {
+          "label": "E",
+          "text": "Psammoma bodies"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS.",
+        "whyCorrect": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS.",
+        "whyWrongByChoice": {
+          "A": "Amyloid forms amorphous extracellular deposits with apple-green birefringence on Congo red, not linear ductal membranes in neonates.",
+          "B": "Bronchial cartilage plates are basophilic hyaline cartilage in larger airway walls, not eosinophilic linings of alveolar ducts.",
+          "C": "Granulomas are nodular collections of epithelioid macrophages, not thin linear membranes.",
+          "E": "Psammoma bodies are concentric laminated calcifications in papillary tumors, not membranes lining alveolar ducts."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-535_Brick Exchange - Neonatal Respiratory Distress Syndrome_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Neonatal Respiratory Distress Syndrome",
+      "lectureTopicId": "neonatal-rds",
+      "source": "cardiopulm-picqbank"
+    },
+    {
+      "id": "repic-361",
+      "topicId": "pictures-w5",
+      "topicName": "Week 5 pictures",
+      "stem": "A 58-year-old woman has sudden pleuritic chest pain and tachypnea 10 days after hip surgery. This contrast-enhanced CT of the chest is obtained; the arrows mark the abnormality. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pulmonary embolism"
+        },
+        {
+          "label": "B",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "C",
+          "text": "Lung abscess"
+        },
+        {
+          "label": "D",
+          "text": "Mediastinal lymphadenopathy"
+        },
+        {
+          "label": "E",
+          "text": "Pericardial effusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
+        "whyCorrect": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
+        "whyWrongByChoice": {
+          "B": "Aortic dissection shows an intimal flap separating true and false lumens in the aorta, not filling defects within the pulmonary arteries.",
+          "C": "A lung abscess is a cavitary parenchymal lesion, often with an air-fluid level, rather than a filling defect inside contrast-filled pulmonary arteries.",
+          "D": "Enlarged lymph nodes are soft-tissue masses outside the vessels in the mediastinum or hila; they may compress but do not fill the arterial lumen.",
+          "E": "Pericardial effusion appears as fluid density surrounding the heart within the pericardial sac, not as defects within the central pulmonary arteries."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "repic-361_Brick Exchange - Respiratory Alkalosis_p11_1.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pulmonary Embolism",
+      "lectureTopicId": "pulmonary-embolism",
+      "source": "cardiopulm-picqbank"
+    }
+  ]
+}
