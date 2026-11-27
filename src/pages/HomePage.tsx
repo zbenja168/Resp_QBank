@@ -145,13 +145,7 @@ export function HomePage({
                 ))}
               </div>
             </div>
-            <p className="mt-2 text-sm text-slate-400 max-w-2xl">
-              {skinLocked
-                ? 'Sign in to Active Transport and open this QBank from the hub to practise in an exam-style interface.'
-                : skin === 'off'
-                  ? 'Practise in an interface that looks like the software you sit exams in.'
-                  : 'Exam skin on — right and wrong are still marked the usual way.'}
-            </p>
+            {skinLocked && <p className="mt-2 text-xs text-slate-500">Sign in to use exam skins.</p>}
           </div>
         </div>
 
@@ -160,7 +154,7 @@ export function HomePage({
         {/* High Yield: condense the bank to the questions most likely to be
             on the exam, picked brick by brick against the learning objectives. */}
         {anyHy && (
-          <div className={`mb-6 rounded-xl border px-4 py-3 ${
+          <div className={`mb-6 w-fit max-w-full rounded-xl border px-4 py-3 ${
             hyMode ? 'border-amber-500/60 bg-amber-500/10' : 'border-slate-700 bg-slate-800/60'}`}>
             <div className="flex items-center gap-3 flex-wrap">
               <div className="inline-flex rounded-xl border border-slate-700 bg-slate-800 p-1">
@@ -174,6 +168,7 @@ export function HomePage({
                 </button>
                 <button
                   onClick={() => onSetHyMode(true)}
+                  title="Each topic cut to its highest-yield questions"
                   aria-pressed={hyMode}
                   className={`px-3 py-1.5 text-sm font-semibold rounded-lg transition-colors ${
                     hyMode ? 'bg-amber-500 text-slate-900' : 'text-slate-400 hover:text-amber-300'}`}
@@ -182,18 +177,9 @@ export function HomePage({
                 </button>
               </div>
               <span className="text-sm text-slate-300">
-                {hyMode
-                  ? <><strong className="text-amber-300">{hyTotal}</strong> high-yield questions across the block</>
-                  : 'Short on time? Condense every topic to what is most likely on the exam.'}
+                {hyMode && <><strong className="text-amber-300">{hyTotal}</strong> high-yield questions</>}
               </span>
             </div>
-            {hyMode && (
-              <p className="mt-2 text-sm text-slate-400 max-w-3xl">
-                Each topic is cut down to its highest-yield questions (about a third of each topic),
-                chosen against the brick's learning objectives, its case and conclusion, and the
-                classic boards facts for the topic.
-              </p>
-            )}
           </div>
         )}
 
