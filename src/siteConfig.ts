@@ -45,16 +45,6 @@ export const SITE: SiteConfig = {
       "current": false
     },
     {
-      "label": "Picture Match",
-      "url": "https://zbenja168.github.io/cardiopulm-picdnd/",
-      "current": false
-    },
-    {
-      "label": "Anatomy ID",
-      "url": "https://zbenja168.github.io/cardiopulm-anatomy/",
-      "current": false
-    },
-    {
       "label": "3D Anatomy",
       "url": "https://zbenja168.github.io/anatomy-3d/?s=resp",
       "current": false
