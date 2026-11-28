@@ -1,0 +1,426 @@
+{
+ "course": "Respiratory",
+ "whole": {
+  "file": "respiratory.apkg",
+  "cards": 1372,
+  "mb": 19.8
+ },
+ "weeks": [
+  {
+   "file": "respiratory/week-1.apkg",
+   "cards": 366,
+   "mb": 6.8,
+   "week": 1,
+   "sessions": [
+    {
+     "file": "respiratory/week-1-session-1.apkg",
+     "cards": 159,
+     "mb": 4.6,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-01.apkg",
+       "cards": 39,
+       "mb": 2.5,
+       "title": "Histology of the Respiratory Tract"
+      },
+      {
+       "file": "respiratory/lecture-02.apkg",
+       "cards": 26,
+       "mb": 0.2,
+       "title": "Development of the Respiratory Tract"
+      },
+      {
+       "file": "respiratory/lecture-03.apkg",
+       "cards": 34,
+       "mb": 1.1,
+       "title": "Anatomy of the Upper Respiratory Tract"
+      },
+      {
+       "file": "respiratory/lecture-04.apkg",
+       "cards": 33,
+       "mb": 0.8,
+       "title": "Anatomy of the Lower Respiratory Tract"
+      },
+      {
+       "file": "respiratory/lecture-05.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles"
+      }
+     ]
+    },
+    {
+     "file": "respiratory/week-1-session-2.apkg",
+     "cards": 105,
+     "mb": 1.4,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-06.apkg",
+       "cards": 23,
+       "mb": 0.2,
+       "title": "Overview of Respiratory Physiology"
+      },
+      {
+       "file": "respiratory/lecture-07.apkg",
+       "cards": 27,
+       "mb": 0.4,
+       "title": "Mechanics and Pressures of Breathing"
+      },
+      {
+       "file": "respiratory/lecture-08.apkg",
+       "cards": 27,
+       "mb": 0.2,
+       "title": "Alveolar Ventilation and Dead Space"
+      },
+      {
+       "file": "respiratory/lecture-09.apkg",
+       "cards": 28,
+       "mb": 0.9,
+       "title": "Alveolar Gas Exchange and Diffusion"
+      }
+     ]
+    },
+    {
+     "file": "respiratory/week-1-session-3.apkg",
+     "cards": 102,
+     "mb": 0.8,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-10.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Pulmonary Circulation"
+      },
+      {
+       "file": "respiratory/lecture-11.apkg",
+       "cards": 27,
+       "mb": 0.4,
+       "title": "Oxygen and Carbon Dioxide Transport"
+      },
+      {
+       "file": "respiratory/lecture-12.apkg",
+       "cards": 24,
+       "mb": 0.1,
+       "title": "Respiratory Acidosis"
+      },
+      {
+       "file": "respiratory/lecture-13.apkg",
+       "cards": 24,
+       "mb": 0.2,
+       "title": "Respiratory Alkalosis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "respiratory/week-2.apkg",
+   "cards": 479,
+   "mb": 3.8,
+   "week": 2,
+   "sessions": [
+    {
+     "file": "respiratory/week-2-session-1.apkg",
+     "cards": 177,
+     "mb": 1.5,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-15.apkg",
+       "cards": 30,
+       "mb": 0.2,
+       "title": "Control of Ventilation and Effects of Altitude and Exercise"
+      },
+      {
+       "file": "respiratory/lecture-16.apkg",
+       "cards": 29,
+       "mb": 0.5,
+       "title": "Airway Resistance"
+      },
+      {
+       "file": "respiratory/lecture-17.apkg",
+       "cards": 30,
+       "mb": 0.2,
+       "title": "Pulmonary Function Tests"
+      },
+      {
+       "file": "respiratory/lecture-18.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "Pulmonary Ventilation and Perfusion (V/Q)"
+      },
+      {
+       "file": "respiratory/lecture-19.apkg",
+       "cards": 29,
+       "mb": 0.4,
+       "title": "Hypoxemia"
+      },
+      {
+       "file": "respiratory/lecture-20.apkg",
+       "cards": 30,
+       "mb": 0.2,
+       "title": "Hypercapnia"
+      }
+     ]
+    },
+    {
+     "file": "respiratory/week-2-session-2.apkg",
+     "cards": 170,
+     "mb": 1.4,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-21.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Obstructive and Restrictive Lung Diseases: Foundations"
+      },
+      {
+       "file": "respiratory/lecture-22.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Tobacco Smoking"
+      },
+      {
+       "file": "respiratory/lecture-23.apkg",
+       "cards": 27,
+       "mb": 0.6,
+       "title": "COPD: Pathophysiology"
+      },
+      {
+       "file": "respiratory/lecture-24.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "COPD: Clinical Presentation, Diagnosis, and Management"
+      },
+      {
+       "file": "respiratory/lecture-25.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "Asthma"
+      },
+      {
+       "file": "respiratory/lecture-26.apkg",
+       "cards": 28,
+       "mb": 0.1,
+       "title": "Treatment of Asthma and COPD"
+      }
+     ]
+    },
+    {
+     "file": "respiratory/week-2-session-3.apkg",
+     "cards": 132,
+     "mb": 1.0,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-27.apkg",
+       "cards": 27,
+       "mb": 0.4,
+       "title": "Bronchiectasis"
+      },
+      {
+       "file": "respiratory/lecture-28.apkg",
+       "cards": 24,
+       "mb": 0.2,
+       "title": "Cystic Fibrosis (Part 1)"
+      },
+      {
+       "file": "respiratory/lecture-29.apkg",
+       "cards": 24,
+       "mb": 0.1,
+       "title": "Cystic Fibrosis (Part 2)"
+      },
+      {
+       "file": "respiratory/lecture-30.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea"
+      },
+      {
+       "file": "respiratory/lecture-32.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Inflammatory Disorders of the Nasal Cavities and Sinuses"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "respiratory/week-3.apkg",
+   "cards": 377,
+   "mb": 6.8,
+   "week": 3,
+   "sessions": [
+    {
+     "file": "respiratory/week-3-session-1.apkg",
+     "cards": 167,
+     "mb": 3.6,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-33.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Interstitial Lung Disease: Foundations"
+      },
+      {
+       "file": "respiratory/lecture-34.apkg",
+       "cards": 29,
+       "mb": 1.4,
+       "title": "Hypersensitivity Pneumonitis"
+      },
+      {
+       "file": "respiratory/lecture-35.apkg",
+       "cards": 29,
+       "mb": 0.8,
+       "title": "Idiopathic Pulmonary Fibrosis"
+      },
+      {
+       "file": "respiratory/lecture-36.apkg",
+       "cards": 26,
+       "mb": 0.6,
+       "title": "Pneumoconioses"
+      },
+      {
+       "file": "respiratory/lecture-37.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Sarcoidosis"
+      },
+      {
+       "file": "respiratory/lecture-38.apkg",
+       "cards": 29,
+       "mb": 0.6,
+       "title": "Autoimmune Diseases with Respiratory Manifestations"
+      }
+     ]
+    },
+    {
+     "file": "respiratory/week-3-session-2.apkg",
+     "cards": 90,
+     "mb": 1.6,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-39.apkg",
+       "cards": 30,
+       "mb": 0.5,
+       "title": "Pleural Effusion"
+      },
+      {
+       "file": "respiratory/lecture-40.apkg",
+       "cards": 31,
+       "mb": 0.8,
+       "title": "Pneumothorax"
+      },
+      {
+       "file": "respiratory/lecture-41.apkg",
+       "cards": 29,
+       "mb": 0.4,
+       "title": "Mesothelioma"
+      }
+     ]
+    },
+    {
+     "file": "respiratory/week-3-session-3.apkg",
+     "cards": 120,
+     "mb": 1.7,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-42.apkg",
+       "cards": 34,
+       "mb": 0.8,
+       "title": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+      },
+      {
+       "file": "respiratory/lecture-43.apkg",
+       "cards": 30,
+       "mb": 0.4,
+       "title": "Acute Respiratory Distress Syndrome (ARDS)"
+      },
+      {
+       "file": "respiratory/lecture-44.apkg",
+       "cards": 28,
+       "mb": 0.6,
+       "title": "Neonatal Respiratory Distress Syndrome"
+      },
+      {
+       "file": "respiratory/lecture-45.apkg",
+       "cards": 28,
+       "mb": 0.1,
+       "title": "Sleep Apnea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "respiratory/week-4.apkg",
+   "cards": 150,
+   "mb": 2.7,
+   "week": 4,
+   "sessions": [
+    {
+     "file": "respiratory/week-4-session-1.apkg",
+     "cards": 89,
+     "mb": 1.7,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-48.apkg",
+       "cards": 30,
+       "mb": 0.9,
+       "title": "Pseudomonas and Other Closely Related Bacteria"
+      },
+      {
+       "file": "respiratory/lecture-49.apkg",
+       "cards": 29,
+       "mb": 0.6,
+       "title": "Atypical Bacteria"
+      },
+      {
+       "file": "respiratory/lecture-50.apkg",
+       "cards": 30,
+       "mb": 0.4,
+       "title": "Mycobacterium tuberculosis and Mycobacterium Avium Complex"
+      }
+     ]
+    },
+    {
+     "file": "respiratory/week-4-session-2.apkg",
+     "cards": 33,
+     "mb": 0.9,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-55.apkg",
+       "cards": 33,
+       "mb": 0.9,
+       "title": "Geographically Defined Mycoses"
+      }
+     ]
+    },
+    {
+     "file": "respiratory/week-4-session-3.apkg",
+     "cards": 28,
+     "mb": 0.2,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "respiratory/lecture-58.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Coronaviridae"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
